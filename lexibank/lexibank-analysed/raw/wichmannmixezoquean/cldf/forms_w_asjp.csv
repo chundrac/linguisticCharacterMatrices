@@ -1,0 +1,1107 @@
+,ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,asjp_forms,asjp_segs
+0,NorthHighlandMixe-1_all-1,,NorthHighlandMixe,1_all,nəhυm,nəhυm,n ə h υ/ʊ m,,Schoenhals1965,1_all-1,,^ n ə h υ m $,default,n 3 h u m,3 h m n u
+1,SouthHighlandMixe-1_all-1,,SouthHighlandMixe,1_all,tukəʔy,tukəʔy,t u k ə ʔ j,,Cysouw2006,1_all-2,,^ t u k ə ʔ y $,default,t u k 3 7 y,3 7 k t u y
+2,LowlandMixe-1_all-1,,LowlandMixe,1_all,tuʔuk-ʔokəy,tuʔuk-ʔokəy,t u ʔ u k + ʔ o k ə j,,Hoogshagen1993,1_all-2,,^ t u ʔ u k - ʔ o k ə y $,default,t u 7 u k  7 o k 3 y, 3 7 k o t u y
+3,SayulaPopoluca-1_all-1,,SayulaPopoluca,1_all,nu pəhən,nu pəhən,n u + p ə h ə n,,Clark1961,1_all-3,,^ n u + p ə h ə n $,default,n u  p 3 h 3 n, 3 h n p u
+4,OlutaPopoluca-1_all-1,,OlutaPopoluca,1_all,niʔtiʔk,niʔtiʔk,n i ʔ t i ʔ k,,Clark1981,1_all-4,,^ n i ʔ t i ʔ k $,default,n i 7 t i 7 k,7 i k n t
+5,TexistepecZoque-1_all-1,,TexistepecZoque,1_all,bumbe,bumbe,b u m b e,,Wichmann2002,1_all-5,,^ b u m b e $,default,b u m b e,b e m u
+6,SoteapanZoque-1_all-1,,SoteapanZoque,1_all,ikuməh,ikuməh,i k u m ə h,,Elson1999,1_all-6,,^ i k u m ə h $,default,i k u m 3 h,3 h i k m u
+7,SantaMariaChimalapaZoque-1_all-1,,SantaMariaChimalapaZoque,1_all,aŋteneʔ,aŋteneʔ,a ŋ t e n e ʔ,,Knudson1980,1_all-7,,^ a ŋ t e n e ʔ $,default,a N t e n e 7,7 N a e n t
+8,SanMiguelChimalapaZoque-1_all-1,,SanMiguelChimalapaZoque,1_all,hemhiʔ,hemhiʔ,h e m h i ʔ,,Johnson1998,1_all-8,,^ h e mh i ʔ $,default,h e m h i 7,7 e h i m
+9,ChiapasZoque-1_all-1,,ChiapasZoque,1_all,mumu,mumu,m u m u,,Harrison1981,1_all-5,,^ m u m u $,default,m u m u,m u
+10,NorthHighlandMixe-2_ashes-1,,NorthHighlandMixe,2_ashes,haahm,haahm,h aː h m,,Schoenhals1965,2_ashes-2,,^ h aa h m $,default,h a h m,a h m
+11,SouthHighlandMixe-2_ashes-1,,SouthHighlandMixe,2_ashes,haam,haam,h aː m,,Cysouw2006,2_ashes-2,,^ h aa m $,default,h a m,a h m
+12,LowlandMixe-2_ashes-1,,LowlandMixe,2_ashes,kuy-haam,kuy-haam,k u j + h aː m,,Hoogshagen1993,2_ashes-1,,^ k u y - h aa m $,default,k u y  h a m, a h k m u y
+13,SayulaPopoluca-2_ashes-1,,SayulaPopoluca,2_ashes,kuy-hahm,kuy-hahm,k u j + h a h m,,Clark1961,2_ashes-1,,^ k u y - h a h m $,default,k u y  h a h m, a h k m u y
+14,OlutaPopoluca-2_ashes-1,,OlutaPopoluca,2_ashes,hamə,hamə,h a m ə,,Clark1981,2_ashes-2,,^ h a m ə $,default,h a m 3,3 a h m
+15,TexistepecZoque-2_ashes-1,,TexistepecZoque,2_ashes,kuyam,kuyam,k u j a m,,Wichmann2002,2_ashes-1,,^ k u y a m $,default,k u y a m,a k m u y
+16,SoteapanZoque-2_ashes-1,,SoteapanZoque,2_ashes,kuy-ham,kuy-ham,k u j + h a m,,Elson1999,2_ashes-1,,^ k u y - h a m $,default,k u y  h a m, a h k m u y
+17,SantaMariaChimalapaZoque-2_ashes-1,,SantaMariaChimalapaZoque,2_ashes,kuy-ham,kuy-ham,k u j + h a m,,Knudson1980,2_ashes-1,,^ k u y - h a m $,default,k u y  h a m, a h k m u y
+18,SanMiguelChimalapaZoque-2_ashes-1,,SanMiguelChimalapaZoque,2_ashes,kuy-ham,kuy-ham,k u j + h a m,,Johnson1998,2_ashes-1,,^ k u y - h a m $,default,k u y  h a m, a h k m u y
+19,ChiapasZoque-2_ashes-1,,ChiapasZoque,2_ashes,kuy-ham,kuy-ham,k u j + h a m,,Harrison1981,2_ashes-1,,^ k u y - h a m $,default,k u y  h a m, a h k m u y
+20,NorthHighlandMixe-3_bark-1,,NorthHighlandMixe,3_bark,kïp ak,kïp ak,k ɨ p + a k,,Schoenhals1965,3_bark-1,,^ k ï p + a k $,default,k 3 p  a k, 3 a k p
+21,SouthHighlandMixe-3_bark-1,,SouthHighlandMixe,3_bark,ak,ak,a k,,Cysouw2006,3_bark-1,,^ a k $,default,a k,a k
+22,LowlandMixe-3_bark-1,,LowlandMixe,3_bark,ak,ak,a k,,Hoogshagen1993,3_bark-1,,^ a k $,default,a k,a k
+23,SayulaPopoluca-3_bark-1,,SayulaPopoluca,3_bark,ak,ak,a k,,Clark1961,3_bark-1,,^ a k $,default,a k,a k
+24,TexistepecZoque-3_bark-1,,TexistepecZoque,3_bark,kuy-daak,kuy-daak,k u j + d aː k,,Wichmann2002,3_bark-2,,^ k u y - d aa k $,default,k u y  d a k, a d k u y
+25,SantaMariaChimalapaZoque-3_bark-1,,SantaMariaChimalapaZoque,3_bark,naka,naka,n a k a,,Knudson1980,3_bark-2,,^ n a k a $,default,n a k a,a k n
+26,SanMiguelChimalapaZoque-3_bark-1,,SanMiguelChimalapaZoque,3_bark,kuy naka,kuy naka,k u j + n a k a,,Johnson1998,3_bark-2,,^ k u y + n a k a $,default,k u y  n a k a, a k n u y
+27,ChiapasZoque-3_bark-1,,ChiapasZoque,3_bark,kuʔyu-naka,kuʔyu-naka,k u ʔ j u + n a k a,,Harrison1981,3_bark-2,,^ k u ʔ y u - n a k a $,default,k u 7 y u  n a k a, 7 a k n u y
+28,NorthHighlandMixe-4_belly-1,,NorthHighlandMixe,4_belly,tiints,tiints,t iː n ts,,Schoenhals1965,4_belly-1,,^ t ii n ts $,default,t i n ts,i n t ts
+29,SouthHighlandMixe-4_belly-1,,SouthHighlandMixe,4_belly,mææts,mææts,m æː ts,,Cysouw2006,4_belly-5,,^ m ææ ts $,default,m E ts,E m ts
+30,LowlandMixe-4_belly-1,,LowlandMixe,4_belly,moʔošak,moʔošak,m o ʔ o ʃ a k,,Hoogshagen1993,4_belly-2,,^ m o ʔ o š a k $,default,m o 7 o S a k,7 S a k m o
+31,SayulaPopoluca-4_belly-1,,SayulaPopoluca,4_belly,tin-čay,tin-čay,t i n + tʃ a j,,Clark1961,4_belly-1,,^ t i n - č a y $,default,t i n  tS a y, a i n t tS y
+32,OlutaPopoluca-4_belly-1,,OlutaPopoluca,4_belly,puʔpu,puʔpu,p u ʔ p u,,Clark1981,4_belly-3,,^ p u ʔ p u $,default,p u 7 p u,7 p u
+33,TexistepecZoque-4_belly-1,,TexistepecZoque,4_belly,tsek,tsek,ts e k,,Wichmann2002,4_belly-4,,^ ts e k $,default,ts e k,e k ts
+34,SantaMariaChimalapaZoque-4_belly-1,,SantaMariaChimalapaZoque,4_belly,tsek,tsek,ts e k,,Knudson1980,4_belly-4,,^ ts e k $,default,ts e k,e k ts
+35,SanMiguelChimalapaZoque-4_belly-1,,SanMiguelChimalapaZoque,4_belly,tsek,tsek,ts e k,,Johnson1998,4_belly-4,,^ ts e k $,default,ts e k,e k ts
+36,ChiapasZoque-4_belly-1,,ChiapasZoque,4_belly,tsek,tsek,ts e k,,Harrison1981,4_belly-4,,^ ts e k $,default,ts e k,e k ts
+37,NorthHighlandMixe-5_big-1,,NorthHighlandMixe,5_big,məh,məh,m ə h,,Schoenhals1965,5_big-1,,^ m ə h $,default,m 3 h,3 h m
+38,SouthHighlandMixe-5_big-1,,SouthHighlandMixe,5_big,məh,məh,m ə h,,Cysouw2006,5_big-1,,^ m ə h $,default,m 3 h,3 h m
+39,LowlandMixe-5_big-1,,LowlandMixe,5_big,məh,məh,m ə h,,Hoogshagen1993,5_big-1,,^ m ə h $,default,m 3 h,3 h m
+40,SayulaPopoluca-5_big-1,,SayulaPopoluca,5_big,məh,məh,m ə h,,Clark1961,5_big-1,,^ m ə h $,default,m 3 h,3 h m
+41,OlutaPopoluca-5_big-1,,OlutaPopoluca,5_big,taʔnək,taʔnək,t a ʔ n ə k,,Clark1981,5_big-2,,^ t a ʔ n ə k $,default,t a 7 n 3 k,3 7 a k n t
+42,TexistepecZoque-5_big-1,,TexistepecZoque,5_big,wəəčeʔ,wəəčeʔ,w əː tʃ e ʔ,,Wichmann2002,5_big-3,,^ w əə č e ʔ $,default,w 3 tS e 7,3 7 e tS w
+43,SoteapanZoque-5_big-1,,SoteapanZoque,5_big,məh,məh,m ə h,,Elson1999,5_big-1,,^ m ə h $,default,m 3 h,3 h m
+44,SantaMariaChimalapaZoque-5_big-1,,SantaMariaChimalapaZoque,5_big,wətiʔ,wətiʔ,w ə t i ʔ,,Knudson1980,5_big-3,,^ w ə t i ʔ $,default,w 3 t i 7,3 7 i t w
+45,SanMiguelChimalapaZoque-5_big-1,,SanMiguelChimalapaZoque,5_big,komiʔ,komiʔ,k o m i ʔ,,Johnson1998,5_big-5,,^ k o m i ʔ $,default,k o m i 7,7 i k m o
+46,ChiapasZoque-5_big-1,,ChiapasZoque,5_big,məha,məha,m ə h a,,Harrison1981,5_big-1,,^ m ə h a $,default,m 3 h a,3 a h m
+47,NorthHighlandMixe-6_bird-1,,NorthHighlandMixe,6_bird,həəyva,həəyva,h əː j v a,,Schoenhals1965,6_bird-1,,^ h əə y v a $,default,h 3 y v a,3 a h v y
+48,SouthHighlandMixe-6_bird-1,,SouthHighlandMixe,6_bird,hoon,hoon,h oː n,,Cysouw2006,6_bird-2,,^ h oo n $,default,h o n,h n o
+49,LowlandMixe-6_bird-1,,LowlandMixe,6_bird,hoon,hoon,h oː n,,Hoogshagen1993,6_bird-2,,^ h oo n $,default,h o n,h n o
+50,SayulaPopoluca-6_bird-1,,SayulaPopoluca,6_bird,hohn,hohn,h o h n,,Clark1961,6_bird-2,,^ h o h n $,default,h o h n,h n o
+51,OlutaPopoluca-6_bird-1,,OlutaPopoluca,6_bird,muuši,muuši,m uː ʃ i,,Clark1981,6_bird-3,,^ m uu š i $,default,m u S i,S i m u
+52,TexistepecZoque-6_bird-1,,TexistepecZoque,6_bird,hon,hon,h o n,,Wichmann2002,6_bird-2,,^ h o n $,default,h o n,h n o
+53,SoteapanZoque-6_bird-1,,SoteapanZoque,6_bird,hon,hon,h o n,,Elson1999,6_bird-2,,^ h o n $,default,h o n,h n o
+54,SantaMariaChimalapaZoque-6_bird-1,,SantaMariaChimalapaZoque,6_bird,hon,hon,h o n,,Knudson1980,6_bird-2,,^ h o n $,default,h o n,h n o
+55,SanMiguelChimalapaZoque-6_bird-1,,SanMiguelChimalapaZoque,6_bird,hon,hon,h o n,,Johnson1998,6_bird-2,,^ h o n $,default,h o n,h n o
+56,ChiapasZoque-6_bird-1,,ChiapasZoque,6_bird,paloma,paloma,p a l o m a,,Harrison1981,6_bird-4,,^ p a l o m a $,default,p a l o m a,a l m o p
+57,NorthHighlandMixe-7_bite-1,,NorthHighlandMixe,7_bite,tsuʔuts,tsuʔuts,ts u ʔ u ts,,Schoenhals1965,7_bite-1,,^ ts u ʔ u ts $,default,ts u 7 u ts,7 ts u
+58,SouthHighlandMixe-7_bite-1,,SouthHighlandMixe,7_bite,tsuʔuts,tsuʔuts,ts u ʔ u ts,,Cysouw2006,7_bite-1,,^ ts u ʔ u ts $,default,ts u 7 u ts,7 ts u
+59,LowlandMixe-7_bite-1,,LowlandMixe,7_bite,noots,noots,n oː ts,,Hoogshagen1993,7_bite-2,,^ n oo ts $,default,n o ts,n o ts
+60,SayulaPopoluca-7_bite-1,,SayulaPopoluca,7_bite,kutoʔ,kutoʔ,k u t o ʔ,,Clark1961,7_bite-3,,^ k u t o ʔ $,default,k u t o 7,7 k o t u
+61,OlutaPopoluca-7_bite-1,,OlutaPopoluca,7_bite,tsuʔts,tsuʔts,ts u ʔ ts,,Clark1981,7_bite-4,,^ ts u ʔ ts $,default,ts u 7 ts,7 ts u
+62,TexistepecZoque-7_bite-1,,TexistepecZoque,7_bite,keʔts,keʔts,k e ʔ ts,,Wichmann2002,7_bite-5,,^ k e ʔ ts $,default,k e 7 ts,7 e k ts
+63,SoteapanZoque-7_bite-1,,SoteapanZoque,7_bite,was,was,w a s,,Elson1999,7_bite-6,,^ w a s $,default,w a s,a s w
+64,SanMiguelChimalapaZoque-7_bite-1,,SanMiguelChimalapaZoque,7_bite,waš,waš,w a ʃ,,Johnson1998,7_bite-6,,^ w a š $,default,w a S,S a w
+65,ChiapasZoque-7_bite-1,,ChiapasZoque,7_bite,keʔts,keʔts,k e ʔ ts,,Harrison1981,7_bite-5,,^ k e ʔ ts $,default,k e 7 ts,7 e k ts
+66,NorthHighlandMixe-8_black-1,,NorthHighlandMixe,8_black,yək,yək,j ə k,,Schoenhals1965,8_black-1,,^ y ə k $,default,y 3 k,3 k y
+67,SouthHighlandMixe-8_black-1,,SouthHighlandMixe,8_black,yəhk,yəhk,j ə h k,,Cysouw2006,8_black-1,,^ y ə h k $,default,y 3 h k,3 h k y
+68,LowlandMixe-8_black-1,,LowlandMixe,8_black,yik,yik,j i k,,Hoogshagen1993,8_black-1,,^ y i k $,default,y i k,i k y
+69,SayulaPopoluca-8_black-1,,SayulaPopoluca,8_black,yəgək,yəgək,j ə g ə k,,Clark1961,8_black-2,,^ y ə g ə k $,default,y 3 g 3 k,3 g k y
+70,OlutaPopoluca-8_black-1,,OlutaPopoluca,8_black,yəkəʔk,yəkəʔk,j ə k ə ʔ k,,Clark1981,8_black-2,,^ y ə k ə ʔ k $,default,y 3 k 3 7 k,3 7 k y
+71,TexistepecZoque-8_black-1,,TexistepecZoque,8_black,yək,yək,j ə k,,Wichmann2002,8_black-1,,^ y ə k $,default,y 3 k,3 k y
+72,SoteapanZoque-8_black-1,,SoteapanZoque,8_black,yək,yək,j ə k,,Elson1999,8_black-1,,^ y ə k $,default,y 3 k,3 k y
+73,SantaMariaChimalapaZoque-8_black-1,,SantaMariaChimalapaZoque,8_black,yək,yək,j ə k,,Knudson1980,8_black-1,,^ y ə k $,default,y 3 k,3 k y
+74,SanMiguelChimalapaZoque-8_black-1,,SanMiguelChimalapaZoque,8_black,yək-yək,yək-yək,j ə k + j ə k,,Johnson1998,8_black-1,,^ y ə k - y ə k $,default,y 3 k  y 3 k, 3 k y
+75,ChiapasZoque-8_black-1,,ChiapasZoque,8_black,yək,yək,j ə k,,Harrison1981,8_black-1,,^ y ə k $,default,y 3 k,3 k y
+76,NorthHighlandMixe-9_blood-1,,NorthHighlandMixe,9_blood,nïïʔpun,nïïʔpun,n ïï/ɨː ʔ p u n,,Schoenhals1965,9_blood-1,,^ n ïï ʔ p u n $,default,n ii 3 7 p u n,3 7 ii n p u
+77,SouthHighlandMixe-9_blood-1,,SouthHighlandMixe,9_blood,nəʔəpy,nəʔəpy,n ə ʔ ə p j,,Cysouw2006,9_blood-1,,^ n ə ʔ ə p y $,default,n 3 7 3 p y,3 7 n p y
+78,LowlandMixe-9_blood-1,,LowlandMixe,9_blood,nəʔpy,nəʔpy,n ə ʔ p j,,Hoogshagen1993,9_blood-1,,^ n ə ʔ p y $,default,n 3 7 p y,3 7 n p y
+79,SayulaPopoluca-9_blood-1,,SayulaPopoluca,9_blood,nipin,nipin,n i p i n,,Clark1961,9_blood-1,,^ n i p i n $,default,n i p i n,i n p
+80,OlutaPopoluca-9_blood-1,,OlutaPopoluca,9_blood,nəʔpiʔn,nəʔpiʔn,n ə ʔ p i ʔ n,,Clark1981,9_blood-1,,^ n ə ʔ p i ʔ n $,default,n 3 7 p i 7 n,3 7 i n p
+81,TexistepecZoque-9_blood-1,,TexistepecZoque,9_blood,dəʔəpeñ,dəʔəpeñ,d ə ʔ ə p e ɲ,,Wichmann2002,9_blood-1,,^ d ə ʔ ə p e ñ $,default,d 3 7 3 p e 5,3 5 7 d e p
+82,SoteapanZoque-9_blood-1,,SoteapanZoque,9_blood,nəʔəpiñ,nəʔəpiñ,n ə ʔ ə p i ɲ,,Elson1999,9_blood-1,,^ n ə ʔ ə p i ñ $,default,n 3 7 3 p i 5,3 5 7 i n p
+83,SantaMariaChimalapaZoque-9_blood-1,,SantaMariaChimalapaZoque,9_blood,nəʔpin,nəʔpin,n ə ʔ p i n,,Knudson1980,9_blood-1,,^ n ə ʔ p i n $,default,n 3 7 p i n,3 7 i n p
+84,SanMiguelChimalapaZoque-9_blood-1,,SanMiguelChimalapaZoque,9_blood,nəpinʔ,nəpinʔ,n ə p i n ʔ,,Johnson1998,9_blood-1,,^ n ə p i n ʔ $,default,n 3 p i n 7,3 7 i n p
+85,ChiapasZoque-9_blood-1,,ChiapasZoque,9_blood,nəʔpin,nəʔpin,n ə ʔ p i n,,Harrison1981,9_blood-1,,^ n ə ʔ p i n $,default,n 3 7 p i n,3 7 i n p
+86,NorthHighlandMixe-10_bone-1,,NorthHighlandMixe,10_bone,pahk,pahk,p a h k,,Schoenhals1965,10_bone-1,,^ p a h k $,default,p a h k,a h k p
+87,SouthHighlandMixe-10_bone-1,,SouthHighlandMixe,10_bone,pahk,pahk,p a h k,,Cysouw2006,10_bone-1,,^ p a h k $,default,p a h k,a h k p
+88,LowlandMixe-10_bone-1,,LowlandMixe,10_bone,pahk,pahk,p a h k,,Hoogshagen1993,10_bone-1,,^ p a h k $,default,p a h k,a h k p
+89,SayulaPopoluca-10_bone-1,,SayulaPopoluca,10_bone,pahk,pahk,p a h k,,Clark1961,10_bone-1,,^ p a h k $,default,p a h k,a h k p
+90,OlutaPopoluca-10_bone-1,,OlutaPopoluca,10_bone,pakə,pakə,p a k ə,,Clark1981,10_bone-1,,^ p a k ə $,default,p a k 3,3 a k p
+91,TexistepecZoque-10_bone-1,,TexistepecZoque,10_bone,pak,pak,p a k,,Wichmann2002,10_bone-1,,^ p a k $,default,p a k,a k p
+92,SoteapanZoque-10_bone-1,,SoteapanZoque,10_bone,pak,pak,p a k,,Elson1999,10_bone-1,,^ p a k $,default,p a k,a k p
+93,SantaMariaChimalapaZoque-10_bone-1,,SantaMariaChimalapaZoque,10_bone,pak,pak,p a k,,Knudson1980,10_bone-1,,^ p a k $,default,p a k,a k p
+94,SanMiguelChimalapaZoque-10_bone-1,,SanMiguelChimalapaZoque,10_bone,pak,pak,p a k,,Johnson1998,10_bone-1,,^ p a k $,default,p a k,a k p
+95,ChiapasZoque-10_bone-1,,ChiapasZoque,10_bone,pak,pak,p a k,,Harrison1981,10_bone-1,,^ p a k $,default,p a k,a k p
+96,NorthHighlandMixe-11_breast-1,,NorthHighlandMixe,11_breast,hυʔtaa,hυʔtaa,h υ/ʊ ʔ t aː,,Schoenhals1965,11_breast-1,,^ h υ ʔ t aa $,default,h u 7 t a,7 a h t u
+97,SouthHighlandMixe-11_breast-1,,SouthHighlandMixe,11_breast,tsetsk,tsetsk,ts e ts k,,Cysouw2006,11_breast-2,,^ ts e ts k $,default,ts e ts k,e k ts
+98,LowlandMixe-11_breast-1,,LowlandMixe,11_breast,tsiʔits-ʔaniʔikš,tsiʔits-ʔaniʔikš,ts i ʔ i ts + ʔ a n i ʔ i k ʃ,,Hoogshagen1993,11_breast-2,,^ ts i ʔ i ts - ʔ a n i ʔ i k š $,default,ts i 7 i ts  7 a n i 7 i k S, 7 S a i k n ts
+99,SayulaPopoluca-11_breast-1,,SayulaPopoluca,11_breast,moʔy,moʔy,m o ʔ j,,Clark1961,11_breast-3,,^ m o ʔ y $,default,m o 7 y,7 m o y
+100,TexistepecZoque-11_breast-1,,TexistepecZoque,11_breast,duun,duun,d uː n,,Wichmann2002,11_breast-4,,^ d uu n $,default,d u n,d n u
+101,SoteapanZoque-11_breast-1,,SoteapanZoque,11_breast,nuunu,nuunu,n uː n u,,Elson1999,11_breast-4,,^ n uu n u $,default,n u n u,n u
+102,SanMiguelChimalapaZoque-11_breast-1,,SanMiguelChimalapaZoque,11_breast,tsuʔts-iʔ,tsuʔts-iʔ,ts u ʔ ts + i ʔ,,Johnson1998,11_breast-5,,^ ts u ʔ ts - i ʔ $,default,ts u 7 ts  i 7, 7 i ts u
+103,ChiapasZoque-11_breast-1,,ChiapasZoque,11_breast,tsuʔtsi,tsuʔtsi,ts u ʔ ts i,,Harrison1981,11_breast-5,,^ ts u ʔ ts i $,default,ts u 7 ts i,7 i ts u
+104,NorthHighlandMixe-12_burntr-1,,NorthHighlandMixe,12_burntr,tooy ~ toohy ~ toy,tooy,t oː j,,Schoenhals1965,12_burntr-1,,^ t oo y $,default,t o y,o t y
+105,NorthHighlandMixe-12_burntr-2,,NorthHighlandMixe,12_burntr,tooy ~ toohy ~ toy,toohy,t oː h j,,Schoenhals1965,12_burntr-1,,^ t oo h y $,default,t o h y,h o t y
+106,NorthHighlandMixe-12_burntr-3,,NorthHighlandMixe,12_burntr,tooy ~ toohy ~ toy,toy,t o j,,Schoenhals1965,12_burntr-1,,^ t o y $,default,t o y,o t y
+107,SouthHighlandMixe-12_burntr-1,,SouthHighlandMixe,12_burntr,tsaʔay,tsaʔay,ts a ʔ a j,,Cysouw2006,12_burntr-8,,^ ts a ʔ a y $,default,ts a 7 a y,7 a ts y
+108,LowlandMixe-12_burntr-1,,LowlandMixe,12_burntr,noʔok,noʔok,n o ʔ o k,,Hoogshagen1993,12_burntr-2,,^ n o ʔ o k $,default,n o 7 o k,7 k n o
+109,SayulaPopoluca-12_burntr-1,,SayulaPopoluca,12_burntr,ak-toy,ak-toy,a k + t o j,,Clark1961,12_burntr-3,,^ a k - t o y $,default,a k  t o y, a k o t y
+110,OlutaPopoluca-12_burntr-1,,OlutaPopoluca,12_burntr,yak-toy,yak-toy,j a k + t o j,,Clark1981,12_burntr-3,,^ y a k - t o y $,default,y a k  t o y, a k o t y
+111,TexistepecZoque-12_burntr-1,,TexistepecZoque,12_burntr,doʔ-tokeñ,doʔ-tokeñ,d o ʔ + t o k e ɲ,,Wichmann2002,12_burntr-5,,^ d o ʔ - t o k e ñ $,default,d o 7  t o k e 5, 5 7 d e k o t
+112,SoteapanZoque-12_burntr-1,,SoteapanZoque,12_burntr,noʔ,noʔ,n o ʔ,,Elson1999,12_burntr-6,,^ n o ʔ $,default,n o 7,7 n o
+113,SantaMariaChimalapaZoque-12_burntr-1,,SantaMariaChimalapaZoque,12_burntr,kəŋ,kəŋ,k ə ŋ,,Knudson1980,12_burntr-7,,^ k ə ŋ $,default,k 3 N,3 N k
+114,SanMiguelChimalapaZoque-12_burntr-1,,SanMiguelChimalapaZoque,12_burntr,poŋ,poŋ,p o ŋ,,Johnson1998,12_burntr-4,,^ p o ŋ $,default,p o N,N o p
+115,ChiapasZoque-12_burntr-1,,ChiapasZoque,12_burntr,poŋ,poŋ,p o ŋ,,Harrison1981,12_burntr-4,,^ p o ŋ $,default,p o N,N o p
+116,NorthHighlandMixe-13_clawnail-1,,NorthHighlandMixe,13_clawnail,šəəʔk,šəəʔk,ʃ əː ʔ k,,Schoenhals1965,13_clawnail-1,,^ š əə ʔ k $,default,S 3 7 k,3 7 S k
+117,SouthHighlandMixe-13_clawnail-1,,SouthHighlandMixe,13_clawnail,šooky,šooky,ʃ oː k j,,Cysouw2006,13_clawnail-1,,^ š oo k y $,default,S o k y,S k o y
+118,LowlandMixe-13_clawnail-1,,LowlandMixe,13_clawnail,šooky,šooky,ʃ oː k j,,Hoogshagen1993,13_clawnail-1,,^ š oo k y $,default,S o k y,S k o y
+119,SayulaPopoluca-13_clawnail-1,,SayulaPopoluca,13_clawnail,šoohk,šoohk,ʃ oː h k,,Clark1961,13_clawnail-1,,^ š oo h k $,default,S o h k,S h k o
+120,OlutaPopoluca-13_clawnail-1,,OlutaPopoluca,13_clawnail,šooki,šooki,ʃ oː k i,,Clark1981,13_clawnail-1,,^ š oo k i $,default,S o k i,S i k o
+121,TexistepecZoque-13_clawnail-1,,TexistepecZoque,13_clawnail,kəʔ-tsuʔks,kəʔ-tsuʔks,k ə ʔ + ts u ʔ k s,,Wichmann2002,13_clawnail-2,,^ k ə ʔ - ts u ʔ ks $,default,k 3 7  ts u 7 k s, 3 7 k s ts u
+122,SoteapanZoque-13_clawnail-1,,SoteapanZoque,13_clawnail,kətsəs,kətsəs,k ə ts ə s,,Elson1999,13_clawnail-2,,^ k ə ts ə s $,default,k 3 ts 3 s,3 k s ts
+123,SantaMariaChimalapaZoque-13_clawnail-1,,SantaMariaChimalapaZoque,13_clawnail,kətsus,kətsus,k ə ts u s,,Knudson1980,13_clawnail-2,,^ k ə ts u s $,default,k 3 ts u s,3 k s ts u
+124,SanMiguelChimalapaZoque-13_clawnail-1,,SanMiguelChimalapaZoque,13_clawnail,kəʔtsuš,kəʔtsuš,k ə ʔ ts u ʃ,,Johnson1998,13_clawnail-2,,^ k ə ʔ ts u š $,default,k 3 7 ts u S,3 7 S k ts u
+125,ChiapasZoque-13_clawnail-1,,ChiapasZoque,13_clawnail,kəʔčus,kəʔčus,k ə ʔ tʃ u s,,Harrison1981,13_clawnail-2,,^ k ə ʔ č u s $,default,k 3 7 tS u s,3 7 k s tS u
+126,NorthHighlandMixe-14_cloud-1,,NorthHighlandMixe,14_cloud,vinïts,vinïts,v i n ɨ ts,,Schoenhals1965,14_cloud-1,,^ v i n ï ts $,default,v i n 3 ts,3 i n ts v
+127,SouthHighlandMixe-14_cloud-1,,SouthHighlandMixe,14_cloud,nəmaʔa,nəmaʔa,n ə m a ʔ a,,Cysouw2006,14_cloud-5,,^ n ə m a ʔ a $,default,n 3 m a 7 a,3 7 a m n
+128,LowlandMixe-14_cloud-1,,LowlandMixe,14_cloud,hok,hok,h o k,,Hoogshagen1993,14_cloud-2,,^ h o k $,default,h o k,h k o
+129,SayulaPopoluca-14_cloud-1,,SayulaPopoluca,14_cloud,win-tuk,win-tuk,w i n + t u k,,Clark1961,14_cloud-1,,^ w i n - t u k $,default,w i n  t u k, i k n t u w
+130,OlutaPopoluca-14_cloud-1,,OlutaPopoluca,14_cloud,vin-hoyeʔk,vin-hoyeʔk,v i n + h o j e ʔ k,,Clark1981,14_cloud-1,,^ v i n - h o y e ʔ k $,default,v i n  h o y e 7 k, 7 e h i k n o v y
+131,TexistepecZoque-14_cloud-1,,TexistepecZoque,14_cloud,ʔuʔksuʔ,ʔuʔksuʔ,ʔ u ʔ k s u ʔ,,Wichmann2002,14_cloud-4,,^ ʔ u ʔ ks u ʔ $,default,7 u 7 k s u 7,7 k s u
+132,SoteapanZoque-14_cloud-1,,SoteapanZoque,14_cloud,uksə,uksə,u k s ə,,Elson1999,14_cloud-4,,^ u ks ə $,default,u k s 3,3 k s u
+133,SanMiguelChimalapaZoque-14_cloud-1,,SanMiguelChimalapaZoque,14_cloud,ʔin-əʔ,ʔin-əʔ,ʔ i n + ə ʔ,,Johnson1998,14_cloud-1,,^ ʔ i n - ə ʔ $,default,7 i n  3 7, 3 7 i n
+134,ChiapasZoque-14_cloud-1,,ChiapasZoque,14_cloud,oʔna,oʔna,o ʔ n a,,Harrison1981,14_cloud-3,,^ o ʔ n a $,default,o 7 n a,7 a n o
+135,NorthHighlandMixe-15_cold-1,,NorthHighlandMixe,15_cold,šuš,šuš,ʃ u ʃ,,Schoenhals1965,15_cold-1,,^ š u š $,default,S u S,S u
+136,SouthHighlandMixe-15_cold-1,,SouthHighlandMixe,15_cold,šuš,šuš,ʃ u ʃ,,Cysouw2006,15_cold-1,,^ š u š $,default,S u S,S u
+137,LowlandMixe-15_cold-1,,LowlandMixe,15_cold,təč,təč,t ə tʃ,,Hoogshagen1993,15_cold-2,,^ t ə č $,default,t 3 tS,3 t tS
+138,SayulaPopoluca-15_cold-1,,SayulaPopoluca,15_cold,payik,payik,p a j i k,,Clark1961,15_cold-3,,^ p a y i k $,default,p a y i k,a i k p y
+139,OlutaPopoluca-15_cold-1,,OlutaPopoluca,15_cold,tušəʔk,tušəʔk,t u ʃ ə ʔ k,,Clark1981,15_cold-4,,^ t u š ə ʔ k $,default,t u S 3 7 k,3 7 S k t u
+140,TexistepecZoque-15_cold-1,,TexistepecZoque,15_cold,paak,paak,p aː k,,Wichmann2002,15_cold-5,,^ p aa k $,default,p a k,a k p
+141,SoteapanZoque-15_cold-1,,SoteapanZoque,15_cold,pagak,pagak,p a g a k,,Elson1999,15_cold-5,,^ p a g a k $,default,p a g a k,a g k p
+142,SantaMariaChimalapaZoque-15_cold-1,,SantaMariaChimalapaZoque,15_cold,wayaʔy,wayaʔy,w a j a ʔ j,,Knudson1980,15_cold-6,,^ w a y a ʔ y $,default,w a y a 7 y,7 a w y
+143,SanMiguelChimalapaZoque-15_cold-1,,SanMiguelChimalapaZoque,15_cold,wayayʔ,wayayʔ,w a j a j ʔ,,Johnson1998,15_cold-6,,^ w a y a y ʔ $,default,w a y a y 7,7 a w y
+144,ChiapasZoque-15_cold-1,,ChiapasZoque,15_cold,pakak,pakak,p a k a k,,Harrison1981,15_cold-5,,^ p a k a k $,default,p a k a k,a k p
+145,NorthHighlandMixe-16_come-1,,NorthHighlandMixe,16_come,mεts ~ mεhts,mεts,m ɛ ts,,Schoenhals1965,16_come-1,,^ m ε ts $,default,m E ts,E m ts
+146,NorthHighlandMixe-16_come-2,,NorthHighlandMixe,16_come,mεts ~ mεhts,mεhts,m ɛ h ts,,Schoenhals1965,16_come-1,,^ m ε h ts $,default,m E h ts,E h m ts
+147,SouthHighlandMixe-16_come-1,,SouthHighlandMixe,16_come,men,men,m e n,,Cysouw2006,16_come-2,,^ m e n $,default,m e n,e m n
+148,LowlandMixe-16_come-1,,LowlandMixe,16_come,min,min,m i n,,Hoogshagen1993,16_come-2,,^ m i n $,default,m i n,i m n
+149,SayulaPopoluca-16_come-1,,SayulaPopoluca,16_come,min ~ miʔn,min,m i n,,Clark1961,16_come-3,,^ m i n $,default,m i n,i m n
+150,SayulaPopoluca-16_come-2,,SayulaPopoluca,16_come,min ~ miʔn,miʔn,m i ʔ n,,Clark1961,16_come-3,,^ m i ʔ n $,default,m i 7 n,7 i m n
+151,OlutaPopoluca-16_come-1,,OlutaPopoluca,16_come,min ~ miʔn,min,m i n,,Clark1981,16_come-3,,^ m i n $,default,m i n,i m n
+152,OlutaPopoluca-16_come-2,,OlutaPopoluca,16_come,min ~ miʔn,miʔn,m i ʔ n,,Clark1981,16_come-3,,^ m i ʔ n $,default,m i 7 n,7 i m n
+153,TexistepecZoque-16_come-1,,TexistepecZoque,16_come,beñ,beñ,b e ɲ,,Wichmann2002,16_come-2,,^ b e ñ $,default,b e 5,5 b e
+154,SoteapanZoque-16_come-1,,SoteapanZoque,16_come,miñ,miñ,m i ɲ,,Elson1999,16_come-2,,^ m i ñ $,default,m i 5,5 i m
+155,SantaMariaChimalapaZoque-16_come-1,,SantaMariaChimalapaZoque,16_come,min,min,m i n,,Knudson1980,16_come-2,,^ m i n $,default,m i n,i m n
+156,SanMiguelChimalapaZoque-16_come-1,,SanMiguelChimalapaZoque,16_come,min,min,m i n,,Johnson1998,16_come-2,,^ m i n $,default,m i n,i m n
+157,ChiapasZoque-16_come-1,,ChiapasZoque,16_come,min,min,m i n,,Harrison1981,16_come-2,,^ m i n $,default,m i n,i m n
+158,NorthHighlandMixe-17_die-1,,NorthHighlandMixe,17_die,ooʔk,ooʔk,oː ʔ k,,Schoenhals1965,17_die-1,,^ oo ʔ k $,default,o 7 k,7 k o
+159,SouthHighlandMixe-17_die-1,,SouthHighlandMixe,17_die,ook,ook,oː k,,Cysouw2006,17_die-1,,^ oo k $,default,o k,k o
+160,LowlandMixe-17_die-1,,LowlandMixe,17_die,oʔok,oʔok,o ʔ o k,,Hoogshagen1993,17_die-1,,^ o ʔ o k $,default,o 7 o k,7 k o
+161,SayulaPopoluca-17_die-1,,SayulaPopoluca,17_die,oʔk,oʔk,o ʔ k,,Clark1961,17_die-1,,^ o ʔ k $,default,o 7 k,7 k o
+162,OlutaPopoluca-17_die-1,,OlutaPopoluca,17_die,ook,ook,oː k,,Clark1981,17_die-1,,^ oo k $,default,o k,k o
+163,TexistepecZoque-17_die-1,,TexistepecZoque,17_die,kaʔ,kaʔ,k a ʔ,,Wichmann2002,17_die-2,,^ k a ʔ $,default,k a 7,7 a k
+164,SoteapanZoque-17_die-1,,SoteapanZoque,17_die,kaʔ,kaʔ,k a ʔ,,Elson1999,17_die-2,,^ k a ʔ $,default,k a 7,7 a k
+165,SantaMariaChimalapaZoque-17_die-1,,SantaMariaChimalapaZoque,17_die,kaʔh,kaʔh,k a ʔ h,,Knudson1980,17_die-2,,^ k a ʔh $,default,k a 7 h,7 a h k
+166,SanMiguelChimalapaZoque-17_die-1,,SanMiguelChimalapaZoque,17_die,kaʔ,kaʔ,k a ʔ,,Johnson1998,17_die-2,,^ k a ʔ $,default,k a 7,7 a k
+167,ChiapasZoque-17_die-1,,ChiapasZoque,17_die,kaʔ,kaʔ,k a ʔ,,Harrison1981,17_die-2,,^ k a ʔ $,default,k a 7,7 a k
+168,NorthHighlandMixe-18_dog-1,,NorthHighlandMixe,18_dog,υk,υk,υ/ʊ k,,Schoenhals1965,18_dog-1,,^ υ k $,default,u k,k u
+169,SouthHighlandMixe-18_dog-1,,SouthHighlandMixe,18_dog,uk,uk,u k,,Cysouw2006,18_dog-1,,^ u k $,default,u k,k u
+170,LowlandMixe-18_dog-1,,LowlandMixe,18_dog,uk,uk,u k,,Hoogshagen1993,18_dog-1,,^ u k $,default,u k,k u
+171,SayulaPopoluca-18_dog-1,,SayulaPopoluca,18_dog,tak,tak,t a k,,Clark1961,18_dog-2,,^ t a k $,default,t a k,a k t
+172,OlutaPopoluca-18_dog-1,,OlutaPopoluca,18_dog,šuʔni,šuʔni,ʃ u ʔ n i,,Clark1981,18_dog-3,,^ š u ʔ n i $,default,S u 7 n i,7 S i n u
+173,TexistepecZoque-18_dog-1,,TexistepecZoque,18_dog,čempaʔ,čempaʔ,tʃ e m p a ʔ,,Wichmann2002,18_dog-5,,^ č e m p a ʔ $,default,tS e m p a 7,7 a e m p tS
+174,SoteapanZoque-18_dog-1,,SoteapanZoque,18_dog,čimpa,čimpa,tʃ i m p a,,Elson1999,18_dog-5,,^ č i m p a $,default,tS i m p a,a i m p tS
+175,SantaMariaChimalapaZoque-18_dog-1,,SantaMariaChimalapaZoque,18_dog,nuʔu,nuʔu,n u ʔ u,,Knudson1980,18_dog-6,,^ n u ʔ u $,default,n u 7 u,7 n u
+176,SanMiguelChimalapaZoque-18_dog-1,,SanMiguelChimalapaZoque,18_dog,nuʔ,nuʔ,n u ʔ,,Johnson1998,18_dog-6,,^ n u ʔ $,default,n u 7,7 n u
+177,ChiapasZoque-18_dog-1,,ChiapasZoque,18_dog,tuwi,tuwi,t u w i,,Harrison1981,18_dog-4,,^ t u w i $,default,t u w i,i t u w
+178,NorthHighlandMixe-19_drink-1,,NorthHighlandMixe,19_drink,υυk,υυk,υː/ʊː k,,Schoenhals1965,19_drink-1,,^ υυ k $,default,u k,k u
+179,SouthHighlandMixe-19_drink-1,,SouthHighlandMixe,19_drink,uuk,uuk,uː k,,Cysouw2006,19_drink-1,,^ uu k $,default,u k,k u
+180,LowlandMixe-19_drink-1,,LowlandMixe,19_drink,uk,uk,u k,,Hoogshagen1993,19_drink-1,,^ u k $,default,u k,k u
+181,SayulaPopoluca-19_drink-1,,SayulaPopoluca,19_drink,uuk ~ uʔk,uuk,uː k,,Clark1961,19_drink-2,,^ uu k $,default,u k,k u
+182,SayulaPopoluca-19_drink-2,,SayulaPopoluca,19_drink,uuk ~ uʔk,uʔk,u ʔ k,,Clark1961,19_drink-2,,^ u ʔ k $,default,u 7 k,7 k u
+183,OlutaPopoluca-19_drink-1,,OlutaPopoluca,19_drink,uuk,uuk,uː k,,Clark1981,19_drink-2,,^ uu k $,default,u k,k u
+184,TexistepecZoque-19_drink-1,,TexistepecZoque,19_drink,ʔuk,ʔuk,ʔ u k,,Wichmann2002,19_drink-1,,^ ʔ u k $,default,7 u k,7 k u
+185,SoteapanZoque-19_drink-1,,SoteapanZoque,19_drink,uk,uk,u k,,Elson1999,19_drink-1,,^ u k $,default,u k,k u
+186,SantaMariaChimalapaZoque-19_drink-1,,SantaMariaChimalapaZoque,19_drink,uk,uk,u k,,Knudson1980,19_drink-1,,^ u k $,default,u k,k u
+187,SanMiguelChimalapaZoque-19_drink-1,,SanMiguelChimalapaZoque,19_drink,ʔuk,ʔuk,ʔ u k,,Johnson1998,19_drink-1,,^ ʔ u k $,default,7 u k,7 k u
+188,ChiapasZoque-19_drink-1,,ChiapasZoque,19_drink,uhk,uhk,u h k,,Harrison1981,19_drink-1,,^ u h k $,default,u h k,h k u
+189,NorthHighlandMixe-20_dry-1,,NorthHighlandMixe,20_dry,təʔəhts,təʔəhts,t ə ʔ ə h ts,,Schoenhals1965,20_dry-1,,^ t ə ʔ ə h ts $,default,t 3 7 3 h ts,3 7 h t ts
+190,SouthHighlandMixe-20_dry-1,,SouthHighlandMixe,20_dry,təʔəts,təʔəts,t ə ʔ ə ts,,Cysouw2006,20_dry-1,,^ t ə ʔ ə ts $,default,t 3 7 3 ts,3 7 t ts
+191,LowlandMixe-20_dry-1,,LowlandMixe,20_dry,təʔəts,təʔəts,t ə ʔ ə ts,,Hoogshagen1993,20_dry-1,,^ t ə ʔ ə ts $,default,t 3 7 3 ts,3 7 t ts
+192,SayulaPopoluca-20_dry-1,,SayulaPopoluca,20_dry,kuytəʔts,kuytəʔts,k u j t ə ʔ ts,,Clark1961,20_dry-1,,^ k u y t ə ʔ ts $,default,k u y t 3 7 ts,3 7 k t ts u y
+193,OlutaPopoluca-20_dry-1,,OlutaPopoluca,20_dry,təʔəʔs,təʔəʔs,t ə ʔ ə ʔ s,,Clark1981,20_dry-1,,^ t ə ʔ ə ʔs $,default,t 3 7 3 7 s,3 7 s t
+194,TexistepecZoque-20_dry-1,,TexistepecZoque,20_dry,təts-kaʔ,təts-kaʔ,t ə ts + k a ʔ,,Wichmann2002,20_dry-1,,^ t ə ts - k a ʔ $,default,t 3 ts  k a 7, 3 7 a k t ts
+195,SoteapanZoque-20_dry-1,,SoteapanZoque,20_dry,ku-təts,ku-təts,k u + t ə ts,,Elson1999,20_dry-1,,^ k u - t ə ts $,default,k u  t 3 ts, 3 k t ts u
+196,SantaMariaChimalapaZoque-20_dry-1,,SantaMariaChimalapaZoque,20_dry,yak-yəts,yak-yəts,j a k + j ə ts,,Knudson1980,20_dry-1,,^ y a k - y ə ts $,default,y a k  y 3 ts, 3 a k ts y
+197,SanMiguelChimalapaZoque-20_dry-1,,SanMiguelChimalapaZoque,20_dry,təts-iʔ,təts-iʔ,t ə ts + i ʔ,,Johnson1998,20_dry-1,,^ t ə ts - i ʔ $,default,t 3 ts  i 7, 3 7 i t ts
+198,ChiapasZoque-20_dry-1,,ChiapasZoque,20_dry,təʔts,təʔts,t ə ʔ ts,,Harrison1981,20_dry-1,,^ t ə ʔ ts $,default,t 3 7 ts,3 7 t ts
+199,NorthHighlandMixe-21_ear-1,,NorthHighlandMixe,21_ear,taatsk,taatsk,t aː ts k,,Schoenhals1965,21_ear-1,,^ t aa ts k $,default,t a ts k,a k t ts
+200,SouthHighlandMixe-21_ear-1,,SouthHighlandMixe,21_ear,tatsk,tatsk,t a ts k,,Cysouw2006,21_ear-1,,^ t a ts k $,default,t a ts k,a k t ts
+201,LowlandMixe-21_ear-1,,LowlandMixe,21_ear,tətsʔak,tətsʔak,t ə ts ʔ a k,,Hoogshagen1993,21_ear-1,,^ t ə ts ʔ a k $,default,t 3 ts 7 a k,3 7 a k t ts
+202,SayulaPopoluca-21_ear-1,,SayulaPopoluca,21_ear,taatsək,taatsək,t aː ts ə k,,Clark1961,21_ear-1,,^ t aa ts ə k $,default,t a ts 3 k,3 a k t ts
+203,OlutaPopoluca-21_ear-1,,OlutaPopoluca,21_ear,taatsəək,taatsəək,t aː ts əː k,,Clark1981,21_ear-1,,^ t aa ts əə k $,default,t a ts 3 k,3 a k t ts
+204,TexistepecZoque-21_ear-1,,TexistepecZoque,21_ear,taatsək,taatsək,t aː ts ə k,,Wichmann2002,21_ear-1,,^ t aa ts ə k $,default,t a ts 3 k,3 a k t ts
+205,SoteapanZoque-21_ear-1,,SoteapanZoque,21_ear,taatsək,taatsək,t aː ts ə k,,Elson1999,21_ear-1,,^ t aa ts ə k $,default,t a ts 3 k,3 a k t ts
+206,SantaMariaChimalapaZoque-21_ear-1,,SantaMariaChimalapaZoque,21_ear,tatsək,tatsək,t a ts ə k,,Knudson1980,21_ear-1,,^ t a ts ə k $,default,t a ts 3 k,3 a k t ts
+207,SanMiguelChimalapaZoque-21_ear-1,,SanMiguelChimalapaZoque,21_ear,tatsək,tatsək,t a ts ə k,,Johnson1998,21_ear-1,,^ t a ts ə k $,default,t a ts 3 k,3 a k t ts
+208,ChiapasZoque-21_ear-1,,ChiapasZoque,21_ear,tatsək,tatsək,t a ts ə k,,Harrison1981,21_ear-1,,^ t a ts ə k $,default,t a ts 3 k,3 a k t ts
+209,NorthHighlandMixe-22_earth-1,,NorthHighlandMixe,22_earth,naaš,naaš,n aː ʃ,,Schoenhals1965,22_earth-1,,^ n aa š $,default,n a S,S a n
+210,SouthHighlandMixe-22_earth-1,,SouthHighlandMixe,22_earth,naš-wiʔñət,naš-wiʔñət,n a ʃ + w i ʔ ɲ ə t,,Cysouw2006,22_earth-1,,^ n a š - w i ʔ ñ ə t $,default,n a S  w i 7 5 3 t, 3 5 7 S a i n t w
+211,LowlandMixe-22_earth-1,,LowlandMixe,22_earth,naaš,naaš,n aː ʃ,,Hoogshagen1993,22_earth-1,,^ n aa š $,default,n a S,S a n
+212,SayulaPopoluca-22_earth-1,,SayulaPopoluca,22_earth,naaš,naaš,n aː ʃ,,Clark1961,22_earth-1,,^ n aa š $,default,n a S,S a n
+213,OlutaPopoluca-22_earth-1,,OlutaPopoluca,22_earth,naašə,naašə,n aː ʃ ə,,Clark1981,22_earth-1,,^ n aa š ə $,default,n a S 3,3 S a n
+214,TexistepecZoque-22_earth-1,,TexistepecZoque,22_earth,das,das,d a s,,Wichmann2002,22_earth-1,,^ d a s $,default,d a s,a d s
+215,SoteapanZoque-22_earth-1,,SoteapanZoque,22_earth,nas,nas,n a s,,Elson1999,22_earth-1,,^ n a s $,default,n a s,a n s
+216,SantaMariaChimalapaZoque-22_earth-1,,SantaMariaChimalapaZoque,22_earth,nas,nas,n a s,,Knudson1980,22_earth-1,,^ n a s $,default,n a s,a n s
+217,SanMiguelChimalapaZoque-22_earth-1,,SanMiguelChimalapaZoque,22_earth,naš,naš,n a ʃ,,Johnson1998,22_earth-1,,^ n a š $,default,n a S,S a n
+218,ChiapasZoque-22_earth-1,,ChiapasZoque,22_earth,nas,nas,n a s,,Harrison1981,22_earth-1,,^ n a s $,default,n a s,a n s
+219,NorthHighlandMixe-23_eat-1,,NorthHighlandMixe,23_eat,kay,kay,k a j,,Schoenhals1965,23_eat-1,,^ k a y $,default,k a y,a k y
+220,SouthHighlandMixe-23_eat-1,,SouthHighlandMixe,23_eat,kæy,kæy,k æ j,,Cysouw2006,23_eat-2,,^ k æ y $,default,k E y,E k y
+221,LowlandMixe-23_eat-1,,LowlandMixe,23_eat,kay,kay,k a j,,Hoogshagen1993,23_eat-2,,^ k a y $,default,k a y,a k y
+222,SayulaPopoluca-23_eat-1,,SayulaPopoluca,23_eat,kay,kay,k a j,,Clark1961,23_eat-2,,^ k a y $,default,k a y,a k y
+223,OlutaPopoluca-23_eat-1,,OlutaPopoluca,23_eat,kay,kay,k a j,,Clark1981,23_eat-2,,^ k a y $,default,k a y,a k y
+224,TexistepecZoque-23_eat-1,,TexistepecZoque,23_eat,kəʔəs,kəʔəs,k ə ʔ ə s,,Wichmann2002,23_eat-3,,^ k ə ʔ ə s $,default,k 3 7 3 s,3 7 k s
+225,SoteapanZoque-23_eat-1,,SoteapanZoque,23_eat,kəʔəs,kəʔəs,k ə ʔ ə s,,Elson1999,23_eat-3,,^ k ə ʔ ə s $,default,k 3 7 3 s,3 7 k s
+226,SantaMariaChimalapaZoque-23_eat-1,,SantaMariaChimalapaZoque,23_eat,kəʔs-oy,kəʔs-oy,k ə ʔ s + o j,,Knudson1980,23_eat-3,,^ k ə ʔs - o y $,default,k 3 7 s  o y, 3 7 k o s y
+227,SanMiguelChimalapaZoque-23_eat-1,,SanMiguelChimalapaZoque,23_eat,kəš,kəš,k ə ʃ,,Johnson1998,23_eat-3,,^ k ə š $,default,k 3 S,3 S k
+228,ChiapasZoque-23_eat-1,,ChiapasZoque,23_eat,kəʔs,kəʔs,k ə ʔ s,,Harrison1981,23_eat-3,,^ k ə ʔs $,default,k 3 7 s,3 7 k s
+229,NorthHighlandMixe-24_egg-1,,NorthHighlandMixe,24_egg,tuʔut,tuʔut,t u ʔ u t,,Schoenhals1965,24_egg-1,,^ t u ʔ u t $,default,t u 7 u t,7 t u
+230,SouthHighlandMixe-24_egg-1,,SouthHighlandMixe,24_egg,tutsah,tutsah,t u ts a h,,Cysouw2006,24_egg-1,,^ t u ts a h $,default,t u ts a h,a h t ts u
+231,LowlandMixe-24_egg-1,,LowlandMixe,24_egg,tuʔuty,tuʔuty,t u ʔ u t j,,Hoogshagen1993,24_egg-1,,^ t u ʔ u t y $,default,t u 7 u t y,7 t u y
+232,SayulaPopoluca-24_egg-1,,SayulaPopoluca,24_egg,kooy,kooy,k oː j,,Clark1961,24_egg-2,,^ k oo y $,default,k o y,k o y
+233,OlutaPopoluca-24_egg-1,,OlutaPopoluca,24_egg,tuʔtiʔk,tuʔtiʔk,t u ʔ t i ʔ k,,Clark1981,24_egg-1,,^ t u ʔ t i ʔ k $,default,t u 7 t i 7 k,7 i k t u
+234,TexistepecZoque-24_egg-1,,TexistepecZoque,24_egg,kaʔnpuk,kaʔnpuk,k a ʔ n p u k,,Wichmann2002,24_egg-4,,^ k a ʔ n p u k $,default,k a 7 n p u k,7 a k n p u
+235,SoteapanZoque-24_egg-1,,SoteapanZoque,24_egg,kanpu,kanpu,k a n p u,,Elson1999,24_egg-4,,^ k a n p u $,default,k a n p u,a k n p u
+236,SantaMariaChimalapaZoque-24_egg-1,,SantaMariaChimalapaZoque,24_egg,poʔok,poʔok,p o ʔ o k,,Knudson1980,24_egg-3,,^ p o ʔ o k $,default,p o 7 o k,7 k o p
+237,SanMiguelChimalapaZoque-24_egg-1,,SanMiguelChimalapaZoque,24_egg,pohoʔk,pohoʔk,p o h o ʔ k,,Johnson1998,24_egg-3,,^ p o h o ʔ k $,default,p o h o 7 k,7 h k o p
+238,ChiapasZoque-24_egg-1,,ChiapasZoque,24_egg,poka,poka,p o k a,,Harrison1981,24_egg-3,,^ p o k a $,default,p o k a,a k o p
+239,NorthHighlandMixe-25_eye-1,,NorthHighlandMixe,25_eye,viihn,viihn,v iː h n,,Schoenhals1965,25_eye-1,,^ v ii h n $,default,v i h n,h i n v
+240,SouthHighlandMixe-25_eye-1,,SouthHighlandMixe,25_eye,ween,ween,w eː n,,Cysouw2006,25_eye-1,,^ w ee n $,default,w e n,e n w
+241,LowlandMixe-25_eye-1,,LowlandMixe,25_eye,wiin,wiin,w iː n,,Hoogshagen1993,25_eye-1,,^ w ii n $,default,w i n,i n w
+242,SayulaPopoluca-25_eye-1,,SayulaPopoluca,25_eye,wihn,wihn,w i h n,,Clark1961,25_eye-1,,^ w i h n $,default,w i h n,h i n w
+243,OlutaPopoluca-25_eye-1,,OlutaPopoluca,25_eye,vinə,vinə,v i n ə,,Clark1981,25_eye-1,,^ v i n ə $,default,v i n 3,3 i n v
+244,TexistepecZoque-25_eye-1,,TexistepecZoque,25_eye,ʔeš-kuʔ,ʔeš-kuʔ,ʔ e ʃ + k u ʔ,,Wichmann2002,25_eye-2,,^ ʔ e š - k u ʔ $,default,7 e S  k u 7, 7 S e k u
+245,SoteapanZoque-25_eye-1,,SoteapanZoque,25_eye,iš-kuy,iš-kuy,i ʃ + k u j,,Elson1999,25_eye-2,,^ i š - k u y $,default,i S  k u y, S i k u y
+246,SantaMariaChimalapaZoque-25_eye-1,,SantaMariaChimalapaZoque,25_eye,witəm,witəm,w i t ə m,,Knudson1980,25_eye-3,,^ w i t ə m $,default,w i t 3 m,3 i m t w
+247,SanMiguelChimalapaZoque-25_eye-1,,SanMiguelChimalapaZoque,25_eye,wotəm,wotəm,w o t ə m,,Johnson1998,25_eye-3,,^ w o t ə m $,default,w o t 3 m,3 m o t w
+248,ChiapasZoque-25_eye-1,,ChiapasZoque,25_eye,win,win,w i n,,Harrison1981,25_eye-1,,^ w i n $,default,w i n,i n w
+249,NorthHighlandMixe-26_fatn-1,,NorthHighlandMixe,26_fatn,on,on,o n,,Schoenhals1965,26_fatn-1,,^ o n $,default,o n,n o
+250,SouthHighlandMixe-26_fatn-1,,SouthHighlandMixe,26_fatn,on,on,o n,,Cysouw2006,26_fatn-1,,^ o n $,default,o n,n o
+251,LowlandMixe-26_fatn-1,,LowlandMixe,26_fatn,wiin-ʔomb,wiin-ʔomb,w iː n + ʔ o m b,,Hoogshagen1993,26_fatn-2,,^ w ii n - ʔ o m b $,default,w i n  7 o m b, 7 b i m n o w
+252,SayulaPopoluca-26_fatn-1,,SayulaPopoluca,26_fatn,oʔtsək,oʔtsək,o ʔ ts ə k,,Clark1961,26_fatn-3,,^ o ʔ ts ə k $,default,o 7 ts 3 k,3 7 k o ts
+253,OlutaPopoluca-26_fatn-1,,OlutaPopoluca,26_fatn,ona,ona,o n a,,Clark1981,26_fatn-1,,^ o n a $,default,o n a,a n o
+254,SoteapanZoque-26_fatn-1,,SoteapanZoque,26_fatn,pəhi,pəhi,p ə h i,,Elson1999,26_fatn-5,,^ p ə h i $,default,p 3 h i,3 h i p
+255,SantaMariaChimalapaZoque-26_fatn-1,,SantaMariaChimalapaZoque,26_fatn,grasa,grasa,g r a s a,,Knudson1980,26_fatn-6,,^ g r a s a $,default,g r a s a,a g r s
+256,SanMiguelChimalapaZoque-26_fatn-1,,SanMiguelChimalapaZoque,26_fatn,yew-eʔ,yew-eʔ,j e w + e ʔ,,Johnson1998,26_fatn-7,,^ y e w - e ʔ $,default,y e w  e 7, 7 e w y
+257,ChiapasZoque-26_fatn-1,,ChiapasZoque,26_fatn,kiʔnə,kiʔnə,k i ʔ n ə,,Harrison1981,26_fatn-4,,^ k i ʔ n ə $,default,k i 7 n 3,3 7 i k n
+258,NorthHighlandMixe-27_feather-1,,NorthHighlandMixe,27_feather,pahk,pahk,p a h k,,Schoenhals1965,27_feather-1,,^ p a h k $,default,p a h k,a h k p
+259,SouthHighlandMixe-27_feather-1,,SouthHighlandMixe,27_feather,pəhk,pəhk,p ə h k,,Cysouw2006,27_feather-1,,^ p ə h k $,default,p 3 h k,3 h k p
+260,LowlandMixe-27_feather-1,,LowlandMixe,27_feather,tseyñiʔi-bəhk,tseyñiʔi-bəhk,ts e j ɲ i ʔ i + b ə h k,,Hoogshagen1993,27_feather-2,,^ ts e y ñ i ʔ i - b ə h k $,default,ts e y 5 i 7 i  b 3 h k, 3 5 7 b e h i k ts y
+261,OlutaPopoluca-27_feather-1,,OlutaPopoluca,27_feather,pəkə,pəkə,p ə k ə,,Clark1981,27_feather-1,,^ p ə k ə $,default,p 3 k 3,3 k p
+262,TexistepecZoque-27_feather-1,,TexistepecZoque,27_feather,pək,pək,p ə k,,Wichmann2002,27_feather-1,,^ p ə k $,default,p 3 k,3 k p
+263,SoteapanZoque-27_feather-1,,SoteapanZoque,27_feather,pək,pək,p ə k,,Elson1999,27_feather-1,,^ p ə k $,default,p 3 k,3 k p
+264,SantaMariaChimalapaZoque-27_feather-1,,SantaMariaChimalapaZoque,27_feather,pək,pək,p ə k,,Knudson1980,27_feather-1,,^ p ə k $,default,p 3 k,3 k p
+265,SanMiguelChimalapaZoque-27_feather-1,,SanMiguelChimalapaZoque,27_feather,pək,pək,p ə k,,Johnson1998,27_feather-1,,^ p ə k $,default,p 3 k,3 k p
+266,ChiapasZoque-27_feather-1,,ChiapasZoque,27_feather,pək,pək,p ə k,,Harrison1981,27_feather-1,,^ p ə k $,default,p 3 k,3 k p
+267,NorthHighlandMixe-28_fire-1,,NorthHighlandMixe,28_fire,həəhn,həəhn,h əː h n,,Schoenhals1965,28_fire-1,,^ h əə h n $,default,h 3 h n,3 h n
+268,SouthHighlandMixe-28_fire-1,,SouthHighlandMixe,28_fire,həən,həən,h əː n,,Cysouw2006,28_fire-1,,^ h əə n $,default,h 3 n,3 h n
+269,LowlandMixe-28_fire-1,,LowlandMixe,28_fire,həən,həən,h əː n,,Hoogshagen1993,10,,^ h əə n $,default,h 3 n,3 h n
+270,SayulaPopoluca-28_fire-1,,SayulaPopoluca,28_fire,həhn,həhn,h ə h n,,Clark1961,28_fire-1,,^ h ə h n $,default,h 3 h n,3 h n
+271,OlutaPopoluca-28_fire-1,,OlutaPopoluca,28_fire,hənə,hənə,h ə n ə,,Clark1981,28_fire-1,,^ h ə n ə $,default,h 3 n 3,3 h n
+272,TexistepecZoque-28_fire-1,,TexistepecZoque,28_fire,hukut,hukut,h u k u t,,Wichmann2002,28_fire-2,,^ h u k u t $,default,h u k u t,h k t u
+273,SoteapanZoque-28_fire-1,,SoteapanZoque,28_fire,huktə,huktə,h u k t ə,,Elson1999,28_fire-2,,^ h u k t ə $,default,h u k t 3,3 h k t u
+274,SantaMariaChimalapaZoque-28_fire-1,,SantaMariaChimalapaZoque,28_fire,hukutə,hukutə,h u k u t ə,,Knudson1980,28_fire-2,,^ h u k u t ə $,default,h u k u t 3,3 h k t u
+275,SanMiguelChimalapaZoque-28_fire-1,,SanMiguelChimalapaZoque,28_fire,ʔaʔts-əʔ,ʔaʔts-əʔ,ʔ a ʔ ts + ə ʔ,,Johnson1998,28_fire-3,,^ ʔ a ʔ ts - ə ʔ $,default,7 a 7 ts  3 7, 3 7 a ts
+276,ChiapasZoque-28_fire-1,,ChiapasZoque,28_fire,hukətək,hukətək,h u k ə t ə k,,Harrison1981,28_fire-2,,^ h u k ə t ə k $,default,h u k 3 t 3 k,3 h k t u
+277,NorthHighlandMixe-29_fish-1,,NorthHighlandMixe,29_fish,ahkš,ahkš,a h k ʃ,,Schoenhals1965,29_fish-1,,^ a h k š $,default,a h k S,S a h k
+278,SouthHighlandMixe-29_fish-1,,SouthHighlandMixe,29_fish,akš,akš,a k ʃ,,Cysouw2006,29_fish-1,,^ a k š $,default,a k S,S a k
+279,LowlandMixe-29_fish-1,,LowlandMixe,29_fish,akš,akš,a k ʃ,,Hoogshagen1993,29_fish-1,,^ a k š $,default,a k S,S a k
+280,SayulaPopoluca-29_fish-1,,SayulaPopoluca,29_fish,akš,akš,a k ʃ,,Clark1961,29_fish-1,,^ a k š $,default,a k S,S a k
+281,OlutaPopoluca-29_fish-1,,OlutaPopoluca,29_fish,koʔke,koʔke,k o ʔ k e,,Clark1981,29_fish-2,,^ k o ʔ k e $,default,k o 7 k e,7 e k o
+282,TexistepecZoque-29_fish-1,,TexistepecZoque,29_fish,woʔŋ,woʔŋ,w o ʔ ŋ,,Wichmann2002,29_fish-3,,^ w o ʔ ŋ $,default,w o 7 N,7 N o w
+283,SoteapanZoque-29_fish-1,,SoteapanZoque,29_fish,təʔəpə,təʔəpə,t ə ʔ ə p ə,,Elson1999,29_fish-4,,^ t ə ʔ ə p ə $,default,t 3 7 3 p 3,3 7 p t
+284,SantaMariaChimalapaZoque-29_fish-1,,SantaMariaChimalapaZoque,29_fish,koke,koke,k o k e,,Knudson1980,29_fish-2,,^ k o k e $,default,k o k e,e k o
+285,SanMiguelChimalapaZoque-29_fish-1,,SanMiguelChimalapaZoque,29_fish,koke,koke,k o k e,,Johnson1998,29_fish-2,,^ k o k e $,default,k o k e,e k o
+286,ChiapasZoque-29_fish-1,,ChiapasZoque,29_fish,kokeh,kokeh,k o k e h,,Harrison1981,29_fish-2,,^ k o k e h $,default,k o k e h,e h k o
+287,NorthHighlandMixe-30_flyv-1,,NorthHighlandMixe,30_flyv,hεy ~ hεεy,hεy,h ɛ j,,Schoenhals1965,30_flyv-1,,^ h ε y $,default,h E y,E h y
+288,NorthHighlandMixe-30_flyv-2,,NorthHighlandMixe,30_flyv,hεy ~ hεεy,hεεy,h ɛ ɛ j,,Schoenhals1965,30_flyv-1,,^ h ε ε y $,default,h E E y,E h y
+289,SouthHighlandMixe-30_flyv-1,,SouthHighlandMixe,30_flyv,kæhkəʔək,kæhkəʔək,k æ h k ə ʔ ə k,,Cysouw2006,30_flyv-2,,^ k æ h k ə ʔ ə k $,default,k E h k 3 7 3 k,3 7 E h k
+290,LowlandMixe-30_flyv-1,,LowlandMixe,30_flyv,keek,keek,k eː k,,Hoogshagen1993,30_flyv-2,,^ k ee k $,default,k e k,e k
+291,SayulaPopoluca-30_flyv-1,,SayulaPopoluca,30_flyv,keek ~ keʔk,keek,k eː k,,Clark1961,30_flyv-2,,^ k ee k $,default,k e k,e k
+292,SayulaPopoluca-30_flyv-2,,SayulaPopoluca,30_flyv,keek ~ keʔk,keʔk,k e ʔ k,,Clark1961,30_flyv-2,,^ k e ʔ k $,default,k e 7 k,7 e k
+293,OlutaPopoluca-30_flyv-1,,OlutaPopoluca,30_flyv,napap,napap,n a p a p,,Clark1981,30_flyv-3,,^ n a p a p $,default,n a p a p,a n p
+294,TexistepecZoque-30_flyv-1,,TexistepecZoque,30_flyv,kek,kek,k e k,,Wichmann2002,30_flyv-2,,^ k e k $,default,k e k,e k
+295,SoteapanZoque-30_flyv-1,,SoteapanZoque,30_flyv,kek,kek,k e k,,Elson1999,30_flyv-2,,^ k e k $,default,k e k,e k
+296,SantaMariaChimalapaZoque-30_flyv-1,,SantaMariaChimalapaZoque,30_flyv,kek,kek,k e k,,Knudson1980,30_flyv-2,,^ k e k $,default,k e k,e k
+297,SanMiguelChimalapaZoque-30_flyv-1,,SanMiguelChimalapaZoque,30_flyv,yuk-kek,yuk-kek,j u k + k e k,,Johnson1998,30_flyv-2,,^ y u k - k e k $,default,y u k  k e k, e k u y
+298,ChiapasZoque-30_flyv-1,,ChiapasZoque,30_flyv,sitiht,sitiht,s i t i h t,,Harrison1981,30_flyv-4,,^ s i t i h t $,default,s i t i h t,h i s t
+299,NorthHighlandMixe-31_foot-1,,NorthHighlandMixe,31_foot,tek,tek,t e k,,Schoenhals1965,31_foot-1,,^ t e k $,default,t e k,e k t
+300,SouthHighlandMixe-31_foot-1,,SouthHighlandMixe,31_foot,teky,teky,t e k j,,Cysouw2006,31_foot-1,,^ t e k y $,default,t e k y,e k t y
+301,LowlandMixe-31_foot-1,,LowlandMixe,31_foot,teky,teky,t e k j,,Hoogshagen1993,31_foot-1,,^ t e k y $,default,t e k y,e k t y
+302,SayulaPopoluca-31_foot-1,,SayulaPopoluca,31_foot,tan,tan,t a n,,Clark1961,31_foot-2,,^ t a n $,default,t a n,a n t
+303,OlutaPopoluca-31_foot-1,,OlutaPopoluca,31_foot,kəʔšta,kəʔšta,k ə ʔ ʃ t a,,Clark1981,31_foot-3,,^ k ə ʔ š t a $,default,k 3 7 S t a,3 7 S a k t
+304,TexistepecZoque-31_foot-1,,TexistepecZoque,31_foot,pak,pak,p a k,,Wichmann2002,31_foot-5,,^ p a k $,default,p a k,a k p
+305,SoteapanZoque-31_foot-1,,SoteapanZoque,31_foot,puy,puy,p u j,,Elson1999,31_foot-6,,^ p u y $,default,p u y,p u y
+306,SantaMariaChimalapaZoque-31_foot-1,,SantaMariaChimalapaZoque,31_foot,maŋ-kuʔy,maŋ-kuʔy,m a ŋ + k u ʔ j,,Knudson1980,31_foot-7,,^ m a ŋ - k u ʔ y $,default,m a N  k u 7 y, 7 N a k m u y
+307,SanMiguelChimalapaZoque-31_foot-1,,SanMiguelChimalapaZoque,31_foot,maŋ-kuyʔ,maŋ-kuyʔ,m a ŋ + k u j ʔ,,Johnson1998,31_foot-7,,^ m a ŋ - k u y ʔ $,default,m a N  k u y 7, 7 N a k m u y
+308,ChiapasZoque-31_foot-1,,ChiapasZoque,31_foot,neʔŋ-bak,neʔŋ-bak,n e ʔ ŋ + b a k,,Harrison1981,31_foot-4,,^ n e ʔ ŋ - b a k $,default,n e 7 N  b a k, 7 N a b e k n
+309,NorthHighlandMixe-32_full-1,,NorthHighlandMixe,32_full,uts,uts,u ts,,Schoenhals1965,32_full-1,,^ u ts $,default,u ts,ts u
+310,SouthHighlandMixe-32_full-1,,SouthHighlandMixe,32_full,uhts,uhts,u h ts,,Cysouw2006,32_full-1,,^ u h ts $,default,u h ts,h ts u
+311,LowlandMixe-32_full-1,,LowlandMixe,32_full,kuʔušy,kuʔušy,k u ʔ u ʃ j,,Hoogshagen1993,32_full-2,,^ k u ʔ u š y $,default,k u 7 u S y,7 S k u y
+312,SayulaPopoluca-32_full-1,,SayulaPopoluca,32_full,patsik,patsik,p a ts i k,,Clark1961,32_full-3,,^ p a ts i k $,default,p a ts i k,a i k p ts
+313,OlutaPopoluca-32_full-1,,OlutaPopoluca,32_full,utsi,utsi,u ts i,,Clark1981,32_full-1,,^ u ts i $,default,u ts i,i ts u
+314,TexistepecZoque-32_full-1,,TexistepecZoque,32_full,kus-deʔ,kus-deʔ,k u s + d e ʔ,,Wichmann2002,32_full-6,,^ k u s - d e ʔ $,default,k u s  d e 7, 7 d e k s u
+315,SoteapanZoque-32_full-1,,SoteapanZoque,32_full,kus-ne,kus-ne,k u s + n e,,Elson1999,32_full-6,,^ k u s - n e $,default,k u s  n e, e k n s u
+316,SantaMariaChimalapaZoque-32_full-1,,SantaMariaChimalapaZoque,32_full,yag-aŋ-tas,yag-aŋ-tas,j a g + a ŋ + t a s,,Knudson1980,32_full-7,,^ y a g - a ŋ - t a s $,default,y a g  a N  t a s, N a g s t y
+317,SanMiguelChimalapaZoque-32_full-1,,SanMiguelChimalapaZoque,32_full,taš-əʔ,taš-əʔ,t a ʃ + ə ʔ,,Johnson1998,32_full-7,,^ t a š - ə ʔ $,default,t a S  3 7, 3 7 S a t
+318,ChiapasZoque-32_full-1,,ChiapasZoque,32_full,hoʔəyupə,hoʔəyupə,h o ʔ ə j u p ə,,Harrison1981,32_full-5,,^ h o ʔ ə y u p ə $,default,h o 7 3 y u p 3,3 7 h o p u y
+319,NorthHighlandMixe-33_give-1,,NorthHighlandMixe,33_give,məʔə,məʔə,m ə ʔ ə,,Schoenhals1965,33_give-1,,^ m ə ʔ ə $,default,m 3 7 3,3 7 m
+320,SouthHighlandMixe-33_give-1,,SouthHighlandMixe,33_give,yak,yak,j a k,,Cysouw2006,33_give-3,,^ y a k $,default,y a k,a k y
+321,LowlandMixe-33_give-1,,LowlandMixe,33_give,moʔ,moʔ,m o ʔ,,Hoogshagen1993,33_give-1,,^ m o ʔ $,default,m o 7,7 m o
+322,SayulaPopoluca-33_give-1,,SayulaPopoluca,33_give,moy ~ moʔ,moy,m o j,,Clark1961,33_give-1,,^ m o y $,default,m o y,m o y
+323,SayulaPopoluca-33_give-2,,SayulaPopoluca,33_give,moy ~ moʔ,moʔ,m o ʔ,,Clark1961,33_give-1,,^ m o ʔ $,default,m o 7,7 m o
+324,OlutaPopoluca-33_give-1,,OlutaPopoluca,33_give,moy ~ moʔ,moy,m o j,,Clark1981,33_give-1,,^ m o y $,default,m o y,m o y
+325,OlutaPopoluca-33_give-2,,OlutaPopoluca,33_give,moy ~ moʔ,moʔ,m o ʔ,,Clark1981,33_give-1,,^ m o ʔ $,default,m o 7,7 m o
+326,TexistepecZoque-33_give-1,,TexistepecZoque,33_give,čeʔ,čeʔ,tʃ e ʔ,,Wichmann2002,33_give-2,,^ č e ʔ $,default,tS e 7,7 e tS
+327,SoteapanZoque-33_give-1,,SoteapanZoque,33_give,čiʔ,čiʔ,tʃ i ʔ,,Elson1999,33_give-2,,^ č i ʔ $,default,tS i 7,7 i tS
+328,SantaMariaChimalapaZoque-33_give-1,,SantaMariaChimalapaZoque,33_give,tsiʔ,tsiʔ,ts i ʔ,,Knudson1980,33_give-2,,^ ts i ʔ $,default,ts i 7,7 i ts
+329,SanMiguelChimalapaZoque-33_give-1,,SanMiguelChimalapaZoque,33_give,tsiʔ,tsiʔ,ts i ʔ,,Johnson1998,33_give-2,,^ ts i ʔ $,default,ts i 7,7 i ts
+330,ChiapasZoque-33_give-1,,ChiapasZoque,33_give,čiʔ,čiʔ,tʃ i ʔ,,Harrison1981,33_give-2,,^ č i ʔ $,default,tS i 7,7 i tS
+331,NorthHighlandMixe-34_good-1,,NorthHighlandMixe,34_good,oy,oy,o j,,Schoenhals1965,34_good-1,,^ o y $,default,o y,o y
+332,SouthHighlandMixe-34_good-1,,SouthHighlandMixe,34_good,ey,ey,e j,,Cysouw2006,34_good-1,,^ e y $,default,e y,e y
+333,LowlandMixe-34_good-1,,LowlandMixe,34_good,oy,oy,o j,,Hoogshagen1993,34_good-1,,^ o y $,default,o y,o y
+334,SayulaPopoluca-34_good-1,,SayulaPopoluca,34_good,oy,oy,o j,,Clark1961,34_good-1,,^ o y $,default,o y,o y
+335,OlutaPopoluca-34_good-1,,OlutaPopoluca,34_good,(ni)oya,oya,o j a,,Clark1981,34_good-1,,^ o y a $,default,o y a,a o y
+336,TexistepecZoque-34_good-1,,TexistepecZoque,34_good,wəə,wəə,w əː,,Wichmann2002,34_good-2,,^ w əə $,default,w 3,3 w
+337,SoteapanZoque-34_good-1,,SoteapanZoque,34_good,wəə,wəə,w əː,,Elson1999,34_good-2,,^ w əə $,default,w 3,3 w
+338,SanMiguelChimalapaZoque-34_good-1,,SanMiguelChimalapaZoque,34_good,wəhə,wəhə,w ə h ə,,Johnson1998,34_good-2,,^ w ə h ə $,default,w 3 h 3,3 h w
+339,ChiapasZoque-34_good-1,,ChiapasZoque,34_good,oye,oye,o j e,,Harrison1981,34_good-1,,^ o y e $,default,o y e,e o y
+340,NorthHighlandMixe-35_green-1,,NorthHighlandMixe,35_green,tsυšk,tsυšk,ts υ/ʊ ʃ k,,Schoenhals1965,35_green-1,,^ ts υ š k $,default,ts u S k,S k ts u
+341,SouthHighlandMixe-35_green-1,,SouthHighlandMixe,35_green,tsušk,tsušk,ts u ʃ k,,Cysouw2006,35_green-1,,^ ts u š k $,default,ts u S k,S k ts u
+342,LowlandMixe-35_green-1,,LowlandMixe,35_green,tsuš,tsuš,ts u ʃ,,Hoogshagen1993,35_green-1,,^ ts u š $,default,ts u S,S ts u
+343,SayulaPopoluca-35_green-1,,SayulaPopoluca,35_green,šušuk,šušuk,ʃ u ʃ u k,,Clark1961,35_green-1,,^ š u š u k $,default,S u S u k,S k u
+344,OlutaPopoluca-35_green-1,,OlutaPopoluca,35_green,tušuʔk,tušuʔk,t u ʃ u ʔ k,,Clark1981,35_green-1,,^ t u š u ʔ k $,default,t u S u 7 k,7 S k t u
+345,TexistepecZoque-35_green-1,,TexistepecZoque,35_green,tsuus,tsuus,ts uː s,,Wichmann2002,35_green-1,,^ ts uu s $,default,ts u s,s ts u
+346,SoteapanZoque-35_green-1,,SoteapanZoque,35_green,tsuus,tsuus,ts uː s,,Elson1999,35_green-1,,^ ts uu s $,default,ts u s,s ts u
+347,SantaMariaChimalapaZoque-35_green-1,,SantaMariaChimalapaZoque,35_green,tsuhus,tsuhus,ts u h u s,,Knudson1980,35_green-1,,^ ts u h u s $,default,ts u h u s,h s ts u
+348,SanMiguelChimalapaZoque-35_green-1,,SanMiguelChimalapaZoque,35_green,tsuš,tsuš,ts u ʃ,,Johnson1998,35_green-1,,^ ts u š $,default,ts u S,S ts u
+349,ChiapasZoque-35_green-1,,ChiapasZoque,35_green,tsuhtsu,tsuhtsu,ts u h ts u,,Harrison1981,35_green-1,,^ ts u h ts u $,default,ts u h ts u,h ts u
+350,NorthHighlandMixe-36_hair-1,,NorthHighlandMixe,36_hair,vaahy,vaahy,v aː h j,,Schoenhals1965,36_hair-1,,^ v aa h y $,default,v a h y,a h v y
+351,SouthHighlandMixe-36_hair-1,,SouthHighlandMixe,36_hair,waay,waay,w aː j,,Cysouw2006,36_hair-1,,^ w aa y $,default,w a y,a w y
+352,LowlandMixe-36_hair-1,,LowlandMixe,36_hair,waay,waay,w aː j,,Hoogshagen1993,36_hair-1,,^ w aa y $,default,w a y,a w y
+353,TexistepecZoque-36_hair-1,,TexistepecZoque,36_hair,waʔy,waʔy,w a ʔ j,,Wichmann2002,36_hair-1,,^ w a ʔ y $,default,w a 7 y,7 a w y
+354,SoteapanZoque-36_hair-1,,SoteapanZoque,36_hair,way,way,w a j,,Elson1999,36_hair-1,,^ w a y $,default,w a y,a w y
+355,SantaMariaChimalapaZoque-36_hair-1,,SantaMariaChimalapaZoque,36_hair,waʔy,waʔy,w a ʔ j,,Knudson1980,36_hair-1,,^ w a ʔ y $,default,w a 7 y,7 a w y
+356,SanMiguelChimalapaZoque-36_hair-1,,SanMiguelChimalapaZoque,36_hair,wayʔ,wayʔ,w a j ʔ,,Johnson1998,36_hair-1,,^ w a y ʔ $,default,w a y 7,7 a w y
+357,ChiapasZoque-36_hair-1,,ChiapasZoque,36_hair,way,way,w a j,,Harrison1981,36_hair-1,,^ w a y $,default,w a y,a w y
+358,SayulaPopoluca-36_hair-1,,SayulaPopoluca,36_hair,pəhk,pəhk,p ə h k,,Clark1961,36_hair-1,,^ p ə h k $,default,p 3 h k,3 h k p
+359,OlutaPopoluca-36_hair-1,,OlutaPopoluca,36_hair,pəkə,pəkə,p ə k ə,,Clark1981,36_hair-1,,^ p ə k ə $,default,p 3 k 3,3 k p
+360,ChiapasZoque-36_hair-2,,ChiapasZoque,36_hair,pək,pək,p ə k,,Harrison1981,36_hair-1,,^ p ə k $,default,p 3 k,3 k p
+361,NorthHighlandMixe-37_hand-1,,NorthHighlandMixe,37_hand,kəʔə,kəʔə,k ə ʔ ə,,Schoenhals1965,37_hand-1,,^ k ə ʔ ə $,default,k 3 7 3,3 7 k
+362,SouthHighlandMixe-37_hand-1,,SouthHighlandMixe,37_hand,kəʔə,kəʔə,k ə ʔ ə,,Cysouw2006,37_hand-1,,^ k ə ʔ ə $,default,k 3 7 3,3 7 k
+363,LowlandMixe-37_hand-1,,LowlandMixe,37_hand,kəʔ,kəʔ,k ə ʔ,,Hoogshagen1993,37_hand-1,,^ k ə ʔ $,default,k 3 7,3 7 k
+364,SayulaPopoluca-37_hand-1,,SayulaPopoluca,37_hand,kəʔ,kəʔ,k ə ʔ,,Clark1961,37_hand-1,,^ k ə ʔ $,default,k 3 7,3 7 k
+365,OlutaPopoluca-37_hand-1,,OlutaPopoluca,37_hand,kəʔ,kəʔ,k ə ʔ,,Clark1981,37_hand-1,,^ k ə ʔ $,default,k 3 7,3 7 k
+366,TexistepecZoque-37_hand-1,,TexistepecZoque,37_hand,kəʔ,kəʔ,k ə ʔ,,Wichmann2002,37_hand-1,,^ k ə ʔ $,default,k 3 7,3 7 k
+367,SoteapanZoque-37_hand-1,,SoteapanZoque,37_hand,kə,kə,k ə,,Elson1999,37_hand-1,,^ k ə $,default,k 3,3 k
+368,SantaMariaChimalapaZoque-37_hand-1,,SantaMariaChimalapaZoque,37_hand,kəʔ,kəʔ,k ə ʔ,,Knudson1980,37_hand-1,,^ k ə ʔ $,default,k 3 7,3 7 k
+369,SanMiguelChimalapaZoque-37_hand-1,,SanMiguelChimalapaZoque,37_hand,tsaŋ-kuyʔ,tsaŋ-kuyʔ,ts a ŋ + k u j ʔ,,Johnson1998,37_hand-2,,^ ts a ŋ - k u y ʔ $,default,ts a N  k u y 7, 7 N a k ts u y
+370,ChiapasZoque-37_hand-1,,ChiapasZoque,37_hand,kəʔ,kəʔ,k ə ʔ,,Harrison1981,37_hand-1,,^ k ə ʔ $,default,k 3 7,3 7 k
+371,NorthHighlandMixe-38_head-1,,NorthHighlandMixe,38_head,kuvahk,kuvahk,k u v a h k,,Schoenhals1965,38_head-1,,^ k u v a h k $,default,k u v a h k,a h k u v
+372,SouthHighlandMixe-38_head-1,,SouthHighlandMixe,38_head,kəpaahk,kəpaahk,k ə p aː h k,,Cysouw2006,38_head-1,,^ k ə p aa h k $,default,k 3 p a h k,3 a h k p
+373,LowlandMixe-38_head-1,,LowlandMixe,38_head,kowahk,kowahk,k o w a h k,,Hoogshagen1993,38_head-1,,^ k o w a h k $,default,k o w a h k,a h k o w
+374,SayulaPopoluca-38_head-1,,SayulaPopoluca,38_head,kopak,kopak,k o p a k,,Clark1961,38_head-1,,^ k o p a k $,default,k o p a k,a k o p
+375,OlutaPopoluca-38_head-1,,OlutaPopoluca,38_head,koʔpaʔk,koʔpaʔk,k o ʔ p a ʔ k,,Clark1981,38_head-1,,^ k o ʔ p a ʔ k $,default,k o 7 p a 7 k,7 a k o p
+376,TexistepecZoque-38_head-1,,TexistepecZoque,38_head,kopək,kopək,k o p ə k,,Wichmann2002,38_head-1,,^ k o p ə k $,default,k o p 3 k,3 k o p
+377,SoteapanZoque-38_head-1,,SoteapanZoque,38_head,koobak,koobak,k oː b a k,,Elson1999,38_head-1,,^ k oo b a k $,default,k o b a k,a b k o
+378,SantaMariaChimalapaZoque-38_head-1,,SantaMariaChimalapaZoque,38_head,waʔy,waʔy,w a ʔ j,,Knudson1980,38_head-2,,^ w a ʔ y $,default,w a 7 y,7 a w y
+379,SanMiguelChimalapaZoque-38_head-1,,SanMiguelChimalapaZoque,38_head,kopak,kopak,k o p a k,,Johnson1998,38_head-1,,^ k o p a k $,default,k o p a k,a k o p
+380,ChiapasZoque-38_head-1,,ChiapasZoque,38_head,kopak,kopak,k o p a k,,Harrison1981,38_head-1,,^ k o p a k $,default,k o p a k,a k o p
+381,NorthHighlandMixe-39_hear-1,,NorthHighlandMixe,39_hear,motu,motu,m o t u,,Schoenhals1965,39_hear-1,,^ m o t u $,default,m o t u,m o t u
+382,SouthHighlandMixe-39_hear-1,,SouthHighlandMixe,39_hear,mətoo,mətoo,m ə t oː,,Cysouw2006,39_hear-1,,^ m ə t oo $,default,m 3 t o,3 m o t
+383,LowlandMixe-39_hear-1,,LowlandMixe,39_hear,mədoogugəʔ,mədoogugəʔ,m ə d oː g u g ə ʔ,,Hoogshagen1993,39_hear-1,,^ m ə d oo g u g ə ʔ $,default,m 3 d o g u g 3 7,3 7 d g m o u
+384,SayulaPopoluca-39_hear-1,,SayulaPopoluca,39_hear,maraw,maraw,m a r a w,,Clark1961,39_hear-1,,^ m a r a w $,default,m a r a w,a m r w
+385,OlutaPopoluca-39_hear-1,,OlutaPopoluca,39_hear,motov,motov,m o t o v,,Clark1981,39_hear-1,,^ m o t o v $,default,m o t o v,m o t v
+386,TexistepecZoque-39_hear-1,,TexistepecZoque,39_hear,batəŋ,batəŋ,b a t ə ŋ,,Wichmann2002,39_hear-1,,^ b a t ə ŋ $,default,b a t 3 N,3 N a b t
+387,SoteapanZoque-39_hear-1,,SoteapanZoque,39_hear,aŋ-təən,aŋ-təən,a ŋ + t əː n,,Elson1999,39_hear-2,,^ a ŋ - t əə n $,default,a N  t 3 n, 3 N a n t
+388,SantaMariaChimalapaZoque-39_hear-1,,SantaMariaChimalapaZoque,39_hear,matoŋ,matoŋ,m a t o ŋ,,Knudson1980,39_hear-1,,^ m a t o ŋ $,default,m a t o N,N a m o t
+389,SanMiguelChimalapaZoque-39_hear-1,,SanMiguelChimalapaZoque,39_hear,matoŋ,matoŋ,m a t o ŋ,,Johnson1998,39_hear-1,,^ m a t o ŋ $,default,m a t o N,N a m o t
+390,ChiapasZoque-39_hear-1,,ChiapasZoque,39_hear,matoŋ,matoŋ,m a t o ŋ,,Harrison1981,39_hear-1,,^ m a t o ŋ $,default,m a t o N,N a m o t
+391,NorthHighlandMixe-40_heart-1,,NorthHighlandMixe,40_heart,haʔvin,haʔvin,h a ʔ v i n,,Schoenhals1965,40_heart-1,,^ h a ʔ v i n $,default,h a 7 v i n,7 a h i n v
+392,SouthHighlandMixe-40_heart-1,,SouthHighlandMixe,40_heart,anmə-haʔan,anmə-haʔan,a n m ə + h a ʔ a n,,Cysouw2006,40_heart-4,,^ a n m ə - h a ʔ a n $,default,a n m 3  h a 7 a n, 3 7 a h m n
+393,LowlandMixe-40_heart-1,,LowlandMixe,40_heart,huuky-hot,huuky-hot,h uː k j + h o t,,Hoogshagen1993,40_heart-2,,^ h uu k y - h o t $,default,h u k y  h o t, h k o t u y
+394,OlutaPopoluca-40_heart-1,,OlutaPopoluca,40_heart,hutukotə,hutukotə,h u t u k o t ə,,Clark1981,40_heart-2,,^ h u t u k o t ə $,default,h u t u k o t 3,3 h k o t u
+395,TexistepecZoque-40_heart-1,,TexistepecZoque,40_heart,tsookoʔ,tsookoʔ,ts oː k o ʔ,,Wichmann2002,40_heart-3,,^ ts oo k o ʔ $,default,ts o k o 7,7 k o ts
+396,SoteapanZoque-40_heart-1,,SoteapanZoque,40_heart,aanamah,aanamah,aː n a m a h,,Elson1999,40_heart-4,,^ aa n a m a h $,default,a n a m a h,a h m n
+397,SantaMariaChimalapaZoque-40_heart-1,,SantaMariaChimalapaZoque,40_heart,tsokoʔy,tsokoʔy,ts o k o ʔ j,,Knudson1980,40_heart-3,,^ ts o k o ʔ y $,default,ts o k o 7 y,7 k o ts y
+398,SanMiguelChimalapaZoque-40_heart-1,,SanMiguelChimalapaZoque,40_heart,tsokoyʔ,tsokoyʔ,ts o k o j ʔ,,Johnson1998,40_heart-3,,^ ts o k o y ʔ $,default,ts o k o y 7,7 k o ts y
+399,ChiapasZoque-40_heart-1,,ChiapasZoque,40_heart,tsokoy,tsokoy,ts o k o j,,Harrison1981,40_heart-3,,^ ts o k o y $,default,ts o k o y,k o ts y
+400,NorthHighlandMixe-41_horn-1,,NorthHighlandMixe,41_horn,vah,vah,v a h,,Schoenhals1965,41_horn-1,,^ v a h $,default,v a h,a h v
+401,SouthHighlandMixe-41_horn-1,,SouthHighlandMixe,41_horn,wah,wah,w a h,,Cysouw2006,41_horn-1,,^ w a h $,default,w a h,a h w
+402,LowlandMixe-41_horn-1,,LowlandMixe,41_horn,muʔn,muʔn,m u ʔ n,,Hoogshagen1993,41_horn-2,,^ m u ʔ n $,default,m u 7 n,7 m n u
+403,SayulaPopoluca-41_horn-1,,SayulaPopoluca,41_horn,wah,wah,w a h,,Clark1961,41_horn-1,,^ w a h $,default,w a h,a h w
+404,OlutaPopoluca-41_horn-1,,OlutaPopoluca,41_horn,vaha,vaha,v a h a,,Clark1981,41_horn-1,,^ v a h a $,default,v a h a,a h v
+405,TexistepecZoque-41_horn-1,,TexistepecZoque,41_horn,waaŋaʔ,waaŋaʔ,w aː ŋ a ʔ,,Wichmann2002,41_horn-1,,^ w aa ŋ a ʔ $,default,w a N a 7,7 N a w
+406,SanMiguelChimalapaZoque-41_horn-1,,SanMiguelChimalapaZoque,41_horn,wekaʔ,wekaʔ,w e k a ʔ,,Johnson1998,41_horn-3,,^ w e k a ʔ $,default,w e k a 7,7 a e k w
+407,ChiapasZoque-41_horn-1,,ChiapasZoque,41_horn,waʔ,waʔ,w a ʔ,,Harrison1981,41_horn-1,,^ w a ʔ $,default,w a 7,7 a w
+408,NorthHighlandMixe-42_i-1,,NorthHighlandMixe,42_i,əts,əts,ə ts,,Schoenhals1965,42_i-1,,^ ə ts $,default,3 ts,3 ts
+409,SouthHighlandMixe-42_i-1,,SouthHighlandMixe,42_i,əts,əts,ə ts,,Cysouw2006,42_i-1,,^ ə ts $,default,3 ts,3 ts
+410,LowlandMixe-42_i-1,,LowlandMixe,42_i,əəč,əəč,əː tʃ,,Hoogshagen1993,42_i-1,,^ əə č $,default,3 tS,3 tS
+411,SayulaPopoluca-42_i-1,,SayulaPopoluca,42_i,"əə, əəts",əə,əː,,Clark1961,42_i-1,,^ əə $,default,3,3
+412,SayulaPopoluca-42_i-2,,SayulaPopoluca,42_i,"əə, əəts",əəts,əː ts,,Clark1961,42_i-1,,^ əə ts $,default,3 ts,3 ts
+413,OlutaPopoluca-42_i-1,,OlutaPopoluca,42_i,əəs,əəs,əː s,,Clark1981,42_i-1,,^ əə s $,default,3 s,3 s
+414,TexistepecZoque-42_i-1,,TexistepecZoque,42_i,ʔətsəʔ,ʔətsəʔ,ʔ ə ts ə ʔ,,Wichmann2002,42_i-1,,^ ʔ ə ts ə ʔ $,default,7 3 ts 3 7,3 7 ts
+415,SoteapanZoque-42_i-1,,SoteapanZoque,42_i,əč,əč,ə tʃ,,Elson1999,42_i-1,,^ ə č $,default,3 tS,3 tS
+416,SantaMariaChimalapaZoque-42_i-1,,SantaMariaChimalapaZoque,42_i,ətstsiʔ,ətstsiʔ,ə tsː i ʔ,,Knudson1980,42_i-1,,^ ə tsts i ʔ $,default,3 ts i 7,3 7 i ts
+417,SanMiguelChimalapaZoque-42_i-1,,SanMiguelChimalapaZoque,42_i,də-š,də-š,d ə + ʃ,,Johnson1998,42_i-2,,^ d ə - š $,default,d 3  S, 3 S d
+418,ChiapasZoque-42_i-1,,ChiapasZoque,42_i,əh,əh,ə h,,Harrison1981,42_i-1,,^ ə h $,default,3 h,3 h
+419,NorthHighlandMixe-43_kill-1,,NorthHighlandMixe,43_kill,yak-ʔook ~ yak-ʔooʔk,yak-ʔook,j a k + ʔ oː k,,Schoenhals1965,43_kill-1,,^ y a k - ʔ oo k $,default,y a k  7 o k, 7 a k o y
+420,NorthHighlandMixe-43_kill-2,,NorthHighlandMixe,43_kill,yak-ʔook ~ yak-ʔooʔk,yak-ʔooʔk,j a k + ʔ oː ʔ k,,Schoenhals1965,43_kill-1,,^ y a k - ʔ oo ʔ k $,default,y a k  7 o 7 k, 7 a k o y
+421,SouthHighlandMixe-43_kill-1,,SouthHighlandMixe,43_kill,æk-ook,æk-ook,æ k + oː k,,Cysouw2006,43_kill-1,,^ æ k - oo k $,default,E k  o k, E k o
+422,LowlandMixe-43_kill-1,,LowlandMixe,43_kill,yah-ʔoʔok,yah-ʔoʔok,j a h + ʔ o ʔ o k,,Hoogshagen1993,43_kill-1,,^ y a h - ʔ o ʔ o k $,default,y a h  7 o 7 o k, 7 a h k o y
+423,SayulaPopoluca-43_kill-1,,SayulaPopoluca,43_kill,ag-oʔk,ag-oʔk,a g + o ʔ k,,Clark1961,43_kill-1,,^ a g - o ʔ k $,default,a g  o 7 k, 7 a g k o
+424,OlutaPopoluca-43_kill-1,,OlutaPopoluca,43_kill,yak-ook,yak-ook,j a k + oː k,,Clark1981,43_kill-1,,^ y a k - oo k $,default,y a k  o k, a k o y
+425,TexistepecZoque-43_kill-1,,TexistepecZoque,43_kill,yakaʔ,yakaʔ,j a k a ʔ,,Wichmann2002,43_kill-2,,^ y a k a ʔ $,default,y a k a 7,7 a k y
+426,SoteapanZoque-43_kill-1,,SoteapanZoque,43_kill,ik-kaʔ,ik-kaʔ,i k + k a ʔ,,Elson1999,43_kill-2,,^ i k - k a ʔ $,default,i k  k a 7, 7 a i k
+427,SantaMariaChimalapaZoque-43_kill-1,,SantaMariaChimalapaZoque,43_kill,yak-kaʔh,yak-kaʔh,j a k + k a ʔ h,,Knudson1980,43_kill-2,,^ y a k - k a ʔh $,default,y a k  k a 7 h, 7 a h k y
+428,SanMiguelChimalapaZoque-43_kill-1,,SanMiguelChimalapaZoque,43_kill,yak-ʔoy,yak-ʔoy,j a k + ʔ o j,,Johnson1998,43_kill-2,,^ y a k - ʔ o y $,default,y a k  7 o y, 7 a k o y
+429,ChiapasZoque-43_kill-1,,ChiapasZoque,43_kill,yah-kaʔ,yah-kaʔ,j a h + k a ʔ,,Harrison1981,43_kill-2,,^ y a h - k a ʔ $,default,y a h  k a 7, 7 a h k y
+430,NorthHighlandMixe-44_knee-1,,NorthHighlandMixe,44_knee,koš,koš,k o ʃ,,Schoenhals1965,44_knee-1,,^ k o š $,default,k o S,S k o
+431,SouthHighlandMixe-44_knee-1,,SouthHighlandMixe,44_knee,koš,koš,k o ʃ,,Cysouw2006,44_knee-1,,^ k o š $,default,k o S,S k o
+432,LowlandMixe-44_knee-1,,LowlandMixe,44_knee,koškohwahk,koškohwahk,k o ʃ k o h w a h k,,Hoogshagen1993,44_knee-1,,^ k o š k o hw a h k $,default,k o S k o h w a h k,S a h k o w
+433,SayulaPopoluca-44_knee-1,,SayulaPopoluca,44_knee,košk,košk,k o ʃ k,,Clark1961,44_knee-1,,^ k o š k $,default,k o S k,S k o
+434,OlutaPopoluca-44_knee-1,,OlutaPopoluca,44_knee,košo,košo,k o ʃ o,,Clark1981,44_knee-1,,^ k o š o $,default,k o S o,S k o
+435,TexistepecZoque-44_knee-1,,TexistepecZoque,44_knee,koosoʔ,koosoʔ,k oː s o ʔ,,Wichmann2002,44_knee-1,,^ k oo s o ʔ $,default,k o s o 7,7 k o s
+436,SoteapanZoque-44_knee-1,,SoteapanZoque,44_knee,kooso,kooso,k oː s o,,Elson1999,44_knee-1,,^ k oo s o $,default,k o s o,k o s
+437,SantaMariaChimalapaZoque-44_knee-1,,SantaMariaChimalapaZoque,44_knee,koʔma,koʔma,k o ʔ m a,,Knudson1980,44_knee-2,,^ k o ʔ m a $,default,k o 7 m a,7 a k m o
+438,SanMiguelChimalapaZoque-44_knee-1,,SanMiguelChimalapaZoque,44_knee,komaʔ,komaʔ,k o m a ʔ,,Johnson1998,44_knee-2,,^ k o m a ʔ $,default,k o m a 7,7 a k m o
+439,ChiapasZoque-44_knee-1,,ChiapasZoque,44_knee,tungupyoʔk,tungupyoʔk,t u n g u p j o ʔ k,,Harrison1981,44_knee-3,,^ t u n g u p y o ʔ k $,default,t u n g u p y o 7 k,7 g k n o p t u y
+440,NorthHighlandMixe-45_know-1,,NorthHighlandMixe,45_know,nəhava,nəhava,n ə h a v a,,Schoenhals1965,45_know-1,,^ n ə h a v a $,default,n 3 h a v a,3 a h n v
+441,SouthHighlandMixe-45_know-1,,SouthHighlandMixe,45_know,naw,naw,n a w,,Cysouw2006,45_know-1,,^ n a w $,default,n a w,a n w
+442,LowlandMixe-45_know-1,,LowlandMixe,45_know,nehwəəy,nehwəəy,n e h w əː j,,Hoogshagen1993,45_know-2,,^ n e hw əə y $,default,n e h w 3 y,3 e h n w y
+443,SayulaPopoluca-45_know-1,,SayulaPopoluca,45_know,hawi,hawi,h a w i,,Clark1961,45_know-2,,^ h a w i $,default,h a w i,a h i w
+444,OlutaPopoluca-45_know-1,,OlutaPopoluca,45_know,viniy,viniy,v i n i j,,Clark1981,45_know-2,,^ v i n i y $,default,v i n i y,i n v y
+445,TexistepecZoque-45_know-1,,TexistepecZoque,45_know,bus,bus,b u s,,Wichmann2002,45_know-3,,^ b u s $,default,b u s,b s u
+446,SoteapanZoque-45_know-1,,SoteapanZoque,45_know,hoodoʔŋ,hoodoʔŋ,h oː d o ʔ ŋ,,Elson1999,45_know-4,,^ h oo d o ʔ ŋ $,default,h o d o 7 N,7 N d h o
+447,SantaMariaChimalapaZoque-45_know-1,,SantaMariaChimalapaZoque,45_know,mus,mus,m u s,,Knudson1980,45_know-3,,^ m u s $,default,m u s,m s u
+448,SanMiguelChimalapaZoque-45_know-1,,SanMiguelChimalapaZoque,45_know,muš,muš,m u ʃ,,Johnson1998,45_know-3,,^ m u š $,default,m u S,S m u
+449,ChiapasZoque-45_know-1,,ChiapasZoque,45_know,muhs,muhs,m u h s,,Harrison1981,45_know-3,,^ m u hs $,default,m u h s,h m s u
+450,NorthHighlandMixe-46_leaf-1,,NorthHighlandMixe,46_leaf,aahy,aahy,aː h j,,Schoenhals1965,46_leaf-1,,^ aa h y $,default,a h y,a h y
+451,SouthHighlandMixe-46_leaf-1,,SouthHighlandMixe,46_leaf,aay,aay,aː j,,Cysouw2006,46_leaf-1,,^ aa y $,default,a y,a y
+452,LowlandMixe-46_leaf-1,,LowlandMixe,46_leaf,aay,aay,aː j,,Hoogshagen1993,46_leaf-1,,^ aa y $,default,a y,a y
+453,SayulaPopoluca-46_leaf-1,,SayulaPopoluca,46_leaf,ahy,ahy,a h j,,Clark1961,46_leaf-1,,^ a h y $,default,a h y,a h y
+454,OlutaPopoluca-46_leaf-1,,OlutaPopoluca,46_leaf,ayə,ayə,a j ə,,Clark1981,46_leaf-1,,^ a y ə $,default,a y 3,3 a y
+455,TexistepecZoque-46_leaf-1,,TexistepecZoque,46_leaf,ʔay,ʔay,ʔ a j,,Wichmann2002,46_leaf-1,,^ ʔ a y $,default,7 a y,7 a y
+456,SoteapanZoque-46_leaf-1,,SoteapanZoque,46_leaf,ay,ay,a j,,Elson1999,46_leaf-1,,^ a y $,default,a y,a y
+457,SantaMariaChimalapaZoque-46_leaf-1,,SantaMariaChimalapaZoque,46_leaf,ay,ay,a j,,Knudson1980,46_leaf-1,,^ a y $,default,a y,a y
+458,SanMiguelChimalapaZoque-46_leaf-1,,SanMiguelChimalapaZoque,46_leaf,ʔayʔ,ʔayʔ,ʔ a j ʔ,,Johnson1998,46_leaf-1,,^ ʔ a y ʔ $,default,7 a y 7,7 a y
+459,ChiapasZoque-46_leaf-1,,ChiapasZoque,46_leaf,ay,ay,a j,,Harrison1981,46_leaf-1,,^ a y $,default,a y,a y
+460,NorthHighlandMixe-47_lie-1,,NorthHighlandMixe,47_lie,maʔva,maʔva,m a ʔ v a,,Schoenhals1965,47_lie-1,,^ m a ʔ v a $,default,m a 7 v a,7 a m v
+461,SouthHighlandMixe-47_lie-1,,SouthHighlandMixe,47_lie,koʔoky,koʔoky,k o ʔ o k j,,Cysouw2006,47_lie-2,,^ k o ʔ o k y $,default,k o 7 o k y,7 k o y
+462,LowlandMixe-47_lie-1,,LowlandMixe,47_lie,koʔok,koʔok,k o ʔ o k,,Hoogshagen1993,47_lie-2,,^ k o ʔ o k $,default,k o 7 o k,7 k o
+463,SayulaPopoluca-47_lie-1,,SayulaPopoluca,47_lie,kəmna,kəmna,k ə m n a,,Clark1961,47_lie-3,,^ k ə m n a $,default,k 3 m n a,3 a k m n
+464,OlutaPopoluca-47_lie-1,,OlutaPopoluca,47_lie,šok,šok,ʃ o k,,Clark1981,47_lie-4,,^ š o k $,default,S o k,S k o
+465,TexistepecZoque-47_lie-1,,TexistepecZoque,47_lie,kas-deʔ,kas-deʔ,k a s + d e ʔ,,Wichmann2002,47_lie-5,,^ k a s - d e ʔ $,default,k a s  d e 7, 7 a d e k s
+466,SoteapanZoque-47_lie-1,,SoteapanZoque,47_lie,wooneʔe,wooneʔe,w oː n e ʔ e,,Elson1999,47_lie-6,,^ w oo n e ʔ e $,default,w o n e 7 e,7 e n o w
+467,SantaMariaChimalapaZoque-47_lie-1,,SantaMariaChimalapaZoque,47_lie,moŋ-kətake,moŋ-kətake,m o ŋ + k ə t a k e,,Knudson1980,47_lie-7,,^ m o ŋ - k ə t a k e $,default,m o N  k 3 t a k e, 3 N a e k m o t
+468,SanMiguelChimalapaZoque-47_lie-1,,SanMiguelChimalapaZoque,47_lie,moŋ,moŋ,m o ŋ,,Johnson1998,47_lie-7,,^ m o ŋ $,default,m o N,N m o
+469,ChiapasZoque-47_lie-1,,ChiapasZoque,47_lie,əkgehk,əkgehk,ə k g e h k,,Harrison1981,47_lie-8,,^ ə k g e h k $,default,3 k g e h k,3 e g h k
+470,NorthHighlandMixe-48_liver-1,,NorthHighlandMixe,48_liver,nəə hoot,nəə hoot,n əː + h oː t,,Schoenhals1965,48_liver-1,,^ n əə + h oo t $,default,n 3  h o t, 3 h n o t
+471,SouthHighlandMixe-48_liver-1,,SouthHighlandMixe,48_liver,hoht,hoht,h o h t,,Cysouw2006,48_liver-1,,^ h o h t $,default,h o h t,h o t
+472,LowlandMixe-48_liver-1,,LowlandMixe,48_liver,hot,hot,h o t,,Hoogshagen1993,48_liver-1,,^ h o t $,default,h o t,h o t
+473,SayulaPopoluca-48_liver-1,,SayulaPopoluca,48_liver,hooht,hooht,h oː h t,,Clark1961,48_liver-1,,^ h oo h t $,default,h o h t,h o t
+474,OlutaPopoluca-48_liver-1,,OlutaPopoluca,48_liver,təʔshotə,təʔshotə,t ə ʔ s h o t ə,,Clark1981,48_liver-1,,^ t ə ʔsh o t ə $,default,t 3 7 s h o t 3,3 7 h o s t
+475,TexistepecZoque-48_liver-1,,TexistepecZoque,48_liver,tsookoʔ,tsookoʔ,ts oː k o ʔ,,Wichmann2002,48_liver-1,,^ ts oo k o ʔ $,default,ts o k o 7,7 k o ts
+476,SoteapanZoque-48_liver-1,,SoteapanZoque,48_liver,tsoogoy,tsoogoy,ts oː g o j,,Elson1999,48_liver-1,,^ ts oo g o y $,default,ts o g o y,g o ts y
+477,SantaMariaChimalapaZoque-48_liver-1,,SantaMariaChimalapaZoque,48_liver,tsokoʔy,tsokoʔy,ts o k o ʔ j,,Knudson1980,48_liver-1,,^ ts o k o ʔ y $,default,ts o k o 7 y,7 k o ts y
+478,SanMiguelChimalapaZoque-48_liver-1,,SanMiguelChimalapaZoque,48_liver,paʔt,paʔt,p a ʔ t,,Johnson1998,48_liver-2,,^ p a ʔ t $,default,p a 7 t,7 a p t
+479,ChiapasZoque-48_liver-1,,ChiapasZoque,48_liver,paʔt,paʔt,p a ʔ t,,Harrison1981,48_liver-2,,^ p a ʔ t $,default,p a 7 t,7 a p t
+480,NorthHighlandMixe-49_long-1,,NorthHighlandMixe,49_long,yən,yən,j ə n,,Schoenhals1965,49_long-1,,^ y ə n $,default,y 3 n,3 n y
+481,SouthHighlandMixe-49_long-1,,SouthHighlandMixe,49_long,yeny,yeny,j e n j,,Cysouw2006,49_long-1,,^ y e n y $,default,y e n y,e n y
+482,LowlandMixe-49_long-1,,LowlandMixe,49_long,yoony,yoony,j oː n j,,Hoogshagen1993,49_long-2,,^ y oo n y $,default,y o n y,n o y
+483,SayulaPopoluca-49_long-1,,SayulaPopoluca,49_long,yagats,yagats,j a g a ts,,Clark1961,49_long-3,,^ y a g a ts $,default,y a g a ts,a g ts y
+484,OlutaPopoluca-49_long-1,,OlutaPopoluca,49_long,yoneʔk,yoneʔk,j o n e ʔ k,,Clark1981,49_long-4,,^ y o n e ʔ k $,default,y o n e 7 k,7 e k n o y
+485,TexistepecZoque-49_long-1,,TexistepecZoque,49_long,yaʔakaʔts,yaʔakaʔts,j a ʔ a k a ʔ ts,,Wichmann2002,49_long-3,,^ y a ʔ a k a ʔ ts $,default,y a 7 a k a 7 ts,7 a k ts y
+486,SoteapanZoque-49_long-1,,SoteapanZoque,49_long,yagats,yagats,j a g a ts,,Elson1999,49_long-3,,^ y a g a ts $,default,y a g a ts,a g ts y
+487,SantaMariaChimalapaZoque-49_long-1,,SantaMariaChimalapaZoque,49_long,pəhi,pəhi,p ə h i,,Knudson1980,49_long-5,,^ p ə h i $,default,p 3 h i,3 h i p
+488,SanMiguelChimalapaZoque-49_long-1,,SanMiguelChimalapaZoque,49_long,pəh-iʔ,pəh-iʔ,p ə h + i ʔ,,Johnson1998,49_long-5,,^ p ə h - i ʔ $,default,p 3 h  i 7, 3 7 h i p
+489,ChiapasZoque-49_long-1,,ChiapasZoque,49_long,pəy,pəy,p ə j,,Harrison1981,49_long-5,,^ p ə y $,default,p 3 y,3 p y
+490,NorthHighlandMixe-50_louse-1,,NorthHighlandMixe,50_louse,əəʔts,əəʔts,əː ʔ ts,,Schoenhals1965,50_louse-1,,^ əə ʔ ts $,default,3 7 ts,3 7 ts
+491,SouthHighlandMixe-50_louse-1,,SouthHighlandMixe,50_louse,aʔaht,aʔaht,a ʔ a h t,,Cysouw2006,50_louse-2,,^ a ʔ a h t $,default,a 7 a h t,7 a h t
+492,LowlandMixe-50_louse-1,,LowlandMixe,50_louse,aad,aad,aː d,,Hoogshagen1993,50_louse-1,,^ aa d $,default,a d,a d
+493,SayulaPopoluca-50_louse-1,,SayulaPopoluca,50_louse,aawat,aawat,aː w a t,,Clark1961,50_louse-2,,^ aa w a t $,default,a w a t,a t w
+494,OlutaPopoluca-50_louse-1,,OlutaPopoluca,50_louse,aavaʔt,aavaʔt,aː v a ʔ t,,Clark1981,50_louse-2,,^ aa v a ʔ t $,default,a v a 7 t,7 a t v
+495,TexistepecZoque-50_louse-1,,TexistepecZoque,50_louse,awaʔt,awaʔt,a w a ʔ t,,Wichmann2002,50_louse-2,,^ a w a ʔ t $,default,a w a 7 t,7 a t w
+496,SoteapanZoque-50_louse-1,,SoteapanZoque,50_louse,aʔawat,aʔawat,a ʔ a w a t,,Elson1999,50_louse-2,,^ a ʔ a w a t $,default,a 7 a w a t,7 a t w
+497,SantaMariaChimalapaZoque-50_louse-1,,SantaMariaChimalapaZoque,50_louse,awat,awat,a w a t,,Knudson1980,50_louse-2,,^ a w a t $,default,a w a t,a t w
+498,SanMiguelChimalapaZoque-50_louse-1,,SanMiguelChimalapaZoque,50_louse,ʔawat,ʔawat,ʔ a w a t,,Johnson1998,50_louse-2,,^ ʔ a w a t $,default,7 a w a t,7 a t w
+499,ChiapasZoque-50_louse-1,,ChiapasZoque,50_louse,awat,awat,a w a t,,Harrison1981,50_louse-2,,^ a w a t $,default,a w a t,a t w
+500,NorthHighlandMixe-51_man-1,,NorthHighlandMixe,51_man,yaaʔtyəhk,yaaʔtyəhk,j aː ʔ t j ə h k,,Schoenhals1965,51_man-1,,^ y aa ʔ t y ə h k $,default,y a 7 t y 3 h k,3 7 a h k t y
+501,SouthHighlandMixe-51_man-1,,SouthHighlandMixe,51_man,hətyəhk,hətyəhk,h ə t j ə h k,,Cysouw2006,51_man-1,,^ h ə t y ə h k $,default,h 3 t y 3 h k,3 h k t y
+502,LowlandMixe-51_man-1,,LowlandMixe,51_man,yeʔey-dəhk,yeʔey-dəhk,j e ʔ e j + d ə h k,,Hoogshagen1993,51_man-1,,^ y e ʔ e y - d ə h k $,default,y e 7 e y  d 3 h k, 3 7 d e h k y
+503,SayulaPopoluca-51_man-1,,SayulaPopoluca,51_man,hayaw,hayaw,h a j a w,,Clark1961,51_man-2,,^ h a y a w $,default,h a y a w,a h w y
+504,OlutaPopoluca-51_man-1,,OlutaPopoluca,51_man,yoʔohwa,yoʔohwa,j o ʔ o h w a,,Clark1981,51_man-3,,^ y o ʔ o hw a $,default,y o 7 o h w a,7 a h o w y
+505,TexistepecZoque-51_man-1,,TexistepecZoque,51_man,pəəñ,pəəñ,p əː ɲ,,Wichmann2002,51_man-4,,^ p əə ñ $,default,p 3 5,3 5 p
+506,SoteapanZoque-51_man-1,,SoteapanZoque,51_man,pəəšiñ,pəəšiñ,p əː ʃ i ɲ,,Elson1999,51_man-4,,^ p əə š i ñ $,default,p 3 S i 5,3 5 S i p
+507,SantaMariaChimalapaZoque-51_man-1,,SantaMariaChimalapaZoque,51_man,pən,pən,p ə n,,Knudson1980,51_man-4,,^ p ə n $,default,p 3 n,3 n p
+508,SanMiguelChimalapaZoque-51_man-1,,SanMiguelChimalapaZoque,51_man,pən,pən,p ə n,,Johnson1998,51_man-4,,^ p ə n $,default,p 3 n,3 n p
+509,ChiapasZoque-51_man-1,,ChiapasZoque,51_man,pən,pən,p ə n,,Harrison1981,51_man-4,,^ p ə n $,default,p 3 n,3 n p
+510,NorthHighlandMixe-52_many-1,,NorthHighlandMixe,52_many,may,may,m a j,,Schoenhals1965,52_many-1,,^ m a y $,default,m a y,a m y
+511,SouthHighlandMixe-52_many-1,,SouthHighlandMixe,52_many,mæy,mæy,m æ j,,Cysouw2006,52_many-1,,^ m æ y $,default,m E y,E m y
+512,LowlandMixe-52_many-1,,LowlandMixe,52_many,may,may,m a j,,Hoogshagen1993,52_many-1,,^ m a y $,default,m a y,a m y
+513,SayulaPopoluca-52_many-1,,SayulaPopoluca,52_many,may,may,m a j,,Clark1961,52_many-1,,^ m a y $,default,m a y,a m y
+514,OlutaPopoluca-52_many-1,,OlutaPopoluca,52_many,"paʔko, taʔna",paʔko,p a ʔ k o,,Clark1981,52_many-2,,^ p a ʔ k o $,default,p a 7 k o,7 a k o p
+515,OlutaPopoluca-52_many-2,,OlutaPopoluca,52_many,"paʔko, taʔna",taʔna,t a ʔ n a,,Clark1981,52_many-2,,^ t a ʔ n a $,default,t a 7 n a,7 a n t
+516,TexistepecZoque-52_many-1,,TexistepecZoque,52_many,"dač-ke, bəks-ke, səʔəs-daʔa",dač-ke,d a tʃ + k e,,Wichmann2002,52_many-4,,^ d a č - k e $,default,d a tS  k e, a d e k tS
+517,TexistepecZoque-52_many-2,,TexistepecZoque,52_many,"dač-ke, bəks-ke, səʔəs-daʔa",bəks-ke,b ə k s + k e,,Wichmann2002,52_many-4,,^ b ə ks - k e $,default,b 3 k s  k e, 3 b e k s
+518,TexistepecZoque-52_many-3,,TexistepecZoque,52_many,"dač-ke, bəks-ke, səʔəs-daʔa",səʔəs-daʔa,s ə ʔ ə s + d a ʔ a,,Wichmann2002,52_many-4,,^ s ə ʔ ə s - d a ʔ a $,default,s 3 7 3 s  d a 7 a, 3 7 a d s
+519,SoteapanZoque-52_many-1,,SoteapanZoque,52_many,"agi, tsaam, haʔyaŋ, waatyi",agi,a g i,,Elson1999,52_many-5,,^ a g i $,default,a g i,a g i
+520,SoteapanZoque-52_many-2,,SoteapanZoque,52_many,"agi, tsaam, haʔyaŋ, waatyi",tsaam,ts aː m,,Elson1999,52_many-5,,^ ts aa m $,default,ts a m,a m ts
+521,SoteapanZoque-52_many-3,,SoteapanZoque,52_many,"agi, tsaam, haʔyaŋ, waatyi",haʔyaŋ,h a ʔ j a ŋ,,Elson1999,52_many-5,,^ h a ʔ y a ŋ $,default,h a 7 y a N,7 N a h y
+522,SoteapanZoque-52_many-4,,SoteapanZoque,52_many,"agi, tsaam, haʔyaŋ, waatyi",waatyi,w aː t j i,,Elson1999,52_many-5,,^ w aa t y i $,default,w a t y i,a i t w y
+523,SantaMariaChimalapaZoque-52_many-1,,SantaMariaChimalapaZoque,52_many,səhəʔ,səhəʔ,s ə h ə ʔ,,Knudson1980,52_many-6,,^ s ə h ə ʔ $,default,s 3 h 3 7,3 7 h s
+524,SanMiguelChimalapaZoque-52_many-1,,SanMiguelChimalapaZoque,52_many,šəh-əʔ,šəh-əʔ,ʃ ə h + ə ʔ,,Johnson1998,52_many-6,,^ š ə h - ə ʔ $,default,S 3 h  3 7, 3 7 S h
+525,ChiapasZoque-52_many-1,,ChiapasZoque,52_many,"wəwə, aŋ-baʔt-e, məʔčəki",wəwə,w ə w ə,,Harrison1981,52_many-3,,^ w ə w ə $,default,w 3 w 3,3 w
+526,ChiapasZoque-52_many-2,,ChiapasZoque,52_many,"wəwə, aŋ-baʔt-e, məʔčəki",aŋ-baʔt-e,a ŋ + b a ʔ t + e,,Harrison1981,52_many-3,,^ a ŋ - b a ʔ t - e $,default,a N  b a 7 t  e, 7 N a b e t
+527,ChiapasZoque-52_many-3,,ChiapasZoque,52_many,"wəwə, aŋ-baʔt-e, məʔčəki",məʔčəki,m ə ʔ tʃ ə k i,,Harrison1981,52_many-3,,^ m ə ʔ č ə k i $,default,m 3 7 tS 3 k i,3 7 i k m tS
+528,NorthHighlandMixe-53_meat-1,,NorthHighlandMixe,53_meat,tsuʔuts,tsuʔuts,ts u ʔ u ts,,Schoenhals1965,53_meat-1,,^ ts u ʔ u ts $,default,ts u 7 u ts,7 ts u
+529,SouthHighlandMixe-53_meat-1,,SouthHighlandMixe,53_meat,tsuʔučy,tsuʔučy,ts u ʔ u tʃ j,,Cysouw2006,53_meat-1,,^ ts u ʔ u č y $,default,ts u 7 u tS y,7 tS ts u y
+530,LowlandMixe-53_meat-1,,LowlandMixe,53_meat,tsuʔuč,tsuʔuč,ts u ʔ u tʃ,,Hoogshagen1993,53_meat-1,,^ ts u ʔ u č $,default,ts u 7 u tS,7 tS ts u
+531,SayulaPopoluca-53_meat-1,,SayulaPopoluca,53_meat,šiš,šiš,ʃ i ʃ,,Clark1961,53_meat-2,,^ š i š $,default,S i S,S i
+532,OlutaPopoluca-53_meat-1,,OlutaPopoluca,53_meat,tsuʔči,tsuʔči,ts u ʔ tʃ i,,Clark1981,53_meat-1,,^ ts u ʔ č i $,default,ts u 7 tS i,7 i tS ts u
+533,TexistepecZoque-53_meat-1,,TexistepecZoque,53_meat,šeš,šeš,ʃ e ʃ,,Wichmann2002,53_meat-2,,^ š e š $,default,S e S,S e
+534,SoteapanZoque-53_meat-1,,SoteapanZoque,53_meat,maayi,maayi,m aː j i,,Elson1999,53_meat-3,,^ m aa y i $,default,m a y i,a i m y
+535,SantaMariaChimalapaZoque-53_meat-1,,SantaMariaChimalapaZoque,53_meat,sis,sis,s i s,,Knudson1980,53_meat-2,,^ s i s $,default,s i s,i s
+536,SanMiguelChimalapaZoque-53_meat-1,,SanMiguelChimalapaZoque,53_meat,šiš,šiš,ʃ i ʃ,,Johnson1998,53_meat-2,,^ š i š $,default,S i S,S i
+537,ChiapasZoque-53_meat-1,,ChiapasZoque,53_meat,sis,sis,s i s,,Harrison1981,53_meat-2,,^ s i s $,default,s i s,i s
+538,NorthHighlandMixe-54_moon-1,,NorthHighlandMixe,54_moon,poʔo,poʔo,p o ʔ o,,Schoenhals1965,54_moon-1,,^ p o ʔ o $,default,p o 7 o,7 o p
+539,SouthHighlandMixe-54_moon-1,,SouthHighlandMixe,54_moon,poʔo,poʔo,p o ʔ o,,Cysouw2006,54_moon-1,,^ p o ʔ o $,default,p o 7 o,7 o p
+540,LowlandMixe-54_moon-1,,LowlandMixe,54_moon,poʔ,poʔ,p o ʔ,,Hoogshagen1993,54_moon-1,,^ p o ʔ $,default,p o 7,7 o p
+541,SayulaPopoluca-54_moon-1,,SayulaPopoluca,54_moon,poʔ,poʔ,p o ʔ,,Clark1961,54_moon-1,,^ p o ʔ $,default,p o 7,7 o p
+542,OlutaPopoluca-54_moon-1,,OlutaPopoluca,54_moon,poʔa,poʔa,p o ʔ a,,Clark1981,54_moon-1,,^ p o ʔ a $,default,p o 7 a,7 a o p
+543,TexistepecZoque-54_moon-1,,TexistepecZoque,54_moon,pooy,pooy,p oː j,,Wichmann2002,54_moon-1,,^ p oo y $,default,p o y,o p y
+544,SoteapanZoque-54_moon-1,,SoteapanZoque,54_moon,pooya,pooya,p oː j a,,Elson1999,54_moon-1,,^ p oo y a $,default,p o y a,a o p y
+545,SantaMariaChimalapaZoque-54_moon-1,,SantaMariaChimalapaZoque,54_moon,sepeʔ,sepeʔ,s e p e ʔ,,Knudson1980,54_moon-2,,^ s e p e ʔ $,default,s e p e 7,7 e p s
+546,SanMiguelChimalapaZoque-54_moon-1,,SanMiguelChimalapaZoque,54_moon,šepeʔ,šepeʔ,ʃ e p e ʔ,,Johnson1998,54_moon-2,,^ š e p e ʔ $,default,S e p e 7,7 S e p
+547,ChiapasZoque-54_moon-1,,ChiapasZoque,54_moon,poyah,poyah,p o j a h,,Harrison1981,54_moon-1,,^ p o y a h $,default,p o y a h,a h o p y
+548,NorthHighlandMixe-55_mountain-1,,NorthHighlandMixe,55_mountain,kopk,kopk,k o p k,,Schoenhals1965,55_mountain-1,,^ k o p k $,default,k o p k,k o p
+549,SouthHighlandMixe-55_mountain-1,,SouthHighlandMixe,55_mountain,kokp,kokp,k o k p,,Cysouw2006,55_mountain-1,,^ k o k p $,default,k o k p,k o p
+550,LowlandMixe-55_mountain-1,,LowlandMixe,55_mountain,"koʔogop, kop",koʔogop,k o ʔ o g o p,,Hoogshagen1993,55_mountain-1,,^ k o ʔ o g o p $,default,k o 7 o g o p,7 g k o p
+551,LowlandMixe-55_mountain-2,,LowlandMixe,55_mountain,"koʔogop, kop",kop,k o p,,Hoogshagen1993,55_mountain-1,,^ k o p $,default,k o p,k o p
+552,SayulaPopoluca-55_mountain-1,,SayulaPopoluca,55_mountain,kopak,kopak,k o p a k,,Clark1961,55_mountain-1,,^ k o p a k $,default,k o p a k,a k o p
+553,OlutaPopoluca-55_mountain-1,,OlutaPopoluca,55_mountain,kopaʔk,kopaʔk,k o p a ʔ k,,Clark1981,55_mountain-1,,^ k o p a ʔ k $,default,k o p a 7 k,7 a k o p
+554,TexistepecZoque-55_mountain-1,,TexistepecZoque,55_mountain,kotsək,kotsək,k o ts ə k,,Wichmann2002,55_mountain-2,,^ k o ts ə k $,default,k o ts 3 k,3 k o ts
+555,SoteapanZoque-55_mountain-1,,SoteapanZoque,55_mountain,kootsək,kootsək,k oː ts ə k,,Elson1999,55_mountain-2,,^ k oo ts ə k $,default,k o ts 3 k,3 k o ts
+556,SanMiguelChimalapaZoque-55_mountain-1,,SanMiguelChimalapaZoque,55_mountain,kotsək,kotsək,k o ts ə k,,Johnson1998,55_mountain-2,,^ k o ts ə k $,default,k o ts 3 k,3 k o ts
+557,ChiapasZoque-55_mountain-1,,ChiapasZoque,55_mountain,kotsək,kotsək,k o ts ə k,,Harrison1981,55_mountain-2,,^ k o ts ə k $,default,k o ts 3 k,3 k o ts
+558,NorthHighlandMixe-56_mouth-1,,NorthHighlandMixe,56_mouth,aah,aah,aː h,,Schoenhals1965,56_mouth-1,,^ aa h $,default,a h,a h
+559,SouthHighlandMixe-56_mouth-1,,SouthHighlandMixe,56_mouth,aa,aa,aː,,Cysouw2006,56_mouth-1,,^ aa $,default,a,a
+560,LowlandMixe-56_mouth-1,,LowlandMixe,56_mouth,aawak,aawak,aː w a k,,Hoogshagen1993,56_mouth-1,,^ aa w a k $,default,a w a k,a k w
+561,SayulaPopoluca-56_mouth-1,,SayulaPopoluca,56_mouth,ahw,ahw,a h w,,Clark1961,56_mouth-1,,^ a hw $,default,a h w,a h w
+562,OlutaPopoluca-56_mouth-1,,OlutaPopoluca,56_mouth,avə,avə,a v ə,,Clark1981,56_mouth-1,,^ a v ə $,default,a v 3,3 a v
+563,TexistepecZoque-56_mouth-1,,TexistepecZoque,56_mouth,həp,həp,h ə p,,Wichmann2002,56_mouth-3,,^ h ə p $,default,h 3 p,3 h p
+564,SoteapanZoque-56_mouth-1,,SoteapanZoque,56_mouth,həp,həp,h ə p,,Elson1999,56_mouth-3,,^ h ə p $,default,h 3 p,3 h p
+565,SantaMariaChimalapaZoque-56_mouth-1,,SantaMariaChimalapaZoque,56_mouth,həp,həp,h ə p,,Knudson1980,56_mouth-3,,^ h ə p $,default,h 3 p,3 h p
+566,SanMiguelChimalapaZoque-56_mouth-1,,SanMiguelChimalapaZoque,56_mouth,həp,həp,h ə p,,Johnson1998,56_mouth-3,,^ h ə p $,default,h 3 p,3 h p
+567,ChiapasZoque-56_mouth-1,,ChiapasZoque,56_mouth,aŋnaka,aŋnaka,a ŋ n a k a,,Harrison1981,56_mouth-2,,^ a ŋ n a k a $,default,a N n a k a,N a k n
+568,NorthHighlandMixe-57_name-1,,NorthHighlandMixe,57_name,šəə,šəə,ʃ əː,,Schoenhals1965,57_name-1,,^ š əə $,default,S 3,3 S
+569,SouthHighlandMixe-57_name-1,,SouthHighlandMixe,57_name,šəə,šəə,ʃ əː,,Cysouw2006,57_name-1,,^ š əə $,default,S 3,3 S
+570,LowlandMixe-57_name-1,,LowlandMixe,57_name,šəə,šəə,ʃ əː,,Hoogshagen1993,57_name-1,,^ š əə $,default,S 3,3 S
+571,SayulaPopoluca-57_name-1,,SayulaPopoluca,57_name,nəʔhy,nəʔhy,n ə ʔ h j,,Clark1961,57_name-2,,^ n ə ʔh y $,default,n 3 7 h y,3 7 h n y
+572,OlutaPopoluca-57_name-1,,OlutaPopoluca,57_name,šəvə,šəvə,ʃ ə v ə,,Clark1981,57_name-1,,^ š ə v ə $,default,S 3 v 3,3 S v
+573,TexistepecZoque-57_name-1,,TexistepecZoque,57_name,dəy,dəy,d ə j,,Wichmann2002,57_name-2,,^ d ə y $,default,d 3 y,3 d y
+574,SoteapanZoque-57_name-1,,SoteapanZoque,57_name,nəəyi,nəəyi,n əː j i,,Elson1999,57_name-2,,^ n əə y i $,default,n 3 y i,3 i n y
+575,SantaMariaChimalapaZoque-57_name-1,,SantaMariaChimalapaZoque,57_name,nəhi,nəhi,n ə h i,,Knudson1980,57_name-2,,^ n ə h i $,default,n 3 h i,3 h i n
+576,SanMiguelChimalapaZoque-57_name-1,,SanMiguelChimalapaZoque,57_name,nəhi,nəhi,n ə h i,,Johnson1998,57_name-2,,^ n ə h i $,default,n 3 h i,3 h i n
+577,ChiapasZoque-57_name-1,,ChiapasZoque,57_name,nəy,nəy,n ə j,,Harrison1981,57_name-2,,^ n ə y $,default,n 3 y,3 n y
+578,NorthHighlandMixe-58_neck-1,,NorthHighlandMixe,58_neck,yoʔkt,yoʔkt,j o ʔ k t,,Schoenhals1965,58_neck-1,,^ y o ʔ k t $,default,y o 7 k t,7 k o t y
+579,SouthHighlandMixe-58_neck-1,,SouthHighlandMixe,58_neck,yoʔkt,yoʔkt,j o ʔ k t,,Cysouw2006,58_neck-1,,^ y o ʔ k t $,default,y o 7 k t,7 k o t y
+580,LowlandMixe-58_neck-1,,LowlandMixe,58_neck,yoʔok-pahk,yoʔok-pahk,j o ʔ o k + p a h k,,Hoogshagen1993,58_neck-1,,^ y o ʔ o k - p a h k $,default,y o 7 o k  p a h k, 7 a h k o p y
+581,SayulaPopoluca-58_neck-1,,SayulaPopoluca,58_neck,yoʔk,yoʔk,j o ʔ k,,Clark1961,58_neck-1,,^ y o ʔ k $,default,y o 7 k,7 k o y
+582,TexistepecZoque-58_neck-1,,TexistepecZoque,58_neck,kən-kəʔ,kən-kəʔ,k ə n + k ə ʔ,,Wichmann2002,58_neck-2,,^ k ə n - k ə ʔ $,default,k 3 n  k 3 7, 3 7 k n
+583,SanMiguelChimalapaZoque-58_neck-1,,SanMiguelChimalapaZoque,58_neck,wintuʔ,wintuʔ,w i n t u ʔ,,Johnson1998,58_neck-3,,^ w i n t u ʔ $,default,w i n t u 7,7 i n t u w
+584,ChiapasZoque-58_neck-1,,ChiapasZoque,58_neck,kənə,kənə,k ə n ə,,Harrison1981,58_neck-2,,^ k ə n ə $,default,k 3 n 3,3 k n
+585,NorthHighlandMixe-59_new-1,,NorthHighlandMixe,59_new,nam,nam,n a m,,Schoenhals1965,59_new-1,,^ n a m $,default,n a m,a m n
+586,SouthHighlandMixe-59_new-1,,SouthHighlandMixe,59_new,hempy,hempy,h e m p j,,Cysouw2006,59_new-2,,^ h e m p y $,default,h e m p y,e h m p y
+587,LowlandMixe-59_new-1,,LowlandMixe,59_new,hemy,hemy,h e m j,,Hoogshagen1993,59_new-2,,^ h e m y $,default,h e m y,e h m y
+588,SayulaPopoluca-59_new-1,,SayulaPopoluca,59_new,namay,namay,n a m a j,,Clark1961,59_new-1,,^ n a m a y $,default,n a m a y,a m n y
+589,OlutaPopoluca-59_new-1,,OlutaPopoluca,59_new,namə,namə,n a m ə,,Clark1981,59_new-1,,^ n a m ə $,default,n a m 3,3 a m n
+590,TexistepecZoque-59_new-1,,TexistepecZoque,59_new,homə-naʔ,homə-naʔ,h o m ə + n a ʔ,,Wichmann2002,59_new-2,,^ h o m ə - n a ʔ $,default,h o m 3  n a 7, 3 7 a h m n o
+591,SoteapanZoque-59_new-1,,SoteapanZoque,59_new,hoomi,hoomi,h oː m i,,Elson1999,59_new-2,,^ h oo m i $,default,h o m i,h i m o
+592,SantaMariaChimalapaZoque-59_new-1,,SantaMariaChimalapaZoque,59_new,homeʔ,homeʔ,h o m e ʔ,,Knudson1980,59_new-2,,^ h o m e ʔ $,default,h o m e 7,7 e h m o
+593,SanMiguelChimalapaZoque-59_new-1,,SanMiguelChimalapaZoque,59_new,homeʔ,homeʔ,h o m e ʔ,,Johnson1998,59_new-2,,^ h o m e ʔ $,default,h o m e 7,7 e h m o
+594,ChiapasZoque-59_new-1,,ChiapasZoque,59_new,home,home,h o m e,,Harrison1981,59_new-2,,^ h o m e $,default,h o m e,e h m o
+595,NorthHighlandMixe-60_night-1,,NorthHighlandMixe,60_night,tsυυ,tsυυ,ts υː/ʊː,,Schoenhals1965,60_night-2,,^ ts υυ $,default,ts u,ts u
+596,SouthHighlandMixe-60_night-1,,SouthHighlandMixe,60_night,koots,koots,k oː ts,,Cysouw2006,60_night-2,,^ k oo ts $,default,k o ts,k o ts
+597,LowlandMixe-60_night-1,,LowlandMixe,60_night,adzuuʔəʔ,adzuuʔəʔ,a d z uː ʔ ə ʔ,,Hoogshagen1993,60_night-1,,^ a d z uu ʔ ə ʔ $,default,a d z u 7 3 7,3 7 a d u z
+598,SayulaPopoluca-60_night-1,,SayulaPopoluca,60_night,tsuʔ,tsuʔ,ts u ʔ,,Clark1961,60_night-1,,^ ts u ʔ $,default,ts u 7,7 ts u
+599,OlutaPopoluca-60_night-1,,OlutaPopoluca,60_night,tsuhə,tsuhə,ts u h ə,,Clark1981,60_night-1,,^ ts u h ə $,default,ts u h 3,3 h ts u
+600,TexistepecZoque-60_night-1,,TexistepecZoque,60_night,tsuʔ,tsuʔ,ts u ʔ,,Wichmann2002,60_night-1,,^ ts u ʔ $,default,ts u 7,7 ts u
+601,SoteapanZoque-60_night-1,,SoteapanZoque,60_night,tsuʔu,tsuʔu,ts u ʔ u,,Elson1999,60_night-1,,^ ts u ʔ u $,default,ts u 7 u,7 ts u
+602,SantaMariaChimalapaZoque-60_night-1,,SantaMariaChimalapaZoque,60_night,tsuʔhi,tsuʔhi,ts u ʔ h i,,Knudson1980,60_night-1,,^ ts u ʔh i $,default,ts u 7 h i,7 h i ts u
+603,SanMiguelChimalapaZoque-60_night-1,,SanMiguelChimalapaZoque,60_night,tsuʔ,tsuʔ,ts u ʔ,,Johnson1998,60_night-1,,^ ts u ʔ $,default,ts u 7,7 ts u
+604,ChiapasZoque-60_night-1,,ChiapasZoque,60_night,tsuʔ,tsuʔ,ts u ʔ,,Harrison1981,60_night-1,,^ ts u ʔ $,default,ts u 7,7 ts u
+605,NorthHighlandMixe-61_nose-1,,NorthHighlandMixe,61_nose,həhp,həhp,h ə h p,,Schoenhals1965,61_nose-1,,^ h ə h p $,default,h 3 h p,3 h p
+606,SouthHighlandMixe-61_nose-1,,SouthHighlandMixe,61_nose,həhp,həhp,h ə h p,,Cysouw2006,61_nose-1,,^ h ə h p $,default,h 3 h p,3 h p
+607,LowlandMixe-61_nose-1,,LowlandMixe,61_nose,həhp-put,həhp-put,h ə h p + p u t,,Hoogshagen1993,61_nose-1,,^ h ə h p - p u t $,default,h 3 h p  p u t, 3 h p t u
+608,SayulaPopoluca-61_nose-1,,SayulaPopoluca,61_nose,həhp,həhp,h ə h p,,Clark1961,61_nose-1,,^ h ə h p $,default,h 3 h p,3 h p
+609,OlutaPopoluca-61_nose-1,,OlutaPopoluca,61_nose,həpə,həpə,h ə p ə,,Clark1981,61_nose-1,,^ h ə p ə $,default,h 3 p 3,3 h p
+610,TexistepecZoque-61_nose-1,,TexistepecZoque,61_nose,keñ-kuy,keñ-kuy,k e ɲ + k u j,,Wichmann2002,61_nose-2,,^ k e ñ - k u y $,default,k e 5  k u y, 5 e k u y
+611,SoteapanZoque-61_nose-1,,SoteapanZoque,61_nose,kiiñi,kiiñi,k iː ɲ i,,Elson1999,61_nose-2,,^ k ii ñ i $,default,k i 5 i,5 i k
+612,SantaMariaChimalapaZoque-61_nose-1,,SantaMariaChimalapaZoque,61_nose,kinə,kinə,k i n ə,,Knudson1980,61_nose-2,,^ k i n ə $,default,k i n 3,3 i k n
+613,SanMiguelChimalapaZoque-61_nose-1,,SanMiguelChimalapaZoque,61_nose,kinək,kinək,k i n ə k,,Johnson1998,61_nose-2,,^ k i n ə k $,default,k i n 3 k,3 i k n
+614,ChiapasZoque-61_nose-1,,ChiapasZoque,61_nose,kinə,kinə,k i n ə,,Harrison1981,61_nose-2,,^ k i n ə $,default,k i n 3,3 i k n
+615,NorthHighlandMixe-62_not-1,,NorthHighlandMixe,62_not,kaʔa,kaʔa,k a ʔ a,,Schoenhals1965,62_not-1,,^ k a ʔ a $,default,k a 7 a,7 a k
+616,SouthHighlandMixe-62_not-1,,SouthHighlandMixe,62_not,kaʔt,kaʔt,k a ʔ t,,Cysouw2006,62_not-1,,^ k a ʔ t $,default,k a 7 t,7 a k t
+617,LowlandMixe-62_not-1,,LowlandMixe,62_not,kaʔ,kaʔ,k a ʔ,,Hoogshagen1993,62_not-1,,^ k a ʔ $,default,k a 7,7 a k
+618,SayulaPopoluca-62_not-1,,SayulaPopoluca,62_not,kaah,kaah,k aː h,,Clark1961,62_not-1,,^ k aa h $,default,k a h,a h k
+619,OlutaPopoluca-62_not-1,,OlutaPopoluca,62_not,əʔə,əʔə,ə ʔ ə,,Clark1981,62_not-2,,^ ə ʔ ə $,default,3 7 3,3 7
+620,TexistepecZoque-62_not-1,,TexistepecZoque,62_not,eñč,eñč,e ɲ tʃ,,Wichmann2002,62_not-3,,^ e ñ č $,default,e 5 tS,5 e tS
+621,SoteapanZoque-62_not-1,,SoteapanZoque,62_not,dYa,dYa,d Y/j a,,Elson1999,62_not-4,,^ d Y a $,default,d y a,a d y
+622,SantaMariaChimalapaZoque-62_not-1,,SantaMariaChimalapaZoque,62_not,wat kaha,wat kaha,w a t + k a h a,,Knudson1980,62_not-1,,^ w a t + k a h a $,default,w a t  k a h a, a h k t w
+623,SanMiguelChimalapaZoque-62_not-1,,SanMiguelChimalapaZoque,62_not,ya,ya,j a,,Johnson1998,62_not-4,,^ y a $,default,y a,a y
+624,ChiapasZoque-62_not-1,,ChiapasZoque,62_not,haʔne,haʔne,h a ʔ n e,,Harrison1981,62_not-4,,^ h a ʔ n e $,default,h a 7 n e,7 a e h n
+625,NorthHighlandMixe-63_one-1,,NorthHighlandMixe,63_one,tυʔk,tυʔk,t υ/ʊ ʔ k,,Schoenhals1965,63_one-1,,^ t υ ʔ k $,default,t u 7 k,7 k t u
+626,SouthHighlandMixe-63_one-1,,SouthHighlandMixe,63_one,tuʔuk,tuʔuk,t u ʔ u k,,Cysouw2006,63_one-1,,^ t u ʔ u k $,default,t u 7 u k,7 k t u
+627,LowlandMixe-63_one-1,,LowlandMixe,63_one,tuʔuk,tuʔuk,t u ʔ u k,,Hoogshagen1993,63_one-1,,^ t u ʔ u k $,default,t u 7 u k,7 k t u
+628,SayulaPopoluca-63_one-1,,SayulaPopoluca,63_one,tuʔk,tuʔk,t u ʔ k,,Clark1961,63_one-1,,^ t u ʔ k $,default,t u 7 k,7 k t u
+629,OlutaPopoluca-63_one-1,,OlutaPopoluca,63_one,tuʔk,tuʔk,t u ʔ k,,Clark1981,63_one-1,,^ t u ʔ k $,default,t u 7 k,7 k t u
+630,TexistepecZoque-63_one-1,,TexistepecZoque,63_one,tum,tum,t u m,,Wichmann2002,63_one-2,,^ t u m $,default,t u m,m t u
+631,SoteapanZoque-63_one-1,,SoteapanZoque,63_one,tuum,tuum,t uː m,,Elson1999,63_one-2,,^ t uu m $,default,t u m,m t u
+632,SantaMariaChimalapaZoque-63_one-1,,SantaMariaChimalapaZoque,63_one,tumə,tumə,t u m ə,,Knudson1980,63_one-2,,^ t u m ə $,default,t u m 3,3 m t u
+633,SanMiguelChimalapaZoque-63_one-1,,SanMiguelChimalapaZoque,63_one,tumə,tumə,t u m ə,,Johnson1998,63_one-2,,^ t u m ə $,default,t u m 3,3 m t u
+634,ChiapasZoque-63_one-1,,ChiapasZoque,63_one,tumə,tumə,t u m ə,,Harrison1981,63_one-2,,^ t u m ə $,default,t u m 3,3 m t u
+635,NorthHighlandMixe-64_person-1,,NorthHighlandMixe,64_person,hayu,hayu,h a j u,,Schoenhals1965,64_person-1,,^ h a y u $,default,h a y u,a h u y
+636,SouthHighlandMixe-64_person-1,,SouthHighlandMixe,64_person,haʔay,haʔay,h a ʔ a j,,Cysouw2006,64_person-1,,^ h a ʔ a y $,default,h a 7 a y,7 a h y
+637,LowlandMixe-64_person-1,,LowlandMixe,64_person,həy,həy,h ə j,,Hoogshagen1993,64_person-1,,^ h ə y $,default,h 3 y,3 h y
+638,SayulaPopoluca-64_person-1,,SayulaPopoluca,64_person,hayaw,hayaw,h a j a w,,Clark1961,64_person-1,,^ h a y a w $,default,h a y a w,a h w y
+639,OlutaPopoluca-64_person-1,,OlutaPopoluca,64_person,haykaʔk,haykaʔk,h a j k a ʔ k,,Clark1981,64_person-1,,^ h a y k a ʔ k $,default,h a y k a 7 k,7 a h k y
+640,TexistepecZoque-64_person-1,,TexistepecZoque,64_person,pəəñ-čaʔ,pəəñ-čaʔ,p əː ɲ + tʃ a ʔ,,Wichmann2002,64_person-2,,^ p əə ñ - č a ʔ $,default,p 3 5  tS a 7, 3 5 7 a p tS
+641,ChiapasZoque-64_person-1,,ChiapasZoque,64_person,pən-daʔm,pən-daʔm,p ə n + d a ʔ m,,Harrison1981,64_person-2,,^ p ə n - d a ʔ m $,default,p 3 n  d a 7 m, 3 7 a d m n p
+642,NorthHighlandMixe-65_rain-1,,NorthHighlandMixe,65_rain,tυυ,tυυ,t υː/ʊː,,Schoenhals1965,65_rain-1,,^ t υυ $,default,t u,t u
+643,SouthHighlandMixe-65_rain-1,,SouthHighlandMixe,65_rain,tuh,tuh,t u h,,Cysouw2006,65_rain-1,,^ t u h $,default,t u h,h t u
+644,LowlandMixe-65_rain-1,,LowlandMixe,65_rain,tuu,tuu,t uː,,Hoogshagen1993,65_rain-1,,^ t uu $,default,t u,t u
+645,SayulaPopoluca-65_rain-1,,SayulaPopoluca,65_rain,tuu,tuu,t uː,,Clark1961,65_rain-1,,^ t uu $,default,t u,t u
+646,OlutaPopoluca-65_rain-1,,OlutaPopoluca,65_rain,tuuhə,tuuhə,t uː h ə,,Clark1981,65_rain-1,,^ t uu h ə $,default,t u h 3,3 h t u
+647,TexistepecZoque-65_rain-1,,TexistepecZoque,65_rain,tuh,tuh,t u h,,Wichmann2002,65_rain-1,,^ t u h $,default,t u h,h t u
+648,SoteapanZoque-65_rain-1,,SoteapanZoque,65_rain,tuh,tuh,t u h,,Elson1999,65_rain-1,,^ t u h $,default,t u h,h t u
+649,SantaMariaChimalapaZoque-65_rain-1,,SantaMariaChimalapaZoque,65_rain,tuh,tuh,t u h,,Knudson1980,65_rain-1,,^ t u h $,default,t u h,h t u
+650,SanMiguelChimalapaZoque-65_rain-1,,SanMiguelChimalapaZoque,65_rain,tuh,tuh,t u h,,Johnson1998,65_rain-1,,^ t u h $,default,t u h,h t u
+651,ChiapasZoque-65_rain-1,,ChiapasZoque,65_rain,tuh,tuh,t u h,,Harrison1981,65_rain-1,,^ t u h $,default,t u h,h t u
+652,NorthHighlandMixe-66_red-1,,NorthHighlandMixe,66_red,tsapts,tsapts,ts a p ts,,Schoenhals1965,66_red-1,,^ ts a p ts $,default,ts a p ts,a p ts
+653,SouthHighlandMixe-66_red-1,,SouthHighlandMixe,66_red,tsaps,tsaps,ts a p s,,Cysouw2006,66_red-1,,^ ts a ps $,default,ts a p s,a p s ts
+654,LowlandMixe-66_red-1,,LowlandMixe,66_red,tsapts,tsapts,ts a p ts,,Hoogshagen1993,66_red-1,,^ ts a p ts $,default,ts a p ts,a p ts
+655,SayulaPopoluca-66_red-1,,SayulaPopoluca,66_red,tsabats,tsabats,ts a b a ts,,Clark1961,66_red-1,,^ ts a b a ts $,default,ts a b a ts,a b ts
+656,OlutaPopoluca-66_red-1,,OlutaPopoluca,66_red,tsapaʔs,tsapaʔs,ts a p a ʔ s,,Clark1981,66_red-1,,^ ts a p a ʔs $,default,ts a p a 7 s,7 a p s ts
+657,TexistepecZoque-66_red-1,,TexistepecZoque,66_red,tsaʔpaʔts,tsaʔpaʔts,ts a ʔ p a ʔ ts,,Wichmann2002,66_red-1,,^ ts a ʔ p a ʔ ts $,default,ts a 7 p a 7 ts,7 a p ts
+658,SoteapanZoque-66_red-1,,SoteapanZoque,66_red,tsabats,tsabats,ts a b a ts,,Elson1999,66_red-1,,^ ts a b a ts $,default,ts a b a ts,a b ts
+659,SantaMariaChimalapaZoque-66_red-1,,SantaMariaChimalapaZoque,66_red,tsapats,tsapats,ts a p a ts,,Knudson1980,66_red-1,,^ ts a p a ts $,default,ts a p a ts,a p ts
+660,SanMiguelChimalapaZoque-66_red-1,,SanMiguelChimalapaZoque,66_red,tsapats,tsapats,ts a p a ts,,Johnson1998,66_red-1,,^ ts a p a ts $,default,ts a p a ts,a p ts
+661,ChiapasZoque-66_red-1,,ChiapasZoque,66_red,tsapas,tsapas,ts a p a s,,Harrison1981,66_red-1,,^ ts a p a s $,default,ts a p a s,a p s ts
+662,NorthHighlandMixe-67_road-1,,NorthHighlandMixe,67_road,tυυʔ,tυυʔ,t υː/ʊː ʔ,,Schoenhals1965,67_road-1,,^ t υυ ʔ $,default,t u 7,7 t u
+663,SouthHighlandMixe-67_road-1,,SouthHighlandMixe,67_road,tuʔu,tuʔu,t u ʔ u,,Cysouw2006,67_road-1,,^ t u ʔ u $,default,t u 7 u,7 t u
+664,LowlandMixe-67_road-1,,LowlandMixe,67_road,tuʔ,tuʔ,t u ʔ,,Hoogshagen1993,67_road-1,,^ t u ʔ $,default,t u 7,7 t u
+665,SayulaPopoluca-67_road-1,,SayulaPopoluca,67_road,toow,toow,t oː w,,Clark1961,67_road-1,,^ t oo w $,default,t o w,o t w
+666,OlutaPopoluca-67_road-1,,OlutaPopoluca,67_road,tuʔaʔw,tuʔaʔw,t u ʔ a ʔʷ,,Clark1981,67_road-1,,^ t u ʔ a ʔw $,default,t u 7 a 7w~,7 7w~ a t u
+667,TexistepecZoque-67_road-1,,TexistepecZoque,67_road,tuŋ,tuŋ,t u ŋ,,Wichmann2002,67_road-1,,^ t u ŋ $,default,t u N,N t u
+668,SoteapanZoque-67_road-1,,SoteapanZoque,67_road,tuŋ,tuŋ,t u ŋ,,Elson1999,67_road-1,,^ t u ŋ $,default,t u N,N t u
+669,SantaMariaChimalapaZoque-67_road-1,,SantaMariaChimalapaZoque,67_road,tuŋ,tuŋ,t u ŋ,,Knudson1980,67_road-1,,^ t u ŋ $,default,t u N,N t u
+670,SanMiguelChimalapaZoque-67_road-1,,SanMiguelChimalapaZoque,67_road,tuŋ,tuŋ,t u ŋ,,Johnson1998,67_road-1,,^ t u ŋ $,default,t u N,N t u
+671,ChiapasZoque-67_road-1,,ChiapasZoque,67_road,tuŋ,tuŋ,t u ŋ,,Harrison1981,67_road-1,,^ t u ŋ $,default,t u N,N t u
+672,NorthHighlandMixe-68_root-1,,NorthHighlandMixe,68_root,aaʔts,aaʔts,aː ʔ ts,,Schoenhals1965,68_root-1,,^ aa ʔ ts $,default,a 7 ts,7 a ts
+673,SouthHighlandMixe-68_root-1,,SouthHighlandMixe,68_root,aats,aats,aː ts,,Cysouw2006,68_root-1,,^ aa ts $,default,a ts,a ts
+674,LowlandMixe-68_root-1,,LowlandMixe,68_root,tikts,tikts,t i k ts,,Hoogshagen1993,68_root-2,,^ t i k ts $,default,t i k ts,i k t ts
+675,SayulaPopoluca-68_root-1,,SayulaPopoluca,68_root,tikčik,tikčik,t i k tʃ i k,,Clark1961,68_root-2,,^ t i k č i k $,default,t i k tS i k,i k t tS
+676,OlutaPopoluca-68_root-1,,OlutaPopoluca,68_root,čistsəʔw,čistsəʔw,tʃ i s ts ə ʔʷ,,Clark1981,68_root-2,,^ č i s ts ə ʔw $,default,tS i s ts 3 7w~,3 7w~ i s tS ts
+677,TexistepecZoque-68_root-1,,TexistepecZoque,68_root,čečək,čečək,tʃ e tʃ ə k,,Wichmann2002,68_root-2,,^ č e č ə k $,default,tS e tS 3 k,3 e k tS
+678,SoteapanZoque-68_root-1,,SoteapanZoque,68_root,tyiičək,tyiičək,t j iː tʃ ə k,,Elson1999,68_root-2,,^ t y ii č ə k $,default,t y i tS 3 k,3 i k t tS y
+679,SantaMariaChimalapaZoque-68_root-1,,SantaMariaChimalapaZoque,68_root,waʔts,waʔts,w a ʔ ts,,Knudson1980,68_root-3,,^ w a ʔ ts $,default,w a 7 ts,7 a ts w
+680,SanMiguelChimalapaZoque-68_root-1,,SanMiguelChimalapaZoque,68_root,waʔts,waʔts,w a ʔ ts,,Johnson1998,68_root-3,,^ w a ʔ ts $,default,w a 7 ts,7 a ts w
+681,ChiapasZoque-68_root-1,,ChiapasZoque,68_root,watsi,watsi,w a ts i,,Harrison1981,68_root-3,,^ w a ts i $,default,w a ts i,a i ts w
+682,NorthHighlandMixe-69_round-1,,NorthHighlandMixe,69_round,pigïk,pigïk,p i g ɨ k,,Schoenhals1965,69_round-1,,^ p i g ï k $,default,p i g 3 k,3 g i k p
+683,SouthHighlandMixe-69_round-1,,SouthHighlandMixe,69_round,pehk,pehk,p e h k,,Cysouw2006,69_round-1,,^ p e h k $,default,p e h k,e h k p
+684,LowlandMixe-69_round-1,,LowlandMixe,69_round,pik,pik,p i k,,Hoogshagen1993,69_round-1,,^ p i k $,default,p i k,i k p
+685,SayulaPopoluca-69_round-1,,SayulaPopoluca,69_round,hoyoy,hoyoy,h o j o j,,Clark1961,69_round-2,,^ h o y o y $,default,h o y o y,h o y
+686,TexistepecZoque-69_round-1,,TexistepecZoque,69_round,woy-woy-če,woy-woy-če,w o j + w o j + tʃ e,,Wichmann2002,69_round-3,,^ w o y - w o y - č e $,default,w o y  w o y  tS e, e o tS w y
+687,SoteapanZoque-69_round-1,,SoteapanZoque,69_round,woyo,woyo,w o j o,,Elson1999,69_round-3,,^ w o y o $,default,w o y o,o w y
+688,ChiapasZoque-69_round-1,,ChiapasZoque,69_round,huyuh,huyuh,h u j u h,,Harrison1981,69_round-2,,^ h u y u h $,default,h u y u h,h u y
+689,NorthHighlandMixe-70_sand-1,,NorthHighlandMixe,70_sand,pυʔυ,pυʔυ,p υ/ʊ ʔ υ/ʊ,,Schoenhals1965,70_sand-1,,^ p υ ʔ υ $,default,p u 7 u,7 p u
+690,SouthHighlandMixe-70_sand-1,,SouthHighlandMixe,70_sand,puʔu,puʔu,p u ʔ u,,Cysouw2006,70_sand-1,,^ p u ʔ u $,default,p u 7 u,7 p u
+691,LowlandMixe-70_sand-1,,LowlandMixe,70_sand,puʔ,puʔ,p u ʔ,,Hoogshagen1993,70_sand-1,,^ p u ʔ $,default,p u 7,7 p u
+692,SayulaPopoluca-70_sand-1,,SayulaPopoluca,70_sand,poʔy,poʔy,p o ʔ j,,Clark1961,70_sand-1,,^ p o ʔ y $,default,p o 7 y,7 o p y
+693,OlutaPopoluca-70_sand-1,,OlutaPopoluca,70_sand,puʔə,puʔə,p u ʔ ə,,Clark1981,70_sand-1,,^ p u ʔ ə $,default,p u 7 3,3 7 p u
+694,TexistepecZoque-70_sand-1,,TexistepecZoque,70_sand,poʔoy,poʔoy,p o ʔ o j,,Wichmann2002,70_sand-1,,^ p o ʔ o y $,default,p o 7 o y,7 o p y
+695,SoteapanZoque-70_sand-1,,SoteapanZoque,70_sand,poʔoy,poʔoy,p o ʔ o j,,Elson1999,70_sand-1,,^ p o ʔ o y $,default,p o 7 o y,7 o p y
+696,SantaMariaChimalapaZoque-70_sand-1,,SantaMariaChimalapaZoque,70_sand,haweʔ,haweʔ,h a w e ʔ,,Knudson1980,70_sand-3,,^ h a w e ʔ $,default,h a w e 7,7 a e h w
+697,SanMiguelChimalapaZoque-70_sand-1,,SanMiguelChimalapaZoque,70_sand,poeʔ,poeʔ,p o e ʔ,,Johnson1998,70_sand-1,,^ p o e ʔ $,default,p o e 7,7 e o p
+698,ChiapasZoque-70_sand-1,,ChiapasZoque,70_sand,waʔna,waʔna,w a ʔ n a,,Harrison1981,70_sand-2,,^ w a ʔ n a $,default,w a 7 n a,7 a n w
+699,NorthHighlandMixe-71_say-1,,NorthHighlandMixe,71_say,vaʔañ,vaʔañ,v a ʔ a ɲ,,Schoenhals1965,71_say-1,,^ v a ʔ a ñ $,default,v a 7 a 5,5 7 a v
+700,SouthHighlandMixe-71_say-1,,SouthHighlandMixe,71_say,nə-kapš,nə-kapš,n ə + k a p ʃ,,Cysouw2006,71_say-5,,^ n ə - k a p š $,default,n 3  k a p S, 3 S a k n p
+701,LowlandMixe-71_say-1,,LowlandMixe,71_say,mənaʔn,mənaʔn,m ə n a ʔ n,,Hoogshagen1993,71_say-2,,^ m ə n a ʔ n $,default,m 3 n a 7 n,3 7 a m n
+702,SayulaPopoluca-71_say-1,,SayulaPopoluca,71_say,nəm,nəm,n ə m,,Clark1961,71_say-3,,^ n ə m $,default,n 3 m,3 m n
+703,OlutaPopoluca-71_say-1,,OlutaPopoluca,71_say,nəm,nəm,n ə m,,Clark1981,71_say-3,,^ n ə m $,default,n 3 m,3 m n
+704,TexistepecZoque-71_say-1,,TexistepecZoque,71_say,dəm,dəm,d ə m,,Wichmann2002,71_say-4,,^ d ə m $,default,d 3 m,3 d m
+705,SoteapanZoque-71_say-1,,SoteapanZoque,71_say,nəm,nəm,n ə m,,Elson1999,71_say-4,,^ n ə m $,default,n 3 m,3 m n
+706,SantaMariaChimalapaZoque-71_say-1,,SantaMariaChimalapaZoque,71_say,nəm,nəm,n ə m,,Knudson1980,71_say-4,,^ n ə m $,default,n 3 m,3 m n
+707,SanMiguelChimalapaZoque-71_say-1,,SanMiguelChimalapaZoque,71_say,nəm,nəm,n ə m,,Johnson1998,71_say-4,,^ n ə m $,default,n 3 m,3 m n
+708,ChiapasZoque-71_say-1,,ChiapasZoque,71_say,nəm,nəm,n ə m,,Harrison1981,71_say-4,,^ n ə m $,default,n 3 m,3 m n
+709,NorthHighlandMixe-72_see-1,,NorthHighlandMixe,72_see,iš,iš,i ʃ,,Schoenhals1965,72_see-1,,^ i š $,default,i S,S i
+710,SouthHighlandMixe-72_see-1,,SouthHighlandMixe,72_see,eš,eš,e ʃ,,Cysouw2006,72_see-1,,^ e š $,default,e S,S e
+711,LowlandMixe-72_see-1,,LowlandMixe,72_see,iš,iš,i ʃ,,Hoogshagen1993,72_see-1,,^ i š $,default,i S,S i
+712,SayulaPopoluca-72_see-1,,SayulaPopoluca,72_see,iš,iš,i ʃ,,Clark1961,72_see-1,,^ i š $,default,i S,S i
+713,TexistepecZoque-72_see-1,,TexistepecZoque,72_see,ʔeš,ʔeš,ʔ e ʃ,,Wichmann2002,72_see-1,,^ ʔ e š $,default,7 e S,7 S e
+714,SoteapanZoque-72_see-1,,SoteapanZoque,72_see,iʔiš,iʔiš,i ʔ i ʃ,,Elson1999,72_see-1,,^ i ʔ i š $,default,i 7 i S,7 S i
+715,SantaMariaChimalapaZoque-72_see-1,,SantaMariaChimalapaZoque,72_see,is,is,i s,,Knudson1980,72_see-1,,^ i s $,default,i s,i s
+716,SanMiguelChimalapaZoque-72_see-1,,SanMiguelChimalapaZoque,72_see,ʔiš,ʔiš,ʔ i ʃ,,Johnson1998,72_see-1,,^ ʔ i š $,default,7 i S,7 S i
+717,ChiapasZoque-72_see-1,,ChiapasZoque,72_see,ʔis,ʔis,ʔ i s,,Harrison1981,72_see-3,,^ ʔ i s $,default,7 i s,7 i s
+718,SayulaPopoluca-72_see-2,,SayulaPopoluca,72_see,eʔp,eʔp,e ʔ p,,Clark1961,72_see-1,,^ e ʔ p $,default,e 7 p,7 e p
+719,OlutaPopoluca-72_see-1,,OlutaPopoluca,72_see,ʔeep,ʔeep,ʔ eː p,,Clark1981,72_see-1,,^ ʔ ee p $,default,7 e p,7 e p
+720,NorthHighlandMixe-73_seed-1,,NorthHighlandMixe,73_seed,təəmt,təəmt,t əː m t,,Schoenhals1965,73_seed-1,,^ t əə m t $,default,t 3 m t,3 m t
+721,SouthHighlandMixe-73_seed-1,,SouthHighlandMixe,73_seed,pahk,pahk,p a h k,,Cysouw2006,73_seed-2,,^ p a h k $,default,p a h k,a h k p
+722,LowlandMixe-73_seed-1,,LowlandMixe,73_seed,pahk,pahk,p a h k,,Hoogshagen1993,73_seed-2,,^ p a h k $,default,p a h k,a h k p
+723,SayulaPopoluca-73_seed-1,,SayulaPopoluca,73_seed,puuh,puuh,p uː h,,Clark1961,73_seed-3,,^ p uu h $,default,p u h,h p u
+724,OlutaPopoluca-73_seed-1,,OlutaPopoluca,73_seed,pakə,pakə,p a k ə,,Clark1981,73_seed-2,,^ p a k ə $,default,p a k 3,3 a k p
+725,TexistepecZoque-73_seed-1,,TexistepecZoque,73_seed,puh,puh,p u h,,Wichmann2002,73_seed-3,,^ p u h $,default,p u h,h p u
+726,SoteapanZoque-73_seed-1,,SoteapanZoque,73_seed,pak,pak,p a k,,Elson1999,73_seed-2,,^ p a k $,default,p a k,a k p
+727,SantaMariaChimalapaZoque-73_seed-1,,SantaMariaChimalapaZoque,73_seed,puh,puh,p u h,,Knudson1980,73_seed-3,,^ p u h $,default,p u h,h p u
+728,SanMiguelChimalapaZoque-73_seed-1,,SanMiguelChimalapaZoque,73_seed,puh,puh,p u h,,Johnson1998,73_seed-3,,^ p u h $,default,p u h,h p u
+729,ChiapasZoque-73_seed-1,,ChiapasZoque,73_seed,puh,puh,p u h,,Harrison1981,73_seed-3,,^ p u h $,default,p u h,h p u
+730,NorthHighlandMixe-74_sit-1,,NorthHighlandMixe,74_sit,tsïïna,tsïïna,ts ïï/ɨː n a,,Schoenhals1965,74_sit-1,,^ ts ïï n a $,default,ts ii 3 n a,3 a ii n ts
+731,SouthHighlandMixe-74_sit-1,,SouthHighlandMixe,74_sit,tsəən,tsəən,ts əː n,,Cysouw2006,74_sit-1,,^ ts əə n $,default,ts 3 n,3 n ts
+732,LowlandMixe-74_sit-1,,LowlandMixe,74_sit,"inyəy, ištak",inyəy,i n j ə j,,Hoogshagen1993,74_sit-2,,^ i n y ə y $,default,i n y 3 y,3 i n y
+733,LowlandMixe-74_sit-2,,LowlandMixe,74_sit,"inyəy, ištak",ištak,i ʃ t a k,,Hoogshagen1993,74_sit-2,,^ i š t a k $,default,i S t a k,S a i k t
+734,SayulaPopoluca-74_sit-1,,SayulaPopoluca,74_sit,tsəəna,tsəəna,ts əː n a,,Clark1961,74_sit-1,,^ ts əə n a $,default,ts 3 n a,3 a n ts
+735,OlutaPopoluca-74_sit-1,,OlutaPopoluca,74_sit,huunii,huunii,h uː n iː,,Clark1981,74_sit-3,,^ h uu n ii $,default,h u n i,h i n u
+736,TexistepecZoque-74_sit-1,,TexistepecZoque,74_sit,kon,kon,k o n,,Wichmann2002,74_sit-5,,^ k o n $,default,k o n,k n o
+737,SoteapanZoque-74_sit-1,,SoteapanZoque,74_sit,koñ,koñ,k o ɲ,,Elson1999,74_sit-5,,^ k o ñ $,default,k o 5,5 k o
+738,SantaMariaChimalapaZoque-74_sit-1,,SantaMariaChimalapaZoque,74_sit,tsənay,tsənay,ts ə n a j,,Knudson1980,74_sit-1,,^ ts ə n a y $,default,ts 3 n a y,3 a n ts y
+739,SanMiguelChimalapaZoque-74_sit-1,,SanMiguelChimalapaZoque,74_sit,tsən,tsən,ts ə n,,Johnson1998,74_sit-1,,^ ts ə n $,default,ts 3 n,3 n ts
+740,ChiapasZoque-74_sit-1,,ChiapasZoque,74_sit,poks,poks,p o k s,,Harrison1981,74_sit-4,,^ p o ks $,default,p o k s,k o p s
+741,NorthHighlandMixe-75_skin-1,,NorthHighlandMixe,75_skin,ak,ak,a k,,Schoenhals1965,75_skin-1,,^ a k $,default,a k,a k
+742,SouthHighlandMixe-75_skin-1,,SouthHighlandMixe,75_skin,nəʔak,nəʔak,n ə ʔ a k,,Cysouw2006,75_skin-1,,^ n ə ʔ a k $,default,n 3 7 a k,3 7 a k n
+743,LowlandMixe-75_skin-1,,LowlandMixe,75_skin,ak,ak,a k,,Hoogshagen1993,75_skin-1,,^ a k $,default,a k,a k
+744,SayulaPopoluca-75_skin-1,,SayulaPopoluca,75_skin,ak,ak,a k,,Clark1961,75_skin-1,,^ a k $,default,a k,a k
+745,OlutaPopoluca-75_skin-1,,OlutaPopoluca,75_skin,akə,akə,a k ə,,Clark1981,75_skin-1,,^ a k ə $,default,a k 3,3 a k
+746,TexistepecZoque-75_skin-1,,TexistepecZoque,75_skin,daak,daak,d aː k,,Wichmann2002,75_skin-2,,^ d aa k $,default,d a k,a d k
+747,SoteapanZoque-75_skin-1,,SoteapanZoque,75_skin,naaka,naaka,n aː k a,,Elson1999,75_skin-2,,^ n aa k a $,default,n a k a,a k n
+748,SantaMariaChimalapaZoque-75_skin-1,,SantaMariaChimalapaZoque,75_skin,naka,naka,n a k a,,Knudson1980,75_skin-2,,^ n a k a $,default,n a k a,a k n
+749,SanMiguelChimalapaZoque-75_skin-1,,SanMiguelChimalapaZoque,75_skin,naka,naka,n a k a,,Johnson1998,75_skin-2,,^ n a k a $,default,n a k a,a k n
+750,ChiapasZoque-75_skin-1,,ChiapasZoque,75_skin,naka,naka,n a k a,,Harrison1981,75_skin-2,,^ n a k a $,default,n a k a,a k n
+751,NorthHighlandMixe-76_sleep-1,,NorthHighlandMixe,76_sleep,maʔa,maʔa,m a ʔ a,,Schoenhals1965,76_sleep-1,,^ m a ʔ a $,default,m a 7 a,7 a m
+752,SouthHighlandMixe-76_sleep-1,,SouthHighlandMixe,76_sleep,maʔa,maʔa,m a ʔ a,,Cysouw2006,76_sleep-1,,^ m a ʔ a $,default,m a 7 a,7 a m
+753,LowlandMixe-76_sleep-1,,LowlandMixe,76_sleep,maʔ,maʔ,m a ʔ,,Hoogshagen1993,76_sleep-1,,^ m a ʔ $,default,m a 7,7 a m
+754,SayulaPopoluca-76_sleep-1,,SayulaPopoluca,76_sleep,maa ~ maʔ,maa,m aː,,Clark1961,76_sleep-1,,^ m aa $,default,m a,a m
+755,SayulaPopoluca-76_sleep-2,,SayulaPopoluca,76_sleep,maa ~ maʔ,maʔ,m a ʔ,,Clark1961,76_sleep-1,,^ m a ʔ $,default,m a 7,7 a m
+756,OlutaPopoluca-76_sleep-1,,OlutaPopoluca,76_sleep,maa ~  maah ~ maʔh,maa,m aː,,Clark1981,76_sleep-1,,^ m aa $,default,m a,a m
+757,OlutaPopoluca-76_sleep-2,,OlutaPopoluca,76_sleep,maa ~  maah ~ maʔh,maah,m aː h,,Clark1981,76_sleep-1,,^ m aa h $,default,m a h,a h m
+758,OlutaPopoluca-76_sleep-3,,OlutaPopoluca,76_sleep,maa ~  maah ~ maʔh,maʔh,m a ʔ h,,Clark1981,76_sleep-1,,^ m a ʔh $,default,m a 7 h,7 a h m
+759,TexistepecZoque-76_sleep-1,,TexistepecZoque,76_sleep,boŋ,boŋ,b o ŋ,,Wichmann2002,76_sleep-3,,^ b o ŋ $,default,b o N,N b o
+760,SoteapanZoque-76_sleep-1,,SoteapanZoque,76_sleep,moŋ,moŋ,m o ŋ,,Elson1999,76_sleep-3,,^ m o ŋ $,default,m o N,N m o
+761,SantaMariaChimalapaZoque-76_sleep-1,,SantaMariaChimalapaZoque,76_sleep,moŋ,moŋ,m o ŋ,,Knudson1980,76_sleep-3,,^ m o ŋ $,default,m o N,N m o
+762,SanMiguelChimalapaZoque-76_sleep-1,,SanMiguelChimalapaZoque,76_sleep,kap-ney,kap-ney,k a p + n e j,,Johnson1998,76_sleep-4,,^ k a p - n e y $,default,k a p  n e y, a e k n p y
+763,ChiapasZoque-76_sleep-1,,ChiapasZoque,76_sleep,əŋ,əŋ,ə ŋ,,Harrison1981,76_sleep-2,,^ ə ŋ $,default,3 N,3 N
+764,NorthHighlandMixe-77_small-1,,NorthHighlandMixe,77_small,piʔk,piʔk,p i ʔ k,,Schoenhals1965,77_small-1,,^ p i ʔ k $,default,p i 7 k,7 i k p
+765,SouthHighlandMixe-77_small-1,,SouthHighlandMixe,77_small,mutsk,mutsk,m u ts k,,Cysouw2006,77_small-2,,^ m u ts k $,default,m u ts k,k m ts u
+766,LowlandMixe-77_small-1,,LowlandMixe,77_small,muts,muts,m u ts,,Hoogshagen1993,77_small-2,,^ m u ts $,default,m u ts,m ts u
+767,SayulaPopoluca-77_small-1,,SayulaPopoluca,77_small,čičic,čičic,tʃ i tʃ i c/tʃ,,Clark1961,77_small-3,,^ č i č i c $,default,tS i tS i T tS,T i tS
+768,OlutaPopoluca-77_small-1,,OlutaPopoluca,77_small,čuuču,čuuču,tʃ uː tʃ u,,Clark1981,77_small-3,,^ č uu č u $,default,tS u tS u,tS u
+769,TexistepecZoque-77_small-1,,TexistepecZoque,77_small,həsə-baa,həsə-baa,h ə s ə + b aː,,Wichmann2002,77_small-4,,^ h ə s ə - b aa $,default,h 3 s 3  b a, 3 a b h s
+770,SoteapanZoque-77_small-1,,SoteapanZoque,77_small,šutyu,šutyu,ʃ u t j u,,Elson1999,77_small-5,,^ š u t y u $,default,S u t y u,S t u y
+771,SanMiguelChimalapaZoque-77_small-1,,SanMiguelChimalapaZoque,77_small,wakšiŋʔ,wakšiŋʔ,w a k ʃ i ŋ ʔ,,Johnson1998,77_small-6,,^ w a k š i ŋ ʔ $,default,w a k S i N 7,7 N S a i k w
+772,ChiapasZoque-77_small-1,,ChiapasZoque,77_small,čiks,čiks,tʃ i k s,,Harrison1981,77_small-3,,^ č i ks $,default,tS i k s,i k s tS
+773,NorthHighlandMixe-78_smoke-1,,NorthHighlandMixe,78_smoke,hok,hok,h o k,,Schoenhals1965,78_smoke-1,,^ h o k $,default,h o k,h k o
+774,SouthHighlandMixe-78_smoke-1,,SouthHighlandMixe,78_smoke,hok,hok,h o k,,Cysouw2006,78_smoke-1,,^ h o k $,default,h o k,h k o
+775,LowlandMixe-78_smoke-1,,LowlandMixe,78_smoke,həən-hok,həən-hok,h əː n + h o k,,Hoogshagen1993,78_smoke-1,,^ h əə n - h o k $,default,h 3 n  h o k, 3 h k n o
+776,SayulaPopoluca-78_smoke-1,,SayulaPopoluca,78_smoke,wiʔšik,wiʔšik,w i ʔ ʃ i k,,Clark1961,78_smoke-2,,^ w i ʔ š i k $,default,w i 7 S i k,7 S i k w
+777,OlutaPopoluca-78_smoke-1,,OlutaPopoluca,78_smoke,hoko,hoko,h o k o,,Clark1981,78_smoke-1,,^ h o k o $,default,h o k o,h k o
+778,TexistepecZoque-78_smoke-1,,TexistepecZoque,78_smoke,hook,hook,h oː k,,Wichmann2002,78_smoke-1,,^ h oo k $,default,h o k,h k o
+779,SoteapanZoque-78_smoke-1,,SoteapanZoque,78_smoke,hooko,hooko,h oː k o,,Elson1999,78_smoke-1,,^ h oo k o $,default,h o k o,h k o
+780,SantaMariaChimalapaZoque-78_smoke-1,,SantaMariaChimalapaZoque,78_smoke,oʔmaʔ,oʔmaʔ,o ʔ m a ʔ,,Knudson1980,78_smoke-3,,^ o ʔ m a ʔ $,default,o 7 m a 7,7 a m o
+781,SanMiguelChimalapaZoque-78_smoke-1,,SanMiguelChimalapaZoque,78_smoke,ʔomaʔ,ʔomaʔ,ʔ o m a ʔ,,Johnson1998,78_smoke-3,,^ ʔ o m a ʔ $,default,7 o m a 7,7 a m o
+782,ChiapasZoque-78_smoke-1,,ChiapasZoque,78_smoke,hokoh,hokoh,h o k o h,,Harrison1981,78_smoke-1,,^ h o k o h $,default,h o k o h,h k o
+783,NorthHighlandMixe-79_stand-1,,NorthHighlandMixe,79_stand,tena,tena,t e n a,,Schoenhals1965,79_stand-1,,^ t e n a $,default,t e n a,a e n t
+784,SouthHighlandMixe-79_stand-1,,SouthHighlandMixe,79_stand,tənæy,tənæy,t ə n æ j,,Cysouw2006,79_stand-1,,^ t ə n æ y $,default,t 3 n E y,3 E n t y
+785,LowlandMixe-79_stand-1,,LowlandMixe,79_stand,tenaay,tenaay,t e n aː j,,Hoogshagen1993,79_stand-1,,^ t e n aa y $,default,t e n a y,a e n t y
+786,SayulaPopoluca-79_stand-1,,SayulaPopoluca,79_stand,tena,tena,t e n a,,Clark1961,79_stand-1,,^ t e n a $,default,t e n a,a e n t
+787,OlutaPopoluca-79_stand-1,,OlutaPopoluca,79_stand,teniy,teniy,t e n i j,,Clark1981,79_stand-1,,^ t e n i y $,default,t e n i y,e i n t y
+788,TexistepecZoque-79_stand-1,,TexistepecZoque,79_stand,hoop-deʔ,hoop-deʔ,h oː p + d e ʔ,,Wichmann2002,79_stand-2,,^ h oo p - d e ʔ $,default,h o p  d e 7, 7 d e h o p
+789,SoteapanZoque-79_stand-1,,SoteapanZoque,79_stand,teeñ,teeñ,t eː ɲ,,Elson1999,79_stand-1,,^ t ee ñ $,default,t e 5,5 e t
+790,SanMiguelChimalapaZoque-79_stand-1,,SanMiguelChimalapaZoque,79_stand,ten,ten,t e n,,Johnson1998,79_stand-1,,^ t e n $,default,t e n,e n t
+791,ChiapasZoque-79_stand-1,,ChiapasZoque,79_stand,tenay,tenay,t e n a j,,Harrison1981,79_stand-1,,^ t e n a y $,default,t e n a y,a e n t y
+792,SantaMariaChimalapaZoque-79_stand-1,,SantaMariaChimalapaZoque,79_stand,maʔŋəy,maʔŋəy,m a ʔ ŋ ə j,,Knudson1980,79_stand-1,,^ m a ʔ ŋ ə y $,default,m a 7 N 3 y,3 7 N a m y
+793,SanMiguelChimalapaZoque-79_stand-2,,SanMiguelChimalapaZoque,79_stand,maŋ-ney,maŋ-ney,m a ŋ + n e j,,Johnson1998,79_stand-1,,^ m a ŋ - n e y $,default,m a N  n e y, N a e m n y
+794,NorthHighlandMixe-80_star-1,,NorthHighlandMixe,80_star,maatsa,maatsa,m aː ts a,,Schoenhals1965,80_star-1,,^ m aa ts a $,default,m a ts a,a m ts
+795,SouthHighlandMixe-80_star-1,,SouthHighlandMixe,80_star,matsaʔa,matsaʔa,m a ts a ʔ a,,Cysouw2006,80_star-1,,^ m a ts a ʔ a $,default,m a ts a 7 a,7 a m ts
+796,LowlandMixe-80_star-1,,LowlandMixe,80_star,madzaʔ,madzaʔ,m a d z a ʔ,,Hoogshagen1993,80_star-1,,^ m a d z a ʔ $,default,m a d z a 7,7 a d m z
+797,SayulaPopoluca-80_star-1,,SayulaPopoluca,80_star,maahts,maahts,m aː h ts,,Clark1961,80_star-1,,^ m aa h ts $,default,m a h ts,a h m ts
+798,OlutaPopoluca-80_star-1,,OlutaPopoluca,80_star,maatsaʔaʔk,maatsaʔaʔk,m aː ts a ʔ a ʔ k,,Clark1981,80_star-1,,^ m aa ts a ʔ a ʔ k $,default,m a ts a 7 a 7 k,7 a k m ts
+799,TexistepecZoque-80_star-1,,TexistepecZoque,80_star,baatsaʔ,baatsaʔ,b aː ts a ʔ,,Wichmann2002,80_star-1,,^ b aa ts a ʔ $,default,b a ts a 7,7 a b ts
+800,SoteapanZoque-80_star-1,,SoteapanZoque,80_star,maatsa,maatsa,m aː ts a,,Elson1999,80_star-1,,^ m aa ts a $,default,m a ts a,a m ts
+801,SantaMariaChimalapaZoque-80_star-1,,SantaMariaChimalapaZoque,80_star,matsaʔ,matsaʔ,m a ts a ʔ,,Knudson1980,80_star-1,,^ m a ts a ʔ $,default,m a ts a 7,7 a m ts
+802,SanMiguelChimalapaZoque-80_star-1,,SanMiguelChimalapaZoque,80_star,matsaʔ,matsaʔ,m a ts a ʔ,,Johnson1998,80_star-1,,^ m a ts a ʔ $,default,m a ts a 7,7 a m ts
+803,ChiapasZoque-80_star-1,,ChiapasZoque,80_star,matsa,matsa,m a ts a,,Harrison1981,80_star-1,,^ m a ts a $,default,m a ts a,a m ts
+804,NorthHighlandMixe-81_stone-1,,NorthHighlandMixe,81_stone,tsaa,tsaa,ts aː,,Schoenhals1965,81_stone-1,,^ ts aa $,default,ts a,a ts
+805,SouthHighlandMixe-81_stone-1,,SouthHighlandMixe,81_stone,tsah,tsah,ts a h,,Cysouw2006,81_stone-1,,^ ts a h $,default,ts a h,a h ts
+806,LowlandMixe-81_stone-1,,LowlandMixe,81_stone,tsaa,tsaa,ts aː,,Hoogshagen1993,81_stone-1,,^ ts aa $,default,ts a,a ts
+807,SayulaPopoluca-81_stone-1,,SayulaPopoluca,81_stone,tsaʔ,tsaʔ,ts a ʔ,,Clark1961,81_stone-1,,^ ts a ʔ $,default,ts a 7,7 a ts
+808,OlutaPopoluca-81_stone-1,,OlutaPopoluca,81_stone,tsaahə,tsaahə,ts aː h ə,,Clark1981,81_stone-1,,^ ts aa h ə $,default,ts a h 3,3 a h ts
+809,TexistepecZoque-81_stone-1,,TexistepecZoque,81_stone,tsaʔ,tsaʔ,ts a ʔ,,Wichmann2002,81_stone-1,,^ ts a ʔ $,default,ts a 7,7 a ts
+810,SoteapanZoque-81_stone-1,,SoteapanZoque,81_stone,tsa,tsa,ts a,,Elson1999,81_stone-1,,^ ts a $,default,ts a,a ts
+811,SantaMariaChimalapaZoque-81_stone-1,,SantaMariaChimalapaZoque,81_stone,tsaʔ,tsaʔ,ts a ʔ,,Knudson1980,81_stone-1,,^ ts a ʔ $,default,ts a 7,7 a ts
+812,SanMiguelChimalapaZoque-81_stone-1,,SanMiguelChimalapaZoque,81_stone,tsaʔ,tsaʔ,ts a ʔ,,Johnson1998,81_stone-1,,^ ts a ʔ $,default,ts a 7,7 a ts
+813,ChiapasZoque-81_stone-1,,ChiapasZoque,81_stone,tsaʔ,tsaʔ,ts a ʔ,,Harrison1981,81_stone-1,,^ ts a ʔ $,default,ts a 7,7 a ts
+814,NorthHighlandMixe-82_sun-1,,NorthHighlandMixe,82_sun,šəə,šəə,ʃ əː,,Schoenhals1965,82_sun-1,,^ š əə $,default,S 3,3 S
+815,SouthHighlandMixe-82_sun-1,,SouthHighlandMixe,82_sun,šəʔan,šəʔan,ʃ ə ʔ a n,,Cysouw2006,82_sun-1,,^ š ə ʔ a n $,default,S 3 7 a n,3 7 S a n
+816,LowlandMixe-82_sun-1,,LowlandMixe,82_sun,šəə,šəə,ʃ əː,,Hoogshagen1993,82_sun-1,,^ š əə $,default,S 3,3 S
+817,SayulaPopoluca-82_sun-1,,SayulaPopoluca,82_sun,šəhw,šəhw,ʃ ə h w,,Clark1961,82_sun-1,,^ š ə hw $,default,S 3 h w,3 S h w
+818,OlutaPopoluca-82_sun-1,,OlutaPopoluca,82_sun,šəvə,šəvə,ʃ ə v ə,,Clark1981,82_sun-1,,^ š ə v ə $,default,S 3 v 3,3 S v
+819,TexistepecZoque-82_sun-1,,TexistepecZoque,82_sun,haam,haam,h aː m,,Wichmann2002,82_sun-2,,^ h aa m $,default,h a m,a h m
+820,SoteapanZoque-82_sun-1,,SoteapanZoque,82_sun,haama,haama,h aː m a,,Elson1999,82_sun-2,,^ h aa m a $,default,h a m a,a h m
+821,SantaMariaChimalapaZoque-82_sun-1,,SantaMariaChimalapaZoque,82_sun,hama,hama,h a m a,,Knudson1980,82_sun-2,,^ h a m a $,default,h a m a,a h m
+822,SanMiguelChimalapaZoque-82_sun-1,,SanMiguelChimalapaZoque,82_sun,hama,hama,h a m a,,Johnson1998,82_sun-2,,^ h a m a $,default,h a m a,a h m
+823,ChiapasZoque-82_sun-1,,ChiapasZoque,82_sun,hama,hama,h a m a,,Harrison1981,82_sun-2,,^ h a m a $,default,h a m a,a h m
+824,NorthHighlandMixe-83_swim-1,,NorthHighlandMixe,83_swim,nə-vïïʔn,nə-vïïʔn,n ə + v ïï/ɨː ʔ n,,Schoenhals1965,83_swim-1,,^ n ə - v ïï ʔ n $,default,n 3  v ii 3 7 n, 3 7 ii n v
+825,SouthHighlandMixe-83_swim-1,,SouthHighlandMixe,83_swim,nə-yum,nə-yum,n ə + j u m,,Cysouw2006,83_swim-3,,^ n ə - y u m $,default,n 3  y u m, 3 m n u y
+826,LowlandMixe-83_swim-1,,LowlandMixe,83_swim,yaab,yaab,j aː b,,Hoogshagen1993,83_swim-2,,^ y aa b $,default,y a b,a b y
+827,SayulaPopoluca-83_swim-1,,SayulaPopoluca,83_swim,yun,yun,j u n,,Clark1961,83_swim-3,,^ y u n $,default,y u n,n u y
+828,OlutaPopoluca-83_swim-1,,OlutaPopoluca,83_swim,yun,yun,j u n,,Clark1981,83_swim-3,,^ y u n $,default,y u n,n u y
+829,TexistepecZoque-83_swim-1,,TexistepecZoque,83_swim,pəʔn,pəʔn,p ə ʔ n,,Wichmann2002,83_swim-5,,^ p ə ʔ n $,default,p 3 7 n,3 7 n p
+830,SoteapanZoque-83_swim-1,,SoteapanZoque,83_swim,puʔn,puʔn,p u ʔ n,,Elson1999,83_swim-5,,^ p u ʔ n $,default,p u 7 n,7 n p u
+831,SantaMariaChimalapaZoque-83_swim-1,,SantaMariaChimalapaZoque,83_swim,yun,yun,j u n,,Knudson1980,83_swim-3,,^ y u n $,default,y u n,n u y
+832,SanMiguelChimalapaZoque-83_swim-1,,SanMiguelChimalapaZoque,83_swim,yuk,yuk,j u k,,Johnson1998,83_swim-6,,^ y u k $,default,y u k,k u y
+833,ChiapasZoque-83_swim-1,,ChiapasZoque,83_swim,hemu,hemu,h e m u,,Harrison1981,83_swim-4,,^ h e m u $,default,h e m u,e h m u
+834,NorthHighlandMixe-84_tail-1,,NorthHighlandMixe,84_tail,tυʔšta,tυʔšta,t υ/ʊ ʔ ʃ t a,,Schoenhals1965,84_tail-1,,^ t υ ʔ š t a $,default,t u 7 S t a,7 S a t u
+835,SouthHighlandMixe-84_tail-1,,SouthHighlandMixe,84_tail,tutst,tutst,t u ts t,,Cysouw2006,84_tail-1,,^ t u ts t $,default,t u ts t,t ts u
+836,LowlandMixe-84_tail-1,,LowlandMixe,84_tail,piʔišy,piʔišy,p i ʔ i ʃ j,,Hoogshagen1993,84_tail-2,,^ p i ʔ i š y $,default,p i 7 i S y,7 S i p y
+837,SayulaPopoluca-84_tail-1,,SayulaPopoluca,84_tail,tuʔhts,tuʔhts,t u ʔ h ts,,Clark1961,84_tail-1,,^ t u ʔh ts $,default,t u 7 h ts,7 h t ts u
+838,OlutaPopoluca-84_tail-1,,OlutaPopoluca,84_tail,tuʔsta,tuʔsta,t u ʔ s t a,,Clark1981,84_tail-1,,^ t u ʔs t a $,default,t u 7 s t a,7 a s t u
+839,TexistepecZoque-84_tail-1,,TexistepecZoque,84_tail,tuʔts,tuʔts,t u ʔ ts,,Wichmann2002,84_tail-1,,^ t u ʔ ts $,default,t u 7 ts,7 t ts u
+840,SoteapanZoque-84_tail-1,,SoteapanZoque,84_tail,tuʔts,tuʔts,t u ʔ ts,,Elson1999,84_tail-1,,^ t u ʔ ts $,default,t u 7 ts,7 t ts u
+841,SantaMariaChimalapaZoque-84_tail-1,,SantaMariaChimalapaZoque,84_tail,tuʔts,tuʔts,t u ʔ ts,,Knudson1980,84_tail-1,,^ t u ʔ ts $,default,t u 7 ts,7 t ts u
+842,SanMiguelChimalapaZoque-84_tail-1,,SanMiguelChimalapaZoque,84_tail,tuʔts,tuʔts,t u ʔ ts,,Johnson1998,84_tail-1,,^ t u ʔ ts $,default,t u 7 ts,7 t ts u
+843,ChiapasZoque-84_tail-1,,ChiapasZoque,84_tail,tuʔts,tuʔts,t u ʔ ts,,Harrison1981,84_tail-1,,^ t u ʔ ts $,default,t u 7 ts,7 t ts u
+844,NorthHighlandMixe-85_that-1,,NorthHighlandMixe,85_that,šiiʔ,šiiʔ,ʃ iː ʔ,,Schoenhals1965,85_that-1,,^ š ii ʔ $,default,S i 7,7 S i
+845,SouthHighlandMixe-85_that-1,,SouthHighlandMixe,85_that,hæʔæ,hæʔæ,h æ ʔ æ,,Cysouw2006,85_that-6,,^ h æ ʔ æ $,default,h E 7 E,7 E h
+846,LowlandMixe-85_that-1,,LowlandMixe,85_that,hehəmbə,hehəmbə,h e h ə m b ə,,Hoogshagen1993,85_that-2,,^ h e h ə m b ə $,default,h e h 3 m b 3,3 b e h m
+847,SayulaPopoluca-85_that-1,,SayulaPopoluca,85_that,yahyəʔn,yahyəʔn,j a h j ə ʔ n,,Clark1961,85_that-3,,^ y a h y ə ʔ n $,default,y a h y 3 7 n,3 7 a h n y
+848,OlutaPopoluca-85_that-1,,OlutaPopoluca,85_that,hamah,hamah,h a m a h,,Clark1981,85_that-2,,^ h a m a h $,default,h a m a h,a h m
+849,SoteapanZoque-85_that-1,,SoteapanZoque,85_that,heam,heam,h e a m,,Elson1999,85_that-2,,^ h e a m $,default,h e a m,a e h m
+850,SanMiguelChimalapaZoque-85_that-1,,SanMiguelChimalapaZoque,85_that,ga.də,ga.də,g a d ə,,Johnson1998,85_that-5,,^ g a . d ə $,default,g a d 3,3 a d g
+851,ChiapasZoque-85_that-1,,ChiapasZoque,85_that,əʔ,əʔ,ə ʔ,,Harrison1981,85_that-4,,^ ə ʔ $,default,3 7,3 7
+852,NorthHighlandMixe-86_this-1,,NorthHighlandMixe,86_this,yəʔə,yəʔə,j ə ʔ ə,,Schoenhals1965,86_this-1,,^ y ə ʔ ə $,default,y 3 7 3,3 7 y
+853,SouthHighlandMixe-86_this-1,,SouthHighlandMixe,86_this,yaʔat,yaʔat,j a ʔ a t,,Cysouw2006,86_this-1,,^ y a ʔ a t $,default,y a 7 a t,7 a t y
+854,LowlandMixe-86_this-1,,LowlandMixe,86_this,hadaʔ,hadaʔ,h a d a ʔ,,Hoogshagen1993,86_this-2,,^ h a d a ʔ $,default,h a d a 7,7 a d h
+855,SayulaPopoluca-86_this-1,,SayulaPopoluca,86_this,ayəəh,ayəəh,a j əː h,,Clark1961,86_this-1,,^ a y əə h $,default,a y 3 h,3 a h y
+856,OlutaPopoluca-86_this-1,,OlutaPopoluca,86_this,heʔ,heʔ,h e ʔ,,Clark1981,86_this-3,,^ h e ʔ $,default,h e 7,7 e h
+857,TexistepecZoque-86_this-1,,TexistepecZoque,86_this,yəʔəhəʔ,yəʔəhəʔ,j ə ʔ ə h ə ʔ,,Wichmann2002,86_this-1,,^ y ə ʔ ə h ə ʔ $,default,y 3 7 3 h 3 7,3 7 h y
+858,SoteapanZoque-86_this-1,,SoteapanZoque,86_this,heʔepək,heʔepək,h e ʔ e p ə k,,Elson1999,86_this-4,,^ h e ʔ e p ə k $,default,h e 7 e p 3 k,3 7 e h k p
+859,SantaMariaChimalapaZoque-86_this-1,,SantaMariaChimalapaZoque,86_this,yəʔ-pəʔ,yəʔ-pəʔ,j ə ʔ + p ə ʔ,,Knudson1980,86_this-1,,^ y ə ʔ - p ə ʔ $,default,y 3 7  p 3 7, 3 7 p y
+860,SanMiguelChimalapaZoque-86_this-1,,SanMiguelChimalapaZoque,86_this,yəʔ,yəʔ,j ə ʔ,,Johnson1998,86_this-1,,^ y ə ʔ $,default,y 3 7,3 7 y
+861,ChiapasZoque-86_this-1,,ChiapasZoque,86_this,yəʔ-wə,yəʔ-wə,j ə ʔ + w ə,,Harrison1981,86_this-1,,^ y ə ʔ - w ə $,default,y 3 7  w 3, 3 7 w y
+862,NorthHighlandMixe-87_thou-1,,NorthHighlandMixe,87_thou,mits,mits,m i ts,,Schoenhals1965,87_thou-1,,^ m i ts $,default,m i ts,i m ts
+863,SouthHighlandMixe-87_thou-1,,SouthHighlandMixe,87_thou,mehts,mehts,m e h ts,,Cysouw2006,87_thou-1,,^ m e h ts $,default,m e h ts,e h m ts
+864,LowlandMixe-87_thou-1,,LowlandMixe,87_thou,miič,miič,m iː tʃ,,Hoogshagen1993,87_thou-1,,^ m ii č $,default,m i tS,i m tS
+865,SayulaPopoluca-87_thou-1,,SayulaPopoluca,87_thou,mii(č),mii,m iː,,Clark1961,87_thou-1,,^ m ii $,default,m i,i m
+866,OlutaPopoluca-87_thou-1,,OlutaPopoluca,87_thou,miis,miis,m iː s,,Clark1981,87_thou-1,,^ m ii s $,default,m i s,i m s
+867,TexistepecZoque-87_thou-1,,TexistepecZoque,87_thou,bič,bič,b i tʃ,,Wichmann2002,87_thou-1,,^ b i č $,default,b i tS,b i tS
+868,SoteapanZoque-87_thou-1,,SoteapanZoque,87_thou,mič,mič,m i tʃ,,Elson1999,87_thou-1,,^ m i č $,default,m i tS,i m tS
+869,SantaMariaChimalapaZoque-87_thou-1,,SantaMariaChimalapaZoque,87_thou,mits(tsiʔ),mits,m i ts,,Knudson1980,87_thou-1,,^ m i ts $,default,m i ts,i m ts
+870,SanMiguelChimalapaZoque-87_thou-1,,SanMiguelChimalapaZoque,87_thou,mi-š,mi-š,m i + ʃ,,Johnson1998,87_thou-1,,^ m i - š $,default,m i  S, S i m
+871,ChiapasZoque-87_thou-1,,ChiapasZoque,87_thou,mih,mih,m i h,,Harrison1981,87_thou-1,,^ m i h $,default,m i h,h i m
+872,NorthHighlandMixe-88_tongue-1,,NorthHighlandMixe,88_tongue,toots,toots,t oː ts,,Schoenhals1965,88_tongue-1,,^ t oo ts $,default,t o ts,o t ts
+873,SouthHighlandMixe-88_tongue-1,,SouthHighlandMixe,88_tongue,toots,toots,t oː ts,,Cysouw2006,88_tongue-1,,^ t oo ts $,default,t o ts,o t ts
+874,LowlandMixe-88_tongue-1,,LowlandMixe,88_tongue,toots,toots,t oː ts,,Hoogshagen1993,88_tongue-1,,^ t oo ts $,default,t o ts,o t ts
+875,SayulaPopoluca-88_tongue-1,,SayulaPopoluca,88_tongue,toohts,toohts,t oː h ts,,Clark1961,88_tongue-1,,^ t oo h ts $,default,t o h ts,h o t ts
+876,OlutaPopoluca-88_tongue-1,,OlutaPopoluca,88_tongue,tootsə,tootsə,t oː ts ə,,Clark1981,88_tongue-1,,^ t oo ts ə $,default,t o ts 3,3 o t ts
+877,SoteapanZoque-88_tongue-1,,SoteapanZoque,88_tongue,tots,tots,t o ts,,Elson1999,88_tongue-1,,^ t o ts $,default,t o ts,o t ts
+878,SantaMariaChimalapaZoque-88_tongue-1,,SantaMariaChimalapaZoque,88_tongue,yen-kuʔy,yen-kuʔy,j e n + k u ʔ j,,Knudson1980,88_tongue-2,,^ y e n - k u ʔ y $,default,y e n  k u 7 y, 7 e k n u y
+879,SanMiguelChimalapaZoque-88_tongue-1,,SanMiguelChimalapaZoque,88_tongue,tots,tots,t o ts,,Johnson1998,88_tongue-1,,^ t o ts $,default,t o ts,o t ts
+880,ChiapasZoque-88_tongue-1,,ChiapasZoque,88_tongue,tots,tots,t o ts,,Harrison1981,88_tongue-1,,^ t o ts $,default,t o ts,o t ts
+881,NorthHighlandMixe-89_tooth-1,,NorthHighlandMixe,89_tooth,təəts,təəts,t əː ts,,Schoenhals1965,89_tooth-1,,^ t əə ts $,default,t 3 ts,3 t ts
+882,SouthHighlandMixe-89_tooth-1,,SouthHighlandMixe,89_tooth,təəts,təəts,t əː ts,,Cysouw2006,89_tooth-1,,^ t əə ts $,default,t 3 ts,3 t ts
+883,LowlandMixe-89_tooth-1,,LowlandMixe,89_tooth,təəts,təəts,t əː ts,,Hoogshagen1993,89_tooth-1,,^ t əə ts $,default,t 3 ts,3 t ts
+884,SayulaPopoluca-89_tooth-1,,SayulaPopoluca,89_tooth,təəhts,təəhts,t əː h ts,,Clark1961,89_tooth-1,,^ t əə h ts $,default,t 3 h ts,3 h t ts
+885,OlutaPopoluca-89_tooth-1,,OlutaPopoluca,89_tooth,təətsə,təətsə,t əː ts ə,,Clark1981,89_tooth-1,,^ t əə ts ə $,default,t 3 ts 3,3 t ts
+886,TexistepecZoque-89_tooth-1,,TexistepecZoque,89_tooth,təts,təts,t ə ts,,Wichmann2002,89_tooth-1,,^ t ə ts $,default,t 3 ts,3 t ts
+887,SoteapanZoque-89_tooth-1,,SoteapanZoque,89_tooth,təts,təts,t ə ts,,Elson1999,89_tooth-1,,^ t ə ts $,default,t 3 ts,3 t ts
+888,SantaMariaChimalapaZoque-89_tooth-1,,SantaMariaChimalapaZoque,89_tooth,təts,təts,t ə ts,,Knudson1980,89_tooth-1,,^ t ə ts $,default,t 3 ts,3 t ts
+889,SanMiguelChimalapaZoque-89_tooth-1,,SanMiguelChimalapaZoque,89_tooth,təts,təts,t ə ts,,Johnson1998,89_tooth-1,,^ t ə ts $,default,t 3 ts,3 t ts
+890,ChiapasZoque-89_tooth-1,,ChiapasZoque,89_tooth,təts,təts,t ə ts,,Harrison1981,89_tooth-1,,^ t ə ts $,default,t 3 ts,3 t ts
+891,NorthHighlandMixe-90_tree-1,,NorthHighlandMixe,90_tree,kïp,kïp,k ɨ p,,Schoenhals1965,90_tree-1,,^ k ï p $,default,k 3 p,3 k p
+892,SouthHighlandMixe-90_tree-1,,SouthHighlandMixe,90_tree,šoh,šoh,ʃ o h,,Cysouw2006,90_tree-2,,^ š o h $,default,S o h,S h o
+893,LowlandMixe-90_tree-1,,LowlandMixe,90_tree,kipy,kipy,k i p j,,Hoogshagen1993,90_tree-1,,^ k i p y $,default,k i p y,i k p y
+894,SayulaPopoluca-90_tree-1,,SayulaPopoluca,90_tree,kuhy,kuhy,k u h j,,Clark1961,90_tree-1,,^ k u h y $,default,k u h y,h k u y
+895,OlutaPopoluca-90_tree-1,,OlutaPopoluca,90_tree,kuyə,kuyə,k u j ə,,Clark1981,90_tree-1,,^ k u y ə $,default,k u y 3,3 k u y
+896,TexistepecZoque-90_tree-1,,TexistepecZoque,90_tree,kuy,kuy,k u j,,Wichmann2002,90_tree-1,,^ k u y $,default,k u y,k u y
+897,SoteapanZoque-90_tree-1,,SoteapanZoque,90_tree,kuy,kuy,k u j,,Elson1999,90_tree-1,,^ k u y $,default,k u y,k u y
+898,SantaMariaChimalapaZoque-90_tree-1,,SantaMariaChimalapaZoque,90_tree,kuy,kuy,k u j,,Knudson1980,90_tree-1,,^ k u y $,default,k u y,k u y
+899,SanMiguelChimalapaZoque-90_tree-1,,SanMiguelChimalapaZoque,90_tree,kuy,kuy,k u j,,Johnson1998,90_tree-1,,^ k u y $,default,k u y,k u y
+900,ChiapasZoque-90_tree-1,,ChiapasZoque,90_tree,kuy,kuy,k u j,,Harrison1981,90_tree-1,,^ k u y $,default,k u y,k u y
+901,NorthHighlandMixe-91_two-1,,NorthHighlandMixe,91_two,mehtsk,mehtsk,m e h ts k,,Schoenhals1965,91_two-1,,^ m e h ts k $,default,m e h ts k,e h k m ts
+902,SouthHighlandMixe-91_two-1,,SouthHighlandMixe,91_two,mætsk,mætsk,m æ ts k,,Cysouw2006,91_two-1,,^ m æ ts k $,default,m E ts k,E k m ts
+903,LowlandMixe-91_two-1,,LowlandMixe,91_two,mets,mets,m e ts,,Hoogshagen1993,91_two-1,,^ m e ts $,default,m e ts,e m ts
+904,SayulaPopoluca-91_two-1,,SayulaPopoluca,91_two,mečk,mečk,m e tʃ k,,Clark1961,91_two-1,,^ m e č k $,default,m e tS k,e k m tS
+905,OlutaPopoluca-91_two-1,,OlutaPopoluca,91_two,mes-ko,mes-ko,m e s + k o,,Clark1981,91_two-1,,^ m e s - k o $,default,m e s  k o, e k m o s
+906,TexistepecZoque-91_two-1,,TexistepecZoque,91_two,wəs-naʔ,wəs-naʔ,w ə s + n a ʔ,,Wichmann2002,91_two-2,,^ w ə s - n a ʔ $,default,w 3 s  n a 7, 3 7 a n s w
+907,SoteapanZoque-91_two-1,,SoteapanZoque,91_two,wəs-teen,wəs-teen,w ə s + t eː n,,Elson1999,91_two-2,,^ w ə s - t ee n $,default,w 3 s  t e n, 3 e n s t w
+908,SantaMariaChimalapaZoque-91_two-1,,SantaMariaChimalapaZoque,91_two,mets-aʔaŋ,mets-aʔaŋ,m e ts + a ʔ a ŋ,,Knudson1980,91_two-3,,^ m e ts - a ʔ a ŋ $,default,m e ts  a 7 a N, 7 N a e m ts
+909,SanMiguelChimalapaZoque-91_two-1,,SanMiguelChimalapaZoque,91_two,mets-a-ʔaŋ,mets-a-ʔaŋ,m e ts + a + ʔ a ŋ,,Johnson1998,91_two-3,,^ m e ts - a - ʔ a ŋ $,default,m e ts  a  7 a N, 7 N a e m ts
+910,ChiapasZoque-91_two-1,,ChiapasZoque,91_two,metsa,metsa,m e ts a,,Harrison1981,91_two-1,,^ m e ts a $,default,m e ts a,a e m ts
+911,NorthHighlandMixe-92_walkgo-1,,NorthHighlandMixe,92_walkgo,yoʔoy,yoʔoy,j o ʔ o j,,Schoenhals1965,92_walkgo-1,,^ y o ʔ o y $,default,y o 7 o y,7 o y
+912,SouthHighlandMixe-92_walkgo-1,,SouthHighlandMixe,92_walkgo,yoʔoy,yoʔoy,j o ʔ o j,,Cysouw2006,92_walkgo-1,,^ y o ʔ o y $,default,y o 7 o y,7 o y
+913,LowlandMixe-92_walkgo-1,,LowlandMixe,92_walkgo,yoʔoy,yoʔoy,j o ʔ o j,,Hoogshagen1993,92_walkgo-1,,^ y o ʔ o y $,default,y o 7 o y,7 o y
+914,SayulaPopoluca-92_walkgo-1,,SayulaPopoluca,92_walkgo,yoʔy,yoʔy,j o ʔ j,,Clark1961,92_walkgo-1,,^ y o ʔ y $,default,y o 7 y,7 o y
+915,OlutaPopoluca-92_walkgo-1,,OlutaPopoluca,92_walkgo,vit,vit,v i t,,Clark1981,92_walkgo-2,,^ v i t $,default,v i t,i t v
+916,TexistepecZoque-92_walkgo-1,,TexistepecZoque,92_walkgo,weč,weč,w e tʃ,,Wichmann2002,92_walkgo-2,,^ w e č $,default,w e tS,e tS w
+917,SoteapanZoque-92_walkgo-1,,SoteapanZoque,92_walkgo,wity,wity,w i t j,,Elson1999,92_walkgo-2,,^ w i t y $,default,w i t y,i t w y
+918,SanMiguelChimalapaZoque-92_walkgo-1,,SanMiguelChimalapaZoque,92_walkgo,wit,wit,w i t,,Johnson1998,92_walkgo-2,,^ w i t $,default,w i t,i t w
+919,ChiapasZoque-92_walkgo-1,,ChiapasZoque,92_walkgo,wiht,wiht,w i h t,,Harrison1981,92_walkgo-2,,^ w i h t $,default,w i h t,h i t w
+920,SantaMariaChimalapaZoque-92_walkgo-1,,SantaMariaChimalapaZoque,92_walkgo,tuʔŋah,tuʔŋah,t u ʔ ŋ a h,,Knudson1980,92_walkgo-1,,^ t u ʔ ŋ a h $,default,t u 7 N a h,7 N a h t u
+921,SanMiguelChimalapaZoque-92_walkgo-2,,SanMiguelChimalapaZoque,92_walkgo,tuŋ-ʔah,tuŋ-ʔah,t u ŋ + ʔ a h,,Johnson1998,92_walkgo-1,,^ t u ŋ - ʔ a h $,default,t u N  7 a h, 7 N a h t u
+922,NorthHighlandMixe-93_warm-1,,NorthHighlandMixe,93_warm,an,an,a n,,Schoenhals1965,93_warm-1,,^ a n $,default,a n,a n
+923,SouthHighlandMixe-93_warm-1,,SouthHighlandMixe,93_warm,an,an,a n,,Cysouw2006,93_warm-1,,^ a n $,default,a n,a n
+924,LowlandMixe-93_warm-1,,LowlandMixe,93_warm,an,an,a n,,Hoogshagen1993,93_warm-1,,^ a n $,default,a n,a n
+925,SayulaPopoluca-93_warm-1,,SayulaPopoluca,93_warm,"powik, toyap",powik,p o w i k,,Clark1961,93_warm-2,,^ p o w i k $,default,p o w i k,i k o p w
+926,SayulaPopoluca-93_warm-2,,SayulaPopoluca,93_warm,"powik, toyap",toyap,t o j a p,,Clark1961,93_warm-2,,^ t o y a p $,default,t o y a p,a o p t y
+927,OlutaPopoluca-93_warm-1,,OlutaPopoluca,93_warm,hokoʔš,hokoʔš,h o k o ʔ ʃ,,Clark1981,93_warm-3,,^ h o k o ʔ š $,default,h o k o 7 S,7 S h k o
+928,SantaMariaChimalapaZoque-93_warm-1,,SantaMariaChimalapaZoque,93_warm,nuts,nuts,n u ts,,Knudson1980,93_warm-5,,^ n u ts $,default,n u ts,n ts u
+929,SanMiguelChimalapaZoque-93_warm-1,,SanMiguelChimalapaZoque,93_warm,yuk-nuts,yuk-nuts,j u k + n u ts,,Johnson1998,93_warm-5,,^ y u k - n u ts $,default,y u k  n u ts, k n ts u y
+930,ChiapasZoque-93_warm-1,,ChiapasZoque,93_warm,"pih, yoʔk-a",pih,p i h,,Harrison1981,93_warm-4,,^ p i h $,default,p i h,h i p
+931,ChiapasZoque-93_warm-2,,ChiapasZoque,93_warm,"pih, yoʔk-a",yoʔk-a,j o ʔ k + a,,Harrison1981,93_warm-4,,^ y o ʔ k - a $,default,y o 7 k  a, 7 a k o y
+932,NorthHighlandMixe-94_water-1,,NorthHighlandMixe,94_water,nəə,nəə,n əː,,Schoenhals1965,94_water-1,,^ n əə $,default,n 3,3 n
+933,SouthHighlandMixe-94_water-1,,SouthHighlandMixe,94_water,nəh,nəh,n ə h,,Cysouw2006,94_water-1,,^ n ə h $,default,n 3 h,3 h n
+934,LowlandMixe-94_water-1,,LowlandMixe,94_water,nəə,nəə,n əː,,Hoogshagen1993,94_water-1,,^ n əə $,default,n 3,3 n
+935,SayulaPopoluca-94_water-1,,SayulaPopoluca,94_water,nəʔ,nəʔ,n ə ʔ,,Clark1961,94_water-1,,^ n ə ʔ $,default,n 3 7,3 7 n
+936,OlutaPopoluca-94_water-1,,OlutaPopoluca,94_water,nəəhə,nəəhə,n əː h ə,,Clark1981,94_water-1,,^ n əə h ə $,default,n 3 h 3,3 h n
+937,TexistepecZoque-94_water-1,,TexistepecZoque,94_water,dəʔ,dəʔ,d ə ʔ,,Wichmann2002,94_water-1,,^ d ə ʔ $,default,d 3 7,3 7 d
+938,SoteapanZoque-94_water-1,,SoteapanZoque,94_water,nə,nə,n ə,,Elson1999,94_water-1,,^ n ə $,default,n 3,3 n
+939,SantaMariaChimalapaZoque-94_water-1,,SantaMariaChimalapaZoque,94_water,nəʔ,nəʔ,n ə ʔ,,Knudson1980,94_water-1,,^ n ə ʔ $,default,n 3 7,3 7 n
+940,SanMiguelChimalapaZoque-94_water-1,,SanMiguelChimalapaZoque,94_water,nəʔ,nəʔ,n ə ʔ,,Johnson1998,94_water-1,,^ n ə ʔ $,default,n 3 7,3 7 n
+941,ChiapasZoque-94_water-1,,ChiapasZoque,94_water,nəʔ,nəʔ,n ə ʔ,,Harrison1981,94_water-1,,^ n ə ʔ $,default,n 3 7,3 7 n
+942,NorthHighlandMixe-95_we-1,,NorthHighlandMixe,95_we,əəts,əəts,əː ts,,Schoenhals1965,95_we-1,,^ əə ts $,default,3 ts,3 ts
+943,SouthHighlandMixe-95_we-1,,SouthHighlandMixe,95_we,əəts,əəts,əː ts,,Cysouw2006,95_we-1,,^ əə ts $,default,3 ts,3 ts
+944,LowlandMixe-95_we-1,,LowlandMixe,95_we,əəč aht,əəč aht,əː tʃ + a h t,,Hoogshagen1993,95_we-1,,^ əə č + a h t $,default,3 tS  a h t, 3 a h t tS
+945,SayulaPopoluca-95_we-1,,SayulaPopoluca,95_we,əhtsat,əhtsat,ə h ts a t,,Clark1961,95_we-1,,^ ə h ts a t $,default,3 h ts a t,3 a h t ts
+946,OlutaPopoluca-95_we-1,,OlutaPopoluca,95_we,ətsaateʔk,ətsaateʔk,ə ts aː t e ʔ k,,Clark1981,95_we-1,,^ ə ts aa t e ʔ k $,default,3 ts a t e 7 k,3 7 a e k t ts
+947,TexistepecZoque-95_we-1,,TexistepecZoque,95_we,ʔəts-taʔ,ʔəts-taʔ,ʔ ə ts + t a ʔ,,Wichmann2002,95_we-1,,^ ʔ ə ts - t a ʔ $,default,7 3 ts  t a 7, 3 7 a t ts
+948,SantaMariaChimalapaZoque-95_we-1,,SantaMariaChimalapaZoque,95_we,newinynen,newinynen,n e w i n j n e n,,Knudson1980,95_we-2,,^ n e w i n y n e n $,default,n e w i n y n e n,e i n w y
+949,SanMiguelChimalapaZoque-95_we-1,,SanMiguelChimalapaZoque,95_we,neywin,neywin,n e j w i n,,Johnson1998,95_we-2,,^ n e y w i n $,default,n e y w i n,e i n w y
+950,ChiapasZoque-95_we-1,,ChiapasZoque,95_we,təh,təh,t ə h,,Harrison1981,95_we-3,,^ t ə h $,default,t 3 h,3 h t
+951,NorthHighlandMixe-96_what-1,,NorthHighlandMixe,96_what,ti,ti,t i,,Schoenhals1965,96_what-1,,^ t i $,default,t i,i t
+952,SouthHighlandMixe-96_what-1,,SouthHighlandMixe,96_what,tii,tii,t iː,,Cysouw2006,96_what-1,,^ t ii $,default,t i,i t
+953,LowlandMixe-96_what-1,,LowlandMixe,96_what,ti,ti,t i,,Hoogshagen1993,96_what-1,,^ t i $,default,t i,i t
+954,SayulaPopoluca-96_what-1,,SayulaPopoluca,96_what,ti,ti,t i,,Clark1961,96_what-1,,^ t i $,default,t i,i t
+955,OlutaPopoluca-96_what-1,,OlutaPopoluca,96_what,ti,ti,t i,,Clark1981,96_what-1,,^ t i $,default,t i,i t
+956,TexistepecZoque-96_what-1,,TexistepecZoque,96_what,čeʔ,čeʔ,tʃ e ʔ,,Wichmann2002,96_what-1,,^ č e ʔ $,default,tS e 7,7 e tS
+957,SoteapanZoque-96_what-1,,SoteapanZoque,96_what,tyi,tyi,t j i,,Elson1999,96_what-1,,^ t y i $,default,t y i,i t y
+958,SantaMariaChimalapaZoque-96_what-1,,SantaMariaChimalapaZoque,96_what,ti,ti,t i,,Knudson1980,96_what-1,,^ t i $,default,t i,i t
+959,SanMiguelChimalapaZoque-96_what-1,,SanMiguelChimalapaZoque,96_what,ti,ti,t i,,Johnson1998,96_what-1,,^ t i $,default,t i,i t
+960,ChiapasZoque-96_what-1,,ChiapasZoque,96_what,tiyə,tiyə,t i j ə,,Harrison1981,96_what-1,,^ t i y ə $,default,t i y 3,3 i t y
+961,NorthHighlandMixe-97_white-1,,NorthHighlandMixe,97_white,pooʔp,pooʔp,p oː ʔ p,,Schoenhals1965,97_white-1,,^ p oo ʔ p $,default,p o 7 p,7 o p
+962,SouthHighlandMixe-97_white-1,,SouthHighlandMixe,97_white,poop,poop,p oː p,,Cysouw2006,97_white-1,,^ p oo p $,default,p o p,o p
+963,LowlandMixe-97_white-1,,LowlandMixe,97_white,poob,poob,p oː b,,Hoogshagen1993,97_white-1,,^ p oo b $,default,p o b,b o p
+964,SayulaPopoluca-97_white-1,,SayulaPopoluca,97_white,poʔp,poʔp,p o ʔ p,,Clark1961,97_white-1,,^ p o ʔ p $,default,p o 7 p,7 o p
+965,OlutaPopoluca-97_white-1,,OlutaPopoluca,97_white,poopoʔ,poopoʔ,p oː p o ʔ,,Clark1981,97_white-1,,^ p oo p o ʔ $,default,p o p o 7,7 o p
+966,TexistepecZoque-97_white-1,,TexistepecZoque,97_white,popoʔ,popoʔ,p o p o ʔ,,Wichmann2002,97_white-1,,^ p o p o ʔ $,default,p o p o 7,7 o p
+967,SoteapanZoque-97_white-1,,SoteapanZoque,97_white,poʔobaap,poʔobaap,p o ʔ o b aː p,,Elson1999,97_white-1,,^ p o ʔ o b aa p $,default,p o 7 o b a p,7 a b o p
+968,SantaMariaChimalapaZoque-97_white-1,,SantaMariaChimalapaZoque,97_white,popoʔ,popoʔ,p o p o ʔ,,Knudson1980,97_white-1,,^ p o p o ʔ $,default,p o p o 7,7 o p
+969,SanMiguelChimalapaZoque-97_white-1,,SanMiguelChimalapaZoque,97_white,popoʔ,popoʔ,p o p o ʔ,,Johnson1998,97_white-1,,^ p o p o ʔ $,default,p o p o 7,7 o p
+970,ChiapasZoque-97_white-1,,ChiapasZoque,97_white,popo,popo,p o p o,,Harrison1981,97_white-1,,^ p o p o $,default,p o p o,o p
+971,NorthHighlandMixe-98_who-1,,NorthHighlandMixe,98_who,pən,pən,p ə n,,Schoenhals1965,98_who-1,,^ p ə n $,default,p 3 n,3 n p
+972,SouthHighlandMixe-98_who-1,,SouthHighlandMixe,98_who,pən,pən,p ə n,,Cysouw2006,98_who-1,,^ p ə n $,default,p 3 n,3 n p
+973,LowlandMixe-98_who-1,,LowlandMixe,98_who,pən,pən,p ə n,,Hoogshagen1993,98_who-1,,^ p ə n $,default,p 3 n,3 n p
+974,SayulaPopoluca-98_who-1,,SayulaPopoluca,98_who,pən,pən,p ə n,,Clark1961,98_who-1,,^ p ə n $,default,p 3 n,3 n p
+975,OlutaPopoluca-98_who-1,,OlutaPopoluca,98_who,pən,pən,p ə n,,Clark1981,98_who-1,,^ p ə n $,default,p 3 n,3 n p
+976,TexistepecZoque-98_who-1,,TexistepecZoque,98_who,ʔee,ʔee,ʔ eː,,Wichmann2002,98_who-3,,^ ʔ ee $,default,7 e,7 e
+977,SoteapanZoque-98_who-1,,SoteapanZoque,98_who,iapaʔap,iapaʔap,i a p a ʔ a p,,Elson1999,98_who-4,,^ i a p a ʔ a p $,default,i a p a 7 a p,7 a i p
+978,SantaMariaChimalapaZoque-98_who-1,,SantaMariaChimalapaZoque,98_who,i-wə,i-wə,i + w ə,,Knudson1980,98_who-2,,^ i - w ə $,default,i  w 3, 3 i w
+979,SanMiguelChimalapaZoque-98_who-1,,SanMiguelChimalapaZoque,98_who,ʔi-wə,ʔi-wə,ʔ i + w ə,,Johnson1998,98_who-2,,^ ʔ i - w ə $,default,7 i  w 3, 3 7 i w
+980,ChiapasZoque-98_who-1,,ChiapasZoque,98_who,i-wə,i-wə,i + w ə,,Harrison1981,98_who-2,,^ i - w ə $,default,i  w 3, 3 i w
+981,NorthHighlandMixe-99_woman-1,,NorthHighlandMixe,99_woman,təʔəštəhk,təʔəštəhk,t ə ʔ ə ʃ t ə h k,,Schoenhals1965,99_woman-1,,^ t ə ʔ ə š t ə h k $,default,t 3 7 3 S t 3 h k,3 7 S h k t
+982,SouthHighlandMixe-99_woman-1,,SouthHighlandMixe,99_woman,tišytyəhk,tišytyəhk,t i ʃ j t j ə h k,,Cysouw2006,99_woman-2,,^ t i š y t y ə h k $,default,t i S y t y 3 h k,3 S h i k t y
+983,LowlandMixe-99_woman-1,,LowlandMixe,99_woman,toʔošyhəy,toʔošyhəy,t o ʔ o ʃ j h ə j,,Hoogshagen1993,99_woman-2,,^ t o ʔ o š y h ə y $,default,t o 7 o S y h 3 y,3 7 S h o t y
+984,SayulaPopoluca-99_woman-1,,SayulaPopoluca,99_woman,toʔšay,toʔšay,t o ʔ ʃ a j,,Clark1961,99_woman-2,,^ t o ʔ š a y $,default,t o 7 S a y,7 S a o t y
+985,OlutaPopoluca-99_woman-1,,OlutaPopoluca,99_woman,mahaw,mahaw,m a h a w,,Clark1981,99_woman-3,,^ m a h a w $,default,m a h a w,a h m w
+986,TexistepecZoque-99_woman-1,,TexistepecZoque,99_woman,yoomaʔ,yoomaʔ,j oː m a ʔ,,Wichmann2002,99_woman-4,,^ y oo m a ʔ $,default,y o m a 7,7 a m o y
+987,SoteapanZoque-99_woman-1,,SoteapanZoque,99_woman,yoomo,yoomo,j oː m o,,Elson1999,99_woman-4,,^ y oo m o $,default,y o m o,m o y
+988,SantaMariaChimalapaZoque-99_woman-1,,SantaMariaChimalapaZoque,99_woman,yoməʔ,yoməʔ,j o m ə ʔ,,Knudson1980,99_woman-4,,^ y o m ə ʔ $,default,y o m 3 7,3 7 m o y
+989,SanMiguelChimalapaZoque-99_woman-1,,SanMiguelChimalapaZoque,99_woman,yomaaʔ,yomaaʔ,j o m aː ʔ,,Johnson1998,99_woman-4,,^ y o m aa ʔ $,default,y o m a 7,7 a m o y
+990,ChiapasZoque-99_woman-1,,ChiapasZoque,99_woman,yomo,yomo,j o m o,,Harrison1981,99_woman-4,,^ y o m o $,default,y o m o,m o y
+991,NorthHighlandMixe-100_yellow-1,,NorthHighlandMixe,100_yellow,pυʔts,pυʔts,p υ/ʊ ʔ ts,,Schoenhals1965,100_yellow-1,,^ p υ ʔ ts $,default,p u 7 ts,7 p ts u
+992,SouthHighlandMixe-100_yellow-1,,SouthHighlandMixe,100_yellow,puts,puts,p u ts,,Cysouw2006,100_yellow-1,,^ p u ts $,default,p u ts,p ts u
+993,LowlandMixe-100_yellow-1,,LowlandMixe,100_yellow,puʔts,puʔts,p u ʔ ts,,Hoogshagen1993,100_yellow-1,,^ p u ʔ ts $,default,p u 7 ts,7 p ts u
+994,SayulaPopoluca-100_yellow-1,,SayulaPopoluca,100_yellow,puʔts-puts,puʔts-puts,p u ʔ ts + p u ts,,Clark1961,100_yellow-1,,^ p u ʔ ts - p u ts $,default,p u 7 ts  p u ts, 7 p ts u
+995,OlutaPopoluca-100_yellow-1,,OlutaPopoluca,100_yellow,puʔs-puʔs,puʔs-puʔs,p u ʔ s + p u ʔ s,,Clark1981,100_yellow-1,,^ p u ʔs - p u ʔs $,default,p u 7 s  p u 7 s, 7 p s u
+996,TexistepecZoque-100_yellow-1,,TexistepecZoque,100_yellow,puʔuč-eʔ,puʔuč-eʔ,p u ʔ u tʃ + e ʔ,,Wichmann2002,100_yellow-1,,^ p u ʔ u č - e ʔ $,default,p u 7 u tS  e 7, 7 e p tS u
+997,SoteapanZoque-100_yellow-1,,SoteapanZoque,100_yellow,puʔuč,puʔuč,p u ʔ u tʃ,,Elson1999,100_yellow-1,,^ p u ʔ u č $,default,p u 7 u tS,7 p tS u
+998,SantaMariaChimalapaZoque-100_yellow-1,,SantaMariaChimalapaZoque,100_yellow,puʔtsiʔ,puʔtsiʔ,p u ʔ ts i ʔ,,Knudson1980,100_yellow-1,,^ p u ʔ ts i ʔ $,default,p u 7 ts i 7,7 i p ts u
+999,SanMiguelChimalapaZoque-100_yellow-1,,SanMiguelChimalapaZoque,100_yellow,puʔts-puʔts,puʔts-puʔts,p u ʔ ts + p u ʔ ts,,Johnson1998,100_yellow-1,,^ p u ʔ ts - p u ʔ ts $,default,p u 7 ts  p u 7 ts, 7 p ts u
+1000,ChiapasZoque-100_yellow-1,,ChiapasZoque,100_yellow,puʔtsə,puʔtsə,p u ʔ ts ə,,Harrison1981,100_yellow-1,,^ p u ʔ ts ə $,default,p u 7 ts 3,3 7 p ts u
+1001,NorthHighlandMixe-101_far-1,,NorthHighlandMixe,101_far,hekum,hekum,h e k u m,,Schoenhals1965,101_far-1,,^ h e k u m $,default,h e k u m,e h k m u
+1002,SouthHighlandMixe-101_far-1,,SouthHighlandMixe,101_far,hækæm,hækæm,h æ k æ m,,Cysouw2006,101_far-1,,^ h æ k æ m $,default,h E k E m,E h k m
+1003,LowlandMixe-101_far-1,,LowlandMixe,101_far,həgem,həgem,h ə g e m,,Hoogshagen1993,101_far-1,,^ h ə g e m $,default,h 3 g e m,3 e g h m
+1004,SayulaPopoluca-101_far-1,,SayulaPopoluca,101_far,yagats,yagats,j a g a ts,,Clark1961,101_far-2,,^ y a g a ts $,default,y a g a ts,a g ts y
+1005,OlutaPopoluca-101_far-1,,OlutaPopoluca,101_far,heškeʔkeʔk,heškeʔkeʔk,h e ʃ k e ʔ k e ʔ k,,Clark1981,101_far-3,,^ h e š k e ʔ k e ʔ k $,default,h e S k e 7 k e 7 k,7 S e h k
+1006,TexistepecZoque-101_far-1,,TexistepecZoque,101_far,huʔum,huʔum,h u ʔ u m,,Wichmann2002,101_far-5,,^ h u ʔ u m $,default,h u 7 u m,7 h m u
+1007,SoteapanZoque-101_far-1,,SoteapanZoque,101_far,huʔumə,huʔumə,h u ʔ u m ə,,Elson1999,101_far-5,,^ h u ʔ u m ə $,default,h u 7 u m 3,3 7 h m u
+1008,SantaMariaChimalapaZoque-101_far-1,,SantaMariaChimalapaZoque,101_far,yaʔhi,yaʔhi,j a ʔ h i,,Knudson1980,101_far-4,,^ y a ʔh i $,default,y a 7 h i,7 a h i y
+1009,SanMiguelChimalapaZoque-101_far-1,,SanMiguelChimalapaZoque,101_far,yah-əʔ,yah-əʔ,j a h + ə ʔ,,Johnson1998,101_far-4,,^ y a h - ə ʔ $,default,y a h  3 7, 3 7 a h y
+1010,ChiapasZoque-101_far-1,,ChiapasZoque,101_far,yaʔay,yaʔay,j a ʔ a j,,Harrison1981,101_far-4,,^ y a ʔ a y $,default,y a 7 a y,7 a y
+1011,NorthHighlandMixe-102_heavy-1,,NorthHighlandMixe,102_heavy,hemïts,hemïts,h e m ɨ ts,,Schoenhals1965,102_heavy-1,,^ h e m ï ts $,default,h e m 3 ts,3 e h m ts
+1012,SouthHighlandMixe-102_heavy-1,,SouthHighlandMixe,102_heavy,heʔmšy,heʔmšy,h e ʔ m ʃ j,,Cysouw2006,102_heavy-2,,^ h e ʔ m š y $,default,h e 7 m S y,7 S e h m y
+1013,LowlandMixe-102_heavy-1,,LowlandMixe,102_heavy,hemšy,hemšy,h e m ʃ j,,Hoogshagen1993,102_heavy-2,,^ h e m š y $,default,h e m S y,S e h m y
+1014,SayulaPopoluca-102_heavy-1,,SayulaPopoluca,102_heavy,uʔts,uʔts,u ʔ ts,,Clark1961,102_heavy-3,,^ u ʔ ts $,default,u 7 ts,7 ts u
+1015,TexistepecZoque-102_heavy-1,,TexistepecZoque,102_heavy,tsaʔks-naʔ,tsaʔks-naʔ,ts a ʔ k s + n a ʔ,,Wichmann2002,102_heavy-2,,^ ts a ʔ ks - n a ʔ $,default,ts a 7 k s  n a 7, 7 a k n s ts
+1016,SoteapanZoque-102_heavy-1,,SoteapanZoque,102_heavy,tsakš-ñi,tsakš-ñi,ts a k ʃ + ɲ i,,Elson1999,102_heavy-2,,^ ts a k š - ñ i $,default,ts a k S  5 i, 5 S a i k ts
+1017,SantaMariaChimalapaZoque-102_heavy-1,,SantaMariaChimalapaZoque,102_heavy,hemets,hemets,h e m e ts,,Knudson1980,102_heavy-1,,^ h e m e ts $,default,h e m e ts,e h m ts
+1018,SanMiguelChimalapaZoque-102_heavy-1,,SanMiguelChimalapaZoque,102_heavy,hemeʔts,hemeʔts,h e m e ʔ ts,,Johnson1998,102_heavy-1,,^ h e m e ʔ ts $,default,h e m e 7 ts,7 e h m ts
+1019,ChiapasZoque-102_heavy-1,,ChiapasZoque,102_heavy,hemets,hemets,h e m e ts,,Harrison1981,102_heavy-1,,^ h e m e ts $,default,h e m e ts,e h m ts
+1020,NorthHighlandMixe-103_near-1,,NorthHighlandMixe,103_near,təmhi,təmhi,t ə m h i,,Schoenhals1965,103_near-2,,^ t ə mh i $,default,t 3 m h i,3 h i m t
+1021,SouthHighlandMixe-103_near-1,,SouthHighlandMixe,103_near,hənkon,hənkon,h ə n k o n,,Cysouw2006,103_near-1,,^ h ə n k o n $,default,h 3 n k o n,3 h k n o
+1022,LowlandMixe-103_near-1,,LowlandMixe,103_near,wingon,wingon,w i n g o n,,Hoogshagen1993,103_near-1,,^ w i n g o n $,default,w i n g o n,g i n o w
+1023,SayulaPopoluca-103_near-1,,SayulaPopoluca,103_near,tom,tom,t o m,,Clark1961,103_near-2,,^ t o m $,default,t o m,m o t
+1024,OlutaPopoluca-103_near-1,,OlutaPopoluca,103_near,tomeʔk,tomeʔk,t o m e ʔ k,,Clark1981,103_near-2,,^ t o m e ʔ k $,default,t o m e 7 k,7 e k m o t
+1025,TexistepecZoque-103_near-1,,TexistepecZoque,103_near,taʔan,taʔan,t a ʔ a n,,Wichmann2002,103_near-3,,^ t a ʔ a n $,default,t a 7 a n,7 a n t
+1026,SoteapanZoque-103_near-1,,SoteapanZoque,103_near,taʔañi,taʔañi,t a ʔ a ɲ i,,Elson1999,103_near-3,,^ t a ʔ a ñ i $,default,t a 7 a 5 i,5 7 a i t
+1027,SantaMariaChimalapaZoque-103_near-1,,SantaMariaChimalapaZoque,103_near,tomeʔ,tomeʔ,t o m e ʔ,,Knudson1980,103_near-2,,^ t o m e ʔ $,default,t o m e 7,7 e m o t
+1028,SanMiguelChimalapaZoque-103_near-1,,SanMiguelChimalapaZoque,103_near,tom-eʔ,tom-eʔ,t o m + e ʔ,,Johnson1998,103_near-2,,^ t o m - e ʔ $,default,t o m  e 7, 7 e m o t
+1029,ChiapasZoque-103_near-1,,ChiapasZoque,103_near,tome,tome,t o m e,,Harrison1981,103_near-2,,^ t o m e $,default,t o m e,e m o t
+1030,NorthHighlandMixe-104_salt-1,,NorthHighlandMixe,104_salt,kaan,kaan,k aː n,,Schoenhals1965,104_salt-1,,^ k aa n $,default,k a n,a k n
+1031,SouthHighlandMixe-104_salt-1,,SouthHighlandMixe,104_salt,kaan,kaan,k aː n,,Cysouw2006,104_salt-1,,^ k aa n $,default,k a n,a k n
+1032,LowlandMixe-104_salt-1,,LowlandMixe,104_salt,kaan,kaan,k aː n,,Hoogshagen1993,104_salt-1,,^ k aa n $,default,k a n,a k n
+1033,SayulaPopoluca-104_salt-1,,SayulaPopoluca,104_salt,kaan,kaan,k aː n,,Clark1961,104_salt-1,,^ k aa n $,default,k a n,a k n
+1034,OlutaPopoluca-104_salt-1,,OlutaPopoluca,104_salt,kaana,kaana,k aː n a,,Clark1981,104_salt-1,,^ k aa n a $,default,k a n a,a k n
+1035,TexistepecZoque-104_salt-1,,TexistepecZoque,104_salt,kaan,kaan,k aː n,,Wichmann2002,104_salt-1,,^ k aa n $,default,k a n,a k n
+1036,SoteapanZoque-104_salt-1,,SoteapanZoque,104_salt,kaana,kaana,k aː n a,,Elson1999,104_salt-1,,^ k aa n a $,default,k a n a,a k n
+1037,SantaMariaChimalapaZoque-104_salt-1,,SantaMariaChimalapaZoque,104_salt,kana,kana,k a n a,,Knudson1980,104_salt-1,,^ k a n a $,default,k a n a,a k n
+1038,SanMiguelChimalapaZoque-104_salt-1,,SanMiguelChimalapaZoque,104_salt,kana,kana,k a n a,,Johnson1998,104_salt-1,,^ k a n a $,default,k a n a,a k n
+1039,ChiapasZoque-104_salt-1,,ChiapasZoque,104_salt,kana,kana,k a n a,,Harrison1981,104_salt-1,,^ k a n a $,default,k a n a,a k n
+1040,NorthHighlandMixe-105_short-1,,NorthHighlandMixe,105_short,kona,kona,k o n a,,Schoenhals1965,105_short-1,,^ k o n a $,default,k o n a,a k n o
+1041,SouthHighlandMixe-105_short-1,,SouthHighlandMixe,105_short,kon,kon,k o n,,Cysouw2006,105_short-1,,^ k o n $,default,k o n,k n o
+1042,LowlandMixe-105_short-1,,LowlandMixe,105_short,kon,kon,k o n,,Hoogshagen1993,105_short-1,,^ k o n $,default,k o n,k n o
+1043,OlutaPopoluca-105_short-1,,OlutaPopoluca,105_short,konoʔk,konoʔk,k o n o ʔ k,,Clark1981,105_short-1,,^ k o n o ʔ k $,default,k o n o 7 k,7 k n o
+1044,TexistepecZoque-105_short-1,,TexistepecZoque,105_short,dokkoʔ,dokkoʔ,d o kː o ʔ,,Wichmann2002,105_short-2,,^ d o kk o ʔ $,default,d o k o 7,7 d k o
+1045,SoteapanZoque-105_short-1,,SoteapanZoque,105_short,noko,noko,n o k o,,Elson1999,105_short-2,,^ n o k o $,default,n o k o,k n o
+1046,SantaMariaChimalapaZoque-105_short-1,,SantaMariaChimalapaZoque,105_short,konoʔ,konoʔ,k o n o ʔ,,Knudson1980,105_short-1,,^ k o n o ʔ $,default,k o n o 7,7 k n o
+1047,SanMiguelChimalapaZoque-105_short-1,,SanMiguelChimalapaZoque,105_short,kon(n)-oʔ,kon-oʔ,k o n + o ʔ,,Johnson1998,105_short-1,,^ k o n - o ʔ $,default,k o n  o 7, 7 k n o
+1048,ChiapasZoque-105_short-1,,ChiapasZoque,105_short,kono,kono,k o n o,,Harrison1981,105_short-1,,^ k o n o $,default,k o n o,k n o
+1049,NorthHighlandMixe-106_snake-1,,NorthHighlandMixe,106_snake,tsaaʔn,tsaaʔn,ts aː ʔ n,,Schoenhals1965,106_snake-1,,^ ts aa ʔ n $,default,ts a 7 n,7 a n ts
+1050,SouthHighlandMixe-106_snake-1,,SouthHighlandMixe,106_snake,tsaʔany,tsaʔany,ts a ʔ a n j,,Cysouw2006,106_snake-1,,^ ts a ʔ a n y $,default,ts a 7 a n y,7 a n ts y
+1051,LowlandMixe-106_snake-1,,LowlandMixe,106_snake,tsaʔny,tsaʔny,ts a ʔ n j,,Hoogshagen1993,106_snake-1,,^ ts a ʔ n y $,default,ts a 7 n y,7 a n ts y
+1052,SayulaPopoluca-106_snake-1,,SayulaPopoluca,106_snake,tsanay,tsanay,ts a n a j,,Clark1961,106_snake-1,,^ ts a n a y $,default,ts a n a y,a n ts y
+1053,OlutaPopoluca-106_snake-1,,OlutaPopoluca,106_snake,tsanaʔy,tsanaʔy,ts a n a ʔ j,,Clark1981,106_snake-1,,^ ts a n a ʔ y $,default,ts a n a 7 y,7 a n ts y
+1054,TexistepecZoque-106_snake-1,,TexistepecZoque,106_snake,tsaañ,tsaañ,ts aː ɲ,,Wichmann2002,106_snake-1,,^ ts aa ñ $,default,ts a 5,5 a ts
+1055,SoteapanZoque-106_snake-1,,SoteapanZoque,106_snake,tsaañ,tsaañ,ts aː ɲ,,Elson1999,106_snake-1,,^ ts aa ñ $,default,ts a 5,5 a ts
+1056,SantaMariaChimalapaZoque-106_snake-1,,SantaMariaChimalapaZoque,106_snake,tsahin,tsahin,ts a h i n,,Knudson1980,106_snake-1,,^ ts a h i n $,default,ts a h i n,a h i n ts
+1057,SanMiguelChimalapaZoque-106_snake-1,,SanMiguelChimalapaZoque,106_snake,tsahin,tsahin,ts a h i n,,Johnson1998,106_snake-1,,^ ts a h i n $,default,ts a h i n,a h i n ts
+1058,ChiapasZoque-106_snake-1,,ChiapasZoque,106_snake,tsan,tsan,ts a n,,Harrison1981,106_snake-1,,^ ts a n $,default,ts a n,a n ts
+1059,NorthHighlandMixe-107_thin-1,,NorthHighlandMixe,107_thin,pehi,pehi,p e h i,,Schoenhals1965,107_thin-1,,^ p e h i $,default,p e h i,e h i p
+1060,SouthHighlandMixe-107_thin-1,,SouthHighlandMixe,107_thin,pehy,pehy,p e h j,,Cysouw2006,107_thin-1,,^ p e h y $,default,p e h y,e h p y
+1061,LowlandMixe-107_thin-1,,LowlandMixe,107_thin,pehy,pehy,p e h j,,Hoogshagen1993,107_thin-1,,^ p e h y $,default,p e h y,e h p y
+1062,SayulaPopoluca-107_thin-1,,SayulaPopoluca,107_thin,pehay,pehay,p e h a j,,Clark1961,107_thin-1,,^ p e h a y $,default,p e h a y,a e h p y
+1063,OlutaPopoluca-107_thin-1,,OlutaPopoluca,107_thin,"hətəʔt, niipakə, pakə",hətəʔt,h ə t ə ʔ t,,Clark1981,107_thin-2,,^ h ə t ə ʔ t $,default,h 3 t 3 7 t,3 7 h t
+1064,OlutaPopoluca-107_thin-2,,OlutaPopoluca,107_thin,"hətəʔt, niipakə, pakə",niipakə,n iː p a k ə,,Clark1981,107_thin-2,,^ n ii p a k ə $,default,n i p a k 3,3 a i k n p
+1065,OlutaPopoluca-107_thin-3,,OlutaPopoluca,107_thin,"hətəʔt, niipakə, pakə",pakə,p a k ə,,Clark1981,107_thin-2,,^ p a k ə $,default,p a k 3,3 a k p
+1066,TexistepecZoque-107_thin-1,,TexistepecZoque,107_thin,"waayeʔ, əʔks-kəʔdaʔa, kal-pak-daʔa",waayeʔ,w aː j e ʔ,,Wichmann2002,107_thin-4,,^ w aa y e ʔ $,default,w a y e 7,7 a e w y
+1067,TexistepecZoque-107_thin-2,,TexistepecZoque,107_thin,"waayeʔ, əʔks-kəʔdaʔa, kal-pak-daʔa",əʔks-kəʔdaʔa,ə ʔ k s + k ə ʔ d a ʔ a,,Wichmann2002,107_thin-4,,^ ə ʔ ks - k ə ʔ d a ʔ a $,default,3 7 k s  k 3 7 d a 7 a, 3 7 a d k s
+1068,TexistepecZoque-107_thin-3,,TexistepecZoque,107_thin,"waayeʔ, əʔks-kəʔdaʔa, kal-pak-daʔa",kal-pak-daʔa,k a l + p a k + d a ʔ a,,Wichmann2002,107_thin-4,,^ k a l - p a k - d a ʔ a $,default,k a l  p a k  d a 7 a, 7 a d k l p
+1069,SoteapanZoque-107_thin-1,,SoteapanZoque,107_thin,"čehče, wayay",čehče,tʃ e h tʃ e,,Elson1999,107_thin-5,,^ č e h č e $,default,tS e h tS e,e h tS
+1070,SoteapanZoque-107_thin-2,,SoteapanZoque,107_thin,"čehče, wayay",wayay,w a j a j,,Elson1999,107_thin-5,,^ w a y a y $,default,w a y a y,a w y
+1071,SantaMariaChimalapaZoque-107_thin-1,,SantaMariaChimalapaZoque,107_thin,piʔiʔ,piʔiʔ,p i ʔ i ʔ,,Knudson1980,107_thin-1,,^ p i ʔ i ʔ $,default,p i 7 i 7,7 i p
+1072,SanMiguelChimalapaZoque-107_thin-1,,SanMiguelChimalapaZoque,107_thin,kitsa,kitsa,k i ts a,,Johnson1998,107_thin-6,,^ k i ts a $,default,k i ts a,a i k ts
+1073,ChiapasZoque-107_thin-1,,ChiapasZoque,107_thin,"tseya, kay, pahka-pahka",tseya,ts e j a,,Harrison1981,107_thin-3,,^ ts e y a $,default,ts e y a,a e ts y
+1074,ChiapasZoque-107_thin-2,,ChiapasZoque,107_thin,"tseya, kay, pahka-pahka",kay,k a j,,Harrison1981,107_thin-3,,^ k a y $,default,k a y,a k y
+1075,ChiapasZoque-107_thin-3,,ChiapasZoque,107_thin,"tseya, kay, pahka-pahka",pahka-pahka,p a h k a + p a h k a,,Harrison1981,107_thin-3,,^ p a h k a - p a h k a $,default,p a h k a  p a h k a, a h k p
+1076,NorthHighlandMixe-108_wind-1,,NorthHighlandMixe,108_wind,poh,poh,p o h,,Schoenhals1965,108_wind-1,,^ p o h $,default,p o h,h o p
+1077,SouthHighlandMixe-108_wind-1,,SouthHighlandMixe,108_wind,poh,poh,p o h,,Cysouw2006,108_wind-1,,^ p o h $,default,p o h,h o p
+1078,LowlandMixe-108_wind-1,,LowlandMixe,108_wind,poh,poh,p o h,,Hoogshagen1993,108_wind-1,,^ p o h $,default,p o h,h o p
+1079,SayulaPopoluca-108_wind-1,,SayulaPopoluca,108_wind,šeʔm,šeʔm,ʃ e ʔ m,,Clark1961,108_wind-2,,^ š e ʔ m $,default,S e 7 m,7 S e m
+1080,OlutaPopoluca-108_wind-1,,OlutaPopoluca,108_wind,haamu,haamu,h aː m u,,Clark1981,108_wind-3,,^ h aa m u $,default,h a m u,a h m u
+1081,TexistepecZoque-108_wind-1,,TexistepecZoque,108_wind,saaw,saaw,s aː w,,Wichmann2002,108_wind-4,,^ s aa w $,default,s a w,a s w
+1082,SoteapanZoque-108_wind-1,,SoteapanZoque,108_wind,saawa,saawa,s aː w a,,Elson1999,108_wind-4,,^ s aa w a $,default,s a w a,a s w
+1083,SanMiguelChimalapaZoque-108_wind-1,,SanMiguelChimalapaZoque,108_wind,šawa,šawa,ʃ a w a,,Johnson1998,108_wind-4,,^ š a w a $,default,S a w a,S a w
+1084,ChiapasZoque-108_wind-1,,ChiapasZoque,108_wind,sawa,sawa,s a w a,,Harrison1981,108_wind-4,,^ s a w a $,default,s a w a,a s w
+1085,NorthHighlandMixe-109_worm-1,,NorthHighlandMixe,109_worm,naš-tsaaʔn,naš-tsaaʔn,n a ʃ + ts aː ʔ n,,Schoenhals1965,109_worm-1,,^ n a š - ts aa ʔ n $,default,n a S  ts a 7 n, 7 S a n ts
+1086,SouthHighlandMixe-109_worm-1,,SouthHighlandMixe,109_worm,tənəʔək,tənəʔək,t ə n ə ʔ ə k,,Cysouw2006,109_worm-2,,^ t ə n ə ʔ ə k $,default,t 3 n 3 7 3 k,3 7 k n t
+1087,LowlandMixe-109_worm-1,,LowlandMixe,109_worm,təng,təng,t ə n g,,Hoogshagen1993,109_worm-2,,^ t ə n g $,default,t 3 n g,3 g n t
+1088,SayulaPopoluca-109_worm-1,,SayulaPopoluca,109_worm,tsugut,tsugut,ts u g u t,,Clark1961,109_worm-3,,^ ts u g u t $,default,ts u g u t,g t ts u
+1089,OlutaPopoluca-109_worm-1,,OlutaPopoluca,109_worm,kumu,kumu,k u m u,,Clark1981,109_worm-4,,^ k u m u $,default,k u m u,k m u
+1090,TexistepecZoque-109_worm-1,,TexistepecZoque,109_worm,tsuʔukeñ,tsuʔukeñ,ts u ʔ u k e ɲ,,Wichmann2002,109_worm-5,,^ ts u ʔ u k e ñ $,default,ts u 7 u k e 5,5 7 e k ts u
+1091,SoteapanZoque-109_worm-1,,SoteapanZoque,109_worm,tsuuʔkiñ,tsuuʔkiñ,ts uː ʔ k i ɲ,,Elson1999,109_worm-5,,^ ts uu ʔ k i ñ $,default,ts u 7 k i 5,5 7 i k ts u
+1092,SantaMariaChimalapaZoque-109_worm-1,,SantaMariaChimalapaZoque,109_worm,tsuʔkin,tsuʔkin,ts u ʔ k i n,,Knudson1980,109_worm-5,,^ ts u ʔ k i n $,default,ts u 7 k i n,7 i k n ts u
+1093,SanMiguelChimalapaZoque-109_worm-1,,SanMiguelChimalapaZoque,109_worm,kumuʔ,kumuʔ,k u m u ʔ,,Johnson1998,109_worm-4,,^ k u m u ʔ $,default,k u m u 7,7 k m u
+1094,TexistepecZoque-109_worm-2,,TexistepecZoque,109_worm,toʔt,toʔt,t o ʔ t,,Wichmann2002,109_worm-1,,^ t o ʔ t $,default,t o 7 t,7 o t
+1095,ChiapasZoque-109_worm-1,,ChiapasZoque,109_worm,toʔt,toʔt,t o ʔ t,,Harrison1981,109_worm-1,,^ t o ʔ t $,default,t o 7 t,7 o t
+1096,NorthHighlandMixe-110_year-1,,NorthHighlandMixe,110_year,hυυhnt,hυυhnt,h υː/ʊː h n t,,Schoenhals1965,110_year-1,,^ h υυ h n t $,default,h u h n t,h n t u
+1097,SouthHighlandMixe-110_year-1,,SouthHighlandMixe,110_year,həməht,həməht,h ə m ə h t,,Cysouw2006,110_year-1,,^ h ə m ə h t $,default,h 3 m 3 h t,3 h m t
+1098,LowlandMixe-110_year-1,,LowlandMixe,110_year,həməht,həməht,h ə m ə h t,,Hoogshagen1993,110_year-1,,^ h ə m ə h t $,default,h 3 m 3 h t,3 h m t
+1099,SayulaPopoluca-110_year-1,,SayulaPopoluca,110_year,šiwit,šiwit,ʃ i w i t,,Clark1961,110_year-2,,^ š i w i t $,default,S i w i t,S i t w
+1100,OlutaPopoluca-110_year-1,,OlutaPopoluca,110_year,šiviʔt,šiviʔt,ʃ i v i ʔ t,,Clark1981,110_year-2,,^ š i v i ʔ t $,default,S i v i 7 t,7 S i t v
+1101,TexistepecZoque-110_year-1,,TexistepecZoque,110_year,ʔamče,ʔamče,ʔ a m tʃ e,,Wichmann2002,110_year-3,,^ ʔ a m č e $,default,7 a m tS e,7 a e m tS
+1102,SoteapanZoque-110_year-1,,SoteapanZoque,110_year,aamtyəy,aamtyəy,aː m t j ə j,,Elson1999,110_year-3,,^ aa m t y ə y $,default,a m t y 3 y,3 a m t y
+1103,SantaMariaChimalapaZoque-110_year-1,,SantaMariaChimalapaZoque,110_year,amintə,amintə,a m i n t ə,,Knudson1980,110_year-3,,^ a m i n t ə $,default,a m i n t 3,3 a i m n t
+1104,SanMiguelChimalapaZoque-110_year-1,,SanMiguelChimalapaZoque,110_year,ʔamintəʔ,ʔamintəʔ,ʔ a m i n t ə ʔ,,Johnson1998,110_year-3,,^ ʔ a m i n t ə ʔ $,default,7 a m i n t 3 7,3 7 a i m n t
+1105,ChiapasZoque-110_year-1,,ChiapasZoque,110_year,ame,ame,a m e,,Harrison1981,110_year-3,,^ a m e $,default,a m e,a e m

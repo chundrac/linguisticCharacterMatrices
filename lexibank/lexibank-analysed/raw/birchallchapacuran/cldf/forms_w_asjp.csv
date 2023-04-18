@@ -1,0 +1,1038 @@
+,ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,asjp_forms,asjp_segs
+0,cojubim-1_i-1,,cojubim,1_i,waza,waza,w a z a,,Duran2000,1_i-A,,^ w a z a $,default,w a z a,a w z
+1,kitemoka-1_i-1,,kitemoka,1_i,waja,waja,w a j a,,CrequiMontfortRivet1913,1_i-A,,^ w a j a $,default,w a y a,a w y
+2,more-1_i-1,,more,1_i,waʒ̟a,waʒ̟a,w a ʒ̟ a,,Angenot2002;Leigue1957,1_i-A,,^ w a ʒ̟ a $,default,w a Z a,Z a w
+3,orowin-1_i-1,,orowin,1_i,wataʔ,wataʔ,w a t a ʔ,,Birchall2016;deFranca2002,1_i-A,,^ w a t a ʔ $,default,w a t a 7,7 a t w
+4,tapakura-1_i-1,,tapakura,1_i,waja,waja,w a j a,,CrequiMontfortRivet1913,1_i-A,,^ w a j a $,default,w a y a,a w y
+5,tora-1_i-1,,tora,1_i,waza,waza,w a z a,,Nimuendaju1925;Nimuendaju1923,1_i-A,,^ w a z a $,default,w a z a,a w z
+6,urupa-1_i-1,,urupa,1_i,wata,wata,w a t a,,Nimuendaju1925,1_i-A,,^ w a t a $,default,w a t a,a t w
+7,wanyam-1_i-1,,wanyam,1_i,wataʔ,wataʔ,w a t a ʔ,,Ribeiro1998;Hanke1975,1_i-A,,^ w a t a ʔ $,default,w a t a 7,7 a t w
+8,wari-1_i-1,,wari,1_i,wataʔ,wataʔ,w a t a ʔ,,EverettKern1997;Kern1996,1_i-A,,^ w a t a ʔ $,default,w a t a 7,7 a t w
+9,cojubim-2_yousg-1,,cojubim,2_yousg,um,um,u m,,Duran2000,2_yousg-A,,^ u m $,default,u m,m u
+10,kitemoka-2_yousg-1,,kitemoka,2_yousg,ahum,ahum,a h u m,,CrequiMontfortRivet1913,2_yousg-A,,^ a h u m $,default,a h u m,a h m u
+11,more-2_yousg-1,,more,2_yousg,momra,momra,m o m r a,,Angenot2002;Leigue1957,2_yousg-A,,^ m o m r a $,default,m o m r a,a m o r
+12,orowin-2_yousg-1,,orowin,2_yousg,wym,wym,w y m,,Birchall2016;deFranca2002,2_yousg-A,,^ w y m $,default,w i m,i m w
+13,tapakura-2_yousg-1,,tapakura,2_yousg,awimo,awimo,a w i m o,,CrequiMontfortRivet1913,2_yousg-A,,^ a w i m o $,default,a w i m o,a i m o w
+14,tora-2_yousg-1,,tora,2_yousg,webm,webm,w e b m,,Nimuendaju1925;Nimuendaju1923,2_yousg-A,,^ w e b m $,default,w e b m,b e m w
+15,urupa-2_yousg-1,,urupa,2_yousg,vim,vim,v i m,,Nimuendaju1925,2_yousg-A,,^ v i m $,default,v i m,i m v
+16,wanyam-2_yousg-1,,wanyam,2_yousg,im,im,i m,,Ribeiro1998;Hanke1975,2_yousg-A,,^ i m $,default,i m,i m
+17,wari-2_yousg-1,,wari,2_yousg,wum,wum,w u m,,EverettKern1997;Kern1996,2_yousg-A,,^ w u m $,default,w u m,m u w
+18,kitemoka-3_he-1,,kitemoka,3_he,ariko,ariko,a r i k o,,CrequiMontfortRivet1913,3_he-A,,^ a r i k o $,default,a r i k o,a i k o r
+19,more-3_he-1,,more,3_he,korari,korari,k o r a r i,,Angenot2002;Leigue1957,3_he-A,,^ k o r a r i $,default,k o r a r i,a i k o r
+20,orowin-3_he-1,,orowin,3_he,woriko,woriko,w o r i k o,,Birchall2016;deFranca2002,3_he-A,,^ w o r i k o $,default,w o r i k o,i k o r w
+21,tapakura-3_he-1,,tapakura,3_he,arikahu,arikahu,a r i k a h u,,CrequiMontfortRivet1913,3_he-A,,^ a r i k a h u $,default,a r i k a h u,a h i k r u
+22,tora-3_he-1,,tora,3_he,wariko,wariko,w a r i k o,,Nimuendaju1925;Nimuendaju1923,3_he-A,,^ w a r i k o $,default,w a r i k o,a i k o r w
+23,urupa-3_he-1,,urupa,3_he,okain,okain,o k a i n,,Nimuendaju1925,3_he-A,,^ o k a i n $,default,o k a i n,a i k n o
+24,wanyam-3_he-1,,wanyam,3_he,arukwan,arukwan,a r u k w a n,,Ribeiro1998;Hanke1975,3_he-A,,^ a r u kw a n $,default,a r u k w a n,a k n r u w
+25,wari-3_he-1,,wari,3_he,wiriko,wiriko,w i r i k o,,EverettKern1997;Kern1996,3_he-A,,^ w i r i k o $,default,w i r i k o,i k o r w
+26,kitemoka-4_we-1,,kitemoka,4_we,watʃe,watʃe,w a tʃ e,,CrequiMontfortRivet1913,4_we-A,,^ w a tʃ e $,default,w a tS e,a e tS w
+27,more-4_we-1,,more,4_we,watiʔ,watiʔ,w a t i ʔ,,Angenot2002;Leigue1957,4_we-A,,^ w a t i ʔ $,default,w a t i 7,7 a i t w
+28,orowin-4_we-1,,orowin,4_we,wariʔ,wariʔ,w a r i ʔ,,Birchall2016;deFranca2002,4_we-A,,^ w a r i ʔ $,default,w a r i 7,7 a i r w
+29,tapakura-4_we-1,,tapakura,4_we,wajahu,wajahu,w a j a h u,,CrequiMontfortRivet1913,4_we-A,,^ w a j a h u $,default,w a y a h u,a h u w y
+30,tora-4_we-1,,tora,4_we,wazati,wazati,w a z a t i,,Nimuendaju1925;Nimuendaju1923,4_we-A,,^ w a z a t i $,default,w a z a t i,a i t w z
+31,urupa-4_we-1,,urupa,4_we,wari,wari,w a r i,,Nimuendaju1925,4_we-A,,^ w a r i $,default,w a r i,a i r w
+32,wanyam-4_we-1,,wanyam,4_we,wari,wari,w a r i,,Ribeiro1998;Hanke1975,4_we-A,,^ w a r i $,default,w a r i,a i r w
+33,wari-4_we-1,,wari,4_we,wariʔ,wariʔ,w a r i ʔ,,EverettKern1997;Kern1996,4_we-A,,^ w a r i ʔ $,default,w a r i 7,7 a i r w
+34,more-5_youpl-1,,more,5_youpl,wura,wura,w u r a,,Angenot2002;Leigue1957,5_youpl-A,,^ w u r a $,default,w u r a,a r u w
+35,orowin-5_youpl-1,,orowin,5_youpl,fuʔ,fuʔ,f u ʔ,,Birchall2016;deFranca2002,5_youpl-A,,^ f u ʔ $,default,f u 7,7 f u
+36,tora-5_youpl-1,,tora,5_youpl,wihu,wihu,w i h u,,Nimuendaju1925;Nimuendaju1923,5_youpl-A,,^ w i h u $,default,w i h u,h i u w
+37,wari-5_youpl-1,,wari,5_youpl,wahuʔ,wahuʔ,w a h u ʔ,,EverettKern1997;Kern1996,5_youpl-A,,^ w a h u ʔ $,default,w a h u 7,7 a h u w
+38,orowin-6_they-1,,orowin,6_they,worikoko,worikoko,w o r i k o k o,,Birchall2016;deFranca2002,6_they-A,,^ w o r i k o k o $,default,w o r i k o k o,i k o r w
+39,tora-6_they-1,,tora,6_they,wariko bap,wariko bap,w a r i k o + b a p,,Nimuendaju1925;Nimuendaju1923,6_they-A,,^ w a r i k o + b a p $,default,w a r i k o  b a p, a b i k o p r w
+40,wari-6_they-1,,wari,6_they,wirikoko,wirikoko,w i r i k o k o,,EverettKern1997;Kern1996,6_they-A,,^ w i r i k o k o $,default,w i r i k o k o,i k o r w
+41,more-6_they-1,,more,6_they,omapu,omapu,o m a p u,,Angenot2002;Leigue1957,6_they-B,,^ o m a p u $,default,o m a p u,a m o p u
+42,tapakura-6_they-1,,tapakura,6_they,aʃiri,aʃiri,a ʃ i r i,,CrequiMontfortRivet1913,6_they-C,,^ a ʃ i r i $,default,a S i r i,S a i r
+43,more-7_whowhat-1,,more,7_whowhat,ati,ati,a t i,,Angenot2002;Leigue1957,7_whowhat-A,,^ a t i $,default,a t i,a i t
+44,orowin-7_whowhat-1,,orowin,7_whowhat,ati,ati,a t i,,Birchall2016;deFranca2002,7_whowhat-A,,^ a t i $,default,a t i,a i t
+45,more-7_whowhat-2,,more,7_whowhat,tikow,tikow,t i k o w,,Angenot2002;Leigue1957,7_whowhat-B,,^ t i k o w $,default,t i k o w,i k o t w
+46,tora-7_whowhat-1,,tora,7_whowhat,teokaj,teokaj,t e o k a j,,Nimuendaju1925;Nimuendaju1923,7_whowhat-B,,^ t e o k a j $,default,t e o k a y,a e k o t y
+47,wari-7_whowhat-1,,wari,7_whowhat,kaɲ,kaɲ,k a ɲ,,EverettKern1997;Kern1996,7_whowhat-B,,^ k a ɲ $,default,k a 5,5 a k
+48,orowin-8_many-1,,orowin,8_many,mijaʔ,mijaʔ,m i j a ʔ,,Birchall2016;deFranca2002,8_many-A,,^ m i j a ʔ $,default,m i y a 7,7 a i m y
+49,tora-8_many-1,,tora,8_many,jab,jab,j a b,,Nimuendaju1925;Nimuendaju1923,8_many-A,,^ j a b $,default,y a b,a b y
+50,wari-8_many-1,,wari,8_many,mija,mija,m i j a,,EverettKern1997;Kern1996,8_many-A,,^ m i j a $,default,m i y a,a i m y
+51,cojubim-8_many-1,,cojubim,8_many,napa,napa,n a p a,,Duran2000,8_many-B,,^ n a p a $,default,n a p a,a n p
+52,more-8_many-1,,more,8_many,napa,napa,n a p a,,Angenot2002;Leigue1957,8_many-B,,^ n a p a $,default,n a p a,a n p
+53,orowin-8_many-2,,orowin,8_many,napa,napa,n a p a,,Birchall2016;deFranca2002,8_many-B,,^ n a p a $,default,n a p a,a n p
+54,urupa-8_many-1,,urupa,8_many,katimisam,katimisam,k a t i m i s a m,,Nimuendaju1925,8_many-C,,^ k a t i m i s a m $,default,k a t i m i s a m,a i k m s t
+55,tora-8_many-2,,tora,8_many,asinëji,asinëji,a s i n ë j i,,Nimuendaju1925;Nimuendaju1923,8_many-D,,^ a s i n ë j i $,default,a s i n e y i,a e i n s y
+56,kitemoka-8_many-1,,kitemoka,8_many,patiako,patiako,p a t i a k o,,CrequiMontfortRivet1913,8_many-E,,^ p a t i a k o $,default,p a t i a k o,a i k o p t
+57,wari-9_few-1,,wari,9_few,parik,parik,p a r i k,,EverettKern1997;Kern1996,9_few-A,,^ p a r i k $,default,p a r i k,a i k p r
+58,wanyam-9_few-1,,wanyam,9_few,irakaw,irakaw,i r a k a w,,Ribeiro1998;Hanke1975,9_few-B,,^ i r a k a w $,default,i r a k a w,a i k r w
+59,orowin-9_few-1,,orowin,9_few,kawasan toman,kawasan toman,k a w a s a n + t o m a n,,Birchall2016;deFranca2002,9_few-C,,^ k a w a s a n + t o m a n $,default,k a w a s a n  t o m a n, a k m n o s t w
+60,wari-9_few-2,,wari,9_few,tokwan,tokwan,t o k w a n,,EverettKern1997;Kern1996,9_few-C,,^ t o kw a n $,default,t o k w a n,a k n o t w
+61,more-9_few-1,,more,9_few,pun as,pun as,p u n + a s,,Angenot2002;Leigue1957,9_few-D,,^ p u n + a s $,default,p u n  a s, a n p s u
+62,tapakura-9_few-1,,tapakura,9_few,matia,matia,m a t i a,,CrequiMontfortRivet1913,9_few-E,,^ m a t i a $,default,m a t i a,a i m t
+63,cojubim-10_one-1,,cojubim,10_one,tan,tan,t a n,,Duran2000,10_one-A,,^ t a n $,default,t a n,a n t
+64,more-10_one-1,,more,10_one,tan,tan,t a n,,Angenot2002;Leigue1957,10_one-A,,^ t a n $,default,t a n,a n t
+65,orowin-10_one-1,,orowin,10_one,kawasan,kawasan,k a w a s a n,,Birchall2016;deFranca2002,10_one-A,,^ k a w a s a n $,default,k a w a s a n,a k n s w
+66,tapakura-10_one-1,,tapakura,10_one,tan kua,tan kua,t a n + k u a,,CrequiMontfortRivet1913,10_one-A,,^ t a n + k u a $,default,t a n  k u a, a k n t u
+67,tora-10_one-1,,tora,10_one,kwatadn,kwatadn,k w a t a d n,,Nimuendaju1925;Nimuendaju1923,10_one-A,,^ kw a t a d n $,default,k w a t a d n,a d k n t w
+68,wanyam-10_one-1,,wanyam,10_one,kawatʃyk,kawatʃyk,k a w a tʃ y k,,Ribeiro1998;Hanke1975,10_one-A,,^ k a w a tʃ y k $,default,k a w a tS i k,a i k tS w
+69,urupa-10_one-1,,urupa,10_one,munim,munim,m u n i m,,Nimuendaju1925,10_one-B,,^ m u n i m $,default,m u n i m,i m n u
+70,kitemoka-10_one-1,,kitemoka,10_one,mamai-omaitʃe,mamai-omaitʃe,m a m a i + o m a i tʃ e,,CrequiMontfortRivet1913,10_one-C,,^ m a m a i - o m a i tʃ e $,default,m a m a i  o m a i tS e, a e i m o tS
+71,cojubim-11_two-1,,cojubim,11_two,wakoran,wakoran,w a k o r a n,,Duran2000,11_two-A,,^ w a k o r a n $,default,w a k o r a n,a k n o r w
+72,more-11_two-1,,more,11_two,pokoran,pokoran,p o k o r a n,,Angenot2002;Leigue1957,11_two-A,,^ p o k o r a n $,default,p o k o r a n,a k n o p r
+73,tapakura-11_two-1,,tapakura,11_two,wagaragatan,wagaragatan,w a g a r a g a t a n,,CrequiMontfortRivet1913,11_two-A,,^ w a g a r a g a t a n $,default,w a g a r a g a t a n,a g n r t w
+74,tora-11_two-1,,tora,11_two,kuradn,kuradn,k u r a d n,,Nimuendaju1925;Nimuendaju1923,11_two-A,,^ k u r a d n $,default,k u r a d n,a d k n r u
+75,wanyam-11_two-1,,wanyam,11_two,karikan,karikan,k a r i k a n,,Ribeiro1998;Hanke1975,11_two-A,,^ k a r i k a n $,default,k a r i k a n,a i k n r
+76,wari-11_two-1,,wari,11_two,tyky karakan,tyky karakan,t y k y + k a r a k a n,,EverettKern1997;Kern1996,11_two-A,,^ t y k y + k a r a k a n $,default,t i k i  k a r a k a n, a i k n r t
+77,orowin-11_two-1,,orowin,11_two,jiksam,jiksam,j i k s a m,,Birchall2016;deFranca2002,11_two-B,,^ j i ks a m $,default,y i k s a m,a i k m s y
+78,tapakura-11_two-2,,tapakura,11_two,ajuken,ajuken,a j u k e n,,CrequiMontfortRivet1913,11_two-C,,^ a j u k e n $,default,a y u k e n,a e k n u y
+79,jaru-12_big-1,,jaru,12_big,hora,hora,h o r a,,Rondon1948,12_big-A,,^ h o r a $,default,h o r a,a h o r
+80,orowin-12_big-1,,orowin,12_big,foraʔ,foraʔ,f o r a ʔ,,Birchall2016;deFranca2002,12_big-A,,^ f o r a ʔ $,default,f o r a 7,7 a f o r
+81,wari-12_big-1,,wari,12_big,hwaraʔ,hwaraʔ,h w a r a ʔ,,EverettKern1997;Kern1996,12_big-A,,^ hw a r a ʔ $,default,h w a r a 7,7 a h r w
+82,orowin-12_big-2,,orowin,12_big,ekem,ekem,e k e m,,Birchall2016;deFranca2002,12_big-B,,^ e k e m $,default,e k e m,e k m
+83,tora-12_big-1,,tora,12_big,ukadn,ukadn,u k a d n,,Nimuendaju1925;Nimuendaju1923,12_big-B,,^ u k a d n $,default,u k a d n,a d k n u
+84,urupa-12_big-1,,urupa,12_big,evekem,evekem,e v e k e m,,Nimuendaju1925,12_big-B,,^ e v e k e m $,default,e v e k e m,e k m v
+85,wari-12_big-2,,wari,12_big,kote ne,kote ne,k o t e + n e,,EverettKern1997;Kern1996,12_big-C,,^ k o t e + n e $,default,k o t e  n e, e k n o t
+86,cojubim-12_big-1,,cojubim,12_big,ina,ina,i n a,,Duran2000,12_big-D,,^ i n a $,default,i n a,a i n
+87,more-12_big-1,,more,12_big,ina,ina,i n a,,Angenot2002;Leigue1957,12_big-D,,^ i n a $,default,i n a,a i n
+88,wanyam-12_big-1,,wanyam,12_big,iparinaj,iparinaj,i p a r i n a j,,Ribeiro1998;Hanke1975,12_big-E,,^ i p a r i n a j $,default,i p a r i n a y,a i n p r y
+89,tapakura-12_big-1,,tapakura,12_big,kowikon,kowikon,k o w i k o n,,CrequiMontfortRivet1913,12_big-F,,^ k o w i k o n $,default,k o w i k o n,i k n o w
+90,kitemoka-12_big-1,,kitemoka,12_big,karatsaiko,karatsaiko,k a r a ts a i k o,,CrequiMontfortRivet1913,12_big-G,,^ k a r a ts a i k o $,default,k a r a ts a i k o,a i k o r ts
+91,orowin-13_small-1,,orowin,13_small,wijaman,wijaman,w i j a m a n,,Birchall2016;deFranca2002,13_small-A,,^ w i j a m a n $,default,w i y a m a n,a i m n w y
+92,urupa-13_small-1,,urupa,13_small,iamaj,iamaj,i a m a j,,Nimuendaju1925,13_small-A,,^ i a m a j $,default,i a m a y,a i m y
+93,wanyam-13_small-1,,wanyam,13_small,wijikun,wijikun,w i j i k u n,,Ribeiro1998;Hanke1975,13_small-A,,^ w i j i k u n $,default,w i y i k u n,i k n u w y
+94,wari-13_small-1,,wari,13_small,wijima,wijima,w i j i m a,,EverettKern1997;Kern1996,13_small-A,,^ w i j i m a $,default,w i y i m a,a i m w y
+95,kitemoka-13_small-1,,kitemoka,13_small,piʃitiko,piʃitiko,p i ʃ i t i k o,,CrequiMontfortRivet1913,13_small-B,,^ p i ʃ i t i k o $,default,p i S i t i k o,S i k o p t
+96,tapakura-13_small-1,,tapakura,13_small,mitʃitikon,mitʃitikon,m i tʃ i t i k o n,,CrequiMontfortRivet1913,13_small-B,,^ m i tʃ i t i k o n $,default,m i tS i t i k o n,i k m n o t tS
+97,cojubim-13_small-1,,cojubim,13_small,e,e,e,,Duran2000,13_small-C,,^ e $,default,e,e
+98,more-13_small-1,,more,13_small,eje,eje,e j e,,Angenot2002;Leigue1957,13_small-C,,^ e j e $,default,e y e,e y
+99,tora-13_small-1,,tora,13_small,nyaetʃidn,nyaetʃidn,n y a e tʃ i d n,,Nimuendaju1925;Nimuendaju1923,13_small-D,,^ n y a e tʃ i d n $,default,n i a e tS i d n,a d e i n tS
+100,jaru-13_small-1,,jaru,13_small,ip,ip,i p,,Rondon1948,13_small-E,,^ i p $,default,i p,i p
+101,jaru-14_woman-1,,jaru,14_woman,jamiriman,jamiriman,j a m i r i m a n,,Rondon1948,14_woman-A,,^ j a m i r i m a n $,default,y a m i r i m a n,a i m n r y
+102,orowin-14_woman-1,,orowin,14_woman,jamirima,jamirima,j a m i r i m a,,Birchall2016;deFranca2002,14_woman-A,,^ j a m i r i m a $,default,y a m i r i m a,a i m r y
+103,urupa-14_woman-1,,urupa,14_woman,jamra,jamra,j a m r a,,Nimuendaju1925,14_woman-A,,^ j a m r a $,default,y a m r a,a m r y
+104,wanyam-14_woman-1,,wanyam,14_woman,jamarimaʔ,jamarimaʔ,j a m a r i m a ʔ,,Ribeiro1998;Hanke1975,14_woman-A,,^ j a m a r i m a ʔ $,default,y a m a r i m a 7,7 a i m r y
+105,wari-14_woman-1,,wari,14_woman,narimaʔ,narimaʔ,n a r i m a ʔ,,EverettKern1997;Kern1996,14_woman-A,,^ n a r i m a ʔ $,default,n a r i m a 7,7 a i m n r
+106,cojubim-14_woman-1,,cojubim,14_woman,tanaman,tanaman,t a n a m a n,,Duran2000,14_woman-B,,^ t a n a m a n $,default,t a n a m a n,a m n t
+107,more-14_woman-1,,more,14_woman,tanaman,tanaman,t a n a m a n,,Angenot2002;Leigue1957,14_woman-B,,^ t a n a m a n $,default,t a n a m a n,a m n t
+108,kitemoka-14_woman-1,,kitemoka,14_woman,ɲamaki,ɲamaki,ɲ a m a k i,,CrequiMontfortRivet1913,14_woman-C,,^ ɲ a m a k i $,default,5 a m a k i,5 a i k m
+109,tapakura-14_woman-1,,tapakura,14_woman,jamake,jamake,j a m a k e,,CrequiMontfortRivet1913,14_woman-C,,^ j a m a k e $,default,y a m a k e,a e k m y
+110,tora-14_woman-1,,tora,14_woman,nakamin,nakamin,n a k a m i n,,Nimuendaju1925;Nimuendaju1923,14_woman-C,,^ n a k a m i n $,default,n a k a m i n,a i k m n
+111,jaru-15_man-1,,jaru,15_man,kitraman,kitraman,k i t r a m a n,,Rondon1948,15_man-A,,^ k i t r a m a n $,default,k i t r a m a n,a i k m n r t
+112,orowin-15_man-1,,orowin,15_man,kitrama,kitrama,k i t r a m a,,Birchall2016;deFranca2002,15_man-A,,^ k i t r a m a $,default,k i t r a m a,a i k m r t
+113,urupa-15_man-1,,urupa,15_man,kitrama,kitrama,k i t r a m a,,Nimuendaju1925,15_man-A,,^ k i t r a m a $,default,k i t r a m a,a i k m r t
+114,wanyam-15_man-1,,wanyam,15_man,kitaramaʔ,kitaramaʔ,k i t a r a m a ʔ,,Ribeiro1998;Hanke1975,15_man-A,,^ k i t a r a m a ʔ $,default,k i t a r a m a 7,7 a i k m r t
+115,wari-15_man-1,,wari,15_man,taramaʔ,taramaʔ,t a r a m a ʔ,,EverettKern1997;Kern1996,15_man-A,,^ t a r a m a ʔ $,default,t a r a m a 7,7 a m r t
+116,cojubim-15_man-1,,cojubim,15_man,namakon,namakon,n a m a k o n,,Duran2000,15_man-B,,^ n a m a k o n $,default,n a m a k o n,a k m n o
+117,more-15_man-1,,more,15_man,namakon,namakon,n a m a k o n,,Angenot2002;Leigue1957,15_man-B,,^ n a m a k o n $,default,n a m a k o n,a k m n o
+118,tora-15_man-1,,tora,15_man,nakon,nakon,n a k o n,,Nimuendaju1925;Nimuendaju1923,15_man-B,,^ n a k o n $,default,n a k o n,a k n o
+119,jaru-16_human-1,,jaru,16_human,wanjan,wanjan,w a n j a n,,Rondon1948,16_human-A,,^ w a n j a n $,default,w a n y a n,a n w y
+120,more-16_human-1,,more,16_human,wanjam,wanjam,w a n j a m,,Angenot2002;Leigue1957,16_human-A,,^ w a n j a m $,default,w a n y a m,a m n w y
+121,orowin-16_human-1,,orowin,16_human,wajam,wajam,w a j a m,,Birchall2016;deFranca2002,16_human-A,,^ w a j a m $,default,w a y a m,a m w y
+122,wanyam-16_human-1,,wanyam,16_human,wanjam,wanjam,w a n j a m,,Ribeiro1998;Hanke1975,16_human-A,,^ w a n j a m $,default,w a n y a m,a m n w y
+123,wari-16_human-1,,wari,16_human,wijam,wijam,w i j a m,,EverettKern1997;Kern1996,16_human-A,,^ w i j a m $,default,w i y a m,a i m w y
+124,jaru-17_child-1,,jaru,17_child,onjan,onjan,o n j a n,,Rondon1948,17_child-A,,^ o n j a n $,default,o n y a n,a n o y
+125,more-17_child-1,,more,17_child,joma,joma,j o m a,,Angenot2002;Leigue1957,17_child-A,,^ j o m a $,default,y o m a,a m o y
+126,orowin-17_child-1,,orowin,17_child,ifijama,ifijama,i f i j a m a,,Birchall2016;deFranca2002,17_child-A,,^ i f i j a m a $,default,i f i y a m a,a f i m y
+127,urupa-17_child-1,,urupa,17_child,uhunjam,uhunjam,u h u n j a m,,Nimuendaju1925,17_child-A,,^ u h u n j a m $,default,u h u n y a m,a h m n u y
+128,wanyam-17_child-1,,wanyam,17_child,marahujama,marahujama,m a r a h u j a m a,,Ribeiro1998;Hanke1975,17_child-A,,^ m a r a h u j a m a $,default,m a r a h u y a m a,a h m r u y
+129,wari-17_child-1,,wari,17_child,hwijimaʔ,hwijimaʔ,h w i j i m a ʔ,,EverettKern1997;Kern1996,17_child-A,,^ hw i j i m a ʔ $,default,h w i y i m a 7,7 a h i m w y
+130,wari-17_child-2,,wari,17_child,pijeʔ,pijeʔ,p i j e ʔ,,EverettKern1997;Kern1996,17_child-B,,^ p i j e ʔ $,default,p i y e 7,7 e i p y
+131,cojubim-17_child-1,,cojubim,17_child,rato,rato,r a t o,,Duran2000,17_child-C,,^ r a t o $,default,r a t o,a o r t
+132,more-17_child-2,,more,17_child,ratoʔ,ratoʔ,r a t o ʔ,,Angenot2002;Leigue1957,17_child-C,,^ r a t o ʔ $,default,r a t o 7,7 a o r t
+133,tora-17_child-1,,tora,17_child,irato,irato,i r a t o,,Nimuendaju1925;Nimuendaju1923,17_child-C,,^ i r a t o $,default,i r a t o,a i o r t
+134,kitemoka-17_child-1,,kitemoka,17_child,etiw,etiw,e t i w,,CrequiMontfortRivet1913,17_child-D,,^ e t i w $,default,e t i w,e i t w
+135,tapakura-17_child-1,,tapakura,17_child,witʃitikun,witʃitikun,w i tʃ i t i k u n,,CrequiMontfortRivet1913,17_child-E,,^ w i tʃ i t i k u n $,default,w i tS i t i k u n,i k n t tS u w
+136,cojubim-18_mother-1,,cojubim,18_mother,inaʔ,inaʔ,i n a ʔ,,Duran2000,18_mother-A,,^ i n a ʔ $,default,i n a 7,7 a i n
+137,more-18_mother-1,,more,18_mother,inaʔ,inaʔ,i n a ʔ,,Angenot2002;Leigue1957,18_mother-A,,^ i n a ʔ $,default,i n a 7,7 a i n
+138,orowin-18_mother-1,,orowin,18_mother,ina,ina,i n a,,Birchall2016;deFranca2002,18_mother-A,,^ i n a $,default,i n a,a i n
+139,tora-18_mother-1,,tora,18_mother,inja,inja,i n j a,,Nimuendaju1925;Nimuendaju1923,18_mother-A,,^ i n j a $,default,i n y a,a i n y
+140,wanyam-18_mother-1,,wanyam,18_mother,inaʔ,inaʔ,i n a ʔ,,Ribeiro1998;Hanke1975,18_mother-A,,^ i n a ʔ $,default,i n a 7,7 a i n
+141,wari-18_mother-1,,wari,18_mother,naʔ,naʔ,n a ʔ,,EverettKern1997;Kern1996,18_mother-A,,^ n a ʔ $,default,n a 7,7 a n
+142,cojubim-18_mother-2,,cojubim,18_mother,uweʔ,uweʔ,u w e ʔ,,Duran2000,18_mother-B,,^ u w e ʔ $,default,u w e 7,7 e u w
+143,jaru-18_mother-1,,jaru,18_mother,uwe,uwe,u w e,,Rondon1948,18_mother-B,,^ u w e $,default,u w e,e u w
+144,more-18_mother-2,,more,18_mother,uweʔ,uweʔ,u w e ʔ,,Angenot2002;Leigue1957,18_mother-B,,^ u w e ʔ $,default,u w e 7,7 e u w
+145,orowin-18_mother-2,,orowin,18_mother,ywe,ywe,y w e,,Birchall2016;deFranca2002,18_mother-B,,^ y w e $,default,i w e,e i w
+146,tora-18_mother-2,,tora,18_mother,iwi,iwi,i w i,,Nimuendaju1925;Nimuendaju1923,18_mother-B,,^ i w i $,default,i w i,i w
+147,urupa-18_mother-1,,urupa,18_mother,ive,ive,i v e,,Nimuendaju1925,18_mother-B,,^ i v e $,default,i v e,e i v
+148,wanyam-18_mother-2,,wanyam,18_mother,ewiʔ,ewiʔ,e w i ʔ,,Ribeiro1998;Hanke1975,18_mother-B,,^ e w i ʔ $,default,e w i 7,7 e i w
+149,wari-18_mother-2,,wari,18_mother,we,we,w e,,EverettKern1997;Kern1996,18_mother-B,,^ w e $,default,w e,e w
+150,cojubim-19_father-1,,cojubim,19_father,ite,ite,i t e,,Duran2000,19_father-A,,^ i t e $,default,i t e,e i t
+151,jaru-19_father-1,,jaru,19_father,ete,ete,e t e,,Rondon1948,19_father-A,,^ e t e $,default,e t e,e t
+152,kitemoka-19_father-1,,kitemoka,19_father,tatia,tatia,t a t i a,,CrequiMontfortRivet1913,19_father-A,,^ t a t i a $,default,t a t i a,a i t
+153,more-19_father-1,,more,19_father,ite,ite,i t e,,Angenot2002;Leigue1957,19_father-A,,^ i t e $,default,i t e,e i t
+154,orowin-19_father-1,,orowin,19_father,iteʔ,iteʔ,i t e ʔ,,Birchall2016;deFranca2002,19_father-A,,^ i t e ʔ $,default,i t e 7,7 e i t
+155,tapakura-19_father-1,,tapakura,19_father,tia-tia,tia-tia,t i a + t i a,,CrequiMontfortRivet1913,19_father-A,,^ t i a - t i a $,default,t i a  t i a, a i t
+156,tora-19_father-1,,tora,19_father,ite,ite,i t e,,Nimuendaju1925;Nimuendaju1923,19_father-A,,^ i t e $,default,i t e,e i t
+157,urupa-19_father-1,,urupa,19_father,ete,ete,e t e,,Nimuendaju1925,19_father-A,,^ e t e $,default,e t e,e t
+158,wanyam-19_father-1,,wanyam,19_father,tata,tata,t a t a,,Ribeiro1998;Hanke1975,19_father-A,,^ t a t a $,default,t a t a,a t
+159,wari-19_father-1,,wari,19_father,te,te,t e,,EverettKern1997;Kern1996,19_father-A,,^ t e $,default,t e,e t
+160,cojubim-20_animal-1,,cojubim,20_animal,patiʔ,patiʔ,p a t i ʔ,,Duran2000,20_animal-A,,^ p a t i ʔ $,default,p a t i 7,7 a i p t
+161,more-20_animal-1,,more,20_animal,patiʔ,patiʔ,p a t i ʔ,,Angenot2002;Leigue1957,20_animal-A,,^ p a t i ʔ $,default,p a t i 7,7 a i p t
+162,wanyam-20_animal-1,,wanyam,20_animal,patiʔ,patiʔ,p a t i ʔ,,Ribeiro1998;Hanke1975,20_animal-A,,^ p a t i ʔ $,default,p a t i 7,7 a i p t
+163,wari-20_animal-1,,wari,20_animal,karawa,karawa,k a r a w a,,EverettKern1997;Kern1996,20_animal-B,,^ k a r a w a $,default,k a r a w a,a k r w
+164,jaru-21_fish-1,,jaru,21_fish,ihamʔ,ihamʔ,i h a m ʔ,,Rondon1948,21_fish-A,,^ i h a m ʔ $,default,i h a m 7,7 a h i m
+165,kitemoka-21_fish-1,,kitemoka,21_fish,iham,iham,i h a m,,CrequiMontfortRivet1913,21_fish-A,,^ i h a m $,default,i h a m,a h i m
+166,orowin-21_fish-1,,orowin,21_fish,ifam,ifam,i f a m,,Birchall2016;deFranca2002,21_fish-A,,^ i f a m $,default,i f a m,a f i m
+167,tapakura-21_fish-1,,tapakura,21_fish,ihuam,ihuam,i h u a m,,CrequiMontfortRivet1913,21_fish-A,,^ i h u a m $,default,i h u a m,a h i m u
+168,tora-21_fish-1,,tora,21_fish,hoam,hoam,h o a m,,Nimuendaju1925;Nimuendaju1923,21_fish-A,,^ h o a m $,default,h o a m,a h m o
+169,urupa-21_fish-1,,urupa,21_fish,iham,iham,i h a m,,Nimuendaju1925,21_fish-A,,^ i h a m $,default,i h a m,a h i m
+170,wanyam-21_fish-1,,wanyam,21_fish,iham,iham,i h a m,,Ribeiro1998;Hanke1975,21_fish-A,,^ i h a m $,default,i h a m,a h i m
+171,wari-21_fish-1,,wari,21_fish,hwam,hwam,h w a m,,EverettKern1997;Kern1996,21_fish-A,,^ hw a m $,default,h w a m,a h m w
+172,cojubim-22_bird-1,,cojubim,22_bird,ume,ume,u m e,,Duran2000,22_bird-A,,^ u m e $,default,u m e,e m u
+173,jaru-22_bird-1,,jaru,22_bird,ume,ume,u m e,,Rondon1948,22_bird-A,,^ u m e $,default,u m e,e m u
+174,kitemoka-22_bird-1,,kitemoka,22_bird,hume,hume,h u m e,,CrequiMontfortRivet1913,22_bird-A,,^ h u m e $,default,h u m e,e h m u
+175,more-22_bird-1,,more,22_bird,ume,ume,u m e,,Angenot2002;Leigue1957,22_bird-A,,^ u m e $,default,u m e,e m u
+176,orowin-22_bird-1,,orowin,22_bird,yme,yme,y m e,,Birchall2016;deFranca2002,22_bird-A,,^ y m e $,default,i m e,e i m
+177,tapakura-22_bird-1,,tapakura,22_bird,ime,ime,i m e,,CrequiMontfortRivet1913,22_bird-A,,^ i m e $,default,i m e,e i m
+178,tora-22_bird-1,,tora,22_bird,uma,uma,u m a,,Nimuendaju1925;Nimuendaju1923,22_bird-A,,^ u m a $,default,u m a,a m u
+179,urupa-22_bird-1,,urupa,22_bird,ume,ume,u m e,,Nimuendaju1925,22_bird-A,,^ u m e $,default,u m e,e m u
+180,wanyam-22_bird-1,,wanyam,22_bird,imeʔ,imeʔ,i m e ʔ,,Ribeiro1998;Hanke1975,22_bird-A,,^ i m e ʔ $,default,i m e 7,7 e i m
+181,wari-22_bird-1,,wari,22_bird,me,me,m e,,EverettKern1997;Kern1996,22_bird-A,,^ m e $,default,m e,e m
+182,cojubim-23_peccary-1,,cojubim,23_peccary,tokowan,tokowan,t o k o w a n,,Duran2000,23_peccary-A,,^ t o k o w a n $,default,t o k o w a n,a k n o t w
+183,kitemoka-23_peccary-1,,kitemoka,23_peccary,tukawan,tukawan,t u k a w a n,,CrequiMontfortRivet1913,23_peccary-A,,^ t u k a w a n $,default,t u k a w a n,a k n t u w
+184,more-23_peccary-1,,more,23_peccary,tokowan,tokowan,t o k o w a n,,Angenot2002;Leigue1957,23_peccary-A,,^ t o k o w a n $,default,t o k o w a n,a k n o t w
+185,tapakura-23_peccary-1,,tapakura,23_peccary,tukawa,tukawa,t u k a w a,,CrequiMontfortRivet1913,23_peccary-A,,^ t u k a w a $,default,t u k a w a,a k t u w
+186,tora-23_peccary-1,,tora,23_peccary,tukawadn,tukawadn,t u k a w a d n,,Nimuendaju1925;Nimuendaju1923,23_peccary-A,,^ t u k a w a d n $,default,t u k a w a d n,a d k n t u w
+187,wanyam-23_peccary-1,,wanyam,23_peccary,tokawan,tokawan,t o k a w a n,,Ribeiro1998;Hanke1975,23_peccary-A,,^ t o k a w a n $,default,t o k a w a n,a k n o t w
+188,wari-23_peccary-1,,wari,23_peccary,katatʃik,katatʃik,k a t a tʃ i k,,EverettKern1997;Kern1996,23_peccary-B,,^ k a t a tʃ i k $,default,k a t a tS i k,a i k t tS
+189,orowin-23_peccary-1,,orowin,23_peccary,oro jaman,oro jaman,o r o + j a m a n,,Birchall2016;deFranca2002,23_peccary-C,,^ o r o + j a m a n $,default,o r o  y a m a n, a m n o r y
+190,jaru-24_deer-1,,jaru,24_deer,wijemu,wijemu,w i j e m u,,Rondon1948,24_deer-A,,^ w i j e m u $,default,w i y e m u,e i m u w y
+191,more-24_deer-1,,more,24_deer,jimop,jimop,j i m o p,,Angenot2002;Leigue1957,24_deer-A,,^ j i m o p $,default,y i m o p,i m o p y
+192,tora-24_deer-1,,tora,24_deer,vijemop,vijemop,v i j e m o p,,Nimuendaju1925;Nimuendaju1923,24_deer-A,,^ v i j e m o p $,default,v i y e m o p,e i m o p v y
+193,urupa-24_deer-1,,urupa,24_deer,jemob,jemob,j e m o b,,Nimuendaju1925,24_deer-A,,^ j e m o b $,default,y e m o b,b e m o y
+194,jaru-24_deer-2,,jaru,24_deer,komem,komem,k o m e m,,Rondon1948,24_deer-B,,^ k o m e m $,default,k o m e m,e k m o
+195,wari-24_deer-1,,wari,24_deer,komem,komem,k o m e m,,EverettKern1997;Kern1996,24_deer-B,,^ k o m e m $,default,k o m e m,e k m o
+196,kitemoka-24_deer-1,,kitemoka,24_deer,kimari,kimari,k i m a r i,,CrequiMontfortRivet1913,24_deer-C,,^ k i m a r i $,default,k i m a r i,a i k m r
+197,tapakura-24_deer-1,,tapakura,24_deer,kimari,kimari,k i m a r i,,CrequiMontfortRivet1913,24_deer-C,,^ k i m a r i $,default,k i m a r i,a i k m r
+198,wanyam-24_deer-1,,wanyam,24_deer,imariʔ,imariʔ,i m a r i ʔ,,Ribeiro1998;Hanke1975,24_deer-C,,^ i m a r i ʔ $,default,i m a r i 7,7 a i m r
+199,orowin-24_deer-1,,orowin,24_deer,aranasi,aranasi,a r a n a s i,,Birchall2016;deFranca2002,24_deer-D,,^ a r a n a s i $,default,a r a n a s i,a i n r s
+200,cojubim-24_deer-1,,cojubim,24_deer,towam,towam,t o w a m,,Duran2000,24_deer-E,,^ t o w a m $,default,t o w a m,a m o t w
+201,cojubim-25_louse-1,,cojubim,25_louse,iw,iw,i w,,Duran2000,25_louse-A,,^ i w $,default,i w,i w
+202,kitemoka-25_louse-1,,kitemoka,25_louse,ahihi,ahihi,a h i h i,,CrequiMontfortRivet1913,25_louse-A,,^ a h i h i $,default,a h i h i,a h i
+203,more-25_louse-1,,more,25_louse,iw,iw,i w,,Angenot2002;Leigue1957,25_louse-A,,^ i w $,default,i w,i w
+204,orowin-25_louse-1,,orowin,25_louse,iwisi,iwisi,i w i s i,,Birchall2016;deFranca2002,25_louse-A,,^ i w i s i $,default,i w i s i,i s w
+205,tapakura-25_louse-1,,tapakura,25_louse,awi,awi,a w i,,CrequiMontfortRivet1913,25_louse-A,,^ a w i $,default,a w i,a i w
+206,tora-25_louse-1,,tora,25_louse,iw,iw,i w,,Nimuendaju1925;Nimuendaju1923,25_louse-A,,^ i w $,default,i w,i w
+207,urupa-25_louse-1,,urupa,25_louse,iw,iw,i w,,Nimuendaju1925,25_louse-A,,^ i w $,default,i w,i w
+208,wanyam-25_louse-1,,wanyam,25_louse,iwi,iwi,i w i,,Ribeiro1998;Hanke1975,25_louse-A,,^ i w i $,default,i w i,i w
+209,wari-25_louse-1,,wari,25_louse,iwʔ,iwʔ,i w ʔ,,EverettKern1997;Kern1996,25_louse-A,,^ i w ʔ $,default,i w 7,7 i w
+210,cojubim-26_snake-1,,cojubim,26_snake,karakaw,karakaw,k a r a k a w,,Duran2000,26_snake-A,,^ k a r a k a w $,default,k a r a k a w,a k r w
+211,jaru-26_snake-1,,jaru,26_snake,krakaon,krakaon,k r a k a o n,,Rondon1948,26_snake-A,,^ k r a k a o n $,default,k r a k a o n,a k n o r
+212,more-26_snake-1,,more,26_snake,karakaw,karakaw,k a r a k a w,,Angenot2002;Leigue1957,26_snake-A,,^ k a r a k a w $,default,k a r a k a w,a k r w
+213,orowin-26_snake-1,,orowin,26_snake,karakaw,karakaw,k a r a k a w,,Birchall2016;deFranca2002,26_snake-A,,^ k a r a k a w $,default,k a r a k a w,a k r w
+214,tora-26_snake-1,,tora,26_snake,karakaw,karakaw,k a r a k a w,,Nimuendaju1925;Nimuendaju1923,26_snake-A,,^ k a r a k a w $,default,k a r a k a w,a k r w
+215,urupa-26_snake-1,,urupa,26_snake,krakaw,krakaw,k r a k a w,,Nimuendaju1925,26_snake-A,,^ k r a k a w $,default,k r a k a w,a k r w
+216,wanyam-26_snake-1,,wanyam,26_snake,karakaw,karakaw,k a r a k a w,,Ribeiro1998;Hanke1975,26_snake-A,,^ k a r a k a w $,default,k a r a k a w,a k r w
+217,wari-26_snake-1,,wari,26_snake,emʔ,emʔ,e m ʔ,,EverettKern1997;Kern1996,26_snake-B,,^ e m ʔ $,default,e m 7,7 e m
+218,jaru-27_worm-1,,jaru,27_worm,emete,emete,e m e t e,,Rondon1948,27_worm-A,,^ e m e t e $,default,e m e t e,e m t
+219,orowin-27_worm-1,,orowin,27_worm,emeteʔ,emeteʔ,e m e t e ʔ,,Birchall2016;deFranca2002,27_worm-A,,^ e m e t e ʔ $,default,e m e t e 7,7 e m t
+220,wari-27_worm-1,,wari,27_worm,meteʔ,meteʔ,m e t e ʔ,,EverettKern1997;Kern1996,27_worm-A,,^ m e t e ʔ $,default,m e t e 7,7 e m t
+221,more-27_worm-1,,more,27_worm,natanatan,natanatan,n a t a n a t a n,,Angenot2002;Leigue1957,27_worm-B,,^ n a t a n a t a n $,default,n a t a n a t a n,a n t
+222,wanyam-27_worm-1,,wanyam,27_worm,akak,akak,a k a k,,Ribeiro1998;Hanke1975,27_worm-C,,^ a k a k $,default,a k a k,a k
+223,kitemoka-28_forest-1,,kitemoka,28_forest,omi,omi,o m i,,CrequiMontfortRivet1913,28_forest-A,,^ o m i $,default,o m i,i m o
+224,more-28_forest-1,,more,28_forest,umi,umi,u m i,,Angenot2002;Leigue1957,28_forest-A,,^ u m i $,default,u m i,i m u
+225,orowin-28_forest-1,,orowin,28_forest,omi,omi,o m i,,Birchall2016;deFranca2002,28_forest-A,,^ o m i $,default,o m i,i m o
+226,tora-28_forest-1,,tora,28_forest,umi,umi,u m i,,Nimuendaju1925;Nimuendaju1923,28_forest-A,,^ u m i $,default,u m i,i m u
+227,wanyam-28_forest-1,,wanyam,28_forest,omi,omi,o m i,,Ribeiro1998;Hanke1975,28_forest-A,,^ o m i $,default,o m i,i m o
+228,wari-28_forest-1,,wari,28_forest,mi,mi,m i,,EverettKern1997;Kern1996,28_forest-A,,^ m i $,default,m i,i m
+229,jaru-28_forest-1,,jaru,28_forest,horoam,horoam,h o r o a m,,Rondon1948,28_forest-B,,^ h o r o a m $,default,h o r o a m,a h m o r
+230,tapakura-28_forest-1,,tapakura,28_forest,witip,witip,w i t i p,,CrequiMontfortRivet1913,28_forest-C,,^ w i t i p $,default,w i t i p,i p t w
+231,cojubim-29_stick-1,,cojubim,29_stick,pana,pana,p a n a,,Duran2000,29_stick-A,,^ p a n a $,default,p a n a,a n p
+232,jaru-29_stick-1,,jaru,29_stick,pana,pana,p a n a,,Rondon1948,29_stick-A,,^ p a n a $,default,p a n a,a n p
+233,more-29_stick-1,,more,29_stick,pana,pana,p a n a,,Angenot2002;Leigue1957,29_stick-A,,^ p a n a $,default,p a n a,a n p
+234,orowin-29_stick-1,,orowin,29_stick,pana,pana,p a n a,,Birchall2016;deFranca2002,29_stick-A,,^ p a n a $,default,p a n a,a n p
+235,tapakura-29_stick-1,,tapakura,29_stick,pane,pane,p a n e,,CrequiMontfortRivet1913,29_stick-A,,^ p a n e $,default,p a n e,a e n p
+236,tora-29_stick-1,,tora,29_stick,pana,pana,p a n a,,Nimuendaju1925;Nimuendaju1923,29_stick-A,,^ p a n a $,default,p a n a,a n p
+237,urupa-29_stick-1,,urupa,29_stick,pana,pana,p a n a,,Nimuendaju1925,29_stick-A,,^ p a n a $,default,p a n a,a n p
+238,wanyam-29_stick-1,,wanyam,29_stick,pana,pana,p a n a,,Ribeiro1998;Hanke1975,29_stick-A,,^ p a n a $,default,p a n a,a n p
+239,wari-29_stick-1,,wari,29_stick,pana,pana,p a n a,,EverettKern1997;Kern1996,29_stick-A,,^ p a n a $,default,p a n a,a n p
+240,cojubim-30_fruit-1,,cojubim,30_fruit,upeji pana,upeji pana,u p e j i + p a n a,,Duran2000,30_fruit-A,,^ u p e j i + p a n a $,default,u p e y i  p a n a, a e i n p u y
+241,jaru-30_fruit-1,,jaru,30_fruit,opiã pana,opiã pana,o p i ã + p a n a,,Rondon1948,30_fruit-A,,^ o p i ã + p a n a $,default,o p i a*  p a n a, a a* i n o p
+242,more-30_fruit-1,,more,30_fruit,upeje pana,upeje pana,u p e j e + p a n a,,Angenot2002;Leigue1957,30_fruit-A,,^ u p e j e + p a n a $,default,u p e y e  p a n a, a e n p u y
+243,orowin-30_fruit-1,,orowin,30_fruit,ipijam,ipijam,i p i j a m,,Birchall2016;deFranca2002,30_fruit-A,,^ i p i j a m $,default,i p i y a m,a i m p y
+244,wanyam-30_fruit-1,,wanyam,30_fruit,ipijam,ipijam,i p i j a m,,Ribeiro1998;Hanke1975,30_fruit-A,,^ i p i j a m $,default,i p i y a m,a i m p y
+245,wari-30_fruit-1,,wari,30_fruit,memem,memem,m e m e m,,EverettKern1997;Kern1996,30_fruit-B,,^ m e m e m $,default,m e m e m,e m
+246,tapakura-30_fruit-1,,tapakura,30_fruit,maritia,maritia,m a r i t i a,,CrequiMontfortRivet1913,30_fruit-C,,^ m a r i t i a $,default,m a r i t i a,a i m r t
+247,kitemoka-30_fruit-1,,kitemoka,30_fruit,pekoɲoɲi,pekoɲoɲi,p e k o ɲ o ɲ i,,CrequiMontfortRivet1913,30_fruit-D,,^ p e k o ɲ o ɲ i $,default,p e k o 5 o 5 i,5 e i k o p
+248,cojubim-31_leaf-1,,cojubim,31_leaf,tan,tan,t a n,,Duran2000,31_leaf-A,,^ t a n $,default,t a n,a n t
+249,more-31_leaf-1,,more,31_leaf,tan,tan,t a n,,Angenot2002;Leigue1957,31_leaf-A,,^ t a n $,default,t a n,a n t
+250,orowin-31_leaf-1,,orowin,31_leaf,tajinan,tajinan,t a j i n a n,,Birchall2016;deFranca2002,31_leaf-A,,^ t a j i n a n $,default,t a y i n a n,a i n t y
+251,wanyam-31_leaf-1,,wanyam,31_leaf,tain,tain,t a i n,,Ribeiro1998;Hanke1975,31_leaf-A,,^ t a i n $,default,t a i n,a i n t
+252,wari-31_leaf-1,,wari,31_leaf,taji,taji,t a j i,,EverettKern1997;Kern1996,31_leaf-A,,^ t a j i $,default,t a y i,a i t y
+253,tora-31_leaf-1,,tora,31_leaf,murami,murami,m u r a m i,,Nimuendaju1925;Nimuendaju1923,31_leaf-B,,^ m u r a m i $,default,m u r a m i,a i m r u
+254,kitemoka-31_leaf-1,,kitemoka,31_leaf,atia,atia,a t i a,,CrequiMontfortRivet1913,31_leaf-C,,^ a t i a $,default,a t i a,a i t
+255,tapakura-31_leaf-1,,tapakura,31_leaf,ʃuɲu,ʃuɲu,ʃ u ɲ u,,CrequiMontfortRivet1913,31_leaf-D,,^ ʃ u ɲ u $,default,S u 5 u,5 S u
+256,orowin-32_root-1,,orowin,32_root,sikinan,sikinan,s i k i n a n,,Birchall2016;deFranca2002,32_root-A,,^ s i k i n a n $,default,s i k i n a n,a i k n s
+257,wari-32_root-1,,wari,32_root,katʃima,katʃima,k a tʃ i m a,,EverettKern1997;Kern1996,32_root-A,,^ k a tʃ i m a $,default,k a tS i m a,a i k m tS
+258,cojubim-33_flower-1,,cojubim,33_flower,piwan,piwan,p i w a n,,Duran2000,33_flower-A,,^ p i w a n $,default,p i w a n,a i n p w
+259,jaru-33_flower-1,,jaru,33_flower,piwan,piwan,p i w a n,,Rondon1948,33_flower-A,,^ p i w a n $,default,p i w a n,a i n p w
+260,more-33_flower-1,,more,33_flower,piwan,piwan,p i w a n,,Angenot2002;Leigue1957,33_flower-A,,^ p i w a n $,default,p i w a n,a i n p w
+261,orowin-33_flower-1,,orowin,33_flower,piwan,piwan,p i w a n,,Birchall2016;deFranca2002,33_flower-A,,^ p i w a n $,default,p i w a n,a i n p w
+262,tora-33_flower-1,,tora,33_flower,piwaj,piwaj,p i w a j,,Nimuendaju1925;Nimuendaju1923,33_flower-A,,^ p i w a j $,default,p i w a y,a i p w y
+263,wari-33_flower-1,,wari,33_flower,piwaɲ,piwaɲ,p i w a ɲ,,EverettKern1997;Kern1996,33_flower-A,,^ p i w a ɲ $,default,p i w a 5,5 a i p w
+264,kitemoka-33_flower-1,,kitemoka,33_flower,tohot ɲe,tohot ɲe,t o h o t + ɲ e,,CrequiMontfortRivet1913,33_flower-B,,^ t o h o t + ɲ e $,default,t o h o t  5 e, 5 e h o t
+265,tapakura-33_flower-1,,tapakura,33_flower,tahune,tahune,t a h u n e,,CrequiMontfortRivet1913,33_flower-B,,^ t a h u n e $,default,t a h u n e,a e h n t u
+266,wari-34_grass-1,,wari,34_grass,tononoɲ,tononoɲ,t o n o n o ɲ,,EverettKern1997;Kern1996,34_grass-A,,^ t o n o n o ɲ $,default,t o n o n o 5,5 n o t
+267,jaru-34_grass-1,,jaru,34_grass,iwip,iwip,i w i p,,Rondon1948,34_grass-B,,^ i w i p $,default,i w i p,i p w
+268,wanyam-34_grass-1,,wanyam,34_grass,iwijip,iwijip,i w i j i p,,Ribeiro1998;Hanke1975,34_grass-B,,^ i w i j i p $,default,i w i y i p,i p w y
+269,orowin-34_grass-1,,orowin,34_grass,kawawaʔ,kawawaʔ,k a w a w a ʔ,,Birchall2016;deFranca2002,34_grass-C,,^ k a w a w a ʔ $,default,k a w a w a 7,7 a k w
+270,kitemoka-34_grass-1,,kitemoka,34_grass,wiwiti,wiwiti,w i w i t i,,CrequiMontfortRivet1913,34_grass-D,,^ w i w i t i $,default,w i w i t i,i t w
+271,tapakura-34_grass-1,,tapakura,34_grass,wiʃiti morutam,wiʃiti morutam,w i ʃ i t i + m o r u t a m,,CrequiMontfortRivet1913,34_grass-D,,^ w i ʃ i t i + m o r u t a m $,default,w i S i t i  m o r u t a m, S a i m o r t u w
+272,more-34_grass-1,,more,34_grass,towan,towan,t o w a n,,Angenot2002;Leigue1957,34_grass-E,,^ t o w a n $,default,t o w a n,a n o t w
+273,cojubim-35_rope-1,,cojubim,35_rope,mokon,mokon,m o k o n,,Duran2000,35_rope-A,,^ m o k o n $,default,m o k o n,k m n o
+274,more-35_rope-1,,more,35_rope,mokon,mokon,m o k o n,,Angenot2002;Leigue1957,35_rope-A,,^ m o k o n $,default,m o k o n,k m n o
+275,orowin-35_rope-1,,orowin,35_rope,mokorikon,mokorikon,m o k o r i k o n,,Birchall2016;deFranca2002,35_rope-A,,^ m o k o r i k o n $,default,m o k o r i k o n,i k m n o r
+276,urupa-35_rope-1,,urupa,35_rope,mukon,mukon,m u k o n,,Nimuendaju1925,35_rope-A,,^ m u k o n $,default,m u k o n,k m n o u
+277,wanyam-35_rope-1,,wanyam,35_rope,mokon,mokon,m o k o n,,Ribeiro1998;Hanke1975,35_rope-A,,^ m o k o n $,default,m o k o n,k m n o
+278,wari-35_rope-1,,wari,35_rope,makon,makon,m a k o n,,EverettKern1997;Kern1996,35_rope-A,,^ m a k o n $,default,m a k o n,a k m n o
+279,jaru-35_rope-1,,jaru,35_rope,kurupi,kurupi,k u r u p i,,Rondon1948,35_rope-B,,^ k u r u p i $,default,k u r u p i,i k p r u
+280,tora-35_rope-1,,tora,35_rope,tukuripa,tukuripa,t u k u r i p a,,Nimuendaju1925;Nimuendaju1923,35_rope-B,,^ t u k u r i p a $,default,t u k u r i p a,a i k p r t u
+281,jaru-36_skin-1,,jaru,36_skin,tuparesi,tuparesi,t u p a r e s i,,Rondon1948,36_skin-A,,^ t u p a r e s i $,default,t u p a r e s i,a e i p r s t u
+282,kitemoka-36_skin-1,,kitemoka,36_skin,paritʃe,paritʃe,p a r i tʃ e,,CrequiMontfortRivet1913,36_skin-A,,^ p a r i tʃ e $,default,p a r i tS e,a e i p r tS
+283,more-36_skin-1,,more,36_skin,topan,topan,t o p a n,,Angenot2002;Leigue1957,36_skin-A,,^ t o p a n $,default,t o p a n,a n o p t
+284,orowin-36_skin-1,,orowin,36_skin,toporisi,toporisi,t o p o r i s i,,Birchall2016;deFranca2002,36_skin-A,,^ t o p o r i s i $,default,t o p o r i s i,i o p r s t
+285,tapakura-36_skin-1,,tapakura,36_skin,tuparitʃi,tuparitʃi,t u p a r i tʃ i,,CrequiMontfortRivet1913,36_skin-A,,^ t u p a r i tʃ i $,default,t u p a r i tS i,a i p r t tS u
+286,tora-36_skin-1,,tora,36_skin,tupara,tupara,t u p a r a,,Nimuendaju1925;Nimuendaju1923,36_skin-A,,^ t u p a r a $,default,t u p a r a,a p r t u
+287,urupa-36_skin-1,,urupa,36_skin,tuparisi,tuparisi,t u p a r i s i,,Nimuendaju1925,36_skin-A,,^ t u p a r i s i $,default,t u p a r i s i,a i p r s t u
+288,wanyam-36_skin-1,,wanyam,36_skin,tupariʃiʔ,tupariʃiʔ,t u p a r i ʃ i ʔ,,Ribeiro1998;Hanke1975,36_skin-A,,^ t u p a r i ʃ i ʔ $,default,t u p a r i S i 7,7 S a i p r t u
+289,wari-36_skin-1,,wari,36_skin,taparitʃiʔ,taparitʃiʔ,t a p a r i tʃ i ʔ,,EverettKern1997;Kern1996,36_skin-A,,^ t a p a r i tʃ i ʔ $,default,t a p a r i tS i 7,7 a i p r t tS
+290,jaru-37_meat-1,,jaru,37_meat,ikekren,ikekren,i k e k r e n,,Rondon1948,37_meat-A,,^ i k e k r e n $,default,i k e k r e n,e i k n r
+291,more-37_meat-1,,more,37_meat,ukun,ukun,u k u n,,Angenot2002;Leigue1957,37_meat-A,,^ u k u n $,default,u k u n,k n u
+292,orowin-37_meat-1,,orowin,37_meat,ykeresi,ykeresi,y k e r e s i,,Birchall2016;deFranca2002,37_meat-A,,^ y k e r e s i $,default,i k e r e s i,e i k r s
+293,wanyam-37_meat-1,,wanyam,37_meat,ikerem,ikerem,i k e r e m,,Ribeiro1998;Hanke1975,37_meat-A,,^ i k e r e m $,default,i k e r e m,e i k m r
+294,wari-37_meat-1,,wari,37_meat,kweretʃiʔ,kweretʃiʔ,k w e r e tʃ i ʔ,,EverettKern1997;Kern1996,37_meat-A,,^ kw e r e tʃ i ʔ $,default,k w e r e tS i 7,7 e i k r tS w
+295,jaru-38_blood-1,,jaru,38_blood,wit,wit,w i t,,Rondon1948,38_blood-A,,^ w i t $,default,w i t,i t w
+296,kitemoka-38_blood-1,,kitemoka,38_blood,aweitʃe,aweitʃe,a w e i tʃ e,,CrequiMontfortRivet1913,38_blood-A,,^ a w e i tʃ e $,default,a w e i tS e,a e i tS w
+297,more-38_blood-1,,more,38_blood,wyk,wyk,w y k,,Angenot2002;Leigue1957,38_blood-A,,^ w y k $,default,w i k,i k w
+298,orowin-38_blood-1,,orowin,38_blood,wikisi,wikisi,w i k i s i,,Birchall2016;deFranca2002,38_blood-A,,^ w i k i s i $,default,w i k i s i,i k s w
+299,tapakura-38_blood-1,,tapakura,38_blood,awi,awi,a w i,,CrequiMontfortRivet1913,38_blood-A,,^ a w i $,default,a w i,a i w
+300,tora-38_blood-1,,tora,38_blood,wi,wi,w i,,Nimuendaju1925;Nimuendaju1923,38_blood-A,,^ w i $,default,w i,i w
+301,urupa-38_blood-1,,urupa,38_blood,wikisi,wikisi,w i k i s i,,Nimuendaju1925,38_blood-A,,^ w i k i s i $,default,w i k i s i,i k s w
+302,wanyam-38_blood-1,,wanyam,38_blood,wiki,wiki,w i k i,,Ribeiro1998;Hanke1975,38_blood-A,,^ w i k i $,default,w i k i,i k w
+303,wari-38_blood-1,,wari,38_blood,kitʃiʔ,kitʃiʔ,k i tʃ i ʔ,,EverettKern1997;Kern1996,38_blood-A,,^ k i tʃ i ʔ $,default,k i tS i 7,7 i k tS
+304,cojubim-39_bone-1,,cojubim,39_bone,at,at,a t,,Duran2000,39_bone-A,,^ a t $,default,a t,a t
+305,jaru-39_bone-1,,jaru,39_bone,rasi,rasi,r a s i,,Rondon1948,39_bone-A,,^ r a s i $,default,r a s i,a i r s
+306,kitemoka-39_bone-1,,kitemoka,39_bone,taritʃe,taritʃe,t a r i tʃ e,,CrequiMontfortRivet1913,39_bone-A,,^ t a r i tʃ e $,default,t a r i tS e,a e i r t tS
+307,more-39_bone-1,,more,39_bone,at,at,a t,,Angenot2002;Leigue1957,39_bone-A,,^ a t $,default,a t,a t
+308,orowin-39_bone-1,,orowin,39_bone,aran,aran,a r a n,,Birchall2016;deFranca2002,39_bone-A,,^ a r a n $,default,a r a n,a n r
+309,tapakura-39_bone-1,,tapakura,39_bone,atat,atat,a t a t,,CrequiMontfortRivet1913,39_bone-A,,^ a t a t $,default,a t a t,a t
+310,tora-39_bone-1,,tora,39_bone,ataʃi,ataʃi,a t a ʃ i,,Nimuendaju1925;Nimuendaju1923,39_bone-A,,^ a t a ʃ i $,default,a t a S i,S a i t
+311,urupa-39_bone-1,,urupa,39_bone,arasi,arasi,a r a s i,,Nimuendaju1925,39_bone-A,,^ a r a s i $,default,a r a s i,a i r s
+312,wanyam-39_bone-1,,wanyam,39_bone,araj,araj,a r a j,,Ribeiro1998;Hanke1975,39_bone-A,,^ a r a j $,default,a r a y,a r y
+313,wari-39_bone-1,,wari,39_bone,aratʃiʔ,aratʃiʔ,a r a tʃ i ʔ,,EverettKern1997;Kern1996,39_bone-A,,^ a r a tʃ i ʔ $,default,a r a tS i 7,7 a i r tS
+314,cojubim-40_fat-1,,cojubim,40_fat,mapum,mapum,m a p u m,,Duran2000,40_fat-A,,^ m a p u m $,default,m a p u m,a m p u
+315,jaru-40_fat-1,,jaru,40_fat,ahomi,ahomi,a h o m i,,Rondon1948,40_fat-A,,^ a h o m i $,default,a h o m i,a h i m o
+316,more-40_fat-1,,more,40_fat,mapom,mapom,m a p o m,,Angenot2002;Leigue1957,40_fat-A,,^ m a p o m $,default,m a p o m,a m o p
+317,orowin-40_fat-1,,orowin,40_fat,mafomasi,mafomasi,m a f o m a s i,,Birchall2016;deFranca2002,40_fat-A,,^ m a f o m a s i $,default,m a f o m a s i,a f i m o s
+318,tapakura-40_fat-1,,tapakura,40_fat,momikum-kiru,momikum-kiru,m o m i k u m + k i r u,,CrequiMontfortRivet1913,40_fat-A,,^ m o m i k u m - k i r u $,default,m o m i k u m  k i r u, i k m o r u
+319,tora-40_fat-1,,tora,40_fat,taahon,taahon,t aː h o n,,Nimuendaju1925;Nimuendaju1923,40_fat-A,,^ t aa h o n $,default,t a h o n,a h n o t
+320,wanyam-40_fat-1,,wanyam,40_fat,wahumajn,wahumajn,w a h u m a j n,,Ribeiro1998;Hanke1975,40_fat-A,,^ w a h u m a j n $,default,w a h u m a y n,a h m n u w y
+321,wari-40_fat-1,,wari,40_fat,homaɲ,homaɲ,h o m a ɲ,,EverettKern1997;Kern1996,40_fat-A,,^ h o m a ɲ $,default,h o m a 5,5 a h m o
+322,kitemoka-40_fat-1,,kitemoka,40_fat,mitaikongo,mitaikongo,m i t a i k o n g o,,CrequiMontfortRivet1913,40_fat-B,,^ m i t a i k o n g o $,default,m i t a i k o n g o,a g i k m n o t
+323,cojubim-41_egg-1,,cojubim,41_egg,ari jaɲ,ari jaɲ,a r i + j a ɲ,,Duran2000,41_egg-A,,^ a r i + j a ɲ $,default,a r i  y a 5, 5 a i r y
+324,jaru-41_egg-1,,jaru,41_egg,rejen,rejen,r e j e n,,Rondon1948,41_egg-A,,^ r e j e n $,default,r e y e n,e n r y
+325,kitemoka-41_egg-1,,kitemoka,41_egg,tirantia,tirantia,t i r a n t i a,,CrequiMontfortRivet1913,41_egg-A,,^ t i r a n t i a $,default,t i r a n t i a,a i n r t
+326,more-41_egg-1,,more,41_egg,ariʒ̟a,ariʒ̟a,a r i ʒ̟ a,,Angenot2002;Leigue1957,41_egg-A,,^ a r i ʒ̟ a $,default,a r i Z a,Z a i r
+327,orowin-41_egg-1,,orowin,41_egg,arikon,arikon,a r i k o n,,Birchall2016;deFranca2002,41_egg-A,,^ a r i k o n $,default,a r i k o n,a i k n o r
+328,tapakura-41_egg-1,,tapakura,41_egg,ateranta,ateranta,a t e r a n t a,,CrequiMontfortRivet1913,41_egg-A,,^ a t e r a n t a $,default,a t e r a n t a,a e n r t
+329,tora-41_egg-1,,tora,41_egg,azeron,azeron,a z e r o n,,Nimuendaju1925;Nimuendaju1923,41_egg-A,,^ a z e r o n $,default,a z e r o n,a e n o r z
+330,urupa-41_egg-1,,urupa,41_egg,erejen,erejen,e r e j e n,,Nimuendaju1925,41_egg-A,,^ e r e j e n $,default,e r e y e n,e n r y
+331,wanyam-41_egg-1,,wanyam,41_egg,arikon,arikon,a r i k o n,,Ribeiro1998;Hanke1975,41_egg-A,,^ a r i k o n $,default,a r i k o n,a i k n o r
+332,wari-41_egg-1,,wari,41_egg,arajeɲ,arajeɲ,a r a j e ɲ,,EverettKern1997;Kern1996,41_egg-A,,^ a r a j e ɲ $,default,a r a y e 5,5 a e r y
+333,kitemoka-42_horn-1,,kitemoka,42_horn,pitʃi,pitʃi,p i tʃ i,,CrequiMontfortRivet1913,42_horn-A,,^ p i tʃ i $,default,p i tS i,i p tS
+334,orowin-42_horn-1,,orowin,42_horn,pitikon,pitikon,p i t i k o n,,Birchall2016;deFranca2002,42_horn-A,,^ p i t i k o n $,default,p i t i k o n,i k n o p t
+335,wari-42_horn-1,,wari,42_horn,pitʃinaɲ,pitʃinaɲ,p i tʃ i n a ɲ,,EverettKern1997;Kern1996,42_horn-A,,^ p i tʃ i n a ɲ $,default,p i tS i n a 5,5 a i n p tS
+336,cojubim-42_horn-1,,cojubim,42_horn,tataw,tataw,t a t a w,,Duran2000,42_horn-B,,^ t a t a w $,default,t a t a w,a t w
+337,more-42_horn-1,,more,42_horn,tataw,tataw,t a t a w,,Angenot2002;Leigue1957,42_horn-B,,^ t a t a w $,default,t a t a w,a t w
+338,wanyam-42_horn-1,,wanyam,42_horn,tatawi,tatawi,t a t a w i,,Ribeiro1998;Hanke1975,42_horn-B,,^ t a t a w i $,default,t a t a w i,a i t w
+339,jaru-42_horn-1,,jaru,42_horn,ileken,ileken,i l e k e n,,Rondon1948,42_horn-C,,^ i l e k e n $,default,i l e k e n,e i k l n
+340,tapakura-42_horn-1,,tapakura,42_horn,injawan,injawan,i n j a w a n,,CrequiMontfortRivet1913,42_horn-D,,^ i n j a w a n $,default,i n y a w a n,a i n w y
+341,cojubim-43_tail-1,,cojubim,43_tail,kipun,kipun,k i p u n,,Duran2000,43_tail-A,,^ k i p u n $,default,k i p u n,i k n p u
+342,more-43_tail-1,,more,43_tail,kipun,kipun,k i p u n,,Angenot2002;Leigue1957,43_tail-A,,^ k i p u n $,default,k i p u n,i k n p u
+343,orowin-43_tail-1,,orowin,43_tail,keferesi,keferesi,k e f e r e s i,,Birchall2016;deFranca2002,43_tail-A,,^ k e f e r e s i $,default,k e f e r e s i,e f i k r s
+344,wanyam-43_tail-1,,wanyam,43_tail,kahire,kahire,k a h i r e,,Ribeiro1998;Hanke1975,43_tail-A,,^ k a h i r e $,default,k a h i r e,a e h i k r
+345,wari-43_tail-1,,wari,43_tail,kahwereɲ,kahwereɲ,k a h w e r e ɲ,,EverettKern1997;Kern1996,43_tail-A,,^ k a hw e r e ɲ $,default,k a h w e r e 5,5 a e h k r w
+346,kitemoka-43_tail-1,,kitemoka,43_tail,sokotʃetitʃe,sokotʃetitʃe,s o k o tʃ e t i tʃ e,,CrequiMontfortRivet1913,43_tail-B,,^ s o k o tʃ e t i tʃ e $,default,s o k o tS e t i tS e,e i k o s t tS
+347,tapakura-43_tail-1,,tapakura,43_tail,tʃipitʃi,tʃipitʃi,tʃ i p i tʃ i,,CrequiMontfortRivet1913,43_tail-B,,^ tʃ i p i tʃ i $,default,tS i p i tS i,i p tS
+348,cojubim-44_hair-1,,cojubim,44_hair,tuna,tuna,t u n a,,Duran2000,44_hair-A,,^ t u n a $,default,t u n a,a n t u
+349,jaru-44_hair-1,,jaru,44_hair,tinji,tinji,t i n j i,,Rondon1948,44_hair-A,,^ t i n j i $,default,t i n y i,i n t y
+350,kitemoka-44_hair-1,,kitemoka,44_hair,tʃumitʃe,tʃumitʃe,tʃ u m i tʃ e,,CrequiMontfortRivet1913,44_hair-A,,^ tʃ u m i tʃ e $,default,tS u m i tS e,e i m tS u
+351,more-44_hair-1,,more,44_hair,tuneɲ,tuneɲ,t u n e ɲ,,Angenot2002;Leigue1957,44_hair-A,,^ t u n e ɲ $,default,t u n e 5,5 e n t u
+352,orowin-44_hair-1,,orowin,44_hair,tynesi,tynesi,t y n e s i,,Birchall2016;deFranca2002,44_hair-A,,^ t y n e s i $,default,t i n e s i,e i n s t
+353,tapakura-44_hair-1,,tapakura,44_hair,tʃumitʃi,tʃumitʃi,tʃ u m i tʃ i,,CrequiMontfortRivet1913,44_hair-A,,^ tʃ u m i tʃ i $,default,tS u m i tS i,i m tS u
+354,tora-44_hair-1,,tora,44_hair,tuni,tuni,t u n i,,Nimuendaju1925;Nimuendaju1923,44_hair-A,,^ t u n i $,default,t u n i,i n t u
+355,wanyam-44_hair-1,,wanyam,44_hair,tiniʃiʔ,tiniʃiʔ,t i n i ʃ i ʔ,,Ribeiro1998;Hanke1975,44_hair-A,,^ t i n i ʃ i ʔ $,default,t i n i S i 7,7 S i n t
+356,wari-44_hair-1,,wari,44_hair,tenenetʃiʔ,tenenetʃiʔ,t e n e n e tʃ i ʔ,,EverettKern1997;Kern1996,44_hair-A,,^ t e n e n e tʃ i ʔ $,default,t e n e n e tS i 7,7 e i n t tS
+357,jaru-44_hair-2,,jaru,44_hair,juhenesi,juhenesi,j u h e n e s i,,Rondon1948,44_hair-B,,^ j u h e n e s i $,default,y u h e n e s i,e h i n s u y
+358,urupa-44_hair-1,,urupa,44_hair,yvenesi,yvenesi,y v e n e s i,,Nimuendaju1925,44_hair-B,,^ y v e n e s i $,default,i v e n e s i,e i n s v
+359,jaru-44_hair-3,,jaru,44_hair,jupisi,jupisi,j u p i s i,,Rondon1948,44_hair-C,,^ j u p i s i $,default,y u p i s i,i p s u y
+360,cojubim-45_head-1,,cojubim,45_head,upek,upek,u p e k,,Duran2000,45_head-A,,^ u p e k $,default,u p e k,e k p u
+361,kitemoka-45_head-1,,kitemoka,45_head,paitʃe,paitʃe,p a i tʃ e,,CrequiMontfortRivet1913,45_head-A,,^ p a i tʃ e $,default,p a i tS e,a e i p tS
+362,more-45_head-1,,more,45_head,upwik,upwik,u p w i k,,Angenot2002;Leigue1957,45_head-A,,^ u pw i k $,default,u p w i k,i k p u w
+363,orowin-45_head-1,,orowin,45_head,ipijisi,ipijisi,i p i j i s i,,Birchall2016;deFranca2002,45_head-A,,^ i p i j i s i $,default,i p i y i s i,i p s y
+364,tapakura-45_head-1,,tapakura,45_head,upatʃi,upatʃi,u p a tʃ i,,CrequiMontfortRivet1913,45_head-A,,^ u p a tʃ i $,default,u p a tS i,a i p tS u
+365,tora-45_head-1,,tora,45_head,upujeʃi,upujeʃi,u p u j e ʃ i,,Nimuendaju1925;Nimuendaju1923,45_head-A,,^ u p u j e ʃ i $,default,u p u y e S i,S e i p u y
+366,urupa-45_head-1,,urupa,45_head,ypirisi,ypirisi,y p i r i s i,,Nimuendaju1925,45_head-A,,^ y p i r i s i $,default,i p i r i s i,i p r s
+367,wanyam-45_head-1,,wanyam,45_head,ipijiʃiʔ,ipijiʃiʔ,i p i j i ʃ i ʔ,,Ribeiro1998;Hanke1975,45_head-A,,^ i p i j i ʃ i ʔ $,default,i p i y i S i 7,7 S i p y
+368,wari-45_head-1,,wari,45_head,winatʃiʔ,winatʃiʔ,w i n a tʃ i ʔ,,EverettKern1997;Kern1996,45_head-B,,^ w i n a tʃ i ʔ $,default,w i n a tS i 7,7 a i n tS w
+369,jaru-45_head-1,,jaru,45_head,totepisi,totepisi,t o t e p i s i,,Rondon1948,45_head-C,,^ t o t e p i s i $,default,t o t e p i s i,e i o p s t
+370,jaru-46_ear-1,,jaru,46_ear,traisi,traisi,t r a i s i,,Rondon1948,46_ear-A,,^ t r a i s i $,default,t r a i s i,a i r s t
+371,kitemoka-46_ear-1,,kitemoka,46_ear,tatiatatʃe,tatiatatʃe,t a t i a t a tʃ e,,CrequiMontfortRivet1913,46_ear-A,,^ t a t i a t a tʃ e $,default,t a t i a t a tS e,a e i t tS
+372,orowin-46_ear-1,,orowin,46_ear,trajisi,trajisi,t r a j i s i,,Birchall2016;deFranca2002,46_ear-A,,^ t r a j i s i $,default,t r a y i s i,a i r s t y
+373,tapakura-46_ear-1,,tapakura,46_ear,taitatatʃi,taitatatʃi,t a i t a t a tʃ i,,CrequiMontfortRivet1913,46_ear-A,,^ t a i t a t a tʃ i $,default,t a i t a t a tS i,a i t tS
+374,urupa-46_ear-1,,urupa,46_ear,traisi,traisi,t r a i s i,,Nimuendaju1925,46_ear-A,,^ t r a i s i $,default,t r a i s i,a i r s t
+375,wanyam-46_ear-1,,wanyam,46_ear,tarajiʃiʔ,tarajiʃiʔ,t a r a j i ʃ i ʔ,,Ribeiro1998;Hanke1975,46_ear-A,,^ t a r a j i ʃ i ʔ $,default,t a r a y i S i 7,7 S a i r t y
+376,wari-46_ear-1,,wari,46_ear,tarajitʃiʔ,tarajitʃiʔ,t a r a j i tʃ i ʔ,,EverettKern1997;Kern1996,46_ear-A,,^ t a r a j i tʃ i ʔ $,default,t a r a y i tS i 7,7 a i r t tS y
+377,cojubim-46_ear-1,,cojubim,46_ear,tenetet,tenetet,t e n e t e t,,Duran2000,46_ear-B,,^ t e n e t e t $,default,t e n e t e t,e n t
+378,more-46_ear-1,,more,46_ear,tenetet,tenetet,t e n e t e t,,Angenot2002;Leigue1957,46_ear-B,,^ t e n e t e t $,default,t e n e t e t,e n t
+379,tora-46_ear-1,,tora,46_ear,tetete,tetete,t e t e t e,,Nimuendaju1925;Nimuendaju1923,46_ear-B,,^ t e t e t e $,default,t e t e t e,e t
+380,cojubim-47_eye-1,,cojubim,47_eye,tok,tok,t o k,,Duran2000,47_eye-A,,^ t o k $,default,t o k,k o t
+381,jaru-47_eye-1,,jaru,47_eye,tekisi,tekisi,t e k i s i,,Rondon1948,47_eye-A,,^ t e k i s i $,default,t e k i s i,e i k s t
+382,kitemoka-47_eye-1,,kitemoka,47_eye,kutʃi,kutʃi,k u tʃ i,,CrequiMontfortRivet1913,47_eye-A,,^ k u tʃ i $,default,k u tS i,i k tS u
+383,more-47_eye-1,,more,47_eye,tok,tok,t o k,,Angenot2002;Leigue1957,47_eye-A,,^ t o k $,default,t o k,k o t
+384,orowin-47_eye-1,,orowin,47_eye,tokisi,tokisi,t o k i s i,,Birchall2016;deFranca2002,47_eye-A,,^ t o k i s i $,default,t o k i s i,i k o s t
+385,tapakura-47_eye-1,,tapakura,47_eye,tukutʃi,tukutʃi,t u k u tʃ i,,CrequiMontfortRivet1913,47_eye-A,,^ t u k u tʃ i $,default,t u k u tS i,i k t tS u
+386,tora-47_eye-1,,tora,47_eye,tok,tok,t o k,,Nimuendaju1925;Nimuendaju1923,47_eye-A,,^ t o k $,default,t o k,k o t
+387,urupa-47_eye-1,,urupa,47_eye,tukesi,tukesi,t u k e s i,,Nimuendaju1925,47_eye-A,,^ t u k e s i $,default,t u k e s i,e i k s t u
+388,wanyam-47_eye-1,,wanyam,47_eye,tokiʃiʔ,tokiʃiʔ,t o k i ʃ i ʔ,,Ribeiro1998;Hanke1975,47_eye-A,,^ t o k i ʃ i ʔ $,default,t o k i S i 7,7 S i k o t
+389,wari-47_eye-1,,wari,47_eye,tokotʃiʔ,tokotʃiʔ,t o k o tʃ i ʔ,,EverettKern1997;Kern1996,47_eye-A,,^ t o k o tʃ i ʔ $,default,t o k o tS i 7,7 i k o t tS
+390,cojubim-48_nose-1,,cojubim,48_nose,ur,ur,u r,,Duran2000,48_nose-A,,^ u r $,default,u r,r u
+391,jaru-48_nose-1,,jaru,48_nose,jolisi,jolisi,j o l i s i,,Rondon1948,48_nose-A,,^ j o l i s i $,default,y o l i s i,i l o s y
+392,kitemoka-48_nose-1,,kitemoka,48_nose,turutʃe,turutʃe,t u r u tʃ e,,CrequiMontfortRivet1913,48_nose-A,,^ t u r u tʃ e $,default,t u r u tS e,e r t tS u
+393,more-48_nose-1,,more,48_nose,uʒ̟,uʒ̟,u ʒ̟,,Angenot2002;Leigue1957,48_nose-A,,^ u ʒ̟ $,default,u Z,Z u
+394,orowin-48_nose-1,,orowin,48_nose,yrysi,yrysi,y r y s i,,Birchall2016;deFranca2002,48_nose-A,,^ y r y s i $,default,i r i s i,i r s
+395,tapakura-48_nose-1,,tapakura,48_nose,uturutʃi,uturutʃi,u t u r u tʃ i,,CrequiMontfortRivet1913,48_nose-A,,^ u t u r u tʃ i $,default,u t u r u tS i,i r t tS u
+396,tora-48_nose-1,,tora,48_nose,uj,uj,u j,,Nimuendaju1925;Nimuendaju1923,48_nose-A,,^ u j $,default,u y,u y
+397,urupa-48_nose-1,,urupa,48_nose,juresi,juresi,j u r e s i,,Nimuendaju1925,48_nose-A,,^ j u r e s i $,default,y u r e s i,e i r s u y
+398,wanyam-48_nose-1,,wanyam,48_nose,iriʃiʔ,iriʃiʔ,i r i ʃ i ʔ,,Ribeiro1998;Hanke1975,48_nose-A,,^ i r i ʃ i ʔ $,default,i r i S i 7,7 S i r
+399,wari-48_nose-1,,wari,48_nose,weretʃiʔ,weretʃiʔ,w e r e tʃ i ʔ,,EverettKern1997;Kern1996,48_nose-A,,^ w e r e tʃ i ʔ $,default,w e r e tS i 7,7 e i r tS w
+400,jaru-49_mouth-1,,jaru,49_mouth,tupakasi,tupakasi,t u p a k a s i,,Rondon1948,49_mouth-A,,^ t u p a k a s i $,default,t u p a k a s i,a i k p s t u
+401,more-49_mouth-1,,more,49_mouth,topak,topak,t o p a k,,Angenot2002;Leigue1957,49_mouth-A,,^ t o p a k $,default,t o p a k,a k o p t
+402,orowin-49_mouth-1,,orowin,49_mouth,topakasi,topakasi,t o p a k a s i,,Birchall2016;deFranca2002,49_mouth-A,,^ t o p a k a s i $,default,t o p a k a s i,a i k o p s t
+403,tapakura-49_mouth-1,,tapakura,49_mouth,tupakatʃi,tupakatʃi,t u p a k a tʃ i,,CrequiMontfortRivet1913,49_mouth-A,,^ t u p a k a tʃ i $,default,t u p a k a tS i,a i k p t tS u
+404,urupa-49_mouth-1,,urupa,49_mouth,tupakasi,tupakasi,t u p a k a s i,,Nimuendaju1925,49_mouth-A,,^ t u p a k a s i $,default,t u p a k a s i,a i k p s t u
+405,wanyam-49_mouth-1,,wanyam,49_mouth,topakaʃiʔ,topakaʃiʔ,t o p a k a ʃ i ʔ,,Ribeiro1998;Hanke1975,49_mouth-A,,^ t o p a k a ʃ i ʔ $,default,t o p a k a S i 7,7 S a i k o p t
+406,wari-49_mouth-1,,wari,49_mouth,topak,topak,t o p a k,,EverettKern1997;Kern1996,49_mouth-A,,^ t o p a k $,default,t o p a k,a k o p t
+407,kitemoka-49_mouth-1,,kitemoka,49_mouth,rikajatʃi,rikajatʃi,r i k a j a tʃ i,,CrequiMontfortRivet1913,49_mouth-B,,^ r i k a j a tʃ i $,default,r i k a y a tS i,a i k r tS y
+408,tora-49_mouth-1,,tora,49_mouth,tuaraw,tuaraw,t u a r a w,,Nimuendaju1925;Nimuendaju1923,49_mouth-C,,^ t u a r a w $,default,t u a r a w,a r t u w
+409,jaru-50_tooth-1,,jaru,50_tooth,itisi,itisi,i t i s i,,Rondon1948,50_tooth-A,,^ i t i s i $,default,i t i s i,i s t
+410,kitemoka-50_tooth-1,,kitemoka,50_tooth,ijaditʃe,ijaditʃe,i j a d i tʃ e,,CrequiMontfortRivet1913,50_tooth-A,,^ i j a d i tʃ e $,default,i y a d i tS e,a d e i tS y
+411,more-50_tooth-1,,more,50_tooth,jat,jat,j a t,,Angenot2002;Leigue1957,50_tooth-A,,^ j a t $,default,y a t,a t y
+412,orowin-50_tooth-1,,orowin,50_tooth,ijitisi,ijitisi,i j i t i s i,,Birchall2016;deFranca2002,50_tooth-A,,^ i j i t i s i $,default,i y i t i s i,i s t y
+413,tapakura-50_tooth-1,,tapakura,50_tooth,jatitʃi,jatitʃi,j a t i tʃ i,,CrequiMontfortRivet1913,50_tooth-A,,^ j a t i tʃ i $,default,y a t i tS i,a i t tS y
+414,tora-50_tooth-1,,tora,50_tooth,jatiʃi,jatiʃi,j a t i ʃ i,,Nimuendaju1925;Nimuendaju1923,50_tooth-A,,^ j a t i ʃ i $,default,y a t i S i,S a i t y
+415,urupa-50_tooth-1,,urupa,50_tooth,jetisi,jetisi,j e t i s i,,Nimuendaju1925,50_tooth-A,,^ j e t i s i $,default,y e t i s i,e i s t y
+416,wanyam-50_tooth-1,,wanyam,50_tooth,ijitiʃiʔ,ijitiʃiʔ,i j i t i ʃ i ʔ,,Ribeiro1998;Hanke1975,50_tooth-A,,^ i j i t i ʃ i ʔ $,default,i y i t i S i 7,7 S i t y
+417,wari-50_tooth-1,,wari,50_tooth,tʃitʃiʔ,tʃitʃiʔ,tʃ i tʃ i ʔ,,EverettKern1997;Kern1996,50_tooth-A,,^ tʃ i tʃ i ʔ $,default,tS i tS i 7,7 i tS
+418,orowin-51_tongue-1,,orowin,51_tongue,tepekejesi,tepekejesi,t e p e k e j e s i,,Birchall2016;deFranca2002,51_tongue-A,,^ t e p e k e j e s i $,default,t e p e k e y e s i,e i k p s t y
+419,tapakura-51_tongue-1,,tapakura,51_tongue,tapuitakatʃi,tapuitakatʃi,t a p u i t a k a tʃ i,,CrequiMontfortRivet1913,51_tongue-A,,^ t a p u i t a k a tʃ i $,default,t a p u i t a k a tS i,a i k p t tS u
+420,wari-51_tongue-1,,wari,51_tongue,petehwet,petehwet,p e t e h w e t,,EverettKern1997;Kern1996,51_tongue-A,,^ p e t e hw e t $,default,p e t e h w e t,e h p t w
+421,cojubim-51_tongue-1,,cojubim,51_tongue,kapajak,kapajak,k a p a j a k,,Duran2000,51_tongue-B,,^ k a p a j a k $,default,k a p a y a k,a k p y
+422,jaru-51_tongue-1,,jaru,51_tongue,kapiakasi,kapiakasi,k a p i a k a s i,,Rondon1948,51_tongue-B,,^ k a p i a k a s i $,default,k a p i a k a s i,a i k p s
+423,kitemoka-51_tongue-1,,kitemoka,51_tongue,kapikakatʃe,kapikakatʃe,k a p i k a k a tʃ e,,CrequiMontfortRivet1913,51_tongue-B,,^ k a p i k a k a tʃ e $,default,k a p i k a k a tS e,a e i k p tS
+424,more-51_tongue-1,,more,51_tongue,kapajak,kapajak,k a p a j a k,,Angenot2002;Leigue1957,51_tongue-B,,^ k a p a j a k $,default,k a p a y a k,a k p y
+425,tora-51_tongue-1,,tora,51_tongue,kapiakiʃiʔ,kapiakiʃiʔ,k a p i a k i ʃ i ʔ,,Nimuendaju1925;Nimuendaju1923,51_tongue-B,,^ k a p i a k i ʃ i ʔ $,default,k a p i a k i S i 7,7 S a i k p
+426,urupa-51_tongue-1,,urupa,51_tongue,kapiakasi,kapiakasi,k a p i a k a s i,,Nimuendaju1925,51_tongue-B,,^ k a p i a k a s i $,default,k a p i a k a s i,a i k p s
+427,wanyam-51_tongue-1,,wanyam,51_tongue,kapijakaʃiʔ,kapijakaʃiʔ,k a p i j a k a ʃ i ʔ,,Ribeiro1998;Hanke1975,51_tongue-B,,^ k a p i j a k a ʃ i ʔ $,default,k a p i y a k a S i 7,7 S a i k p y
+428,wari-51_tongue-2,,wari,51_tongue,kapijatʃiʔ,kapijatʃiʔ,k a p i j a tʃ i ʔ,,EverettKern1997;Kern1996,51_tongue-B,,^ k a p i j a tʃ i ʔ $,default,k a p i y a tS i 7,7 a i k p tS y
+429,jaru-52_fingernail-1,,jaru,52_fingernail,pisikinisi,pisikinisi,p i s i k i n i s i,,Rondon1948,52_fingernail-A,,^ p i s i k i n i s i $,default,p i s i k i n i s i,i k n p s
+430,orowin-52_fingernail-1,,orowin,52_fingernail,sykynesi,sykynesi,s y k y n e s i,,Birchall2016;deFranca2002,52_fingernail-A,,^ s y k y n e s i $,default,s i k i n e s i,e i k n s
+431,tora-52_fingernail-1,,tora,52_fingernail,pesoro,pesoro,p e s o r o,,Nimuendaju1925;Nimuendaju1923,52_fingernail-A,,^ p e s o r o $,default,p e s o r o,e o p r s
+432,wanyam-52_fingernail-1,,wanyam,52_fingernail,pikinaʃiʔ,pikinaʃiʔ,p i k i n a ʃ i ʔ,,Ribeiro1998;Hanke1975,52_fingernail-A,,^ p i k i n a ʃ i ʔ $,default,p i k i n a S i 7,7 S a i k n p
+433,wari-52_fingernail-1,,wari,52_fingernail,tʃikinatʃiʔ,tʃikinatʃiʔ,tʃ i k i n a tʃ i ʔ,,EverettKern1997;Kern1996,52_fingernail-A,,^ tʃ i k i n a tʃ i ʔ $,default,tS i k i n a tS i 7,7 a i k n tS
+434,cojubim-52_fingernail-1,,cojubim,52_fingernail,tupi,tupi,t u p i,,Duran2000,52_fingernail-B,,^ t u p i $,default,t u p i,i p t u
+435,more-52_fingernail-1,,more,52_fingernail,tupi,tupi,t u p i,,Angenot2002;Leigue1957,52_fingernail-B,,^ t u p i $,default,t u p i,i p t u
+436,tapakura-52_fingernail-1,,tapakura,52_fingernail,naimitʃi,naimitʃi,n a i m i tʃ i,,CrequiMontfortRivet1913,52_fingernail-C,,^ n a i m i tʃ i $,default,n a i m i tS i,a i m n tS
+437,jaru-53_foot-1,,jaru,53_foot,katimasi,katimasi,k a t i m a s i,,Rondon1948,53_foot-A,,^ k a t i m a s i $,default,k a t i m a s i,a i k m s t
+438,kitemoka-53_foot-1,,kitemoka,53_foot,kaimatʃe,kaimatʃe,k a i m a tʃ e,,CrequiMontfortRivet1913,53_foot-A,,^ k a i m a tʃ e $,default,k a i m a tS e,a e i k m tS
+439,tapakura-53_foot-1,,tapakura,53_foot,kaimatʃi,kaimatʃi,k a i m a tʃ i,,CrequiMontfortRivet1913,53_foot-A,,^ k a i m a tʃ i $,default,k a i m a tS i,a i k m tS
+440,tora-53_foot-1,,tora,53_foot,kazima,kazima,k a z i m a,,Nimuendaju1925;Nimuendaju1923,53_foot-A,,^ k a z i m a $,default,k a z i m a,a i k m z
+441,urupa-53_foot-1,,urupa,53_foot,katimasi,katimasi,k a t i m a s i,,Nimuendaju1925,53_foot-A,,^ k a t i m a s i $,default,k a t i m a s i,a i k m s t
+442,wanyam-53_foot-1,,wanyam,53_foot,katimaʃiʔ,katimaʃiʔ,k a t i m a ʃ i ʔ,,Ribeiro1998;Hanke1975,53_foot-A,,^ k a t i m a ʃ i ʔ $,default,k a t i m a S i 7,7 S a i k m t
+443,wari-53_foot-1,,wari,53_foot,katʃimatʃiʔ,katʃimatʃiʔ,k a tʃ i m a tʃ i ʔ,,EverettKern1997;Kern1996,53_foot-A,,^ k a tʃ i m a tʃ i ʔ $,default,k a tS i m a tS i 7,7 a i k m tS
+444,orowin-53_foot-1,,orowin,53_foot,pasomasi,pasomasi,p a s o m a s i,,Birchall2016;deFranca2002,53_foot-B,,^ p a s o m a s i $,default,p a s o m a s i,a i m o p s
+445,wari-53_foot-2,,wari,53_foot,pitʃijatʃiʔ,pitʃijatʃiʔ,p i tʃ i j a tʃ i ʔ,,EverettKern1997;Kern1996,53_foot-B,,^ p i tʃ i j a tʃ i ʔ $,default,p i tS i y a tS i 7,7 a i p tS y
+446,cojubim-53_foot-1,,cojubim,53_foot,tʃinak,tʃinak,tʃ i n a k,,Duran2000,53_foot-C,,^ tʃ i n a k $,default,tS i n a k,a i k n tS
+447,more-53_foot-1,,more,53_foot,tʃinak,tʃinak,tʃ i n a k,,Angenot2002;Leigue1957,53_foot-C,,^ tʃ i n a k $,default,tS i n a k,a i k n tS
+448,tapakura-53_foot-2,,tapakura,53_foot,tʃikitʃi,tʃikitʃi,tʃ i k i tʃ i,,CrequiMontfortRivet1913,53_foot-C,,^ tʃ i k i tʃ i $,default,tS i k i tS i,i k tS
+449,tora-53_foot-2,,tora,53_foot,ʃikiniʃi,ʃikiniʃi,ʃ i k i n i ʃ i,,Nimuendaju1925;Nimuendaju1923,53_foot-C,,^ ʃ i k i n i ʃ i $,default,S i k i n i S i,S i k n
+450,cojubim-54_leg-1,,cojubim,54_leg,pok,pok,p o k,,Duran2000,54_leg-A,,^ p o k $,default,p o k,k o p
+451,jaru-54_leg-1,,jaru,54_leg,ekisi,ekisi,e k i s i,,Rondon1948,54_leg-A,,^ e k i s i $,default,e k i s i,e i k s
+452,kitemoka-54_leg-1,,kitemoka,54_leg,kohotʃi,kohotʃi,k o h o tʃ i,,CrequiMontfortRivet1913,54_leg-A,,^ k o h o tʃ i $,default,k o h o tS i,h i k o tS
+453,more-54_leg-1,,more,54_leg,pok,pok,p o k,,Angenot2002;Leigue1957,54_leg-A,,^ p o k $,default,p o k,k o p
+454,orowin-54_leg-1,,orowin,54_leg,fokisi,fokisi,f o k i s i,,Birchall2016;deFranca2002,54_leg-A,,^ f o k i s i $,default,f o k i s i,f i k o s
+455,tapakura-54_leg-1,,tapakura,54_leg,ukutʃi,ukutʃi,u k u tʃ i,,CrequiMontfortRivet1913,54_leg-A,,^ u k u tʃ i $,default,u k u tS i,i k tS u
+456,tora-54_leg-1,,tora,54_leg,hok,hok,h o k,,Nimuendaju1925;Nimuendaju1923,54_leg-A,,^ h o k $,default,h o k,h k o
+457,wanyam-54_leg-1,,wanyam,54_leg,hokiʃiʔ,hokiʃiʔ,h o k i ʃ i ʔ,,Ribeiro1998;Hanke1975,54_leg-A,,^ h o k i ʃ i ʔ $,default,h o k i S i 7,7 S h i k o
+458,wari-54_leg-1,,wari,54_leg,kokotʃiʔ,kokotʃiʔ,k o k o tʃ i ʔ,,EverettKern1997;Kern1996,54_leg-A,,^ k o k o tʃ i ʔ $,default,k o k o tS i 7,7 i k o tS
+459,orowin-55_knee-1,,orowin,55_knee,makaramasi,makaramasi,m a k a r a m a s i,,Birchall2016;deFranca2002,55_knee-A,,^ m a k a r a m a s i $,default,m a k a r a m a s i,a i k m r s
+460,wanyam-55_knee-1,,wanyam,55_knee,warakaramaʃiʔ,warakaramaʃiʔ,w a r a k a r a m a ʃ i ʔ,,Ribeiro1998;Hanke1975,55_knee-A,,^ w a r a k a r a m a ʃ i ʔ $,default,w a r a k a r a m a S i 7,7 S a i k m r w
+461,wari-55_knee-1,,wari,55_knee,karamatʃiʔ,karamatʃiʔ,k a r a m a tʃ i ʔ,,EverettKern1997;Kern1996,55_knee-A,,^ k a r a m a tʃ i ʔ $,default,k a r a m a tS i 7,7 a i k m r tS
+462,orowin-55_knee-2,,orowin,55_knee,mafonasi,mafonasi,m a f o n a s i,,Birchall2016;deFranca2002,55_knee-B,,^ m a f o n a s i $,default,m a f o n a s i,a f i m n o s
+463,cojubim-55_knee-1,,cojubim,55_knee,tokozim,tokozim,t o k o z i m,,Duran2000,55_knee-C,,^ t o k o z i m $,default,t o k o z i m,i k m o t z
+464,jaru-55_knee-1,,jaru,55_knee,toketekilipasi,toketekilipasi,t o k e t e k i l i p a s i,,Rondon1948,55_knee-C,,^ t o k e t e k i l i p a s i $,default,t o k e t e k i l i p a s i,a e i k l o p s t
+465,kitemoka-55_knee-1,,kitemoka,55_knee,tukaivatʃe,tukaivatʃe,t u k a i v a tʃ e,,CrequiMontfortRivet1913,55_knee-C,,^ t u k a i v a tʃ e $,default,t u k a i v a tS e,a e i k t tS u v
+466,more-55_knee-1,,more,55_knee,tukuʒ̟im,tukuʒ̟im,t u k u ʒ̟ i m,,Angenot2002;Leigue1957,55_knee-C,,^ t u k u ʒ̟ i m $,default,t u k u Z i m,Z i k m t u
+467,tapakura-55_knee-1,,tapakura,55_knee,tukaimatʃi,tukaimatʃi,t u k a i m a tʃ i,,CrequiMontfortRivet1913,55_knee-C,,^ t u k a i m a tʃ i $,default,t u k a i m a tS i,a i k m t tS u
+468,tora-55_knee-1,,tora,55_knee,tukazim,tukazim,t u k a z i m,,Nimuendaju1925;Nimuendaju1923,55_knee-C,,^ t u k a z i m $,default,t u k a z i m,a i k m t u z
+469,kitemoka-56_hand-1,,kitemoka,56_hand,umajo,umajo,u m a j o,,CrequiMontfortRivet1913,56_hand-A,,^ u m a j o $,default,u m a y o,a m o u y
+470,more-56_hand-1,,more,56_hand,um,um,u m,,Angenot2002;Leigue1957,56_hand-A,,^ u m $,default,u m,m u
+471,tapakura-56_hand-1,,tapakura,56_hand,umitʃi,umitʃi,u m i tʃ i,,CrequiMontfortRivet1913,56_hand-A,,^ u m i tʃ i $,default,u m i tS i,i m tS u
+472,tora-56_hand-1,,tora,56_hand,umu,umu,u m u,,Nimuendaju1925;Nimuendaju1923,56_hand-A,,^ u m u $,default,u m u,m u
+473,wari-56_hand-1,,wari,56_hand,mitʃiʔ,mitʃiʔ,m i tʃ i ʔ,,EverettKern1997;Kern1996,56_hand-A,,^ m i tʃ i ʔ $,default,m i tS i 7,7 i m tS
+474,cojubim-56_hand-1,,cojubim,56_hand,tipan,tipan,t i p a n,,Duran2000,56_hand-B,,^ t i p a n $,default,t i p a n,a i n p t
+475,jaru-56_hand-1,,jaru,56_hand,tiprasi,tiprasi,t i p r a s i,,Rondon1948,56_hand-B,,^ t i p r a s i $,default,t i p r a s i,a i p r s t
+476,kitemoka-56_hand-2,,kitemoka,56_hand,tʃeparaju,tʃeparaju,tʃ e p a r a j u,,CrequiMontfortRivet1913,56_hand-B,,^ tʃ e p a r a j u $,default,tS e p a r a y u,a e p r tS u y
+477,more-56_hand-2,,more,56_hand,tipan,tipan,t i p a n,,Angenot2002;Leigue1957,56_hand-B,,^ t i p a n $,default,t i p a n,a i n p t
+478,orowin-56_hand-1,,orowin,56_hand,tiprasi,tiprasi,t i p r a s i,,Birchall2016;deFranca2002,56_hand-B,,^ t i p r a s i $,default,t i p r a s i,a i p r s t
+479,tapakura-56_hand-2,,tapakura,56_hand,itʃoparatʃi,itʃoparatʃi,i tʃ o p a r a tʃ i,,CrequiMontfortRivet1913,56_hand-B,,^ i tʃ o p a r a tʃ i $,default,i tS o p a r a tS i,a i o p r tS
+480,tora-56_hand-2,,tora,56_hand,tipara,tipara,t i p a r a,,Nimuendaju1925;Nimuendaju1923,56_hand-B,,^ t i p a r a $,default,t i p a r a,a i p r t
+481,urupa-56_hand-1,,urupa,56_hand,tiprasi,tiprasi,t i p r a s i,,Nimuendaju1925,56_hand-B,,^ t i p r a s i $,default,t i p r a s i,a i p r s t
+482,wanyam-56_hand-1,,wanyam,56_hand,tiparaʃiʔ,tiparaʃiʔ,t i p a r a ʃ i ʔ,,Ribeiro1998;Hanke1975,56_hand-B,,^ t i p a r a ʃ i ʔ $,default,t i p a r a S i 7,7 S a i p r t
+483,wari-56_hand-2,,wari,56_hand,taparatʃiʔ,taparatʃiʔ,t a p a r a tʃ i ʔ,,EverettKern1997;Kern1996,56_hand-B,,^ t a p a r a tʃ i ʔ $,default,t a p a r a tS i 7,7 a i p r t tS
+484,cojubim-57_wing-1,,cojubim,57_wing,nipat,nipat,n i p a t,,Duran2000,57_wing-A,,^ n i p a t $,default,n i p a t,a i n p t
+485,kitemoka-57_wing-1,,kitemoka,57_wing,ipati-ko,ipati-ko,i p a t i + k o,,CrequiMontfortRivet1913,57_wing-A,,^ i p a t i - k o $,default,i p a t i  k o, a i k o p t
+486,more-57_wing-1,,more,57_wing,nipat,nipat,n i p a t,,Angenot2002;Leigue1957,57_wing-A,,^ n i p a t $,default,n i p a t,a i n p t
+487,orowin-57_wing-1,,orowin,57_wing,napatinan,napatinan,n a p a t i n a n,,Birchall2016;deFranca2002,57_wing-A,,^ n a p a t i n a n $,default,n a p a t i n a n,a i n p t
+488,tapakura-57_wing-1,,tapakura,57_wing,hipatʃi,hipatʃi,h i p a tʃ i,,CrequiMontfortRivet1913,57_wing-A,,^ h i p a tʃ i $,default,h i p a tS i,a h i p tS
+489,wanyam-57_wing-1,,wanyam,57_wing,nipat,nipat,n i p a t,,Ribeiro1998;Hanke1975,57_wing-A,,^ n i p a t $,default,n i p a t,a i n p t
+490,wari-57_wing-1,,wari,57_wing,tapatʃi,tapatʃi,t a p a tʃ i,,EverettKern1997;Kern1996,57_wing-A,,^ t a p a tʃ i $,default,t a p a tS i,a i p t tS
+491,jaru-58_belly-1,,jaru,58_belly,tokotepasi,tokotepasi,t o k o t e p a s i,,Rondon1948,58_belly-A,,^ t o k o t e p a s i $,default,t o k o t e p a s i,a e i k o p s t
+492,kitemoka-58_belly-1,,kitemoka,58_belly,kimotʃe,kimotʃe,k i m o tʃ e,,CrequiMontfortRivet1913,58_belly-A,,^ k i m o tʃ e $,default,k i m o tS e,e i k m o tS
+493,more-58_belly-1,,more,58_belly,tim,tim,t i m,,Angenot2002;Leigue1957,58_belly-A,,^ t i m $,default,t i m,i m t
+494,orowin-58_belly-1,,orowin,58_belly,kimi,kimi,k i m i,,Birchall2016;deFranca2002,58_belly-A,,^ k i m i $,default,k i m i,i k m
+495,tapakura-58_belly-1,,tapakura,58_belly,tekematʃe,tekematʃe,t e k e m a tʃ e,,CrequiMontfortRivet1913,58_belly-A,,^ t e k e m a tʃ e $,default,t e k e m a tS e,a e k m t tS
+496,tora-58_belly-1,,tora,58_belly,tosipa,tosipa,t o s i p a,,Nimuendaju1925;Nimuendaju1923,58_belly-A,,^ t o s i p a $,default,t o s i p a,a i o p s t
+497,wanyam-58_belly-1,,wanyam,58_belly,kimijekin,kimijekin,k i m i j e k i n,,Ribeiro1998;Hanke1975,58_belly-A,,^ k i m i j e k i n $,default,k i m i y e k i n,e i k m n y
+498,orowin-58_belly-2,,orowin,58_belly,tapawakon,tapawakon,t a p a w a k o n,,Birchall2016;deFranca2002,58_belly-B,,^ t a p a w a k o n $,default,t a p a w a k o n,a k n o p t w
+499,cojubim-58_belly-1,,cojubim,58_belly,tʃakaw ta,tʃakaw ta,tʃ a k a w + t a,,Duran2000,58_belly-C,,^ tʃ a k a w + t a $,default,tS a k a w  t a, a k t tS w
+500,more-58_belly-2,,more,58_belly,tʃakaw,tʃakaw,tʃ a k a w,,Angenot2002;Leigue1957,58_belly-C,,^ tʃ a k a w $,default,tS a k a w,a k tS w
+501,wari-58_belly-1,,wari,58_belly,pemenetʃiʔ,pemenetʃiʔ,p e m e n e tʃ i ʔ,,EverettKern1997;Kern1996,58_belly-D,,^ p e m e n e tʃ i ʔ $,default,p e m e n e tS i 7,7 e i m n p tS
+502,cojubim-59_guts-1,,cojubim,59_guts,kirimonʔ,kirimonʔ,k i r i m o n ʔ,,Duran2000,59_guts-A,,^ k i r i m o n ʔ $,default,k i r i m o n 7,7 i k m n o r
+503,jaru-59_guts-1,,jaru,59_guts,menesi,menesi,m e n e s i,,Rondon1948,59_guts-A,,^ m e n e s i $,default,m e n e s i,e i m n s
+504,kitemoka-59_guts-1,,kitemoka,59_guts,waememitʃe,waememitʃe,w a e m e m i tʃ e,,CrequiMontfortRivet1913,59_guts-A,,^ w a e m e m i tʃ e $,default,w a e m e m i tS e,a e i m tS w
+505,more-59_guts-1,,more,59_guts,mukuri mon,mukuri mon,m u k u r i + m o n,,Angenot2002;Leigue1957,59_guts-A,,^ m u k u r i + m o n $,default,m u k u r i  m o n, i k m n o r u
+506,orowin-59_guts-1,,orowin,59_guts,monosi,monosi,m o n o s i,,Birchall2016;deFranca2002,59_guts-A,,^ m o n o s i $,default,m o n o s i,i m n o s
+507,tapakura-59_guts-1,,tapakura,59_guts,amunitʃi,amunitʃi,a m u n i tʃ i,,CrequiMontfortRivet1913,59_guts-A,,^ a m u n i tʃ i $,default,a m u n i tS i,a i m n tS u
+508,wari-59_guts-1,,wari,59_guts,monotʃiʔ,monotʃiʔ,m o n o tʃ i ʔ,,EverettKern1997;Kern1996,59_guts-A,,^ m o n o tʃ i ʔ $,default,m o n o tS i 7,7 i m n o tS
+509,wanyam-59_guts-1,,wanyam,59_guts,karapap wajiʃiʔ,karapap wajiʃiʔ,k a r a p a p + w a j i ʃ i ʔ,,Ribeiro1998;Hanke1975,59_guts-B,,^ k a r a p a p + w a j i ʃ i ʔ $,default,k a r a p a p  w a y i S i 7, 7 S a i k p r w y
+510,kitemoka-59_guts-2,,kitemoka,59_guts,anteretʃe,anteretʃe,a n t e r e tʃ e,,CrequiMontfortRivet1913,59_guts-C,,^ a n t e r e tʃ e $,default,a n t e r e tS e,a e n r t tS
+511,cojubim-60_neck-1,,cojubim,60_neck,patam,patam,p a t a m,,Duran2000,60_neck-A,,^ p a t a m $,default,p a t a m,a m p t
+512,jaru-60_neck-1,,jaru,60_neck,upramasi,upramasi,u p r a m a s i,,Rondon1948,60_neck-A,,^ u p r a m a s i $,default,u p r a m a s i,a i m p r s u
+513,more-60_neck-1,,more,60_neck,patam,patam,p a t a m,,Angenot2002;Leigue1957,60_neck-A,,^ p a t a m $,default,p a t a m,a m p t
+514,orowin-60_neck-1,,orowin,60_neck,oparamasi,oparamasi,o p a r a m a s i,,Birchall2016;deFranca2002,60_neck-A,,^ o p a r a m a s i $,default,o p a r a m a s i,a i m o p r s
+515,tora-60_neck-1,,tora,60_neck,patama,patama,p a t a m a,,Nimuendaju1925;Nimuendaju1923,60_neck-A,,^ p a t a m a $,default,p a t a m a,a m p t
+516,wanyam-60_neck-1,,wanyam,60_neck,uparamaʃiʔ,uparamaʃiʔ,u p a r a m a ʃ i ʔ,,Ribeiro1998;Hanke1975,60_neck-A,,^ u p a r a m a ʃ i ʔ $,default,u p a r a m a S i 7,7 S a i m p r u
+517,wari-60_neck-1,,wari,60_neck,paramatʃiʔ,paramatʃiʔ,p a r a m a tʃ i ʔ,,EverettKern1997;Kern1996,60_neck-A,,^ p a r a m a tʃ i ʔ $,default,p a r a m a tS i 7,7 a i m p r tS
+518,kitemoka-60_neck-1,,kitemoka,60_neck,aikeɲemitʃe,aikeɲemitʃe,a i k e ɲ e m i tʃ e,,CrequiMontfortRivet1913,60_neck-B,,^ a i k e ɲ e m i tʃ e $,default,a i k e 5 e m i tS e,5 a e i k m tS
+519,tapakura-60_neck-1,,tapakura,60_neck,hukiminitʃi,hukiminitʃi,h u k i m i n i tʃ i,,CrequiMontfortRivet1913,60_neck-B,,^ h u k i m i n i tʃ i $,default,h u k i m i n i tS i,h i k m n tS u
+520,wari-60_neck-2,,wari,60_neck,kanemitʃiʔ,kanemitʃiʔ,k a n e m i tʃ i ʔ,,EverettKern1997;Kern1996,60_neck-B,,^ k a n e m i tʃ i ʔ $,default,k a n e m i tS i 7,7 a e i k m n tS
+521,cojubim-61_back-1,,cojubim,61_back,ataw,ataw,a t a w,,Duran2000,61_back-A,,^ a t a w $,default,a t a w,a t w
+522,jaru-61_back-1,,jaru,61_back,arawasi,arawasi,a r a w a s i,,Rondon1948,61_back-A,,^ a r a w a s i $,default,a r a w a s i,a i r s w
+523,kitemoka-61_back-1,,kitemoka,61_back,totojatʃe,totojatʃe,t o t o j a tʃ e,,CrequiMontfortRivet1913,61_back-A,,^ t o t o j a tʃ e $,default,t o t o y a tS e,a e o t tS y
+524,more-61_back-1,,more,61_back,ataw,ataw,a t a w,,Angenot2002;Leigue1957,61_back-A,,^ a t a w $,default,a t a w,a t w
+525,orowin-61_back-1,,orowin,61_back,arawasi,arawasi,a r a w a s i,,Birchall2016;deFranca2002,61_back-A,,^ a r a w a s i $,default,a r a w a s i,a i r s w
+526,tapakura-61_back-1,,tapakura,61_back,otowatʃi,otowatʃi,o t o w a tʃ i,,CrequiMontfortRivet1913,61_back-A,,^ o t o w a tʃ i $,default,o t o w a tS i,a i o t tS w
+527,tora-61_back-1,,tora,61_back,wuritim,wuritim,w u r i t i m,,Nimuendaju1925;Nimuendaju1923,61_back-A,,^ w u r i t i m $,default,w u r i t i m,i m r t u w
+528,urupa-61_back-1,,urupa,61_back,erawasi,erawasi,e r a w a s i,,Nimuendaju1925,61_back-A,,^ e r a w a s i $,default,e r a w a s i,a e i r s w
+529,wanyam-61_back-1,,wanyam,61_back,awaraʃiʔ,awaraʃiʔ,a w a r a ʃ i ʔ,,Ribeiro1998;Hanke1975,61_back-A,,^ a w a r a ʃ i ʔ $,default,a w a r a S i 7,7 S a i r w
+530,wari-61_back-1,,wari,61_back,waratʃiʔ,waratʃiʔ,w a r a tʃ i ʔ,,EverettKern1997;Kern1996,61_back-A,,^ w a r a tʃ i ʔ $,default,w a r a tS i 7,7 a i r tS w
+531,cojubim-62_breast-1,,cojubim,62_breast,katat,katat,k a t a t,,Duran2000,62_breast-A,,^ k a t a t $,default,k a t a t,a k t
+532,more-62_breast-1,,more,62_breast,katat,katat,k a t a t,,Angenot2002;Leigue1957,62_breast-A,,^ k a t a t $,default,k a t a t,a k t
+533,orowin-62_breast-1,,orowin,62_breast,karatisi,karatisi,k a r a t i s i,,Birchall2016;deFranca2002,62_breast-A,,^ k a r a t i s i $,default,k a r a t i s i,a i k r s t
+534,tora-62_breast-1,,tora,62_breast,katasan,katasan,k a t a s a n,,Nimuendaju1925;Nimuendaju1923,62_breast-A,,^ k a t a s a n $,default,k a t a s a n,a k n s t
+535,urupa-62_breast-1,,urupa,62_breast,karatisi,karatisi,k a r a t i s i,,Nimuendaju1925,62_breast-A,,^ k a r a t i s i $,default,k a r a t i s i,a i k r s t
+536,wanyam-62_breast-1,,wanyam,62_breast,karatiʃiʔ,karatiʃiʔ,k a r a t i ʃ i ʔ,,Ribeiro1998;Hanke1975,62_breast-A,,^ k a r a t i ʃ i ʔ $,default,k a r a t i S i 7,7 S a i k r t
+537,wari-62_breast-1,,wari,62_breast,karatʃitʃiʔ,karatʃitʃiʔ,k a r a tʃ i tʃ i ʔ,,EverettKern1997;Kern1996,62_breast-A,,^ k a r a tʃ i tʃ i ʔ $,default,k a r a tS i tS i 7,7 a i k r tS
+538,jaru-62_breast-1,,jaru,62_breast,ikimasi,ikimasi,i k i m a s i,,Rondon1948,62_breast-B,,^ i k i m a s i $,default,i k i m a s i,a i k m s
+539,kitemoka-62_breast-1,,kitemoka,62_breast,kematakama,kematakama,k e m a t a k a m a,,CrequiMontfortRivet1913,62_breast-B,,^ k e m a t a k a m a $,default,k e m a t a k a m a,a e k m t
+540,more-62_breast-2,,more,62_breast,kima,kima,k i m a,,Angenot2002;Leigue1957,62_breast-B,,^ k i m a $,default,k i m a,a i k m
+541,orowin-62_breast-2,,orowin,62_breast,ikimasi,ikimasi,i k i m a s i,,Birchall2016;deFranca2002,62_breast-B,,^ i k i m a s i $,default,i k i m a s i,a i k m s
+542,tora-62_breast-2,,tora,62_breast,ikima,ikima,i k i m a,,Nimuendaju1925;Nimuendaju1923,62_breast-B,,^ i k i m a $,default,i k i m a,a i k m
+543,wari-62_breast-2,,wari,62_breast,kimatʃiʔ,kimatʃiʔ,k i m a tʃ i ʔ,,EverettKern1997;Kern1996,62_breast-B,,^ k i m a tʃ i ʔ $,default,k i m a tS i 7,7 a i k m tS
+544,cojubim-63_heart-1,,cojubim,63_heart,toku ru tim,toku ru tim,t o k u + r u + t i m,,Duran2000,63_heart-A,,^ t o k u + r u + t i m $,default,t o k u  r u  t i m, i k m o r t u
+545,jaru-63_heart-1,,jaru,63_heart,temisi,temisi,t e m i s i,,Rondon1948,63_heart-A,,^ t e m i s i $,default,t e m i s i,e i m s t
+546,kitemoka-63_heart-1,,kitemoka,63_heart,simitʃe,simitʃe,s i m i tʃ e,,CrequiMontfortRivet1913,63_heart-A,,^ s i m i tʃ e $,default,s i m i tS e,e i m s tS
+547,more-63_heart-1,,more,63_heart,tuku ritim,tuku ritim,t u k u + r i t i m,,Angenot2002;Leigue1957,63_heart-A,,^ t u k u + r i t i m $,default,t u k u  r i t i m, i k m r t u
+548,orowin-63_heart-1,,orowin,63_heart,timisi,timisi,t i m i s i,,Birchall2016;deFranca2002,63_heart-A,,^ t i m i s i $,default,t i m i s i,i m s t
+549,tapakura-63_heart-1,,tapakura,63_heart,simitʃi,simitʃi,s i m i tʃ i,,CrequiMontfortRivet1913,63_heart-A,,^ s i m i tʃ i $,default,s i m i tS i,i m s tS
+550,tora-63_heart-1,,tora,63_heart,timu,timu,t i m u,,Nimuendaju1925;Nimuendaju1923,63_heart-A,,^ t i m u $,default,t i m u,i m t u
+551,wanyam-63_heart-1,,wanyam,63_heart,timiʃiʔ,timiʃiʔ,t i m i ʃ i ʔ,,Ribeiro1998;Hanke1975,63_heart-A,,^ t i m i ʃ i ʔ $,default,t i m i S i 7,7 S i m t
+552,wari-63_heart-1,,wari,63_heart,tʃimitʃiʔ,tʃimitʃiʔ,tʃ i m i tʃ i ʔ,,EverettKern1997;Kern1996,63_heart-A,,^ tʃ i m i tʃ i ʔ $,default,tS i m i tS i 7,7 i m tS
+553,cojubim-64_liver-1,,cojubim,64_liver,tʃawan,tʃawan,tʃ a w a n,,Duran2000,64_liver-A,,^ tʃ a w a n $,default,tS a w a n,a n tS w
+554,jaru-64_liver-1,,jaru,64_liver,trawanasi,trawanasi,t r a w a n a s i,,Rondon1948,64_liver-A,,^ t r a w a n a s i $,default,t r a w a n a s i,a i n r s t w
+555,more-64_liver-1,,more,64_liver,sawan,sawan,s a w a n,,Angenot2002;Leigue1957,64_liver-A,,^ s a w a n $,default,s a w a n,a n s w
+556,orowin-64_liver-1,,orowin,64_liver,trawrisi,trawrisi,t r a w r i s i,,Birchall2016;deFranca2002,64_liver-A,,^ t r a w r i s i $,default,t r a w r i s i,a i r s t w
+557,tora-64_liver-1,,tora,64_liver,trawana,trawana,t r a w a n a,,Nimuendaju1925;Nimuendaju1923,64_liver-A,,^ t r a w a n a $,default,t r a w a n a,a n r t w
+558,wanyam-64_liver-1,,wanyam,64_liver,tarawaneʃiʔ,tarawaneʃiʔ,t a r a w a n e ʃ i ʔ,,Ribeiro1998;Hanke1975,64_liver-A,,^ t a r a w a n e ʃ i ʔ $,default,t a r a w a n e S i 7,7 S a e i n r t w
+559,wari-64_liver-1,,wari,64_liver,tarawanatʃiʔ,tarawanatʃiʔ,t a r a w a n a tʃ i ʔ,,EverettKern1997;Kern1996,64_liver-A,,^ t a r a w a n a tʃ i ʔ $,default,t a r a w a n a tS i 7,7 a i n r t tS w
+560,cojubim-65_drink-1,,cojubim,65_drink,tok,tok,t o k,,Duran2000,65_drink-A,,^ t o k $,default,t o k,k o t
+561,kitemoka-65_drink-1,,kitemoka,65_drink,kot,kot,k o t,,CrequiMontfortRivet1913,65_drink-A,,^ k o t $,default,k o t,k o t
+562,more-65_drink-1,,more,65_drink,tok,tok,t o k,,Angenot2002;Leigue1957,65_drink-A,,^ t o k $,default,t o k,k o t
+563,orowin-65_drink-1,,orowin,65_drink,tok,tok,t o k,,Birchall2016;deFranca2002,65_drink-A,,^ t o k $,default,t o k,k o t
+564,tora-65_drink-1,,tora,65_drink,tuk,tuk,t u k,,Nimuendaju1925;Nimuendaju1923,65_drink-A,,^ t u k $,default,t u k,k t u
+565,urupa-65_drink-1,,urupa,65_drink,tok,tok,t o k,,Nimuendaju1925,65_drink-A,,^ t o k $,default,t o k,k o t
+566,wanyam-65_drink-1,,wanyam,65_drink,tuka,tuka,t u k a,,Ribeiro1998;Hanke1975,65_drink-A,,^ t u k a $,default,t u k a,a k t u
+567,wari-65_drink-1,,wari,65_drink,tok,tok,t o k,,EverettKern1997;Kern1996,65_drink-A,,^ t o k $,default,t o k,k o t
+568,cojubim-66_eat-1,,cojubim,66_eat,kawʔ,kawʔ,k a w ʔ,,Duran2000,66_eat-A,,^ k a w ʔ $,default,k a w 7,7 a k w
+569,jaru-66_eat-1,,jaru,66_eat,kaw,kaw,k a w,,Rondon1948,66_eat-A,,^ k a w $,default,k a w,a k w
+570,kitemoka-66_eat-1,,kitemoka,66_eat,kaw,kaw,k a w,,CrequiMontfortRivet1913,66_eat-A,,^ k a w $,default,k a w,a k w
+571,more-66_eat-1,,more,66_eat,kaw,kaw,k a w,,Angenot2002;Leigue1957,66_eat-A,,^ k a w $,default,k a w,a k w
+572,orowin-66_eat-1,,orowin,66_eat,kaw,kaw,k a w,,Birchall2016;deFranca2002,66_eat-A,,^ k a w $,default,k a w,a k w
+573,tapakura-66_eat-1,,tapakura,66_eat,kaw,kaw,k a w,,CrequiMontfortRivet1913,66_eat-A,,^ k a w $,default,k a w,a k w
+574,tora-66_eat-1,,tora,66_eat,kaw,kaw,k a w,,Nimuendaju1925;Nimuendaju1923,66_eat-A,,^ k a w $,default,k a w,a k w
+575,urupa-66_eat-1,,urupa,66_eat,kaw,kaw,k a w,,Nimuendaju1925,66_eat-A,,^ k a w $,default,k a w,a k w
+576,wanyam-66_eat-1,,wanyam,66_eat,kaw,kaw,k a w,,Ribeiro1998;Hanke1975,66_eat-A,,^ k a w $,default,k a w,a k w
+577,wari-66_eat-1,,wari,66_eat,kaw,kaw,k a w,,EverettKern1997;Kern1996,66_eat-A,,^ k a w $,default,k a w,a k w
+578,cojubim-67_bite-1,,cojubim,67_bite,kiwʔ,kiwʔ,k i w ʔ,,Duran2000,67_bite-A,,^ k i w ʔ $,default,k i w 7,7 i k w
+579,more-67_bite-1,,more,67_bite,kiw,kiw,k i w,,Angenot2002;Leigue1957,67_bite-A,,^ k i w $,default,k i w,i k w
+580,orowin-67_bite-1,,orowin,67_bite,kiw,kiw,k i w,,Birchall2016;deFranca2002,67_bite-A,,^ k i w $,default,k i w,i k w
+581,tora-67_bite-1,,tora,67_bite,kiw,kiw,k i w,,Nimuendaju1925;Nimuendaju1923,67_bite-A,,^ k i w $,default,k i w,i k w
+582,wanyam-67_bite-1,,wanyam,67_bite,kiw,kiw,k i w,,Ribeiro1998;Hanke1975,67_bite-A,,^ k i w $,default,k i w,i k w
+583,wari-67_bite-1,,wari,67_bite,kiw,kiw,k i w,,EverettKern1997;Kern1996,67_bite-A,,^ k i w $,default,k i w,i k w
+584,jaru-67_bite-1,,jaru,67_bite,tapitʔ,tapitʔ,t a p i t ʔ,,Rondon1948,67_bite-B,,^ t a p i t ʔ $,default,t a p i t 7,7 a i p t
+585,cojubim-68_suck-1,,cojubim,68_suck,tʃak,tʃak,tʃ a k,,Duran2000,68_suck-A,,^ tʃ a k $,default,tS a k,a k tS
+586,more-68_suck-1,,more,68_suck,tʃak,tʃak,tʃ a k,,Angenot2002;Leigue1957,68_suck-A,,^ tʃ a k $,default,tS a k,a k tS
+587,orowin-68_suck-1,,orowin,68_suck,itak,itak,i t a k,,Birchall2016;deFranca2002,68_suck-A,,^ i t a k $,default,i t a k,a i k t
+588,wanyam-68_suck-1,,wanyam,68_suck,ʃak,ʃak,ʃ a k,,Ribeiro1998;Hanke1975,68_suck-A,,^ ʃ a k $,default,S a k,S a k
+589,wari-68_suck-1,,wari,68_suck,tʃak,tʃak,tʃ a k,,EverettKern1997;Kern1996,68_suck-A,,^ tʃ a k $,default,tS a k,a k tS
+590,cojubim-69_vomit-1,,cojubim,69_vomit,weʔ,weʔ,w e ʔ,,Duran2000,69_vomit-A,,^ w e ʔ $,default,w e 7,7 e w
+591,jaru-69_vomit-1,,jaru,69_vomit,we,we,w e,,Rondon1948,69_vomit-A,,^ w e $,default,w e,e w
+592,more-69_vomit-1,,more,69_vomit,we,we,w e,,Angenot2002;Leigue1957,69_vomit-A,,^ w e $,default,w e,e w
+593,orowin-69_vomit-1,,orowin,69_vomit,yweʔ,yweʔ,y w e ʔ,,Birchall2016;deFranca2002,69_vomit-A,,^ y w e ʔ $,default,i w e 7,7 e i w
+594,wanyam-69_vomit-1,,wanyam,69_vomit,we,we,w e,,Ribeiro1998;Hanke1975,69_vomit-A,,^ w e $,default,w e,e w
+595,wari-69_vomit-1,,wari,69_vomit,weʔ,weʔ,w e ʔ,,EverettKern1997;Kern1996,69_vomit-A,,^ w e ʔ $,default,w e 7,7 e w
+596,more-70_breathe-1,,more,70_breathe,awi ram,awi ram,a w i + r a m,,Angenot2002;Leigue1957,70_breathe-A,,^ a w i + r a m $,default,a w i  r a m, a i m r w
+597,orowin-70_breathe-1,,orowin,70_breathe,woram,woram,w o r a m,,Birchall2016;deFranca2002,70_breathe-A,,^ w o r a m $,default,w o r a m,a m o r w
+598,wanyam-70_breathe-1,,wanyam,70_breathe,uram,uram,u r a m,,Ribeiro1998;Hanke1975,70_breathe-A,,^ u r a m $,default,u r a m,a m r u
+599,wari-70_breathe-1,,wari,70_breathe,wereme,wereme,w e r e m e,,EverettKern1997;Kern1996,70_breathe-A,,^ w e r e m e $,default,w e r e m e,e m r w
+600,cojubim-70_breathe-1,,cojubim,70_breathe,zak,zak,z a k,,Duran2000,70_breathe-B,,^ z a k $,default,z a k,a k z
+601,more-70_breathe-2,,more,70_breathe,ʒ̟ak,ʒ̟ak,ʒ̟ a k,,Angenot2002;Leigue1957,70_breathe-B,,^ ʒ̟ a k $,default,Z a k,Z a k
+602,cojubim-71_laugh-1,,cojubim,71_laugh,tasam,tasam,t a s a m,,Duran2000,71_laugh-A,,^ t a s a m $,default,t a s a m,a m s t
+603,more-71_laugh-1,,more,71_laugh,tasam,tasam,t a s a m,,Angenot2002;Leigue1957,71_laugh-A,,^ t a s a m $,default,t a s a m,a m s t
+604,orowin-71_laugh-1,,orowin,71_laugh,tarim,tarim,t a r i m,,Birchall2016;deFranca2002,71_laugh-A,,^ t a r i m $,default,t a r i m,a i m r t
+605,wanyam-71_laugh-1,,wanyam,71_laugh,trahum,trahum,t r a h u m,,Ribeiro1998;Hanke1975,71_laugh-A,,^ t r a h u m $,default,t r a h u m,a h m r t u
+606,wari-71_laugh-1,,wari,71_laugh,tatamʔ,tatamʔ,t a t a m ʔ,,EverettKern1997;Kern1996,71_laugh-A,,^ t a t a m ʔ $,default,t a t a m 7,7 a m t
+607,tapakura-71_laugh-1,,tapakura,71_laugh,matimuiara,matimuiara,m a t i m u i a r a,,CrequiMontfortRivet1913,71_laugh-B,,^ m a t i m u i a r a $,default,m a t i m u i a r a,a i m r t u
+608,kitemoka-71_laugh-1,,kitemoka,71_laugh,eva,eva,e v a,,CrequiMontfortRivet1913,71_laugh-C,,^ e v a $,default,e v a,a e v
+609,cojubim-72_see-1,,cojubim,72_see,kirik,kirik,k i r i k,,Duran2000,72_see-A,,^ k i r i k $,default,k i r i k,i k r
+610,kitemoka-72_see-1,,kitemoka,72_see,tirig,tirig,t i r i g,,CrequiMontfortRivet1913,72_see-A,,^ t i r i g $,default,t i r i g,g i r t
+611,more-72_see-1,,more,72_see,kirik,kirik,k i r i k,,Angenot2002;Leigue1957,72_see-A,,^ k i r i k $,default,k i r i k,i k r
+612,orowin-72_see-1,,orowin,72_see,kirik,kirik,k i r i k,,Birchall2016;deFranca2002,72_see-A,,^ k i r i k $,default,k i r i k,i k r
+613,tapakura-72_see-1,,tapakura,72_see,kirik,kirik,k i r i k,,CrequiMontfortRivet1913,72_see-A,,^ k i r i k $,default,k i r i k,i k r
+614,tora-72_see-1,,tora,72_see,krid,krid,k r i d,,Nimuendaju1925;Nimuendaju1923,72_see-A,,^ k r i d $,default,k r i d,d i k r
+615,wanyam-72_see-1,,wanyam,72_see,kirik,kirik,k i r i k,,Ribeiro1998;Hanke1975,72_see-A,,^ k i r i k $,default,k i r i k,i k r
+616,wari-72_see-1,,wari,72_see,kerek,kerek,k e r e k,,EverettKern1997;Kern1996,72_see-A,,^ k e r e k $,default,k e r e k,e k r
+617,cojubim-73_hear-1,,cojubim,73_hear,rapat,rapat,r a p a t,,Duran2000,73_hear-A,,^ r a p a t $,default,r a p a t,a p r t
+618,more-73_hear-1,,more,73_hear,arapat,arapat,a r a p a t,,Angenot2002;Leigue1957,73_hear-A,,^ a r a p a t $,default,a r a p a t,a p r t
+619,orowin-73_hear-1,,orowin,73_hear,worapat,worapat,w o r a p a t,,Birchall2016;deFranca2002,73_hear-A,,^ w o r a p a t $,default,w o r a p a t,a o p r t w
+620,wanyam-73_hear-1,,wanyam,73_hear,warapat,warapat,w a r a p a t,,Ribeiro1998;Hanke1975,73_hear-A,,^ w a r a p a t $,default,w a r a p a t,a p r t w
+621,cojubim-74_fear-1,,cojubim,74_fear,ininʔ,ininʔ,i n i n ʔ,,Duran2000,74_fear-A,,^ i n i n ʔ $,default,i n i n 7,7 i n
+622,jaru-74_fear-1,,jaru,74_fear,injin,injin,i n j i n,,Rondon1948,74_fear-A,,^ i n j i n $,default,i n y i n,i n y
+623,more-74_fear-1,,more,74_fear,ijin,ijin,i j i n,,Angenot2002;Leigue1957,74_fear-A,,^ i j i n $,default,i y i n,i n y
+624,orowin-74_fear-1,,orowin,74_fear,ijin,ijin,i j i n,,Birchall2016;deFranca2002,74_fear-A,,^ i j i n $,default,i y i n,i n y
+625,tora-74_fear-1,,tora,74_fear,ejidn,ejidn,e j i d n,,Nimuendaju1925;Nimuendaju1923,74_fear-A,,^ e j i d n $,default,e y i d n,d e i n y
+626,wanyam-74_fear-1,,wanyam,74_fear,inin,inin,i n i n,,Ribeiro1998;Hanke1975,74_fear-A,,^ i n i n $,default,i n i n,i n
+627,wari-74_fear-1,,wari,74_fear,jinʔ,jinʔ,j i n ʔ,,EverettKern1997;Kern1996,74_fear-A,,^ j i n ʔ $,default,y i n 7,7 i n y
+628,cojubim-75_sleep-1,,cojubim,75_sleep,upin,upin,u p i n,,Duran2000,75_sleep-A,,^ u p i n $,default,u p i n,i n p u
+629,jaru-75_sleep-1,,jaru,75_sleep,upejamʔ,upejamʔ,u p e j a m ʔ,,Rondon1948,75_sleep-A,,^ u p e j a m ʔ $,default,u p e y a m 7,7 a e m p u y
+630,more-75_sleep-1,,more,75_sleep,upen,upen,u p e n,,Angenot2002;Leigue1957,75_sleep-A,,^ u p e n $,default,u p e n,e n p u
+631,orowin-75_sleep-1,,orowin,75_sleep,ypen,ypen,y p e n,,Birchall2016;deFranca2002,75_sleep-A,,^ y p e n $,default,i p e n,e i n p
+632,tora-75_sleep-1,,tora,75_sleep,upoɲ,upoɲ,u p o ɲ,,Nimuendaju1925;Nimuendaju1923,75_sleep-A,,^ u p o ɲ $,default,u p o 5,5 o p u
+633,urupa-75_sleep-1,,urupa,75_sleep,ypen,ypen,y p e n,,Nimuendaju1925,75_sleep-A,,^ y p e n $,default,i p e n,e i n p
+634,wanyam-75_sleep-1,,wanyam,75_sleep,ipen,ipen,i p e n,,Ribeiro1998;Hanke1975,75_sleep-A,,^ i p e n $,default,i p e n,e i n p
+635,wari-75_sleep-1,,wari,75_sleep,piʔ am,piʔ am,p i ʔ + a m,,EverettKern1997;Kern1996,75_sleep-A,,^ p i ʔ + a m $,default,p i 7  a m, 7 a i m p
+636,tapakura-75_sleep-1,,tapakura,75_sleep,watʃiahe,watʃiahe,w a tʃ i a h e,,CrequiMontfortRivet1913,75_sleep-B,,^ w a tʃ i a h e $,default,w a tS i a h e,a e h i tS w
+637,kitemoka-75_sleep-1,,kitemoka,75_sleep,ootʃe,ootʃe,oː tʃ e,,CrequiMontfortRivet1913,75_sleep-C,,^ oo tʃ e $,default,o tS e,e o tS
+638,cojubim-76_die-1,,cojubim,76_die,imiʔ,imiʔ,i m i ʔ,,Duran2000,76_die-A,,^ i m i ʔ $,default,i m i 7,7 i m
+639,jaru-76_die-1,,jaru,76_die,imi,imi,i m i,,Rondon1948,76_die-A,,^ i m i $,default,i m i,i m
+640,more-76_die-1,,more,76_die,imi,imi,i m i,,Angenot2002;Leigue1957,76_die-A,,^ i m i $,default,i m i,i m
+641,orowin-76_die-1,,orowin,76_die,imiʔ,imiʔ,i m i ʔ,,Birchall2016;deFranca2002,76_die-A,,^ i m i ʔ $,default,i m i 7,7 i m
+642,tora-76_die-1,,tora,76_die,imi,imi,i m i,,Nimuendaju1925;Nimuendaju1923,76_die-A,,^ i m i $,default,i m i,i m
+643,wanyam-76_die-1,,wanyam,76_die,imi,imi,i m i,,Ribeiro1998;Hanke1975,76_die-A,,^ i m i $,default,i m i,i m
+644,wari-76_die-1,,wari,76_die,miʔ,miʔ,m i ʔ,,EverettKern1997;Kern1996,76_die-A,,^ m i ʔ $,default,m i 7,7 i m
+645,cojubim-77_kill-1,,cojubim,77_kill,paʔ,paʔ,p a ʔ,,Duran2000,77_kill-A,,^ p a ʔ $,default,p a 7,7 a p
+646,jaru-77_kill-1,,jaru,77_kill,pa,pa,p a,,Rondon1948,77_kill-A,,^ p a $,default,p a,a p
+647,more-77_kill-1,,more,77_kill,pa,pa,p a,,Angenot2002;Leigue1957,77_kill-A,,^ p a $,default,p a,a p
+648,orowin-77_kill-1,,orowin,77_kill,paʔ,paʔ,p a ʔ,,Birchall2016;deFranca2002,77_kill-A,,^ p a ʔ $,default,p a 7,7 a p
+649,tora-77_kill-1,,tora,77_kill,pa,pa,p a,,Nimuendaju1925;Nimuendaju1923,77_kill-A,,^ p a $,default,p a,a p
+650,urupa-77_kill-1,,urupa,77_kill,tupab,tupab,t u p a b,,Nimuendaju1925,77_kill-A,,^ t u p a b $,default,t u p a b,a b p t u
+651,wanyam-77_kill-1,,wanyam,77_kill,pa,pa,p a,,Ribeiro1998;Hanke1975,77_kill-A,,^ p a $,default,p a,a p
+652,wari-77_kill-1,,wari,77_kill,paʔ,paʔ,p a ʔ,,EverettKern1997;Kern1996,77_kill-A,,^ p a ʔ $,default,p a 7,7 a p
+653,kitemoka-77_kill-1,,kitemoka,77_kill,tioakko,tioakko,t i o a k k o,,CrequiMontfortRivet1913,77_kill-B,,^ t i o a k k o $,default,t i o a k k o,a i k o t
+654,tapakura-77_kill-1,,tapakura,77_kill,tuakun,tuakun,t u a k u n,,CrequiMontfortRivet1913,77_kill-B,,^ t u a k u n $,default,t u a k u n,a k n t u
+655,orowin-78_fight-1,,orowin,78_fight,tamanaʔ,tamanaʔ,t a m a n a ʔ,,Birchall2016;deFranca2002,78_fight-A,,^ t a m a n a ʔ $,default,t a m a n a 7,7 a m n t
+656,wari-78_fight-1,,wari,78_fight,manaʔ,manaʔ,m a n a ʔ,,EverettKern1997;Kern1996,78_fight-A,,^ m a n a ʔ $,default,m a n a 7,7 a m n
+657,wari-78_fight-2,,wari,78_fight,mitʃitaʔ,mitʃitaʔ,m i tʃ i t a ʔ,,EverettKern1997;Kern1996,78_fight-B,,^ m i tʃ i t a ʔ $,default,m i tS i t a 7,7 a i m t tS
+658,more-78_fight-1,,more,78_fight,arami je,arami je,a r a m i + j e,,Angenot2002;Leigue1957,78_fight-C,,^ a r a m i + j e $,default,a r a m i  y e, a e i m r y
+659,wanyam-78_fight-1,,wanyam,78_fight,aʃeremi,aʃeremi,a ʃ e r e m i,,Ribeiro1998;Hanke1975,78_fight-C,,^ a ʃ e r e m i $,default,a S e r e m i,S a e i m r
+660,jaru-78_fight-1,,jaru,78_fight,eke,eke,e k e,,Rondon1948,78_fight-D,,^ e k e $,default,e k e,e k
+661,more-78_fight-2,,more,78_fight,jim,jim,j i m,,Angenot2002;Leigue1957,78_fight-E,,^ j i m $,default,y i m,i m y
+662,cojubim-79_shoot-1,,cojubim,79_shoot,puru,puru,p u r u,,Duran2000,79_shoot-A,,^ p u r u $,default,p u r u,p r u
+663,more-79_shoot-1,,more,79_shoot,puru,puru,p u r u,,Angenot2002;Leigue1957,79_shoot-A,,^ p u r u $,default,p u r u,p r u
+664,orowin-79_shoot-1,,orowin,79_shoot,friʔ,friʔ,f r i ʔ,,Birchall2016;deFranca2002,79_shoot-A,,^ f r i ʔ $,default,f r i 7,7 f i r
+665,wanyam-79_shoot-1,,wanyam,79_shoot,hiri,hiri,h i r i,,Ribeiro1998;Hanke1975,79_shoot-A,,^ h i r i $,default,h i r i,h i r
+666,wari-79_shoot-1,,wari,79_shoot,hyry,hyry,h y r y,,EverettKern1997;Kern1996,79_shoot-A,,^ h y r y $,default,h i r i,h i r
+667,tora-79_shoot-1,,tora,79_shoot,tap,tap,t a p,,Nimuendaju1925;Nimuendaju1923,79_shoot-B,,^ t a p $,default,t a p,a p t
+668,jaru-79_shoot-1,,jaru,79_shoot,keu,keu,k e u,,Rondon1948,79_shoot-C,,^ k e u $,default,k e u,e k u
+669,more-80_hit-1,,more,80_hit,ton,ton,t o n,,Angenot2002;Leigue1957,80_hit-A,,^ t o n $,default,t o n,n o t
+670,orowin-80_hit-1,,orowin,80_hit,toʔ,toʔ,t o ʔ,,Birchall2016;deFranca2002,80_hit-A,,^ t o ʔ $,default,t o 7,7 o t
+671,urupa-80_hit-1,,urupa,80_hit,tupan,tupan,t u p a n,,Nimuendaju1925,80_hit-A,,^ t u p a n $,default,t u p a n,a n p t u
+672,wanyam-80_hit-1,,wanyam,80_hit,to,to,t o,,Ribeiro1998;Hanke1975,80_hit-A,,^ t o $,default,t o,o t
+673,wari-80_hit-1,,wari,80_hit,toʔ,toʔ,t o ʔ,,EverettKern1997;Kern1996,80_hit-A,,^ t o ʔ $,default,t o 7,7 o t
+674,cojubim-80_hit-1,,cojubim,80_hit,pap,pap,p a p,,Duran2000,80_hit-B,,^ p a p $,default,p a p,a p
+675,orowin-80_hit-2,,orowin,80_hit,pak,pak,p a k,,Birchall2016;deFranca2002,80_hit-B,,^ p a k $,default,p a k,a k p
+676,tora-80_hit-1,,tora,80_hit,pak,pak,p a k,,Nimuendaju1925;Nimuendaju1923,80_hit-B,,^ p a k $,default,p a k,a k p
+677,cojubim-81_cut-1,,cojubim,81_cut,taʔ,taʔ,t a ʔ,,Duran2000,81_cut-A,,^ t a ʔ $,default,t a 7,7 a t
+678,jaru-81_cut-1,,jaru,81_cut,ta,ta,t a,,Rondon1948,81_cut-A,,^ t a $,default,t a,a t
+679,more-81_cut-1,,more,81_cut,ta,ta,t a,,Angenot2002;Leigue1957,81_cut-A,,^ t a $,default,t a,a t
+680,orowin-81_cut-1,,orowin,81_cut,ta kat,ta kat,t a + k a t,,Birchall2016;deFranca2002,81_cut-A,,^ t a + k a t $,default,t a  k a t, a k t
+681,tora-81_cut-1,,tora,81_cut,ta,ta,t a,,Nimuendaju1925;Nimuendaju1923,81_cut-A,,^ t a $,default,t a,a t
+682,wanyam-81_cut-1,,wanyam,81_cut,takat,takat,t a k a t,,Ribeiro1998;Hanke1975,81_cut-A,,^ t a k a t $,default,t a k a t,a k t
+683,wari-81_cut-1,,wari,81_cut,ta,ta,t a,,EverettKern1997;Kern1996,81_cut-A,,^ t a $,default,t a,a t
+684,cojubim-81_cut-2,,cojubim,81_cut,wak,wak,w a k,,Duran2000,81_cut-B,,^ w a k $,default,w a k,a k w
+685,more-81_cut-2,,more,81_cut,wok,wok,w o k,,Angenot2002;Leigue1957,81_cut-B,,^ w o k $,default,w o k,k o w
+686,orowin-81_cut-2,,orowin,81_cut,wak,wak,w a k,,Birchall2016;deFranca2002,81_cut-B,,^ w a k $,default,w a k,a k w
+687,wari-81_cut-2,,wari,81_cut,wak,wak,w a k,,EverettKern1997;Kern1996,81_cut-B,,^ w a k $,default,w a k,a k w
+688,orowin-81_cut-3,,orowin,81_cut,pit,pit,p i t,,Birchall2016;deFranca2002,81_cut-C,,^ p i t $,default,p i t,i p t
+689,tapakura-81_cut-1,,tapakura,81_cut,pitʃiram,pitʃiram,p i tʃ i r a m,,CrequiMontfortRivet1913,81_cut-C,,^ p i tʃ i r a m $,default,p i tS i r a m,a i m p r tS
+690,wanyam-81_cut-2,,wanyam,81_cut,pit kiran,pit kiran,p i t + k i r a n,,Ribeiro1998;Hanke1975,81_cut-C,,^ p i t + k i r a n $,default,p i t  k i r a n, a i k n p r t
+691,wari-81_cut-3,,wari,81_cut,pit,pit,p i t,,EverettKern1997;Kern1996,81_cut-C,,^ p i t $,default,p i t,i p t
+692,cojubim-82_dig-1,,cojubim,82_dig,tuk,tuk,t u k,,Duran2000,82_dig-A,,^ t u k $,default,t u k,k t u
+693,orowin-82_dig-1,,orowin,82_dig,tiki,tiki,t i k i,,Birchall2016;deFranca2002,82_dig-A,,^ t i k i $,default,t i k i,i k t
+694,wanyam-82_dig-1,,wanyam,82_dig,kit,kit,k i t,,Ribeiro1998;Hanke1975,82_dig-A,,^ k i t $,default,k i t,i k t
+695,wari-82_dig-1,,wari,82_dig,tikiʔ,tikiʔ,t i k i ʔ,,EverettKern1997;Kern1996,82_dig-A,,^ t i k i ʔ $,default,t i k i 7,7 i k t
+696,more-82_dig-1,,more,82_dig,putum,putum,p u t u m,,Angenot2002;Leigue1957,82_dig-B,,^ p u t u m $,default,p u t u m,m p t u
+697,orowin-83_swim-1,,orowin,83_swim,jy,jy,j y,,Birchall2016;deFranca2002,83_swim-A,,^ j y $,default,y i,i y
+698,wanyam-83_swim-1,,wanyam,83_swim,ji,ji,j i,,Ribeiro1998;Hanke1975,83_swim-A,,^ j i $,default,y i,i y
+699,wari-83_swim-1,,wari,83_swim,pan kam,pan kam,p a n + k a m,,EverettKern1997;Kern1996,83_swim-B,,^ p a n + k a m $,default,p a n  k a m, a k m n p
+700,jaru-83_swim-1,,jaru,83_swim,he,he,h e,,Rondon1948,83_swim-C,,^ h e $,default,h e,e h
+701,more-83_swim-1,,more,83_swim,kawak,kawak,k a w a k,,Angenot2002;Leigue1957,83_swim-D,,^ k a w a k $,default,k a w a k,a k w
+702,tapakura-83_swim-1,,tapakura,83_swim,kawa ko,kawa ko,k a w a + k o,,CrequiMontfortRivet1913,83_swim-D,,^ k a w a + k o $,default,k a w a  k o, a k o w
+703,cojubim-83_swim-1,,cojubim,83_swim,marakujan,marakujan,m a r a k u j a n,,Duran2000,83_swim-E,,^ m a r a k u j a n $,default,m a r a k u y a n,a k m n r u y
+704,orowin-84_fly-1,,orowin,84_fly,taki,taki,t a k i,,Birchall2016;deFranca2002,84_fly-A,,^ t a k i $,default,t a k i,a i k t
+705,wanyam-84_fly-1,,wanyam,84_fly,taki,taki,t a k i,,Ribeiro1998;Hanke1975,84_fly-A,,^ t a k i $,default,t a k i,a i k t
+706,wari-84_fly-1,,wari,84_fly,takiʔ,takiʔ,t a k i ʔ,,EverettKern1997;Kern1996,84_fly-A,,^ t a k i ʔ $,default,t a k i 7,7 a i k t
+707,orowin-84_fly-2,,orowin,84_fly,ijam,ijam,i j a m,,Birchall2016;deFranca2002,84_fly-B,,^ i j a m $,default,i y a m,a i m y
+708,cojubim-84_fly-1,,cojubim,84_fly,ze,ze,z e,,Duran2000,84_fly-C,,^ z e $,default,z e,e z
+709,more-84_fly-1,,more,84_fly,ʒ̟e,ʒ̟e,ʒ̟ e,,Angenot2002;Leigue1957,84_fly-C,,^ ʒ̟ e $,default,Z e,Z e
+710,cojubim-85_walk-1,,cojubim,85_walk,tot,tot,t o t,,Duran2000,85_walk-A,,^ t o t $,default,t o t,o t
+711,jaru-85_walk-1,,jaru,85_walk,tet,tet,t e t,,Rondon1948,85_walk-A,,^ t e t $,default,t e t,e t
+712,more-85_walk-1,,more,85_walk,tut,tut,t u t,,Angenot2002;Leigue1957,85_walk-A,,^ t u t $,default,t u t,t u
+713,orowin-85_walk-1,,orowin,85_walk,tyt,tyt,t y t,,Birchall2016;deFranca2002,85_walk-A,,^ t y t $,default,t i t,i t
+714,wanyam-85_walk-1,,wanyam,85_walk,tit,tit,t i t,,Ribeiro1998;Hanke1975,85_walk-A,,^ t i t $,default,t i t,i t
+715,wari-85_walk-1,,wari,85_walk,tʃyt,tʃyt,tʃ y t,,EverettKern1997;Kern1996,85_walk-A,,^ tʃ y t $,default,tS i t,i t tS
+716,orowin-86_come-1,,orowin,86_come,maki,maki,m a k i,,Birchall2016;deFranca2002,86_come-A,,^ m a k i $,default,m a k i,a i k m
+717,tora-86_come-1,,tora,86_come,makiʔ,makiʔ,m a k i ʔ,,Nimuendaju1925;Nimuendaju1923,86_come-A,,^ m a k i ʔ $,default,m a k i 7,7 a i k m
+718,wari-86_come-1,,wari,86_come,makiʔ,makiʔ,m a k i ʔ,,EverettKern1997;Kern1996,86_come-A,,^ m a k i ʔ $,default,m a k i 7,7 a i k m
+719,cojubim-86_come-1,,cojubim,86_come,iwan,iwan,i w a n,,Duran2000,86_come-B,,^ i w a n $,default,i w a n,a i n w
+720,more-86_come-1,,more,86_come,iwan,iwan,i w a n,,Angenot2002;Leigue1957,86_come-B,,^ i w a n $,default,i w a n,a i n w
+721,wanyam-86_come-1,,wanyam,86_come,iwan,iwan,i w a n,,Ribeiro1998;Hanke1975,86_come-B,,^ i w a n $,default,i w a n,a i n w
+722,tapakura-86_come-1,,tapakura,86_come,mana,mana,m a n a,,CrequiMontfortRivet1913,86_come-C,,^ m a n a $,default,m a n a,a m n
+723,kitemoka-86_come-1,,kitemoka,86_come,nia,nia,n i a,,CrequiMontfortRivet1913,86_come-D,,^ n i a $,default,n i a,a i n
+724,cojubim-87_lie-1,,cojubim,87_lie,titimʔ,titimʔ,t i t i m ʔ,,Duran2000,87_lie-A,,^ t i t i m ʔ $,default,t i t i m 7,7 i m t
+725,jaru-87_lie-1,,jaru,87_lie,trem,trem,t r e m,,Rondon1948,87_lie-A,,^ t r e m $,default,t r e m,e m r t
+726,orowin-87_lie-1,,orowin,87_lie,tim,tim,t i m,,Birchall2016;deFranca2002,87_lie-A,,^ t i m $,default,t i m,i m t
+727,tora-87_lie-1,,tora,87_lie,wuritimi,wuritimi,w u r i t i m i,,Nimuendaju1925;Nimuendaju1923,87_lie-A,,^ w u r i t i m i $,default,w u r i t i m i,i m r t u w
+728,wanyam-87_lie-1,,wanyam,87_lie,tarim,tarim,t a r i m,,Ribeiro1998;Hanke1975,87_lie-A,,^ t a r i m $,default,t a r i m,a i m r t
+729,wari-87_lie-1,,wari,87_lie,teremʔ,teremʔ,t e r e m ʔ,,EverettKern1997;Kern1996,87_lie-A,,^ t e r e m ʔ $,default,t e r e m 7,7 e m r t
+730,kitemoka-87_lie-1,,kitemoka,87_lie,tʃekom,tʃekom,tʃ e k o m,,CrequiMontfortRivet1913,87_lie-B,,^ tʃ e k o m $,default,tS e k o m,e k m o tS
+731,orowin-87_lie-2,,orowin,87_lie,tokoʔ,tokoʔ,t o k o ʔ,,Birchall2016;deFranca2002,87_lie-B,,^ t o k o ʔ $,default,t o k o 7,7 k o t
+732,wari-87_lie-2,,wari,87_lie,tokoʔ,tokoʔ,t o k o ʔ,,EverettKern1997;Kern1996,87_lie-B,,^ t o k o ʔ $,default,t o k o 7,7 k o t
+733,jaru-87_lie-2,,jaru,87_lie,ta,ta,t a,,Rondon1948,87_lie-C,,^ t a $,default,t a,a t
+734,more-87_lie-1,,more,87_lie,ʒ̟ak,ʒ̟ak,ʒ̟ a k,,Angenot2002;Leigue1957,87_lie-C,,^ ʒ̟ a k $,default,Z a k,Z a k
+735,urupa-87_lie-1,,urupa,87_lie,tak,tak,t a k,,Nimuendaju1925,87_lie-C,,^ t a k $,default,t a k,a k t
+736,wari-87_lie-3,,wari,87_lie,tak,tak,t a k,,EverettKern1997;Kern1996,87_lie-C,,^ t a k $,default,t a k,a k t
+737,tapakura-87_lie-1,,tapakura,87_lie,wa,wa,w a,,CrequiMontfortRivet1913,87_lie-D,,^ w a $,default,w a,a w
+738,cojubim-88_sit-1,,cojubim,88_sit,pe,pe,p e,,Duran2000,88_sit-A,,^ p e $,default,p e,e p
+739,more-88_sit-1,,more,88_sit,pwe,pwe,p w e,,Angenot2002;Leigue1957,88_sit-A,,^ pw e $,default,p w e,e p w
+740,orowin-88_sit-1,,orowin,88_sit,pe,pe,p e,,Birchall2016;deFranca2002,88_sit-A,,^ p e $,default,p e,e p
+741,tapakura-88_sit-1,,tapakura,88_sit,pepe,pepe,p e p e,,CrequiMontfortRivet1913,88_sit-A,,^ p e p e $,default,p e p e,e p
+742,tora-88_sit-1,,tora,88_sit,pi,pi,p i,,Nimuendaju1925;Nimuendaju1923,88_sit-A,,^ p i $,default,p i,i p
+743,wanyam-88_sit-1,,wanyam,88_sit,pe,pe,p e,,Ribeiro1998;Hanke1975,88_sit-A,,^ p e $,default,p e,e p
+744,wari-88_sit-1,,wari,88_sit,peʔ,peʔ,p e ʔ,,EverettKern1997;Kern1996,88_sit-A,,^ p e ʔ $,default,p e 7,7 e p
+745,cojubim-89_stand-1,,cojubim,89_stand,tak,tak,t a k,,Duran2000,89_stand-A,,^ t a k $,default,t a k,a k t
+746,more-89_stand-1,,more,89_stand,taki,taki,t a k i,,Angenot2002;Leigue1957,89_stand-A,,^ t a k i $,default,t a k i,a i k t
+747,tapakura-89_stand-1,,tapakura,89_stand,tekipepe,tekipepe,t e k i p e p e,,CrequiMontfortRivet1913,89_stand-A,,^ t e k i p e p e $,default,t e k i p e p e,e i k p t
+748,wari-89_stand-1,,wari,89_stand,tekiʔ pe,tekiʔ pe,t e k i ʔ + p e,,EverettKern1997;Kern1996,89_stand-A,,^ t e k i ʔ + p e $,default,t e k i 7  p e, 7 e i k p t
+749,orowin-89_stand-1,,orowin,89_stand,pan,pan,p a n,,Birchall2016;deFranca2002,89_stand-B,,^ p a n $,default,p a n,a n p
+750,kitemoka-89_stand-1,,kitemoka,89_stand,sed,sed,s e d,,CrequiMontfortRivet1913,89_stand-C,,^ s e d $,default,s e d,d e s
+751,wari-89_stand-2,,wari,89_stand,tʃat,tʃat,tʃ a t,,EverettKern1997;Kern1996,89_stand-C,,^ tʃ a t $,default,tS a t,a t tS
+752,cojubim-90_fall-1,,cojubim,90_fall,ipan,ipan,i p a n,,Duran2000,90_fall-A,,^ i p a n $,default,i p a n,a i n p
+753,more-90_fall-1,,more,90_fall,ipan,ipan,i p a n,,Angenot2002;Leigue1957,90_fall-A,,^ i p a n $,default,i p a n,a i n p
+754,orowin-90_fall-1,,orowin,90_fall,ipan,ipan,i p a n,,Birchall2016;deFranca2002,90_fall-A,,^ i p a n $,default,i p a n,a i n p
+755,tora-90_fall-1,,tora,90_fall,ipad,ipad,i p a d,,Nimuendaju1925;Nimuendaju1923,90_fall-A,,^ i p a d $,default,i p a d,a d i p
+756,wanyam-90_fall-1,,wanyam,90_fall,ipan,ipan,i p a n,,Ribeiro1998;Hanke1975,90_fall-A,,^ i p a n $,default,i p a n,a i n p
+757,wari-90_fall-1,,wari,90_fall,panʔ,panʔ,p a n ʔ,,EverettKern1997;Kern1996,90_fall-A,,^ p a n ʔ $,default,p a n 7,7 a n p
+758,wari-90_fall-2,,wari,90_fall,kamaraʔ,kamaraʔ,k a m a r a ʔ,,EverettKern1997;Kern1996,90_fall-B,,^ k a m a r a ʔ $,default,k a m a r a 7,7 a k m r
+759,cojubim-91_give-1,,cojubim,91_give,miʔ,miʔ,m i ʔ,,Duran2000,91_give-A,,^ m i ʔ $,default,m i 7,7 i m
+760,kitemoka-91_give-1,,kitemoka,91_give,me,me,m e,,CrequiMontfortRivet1913,91_give-A,,^ m e $,default,m e,e m
+761,more-91_give-1,,more,91_give,mi,mi,m i,,Angenot2002;Leigue1957,91_give-A,,^ m i $,default,m i,i m
+762,orowin-91_give-1,,orowin,91_give,miʔ,miʔ,m i ʔ,,Birchall2016;deFranca2002,91_give-A,,^ m i ʔ $,default,m i 7,7 i m
+763,tapakura-91_give-1,,tapakura,91_give,mi,mi,m i,,CrequiMontfortRivet1913,91_give-A,,^ m i $,default,m i,i m
+764,tora-91_give-1,,tora,91_give,miʔ,miʔ,m i ʔ,,Nimuendaju1925;Nimuendaju1923,91_give-A,,^ m i ʔ $,default,m i 7,7 i m
+765,wanyam-91_give-1,,wanyam,91_give,min,min,m i n,,Ribeiro1998;Hanke1975,91_give-A,,^ m i n $,default,m i n,i m n
+766,wari-91_give-1,,wari,91_give,miʔ,miʔ,m i ʔ,,EverettKern1997;Kern1996,91_give-A,,^ m i ʔ $,default,m i 7,7 i m
+767,jaru-92_wash-1,,jaru,92_wash,rokon,rokon,r o k o n,,Rondon1948,92_wash-A,,^ r o k o n $,default,r o k o n,k n o r
+768,orowin-92_wash-1,,orowin,92_wash,wirikom,wirikom,w i r i k o m,,Birchall2016;deFranca2002,92_wash-A,,^ w i r i k o m $,default,w i r i k o m,i k m o r w
+769,wanyam-92_wash-1,,wanyam,92_wash,irokon,irokon,i r o k o n,,Ribeiro1998;Hanke1975,92_wash-A,,^ i r o k o n $,default,i r o k o n,i k n o r
+770,wari-92_wash-1,,wari,92_wash,hohok,hohok,h o h o k,,EverettKern1997;Kern1996,92_wash-B,,^ h o h o k $,default,h o h o k,h k o
+771,cojubim-92_wash-1,,cojubim,92_wash,tʃaw,tʃaw,tʃ a w,,Duran2000,92_wash-C,,^ tʃ a w $,default,tS a w,a tS w
+772,more-92_wash-1,,more,92_wash,tʃaw,tʃaw,tʃ a w,,Angenot2002;Leigue1957,92_wash-C,,^ tʃ a w $,default,tS a w,a tS w
+773,wanyam-92_wash-2,,wanyam,92_wash,ʃawa,ʃawa,ʃ a w a,,Ribeiro1998;Hanke1975,92_wash-C,,^ ʃ a w a $,default,S a w a,S a w
+774,cojubim-93_pull-1,,cojubim,93_pull,ko,ko,k o,,Duran2000,93_pull-A,,^ k o $,default,k o,k o
+775,more-93_pull-1,,more,93_pull,ko,ko,k o,,Angenot2002;Leigue1957,93_pull-A,,^ k o $,default,k o,k o
+776,orowin-93_pull-1,,orowin,93_pull,kok tBot,kok tBot,k o k + t b o t,,Birchall2016;deFranca2002,93_pull-A,,^ k o k + t B o t $,default,k o k  t b o t, b k o t
+777,wari-93_pull-1,,wari,93_pull,køk,køk,k ø k,,EverettKern1997;Kern1996,93_pull-A,,^ k ø k $,default,k e k,e k
+778,cojubim-94_push-1,,cojubim,94_push,jok,jok,j o k,,Duran2000,94_push-A,,^ j o k $,default,y o k,k o y
+779,orowin-94_push-1,,orowin,94_push,jyk,jyk,j y k,,Birchall2016;deFranca2002,94_push-A,,^ j y k $,default,y i k,i k y
+780,wanyam-94_push-1,,wanyam,94_push,jek,jek,j e k,,Ribeiro1998;Hanke1975,94_push-A,,^ j e k $,default,y e k,e k y
+781,wari-94_push-1,,wari,94_push,jøk,jøk,j ø k,,EverettKern1997;Kern1996,94_push-A,,^ j ø k $,default,y e k,e k y
+782,more-94_push-1,,more,94_push,tun,tun,t u n,,Angenot2002;Leigue1957,94_push-B,,^ t u n $,default,t u n,n t u
+783,orowin-95_throw-1,,orowin,95_throw,sin,sin,s i n,,Birchall2016;deFranca2002,95_throw-A,,^ s i n $,default,s i n,i n s
+784,wanyam-95_throw-1,,wanyam,95_throw,ʃin,ʃin,ʃ i n,,Ribeiro1998;Hanke1975,95_throw-A,,^ ʃ i n $,default,S i n,S i n
+785,wari-95_throw-1,,wari,95_throw,tʃin,tʃin,tʃ i n,,EverettKern1997;Kern1996,95_throw-A,,^ tʃ i n $,default,tS i n,i n tS
+786,cojubim-95_throw-1,,cojubim,95_throw,pin,pin,p i n,,Duran2000,95_throw-B,,^ p i n $,default,p i n,i n p
+787,more-95_throw-1,,more,95_throw,pwin,pwin,p w i n,,Angenot2002;Leigue1957,95_throw-B,,^ pw i n $,default,p w i n,i n p w
+788,more-96_tie-1,,more,96_tie,paw,paw,p a w,,Angenot2002;Leigue1957,96_tie-A,,^ p a w $,default,p a w,a p w
+789,orowin-96_tie-1,,orowin,96_tie,paw,paw,p a w,,Birchall2016;deFranca2002,96_tie-A,,^ p a w $,default,p a w,a p w
+790,wanyam-96_tie-1,,wanyam,96_tie,paw,paw,p a w,,Ribeiro1998;Hanke1975,96_tie-A,,^ p a w $,default,p a w,a p w
+791,wari-96_tie-1,,wari,96_tie,pawʔ,pawʔ,p a w ʔ,,EverettKern1997;Kern1996,96_tie-A,,^ p a w ʔ $,default,p a w 7,7 a p w
+792,cojubim-96_tie-1,,cojubim,96_tie,pip,pip,p i p,,Duran2000,96_tie-B,,^ p i p $,default,p i p,i p
+793,more-96_tie-2,,more,96_tie,pip,pip,p i p,,Angenot2002;Leigue1957,96_tie-B,,^ p i p $,default,p i p,i p
+794,kitemoka-97_say-1,,kitemoka,97_say,tumi,tumi,t u m i,,CrequiMontfortRivet1913,97_say-A,,^ t u m i $,default,t u m i,i m t u
+795,tapakura-97_say-1,,tapakura,97_say,timi,timi,t i m i,,CrequiMontfortRivet1913,97_say-A,,^ t i m i $,default,t i m i,i m t
+796,wari-97_say-1,,wari,97_say,tomiʔ,tomiʔ,t o m i ʔ,,EverettKern1997;Kern1996,97_say-A,,^ t o m i ʔ $,default,t o m i 7,7 i m o t
+797,orowin-97_say-1,,orowin,97_say,naʔ,naʔ,n a ʔ,,Birchall2016;deFranca2002,97_say-B,,^ n a ʔ $,default,n a 7,7 a n
+798,wanyam-97_say-1,,wanyam,97_say,wanjam,wanjam,w a n j a m,,Ribeiro1998;Hanke1975,97_say-C,,^ w a n j a m $,default,w a n y a m,a m n w y
+799,urupa-97_say-1,,urupa,97_say,pa,pa,p a,,Nimuendaju1925,97_say-D,,^ p a $,default,p a,a p
+800,cojubim-97_say-1,,cojubim,97_say,ja,ja,j a,,Duran2000,97_say-E,,^ j a $,default,y a,a y
+801,kitemoka-97_say-2,,kitemoka,97_say,jajara,jajara,j a j a r a,,CrequiMontfortRivet1913,97_say-E,,^ j a j a r a $,default,y a y a r a,a r y
+802,more-97_say-1,,more,97_say,ja,ja,j a,,Angenot2002;Leigue1957,97_say-E,,^ j a $,default,y a,a y
+803,orowin-98_sing-1,,orowin,98_sing,kom,kom,k o m,,Birchall2016;deFranca2002,98_sing-A,,^ k o m $,default,k o m,k m o
+804,wanyam-98_sing-1,,wanyam,98_sing,kum,kum,k u m,,Ribeiro1998;Hanke1975,98_sing-A,,^ k u m $,default,k u m,k m u
+805,wari-98_sing-1,,wari,98_sing,kom,kom,k o m,,EverettKern1997;Kern1996,98_sing-A,,^ k o m $,default,k o m,k m o
+806,jaru-98_sing-1,,jaru,98_sing,haka,haka,h a k a,,Rondon1948,98_sing-B,,^ h a k a $,default,h a k a,a h k
+807,cojubim-98_sing-1,,cojubim,98_sing,wo,wo,w o,,Duran2000,98_sing-C,,^ w o $,default,w o,o w
+808,more-98_sing-1,,more,98_sing,wo ki,wo ki,w o + k i,,Angenot2002;Leigue1957,98_sing-C,,^ w o + k i $,default,w o  k i, i k o w
+809,more-98_sing-2,,more,98_sing,atʃimara,atʃimara,a tʃ i m a r a,,Angenot2002;Leigue1957,98_sing-D,,^ a tʃ i m a r a $,default,a tS i m a r a,a i m r tS
+810,cojubim-99_sun-1,,cojubim,99_sun,mapitoʔ,mapitoʔ,m a p i t o ʔ,,Duran2000,99_sun-A,,^ m a p i t o ʔ $,default,m a p i t o 7,7 a i m o p t
+811,kitemoka-99_sun-1,,kitemoka,99_sun,papuitio,papuitio,p a p u i t i o,,CrequiMontfortRivet1913,99_sun-A,,^ p a p u i t i o $,default,p a p u i t i o,a i o p t u
+812,more-99_sun-1,,more,99_sun,mapwito,mapwito,m a p w i t o,,Angenot2002;Leigue1957,99_sun-A,,^ m a pw i t o $,default,m a p w i t o,a i m o p t w
+813,tapakura-99_sun-1,,tapakura,99_sun,wapuito,wapuito,w a p u i t o,,CrequiMontfortRivet1913,99_sun-A,,^ w a p u i t o $,default,w a p u i t o,a i o p t u w
+814,tora-99_sun-1,,tora,99_sun,apito,apito,a p i t o,,Nimuendaju1925;Nimuendaju1923,99_sun-A,,^ a p i t o $,default,a p i t o,a i o p t
+815,wanyam-99_sun-1,,wanyam,99_sun,wapiru,wapiru,w a p i r u,,Ribeiro1998;Hanke1975,99_sun-A,,^ w a p i r u $,default,w a p i r u,a i p r u w
+816,wari-99_sun-1,,wari,99_sun,tʃina,tʃina,tʃ i n a,,EverettKern1997;Kern1996,99_sun-B,,^ tʃ i n a $,default,tS i n a,a i n tS
+817,jaru-99_sun-1,,jaru,99_sun,komem,komem,k o m e m,,Rondon1948,99_sun-C,,^ k o m e m $,default,k o m e m,e k m o
+818,urupa-99_sun-1,,urupa,99_sun,kumen,kumen,k u m e n,,Nimuendaju1925,99_sun-C,,^ k u m e n $,default,k u m e n,e k m n u
+819,orowin-99_sun-1,,orowin,99_sun,fakamiʔ,fakamiʔ,f a k a m i ʔ,,Birchall2016;deFranca2002,99_sun-D,,^ f a k a m i ʔ $,default,f a k a m i 7,7 a f i k m
+820,cojubim-100_moon-1,,cojubim,100_moon,panawoʔ,panawoʔ,p a n a w o ʔ,,Duran2000,100_moon-A,,^ p a n a w o ʔ $,default,p a n a w o 7,7 a n o p w
+821,jaru-100_moon-1,,jaru,100_moon,panau,panau,p a n a u,,Rondon1948,100_moon-A,,^ p a n a u $,default,p a n a u,a n p u
+822,kitemoka-100_moon-1,,kitemoka,100_moon,pnato,pnato,p n a t o,,CrequiMontfortRivet1913,100_moon-A,,^ p n a t o $,default,p n a t o,a n o p t
+823,more-100_moon-1,,more,100_moon,panawoʔ,panawoʔ,p a n a w o ʔ,,Angenot2002;Leigue1957,100_moon-A,,^ p a n a w o ʔ $,default,p a n a w o 7,7 a n o p w
+824,tapakura-100_moon-1,,tapakura,100_moon,panato,panato,p a n a t o,,CrequiMontfortRivet1913,100_moon-A,,^ p a n a t o $,default,p a n a t o,a n o p t
+825,tora-100_moon-1,,tora,100_moon,panao,panao,p a n a o,,Nimuendaju1925;Nimuendaju1923,100_moon-A,,^ p a n a o $,default,p a n a o,a n o p
+826,urupa-100_moon-1,,urupa,100_moon,panaoʔ,panaoʔ,p a n a o ʔ,,Nimuendaju1925,100_moon-A,,^ p a n a o ʔ $,default,p a n a o 7,7 a n o p
+827,wanyam-100_moon-1,,wanyam,100_moon,panawoʔ,panawoʔ,p a n a w o ʔ,,Ribeiro1998;Hanke1975,100_moon-A,,^ p a n a w o ʔ $,default,p a n a w o 7,7 a n o p w
+828,wari-100_moon-1,,wari,100_moon,panawoʔ,panawoʔ,p a n a w o ʔ,,EverettKern1997;Kern1996,100_moon-A,,^ p a n a w o ʔ $,default,p a n a w o 7,7 a n o p w
+829,cojubim-101_star-1,,cojubim,101_star,pi pijo,pi pijo,p i + p i j o,,Duran2000,101_star-A,,^ p i + p i j o $,default,p i  p i y o, i o p y
+830,jaru-101_star-1,,jaru,101_star,upiu,upiu,u p i u,,Rondon1948,101_star-A,,^ u p i u $,default,u p i u,i p u
+831,kitemoka-101_star-1,,kitemoka,101_star,pilʔahu,pilʔahu,p i l ʔ a h u,,CrequiMontfortRivet1913,101_star-A,,^ p i l ʔ a h u $,default,p i l 7 a h u,7 a h i l p u
+832,more-101_star-1,,more,101_star,pipijo,pipijo,p i p i j o,,Angenot2002;Leigue1957,101_star-A,,^ p i p i j o $,default,p i p i y o,i o p y
+833,tapakura-101_star-1,,tapakura,101_star,wipijao,wipijao,w i p i j a o,,CrequiMontfortRivet1913,101_star-A,,^ w i p i j a o $,default,w i p i y a o,a i o p w y
+834,tora-101_star-1,,tora,101_star,pipijo,pipijo,p i p i j o,,Nimuendaju1925;Nimuendaju1923,101_star-A,,^ p i p i j o $,default,p i p i y o,i o p y
+835,urupa-101_star-1,,urupa,101_star,upijo,upijo,u p i j o,,Nimuendaju1925,101_star-A,,^ u p i j o $,default,u p i y o,i o p u y
+836,wanyam-101_star-1,,wanyam,101_star,upijuʔ,upijuʔ,u p i j u ʔ,,Ribeiro1998;Hanke1975,101_star-A,,^ u p i j u ʔ $,default,u p i y u 7,7 i p u y
+837,wari-101_star-1,,wari,101_star,pijoʔ,pijoʔ,p i j o ʔ,,EverettKern1997;Kern1996,101_star-A,,^ p i j o ʔ $,default,p i y o 7,7 i o p y
+838,orowin-101_star-1,,orowin,101_star,oro jawin,oro jawin,o r o + j a w i n,,Birchall2016;deFranca2002,101_star-B,,^ o r o + j a w i n $,default,o r o  y a w i n, a i n o r w y
+839,cojubim-102_water-1,,cojubim,102_water,kom,kom,k o m,,Duran2000,102_water-A,,^ k o m $,default,k o m,k m o
+840,jaru-102_water-1,,jaru,102_water,ko,ko,k o,,Rondon1948,102_water-A,,^ k o $,default,k o,k o
+841,kitemoka-102_water-1,,kitemoka,102_water,ako,ako,a k o,,CrequiMontfortRivet1913,102_water-A,,^ a k o $,default,a k o,a k o
+842,more-102_water-1,,more,102_water,kom,kom,k o m,,Angenot2002;Leigue1957,102_water-A,,^ k o m $,default,k o m,k m o
+843,orowin-102_water-1,,orowin,102_water,kom,kom,k o m,,Birchall2016;deFranca2002,102_water-A,,^ k o m $,default,k o m,k m o
+844,tapakura-102_water-1,,tapakura,102_water,akum,akum,a k u m,,CrequiMontfortRivet1913,102_water-A,,^ a k u m $,default,a k u m,a k m u
+845,tora-102_water-1,,tora,102_water,kom,kom,k o m,,Nimuendaju1925;Nimuendaju1923,102_water-A,,^ k o m $,default,k o m,k m o
+846,urupa-102_water-1,,urupa,102_water,kom,kom,k o m,,Nimuendaju1925,102_water-A,,^ k o m $,default,k o m,k m o
+847,wanyam-102_water-1,,wanyam,102_water,kom,kom,k o m,,Ribeiro1998;Hanke1975,102_water-A,,^ k o m $,default,k o m,k m o
+848,wari-102_water-1,,wari,102_water,kom,kom,k o m,,EverettKern1997;Kern1996,102_water-A,,^ k o m $,default,k o m,k m o
+849,jaru-103_rain-1,,jaru,103_rain,soi,soi,s o i,,Rondon1948,103_rain-A,,^ s o i $,default,s o i,i o s
+850,more-103_rain-1,,more,103_rain,tʃuwe,tʃuwe,tʃ u w e,,Angenot2002;Leigue1957,103_rain-A,,^ tʃ u w e $,default,tS u w e,e tS u w
+851,orowin-103_rain-1,,orowin,103_rain,sowiʔ,sowiʔ,s o w i ʔ,,Birchall2016;deFranca2002,103_rain-A,,^ s o w i ʔ $,default,s o w i 7,7 i o s w
+852,urupa-103_rain-1,,urupa,103_rain,sui,sui,s u i,,Nimuendaju1925,103_rain-A,,^ s u i $,default,s u i,i s u
+853,wanyam-103_rain-1,,wanyam,103_rain,ʃuwiʔ,ʃuwiʔ,ʃ u w i ʔ,,Ribeiro1998;Hanke1975,103_rain-A,,^ ʃ u w i ʔ $,default,S u w i 7,7 S i u w
+854,wari-103_rain-1,,wari,103_rain,tʃowiʔ,tʃowiʔ,tʃ o w i ʔ,,EverettKern1997;Kern1996,103_rain-A,,^ tʃ o w i ʔ $,default,tS o w i 7,7 i o tS w
+855,cojubim-104_stone-1,,cojubim,104_stone,pikun,pikun,p i k u n,,Duran2000,104_stone-A,,^ p i k u n $,default,p i k u n,i k n p u
+856,jaru-104_stone-1,,jaru,104_stone,paken,paken,p a k e n,,Rondon1948,104_stone-A,,^ p a k e n $,default,p a k e n,a e k n p
+857,kitemoka-104_stone-1,,kitemoka,104_stone,pikui,pikui,p i k u i,,CrequiMontfortRivet1913,104_stone-A,,^ p i k u i $,default,p i k u i,i k p u
+858,more-104_stone-1,,more,104_stone,pikun,pikun,p i k u n,,Angenot2002;Leigue1957,104_stone-A,,^ p i k u n $,default,p i k u n,i k n p u
+859,orowin-104_stone-1,,orowin,104_stone,pekyn,pekyn,p e k y n,,Birchall2016;deFranca2002,104_stone-A,,^ p e k y n $,default,p e k i n,e i k n p
+860,tapakura-104_stone-1,,tapakura,104_stone,pekun,pekun,p e k u n,,CrequiMontfortRivet1913,104_stone-A,,^ p e k u n $,default,p e k u n,e k n p u
+861,tora-104_stone-1,,tora,104_stone,pikun,pikun,p i k u n,,Nimuendaju1925;Nimuendaju1923,104_stone-A,,^ p i k u n $,default,p i k u n,i k n p u
+862,urupa-104_stone-1,,urupa,104_stone,pakyn,pakyn,p a k y n,,Nimuendaju1925,104_stone-A,,^ p a k y n $,default,p a k i n,a i k n p
+863,wanyam-104_stone-1,,wanyam,104_stone,pekin,pekin,p e k i n,,Ribeiro1998;Hanke1975,104_stone-A,,^ p e k i n $,default,p e k i n,e i k n p
+864,wari-104_stone-1,,wari,104_stone,pakyn,pakyn,p a k y n,,EverettKern1997;Kern1996,104_stone-A,,^ p a k y n $,default,p a k i n,a i k n p
+865,jaru-105_sand-1,,jaru,105_sand,namajekun,namajekun,n a m a j e k u n,,Rondon1948,105_sand-A,,^ n a m a j e k u n $,default,n a m a y e k u n,a e k m n u y
+866,more-105_sand-1,,more,105_sand,mimaʒ̟,mimaʒ̟,m i m a ʒ̟,,Angenot2002;Leigue1957,105_sand-A,,^ m i m a ʒ̟ $,default,m i m a Z,Z a i m
+867,orowin-105_sand-1,,orowin,105_sand,namajiʔ,namajiʔ,n a m a j i ʔ,,Birchall2016;deFranca2002,105_sand-A,,^ n a m a j i ʔ $,default,n a m a y i 7,7 a i m n y
+868,tora-105_sand-1,,tora,105_sand,mijmaj,mijmaj,m i j m a j,,Nimuendaju1925;Nimuendaju1923,105_sand-A,,^ m i j m a j $,default,m i y m a y,a i m y
+869,wanyam-105_sand-1,,wanyam,105_sand,nimajiʔ,nimajiʔ,n i m a j i ʔ,,Ribeiro1998;Hanke1975,105_sand-A,,^ n i m a j i ʔ $,default,n i m a y i 7,7 a i m n y
+870,wari-105_sand-1,,wari,105_sand,namaji,namaji,n a m a j i,,EverettKern1997;Kern1996,105_sand-A,,^ n a m a j i $,default,n a m a y i,a i m n y
+871,kitemoka-105_sand-1,,kitemoka,105_sand,mate,mate,m a t e,,CrequiMontfortRivet1913,105_sand-B,,^ m a t e $,default,m a t e,a e m t
+872,tapakura-105_sand-1,,tapakura,105_sand,umati,umati,u m a t i,,CrequiMontfortRivet1913,105_sand-B,,^ u m a t i $,default,u m a t i,a i m t u
+873,cojubim-106_earth-1,,cojubim,106_earth,namakan,namakan,n a m a k a n,,Duran2000,106_earth-A,,^ n a m a k a n $,default,n a m a k a n,a k m n
+874,jaru-106_earth-1,,jaru,106_earth,manakan,manakan,m a n a k a n,,Rondon1948,106_earth-A,,^ m a n a k a n $,default,m a n a k a n,a k m n
+875,kitemoka-106_earth-1,,kitemoka,106_earth,emakan,emakan,e m a k a n,,CrequiMontfortRivet1913,106_earth-A,,^ e m a k a n $,default,e m a k a n,a e k m n
+876,more-106_earth-1,,more,106_earth,namakan,namakan,n a m a k a n,,Angenot2002;Leigue1957,106_earth-A,,^ n a m a k a n $,default,n a m a k a n,a k m n
+877,orowin-106_earth-1,,orowin,106_earth,namakan,namakan,n a m a k a n,,Birchall2016;deFranca2002,106_earth-A,,^ n a m a k a n $,default,n a m a k a n,a k m n
+878,tapakura-106_earth-1,,tapakura,106_earth,jamakan,jamakan,j a m a k a n,,CrequiMontfortRivet1913,106_earth-A,,^ j a m a k a n $,default,y a m a k a n,a k m n y
+879,urupa-106_earth-1,,urupa,106_earth,manaka,manaka,m a n a k a,,Nimuendaju1925,106_earth-A,,^ m a n a k a $,default,m a n a k a,a k m n
+880,wanyam-106_earth-1,,wanyam,106_earth,namakan,namakan,n a m a k a n,,Ribeiro1998;Hanke1975,106_earth-A,,^ n a m a k a n $,default,n a m a k a n,a k m n
+881,wari-106_earth-1,,wari,106_earth,makanʔ,makanʔ,m a k a n ʔ,,EverettKern1997;Kern1996,106_earth-A,,^ m a k a n ʔ $,default,m a k a n 7,7 a k m n
+882,cojubim-106_earth-2,,cojubim,106_earth,timak,timak,t i m a k,,Duran2000,106_earth-B,,^ t i m a k $,default,t i m a k,a i k m t
+883,kitemoka-106_earth-2,,kitemoka,106_earth,tʃema,tʃema,tʃ e m a,,CrequiMontfortRivet1913,106_earth-B,,^ tʃ e m a $,default,tS e m a,a e m tS
+884,more-106_earth-2,,more,106_earth,timak,timak,t i m a k,,Angenot2002;Leigue1957,106_earth-B,,^ t i m a k $,default,t i m a k,a i k m t
+885,tapakura-106_earth-2,,tapakura,106_earth,tʃimak,tʃimak,tʃ i m a k,,CrequiMontfortRivet1913,106_earth-B,,^ tʃ i m a k $,default,tS i m a k,a i k m tS
+886,tora-106_earth-1,,tora,106_earth,timak,timak,t i m a k,,Nimuendaju1925;Nimuendaju1923,106_earth-B,,^ t i m a k $,default,t i m a k,a i k m t
+887,cojubim-107_sky-1,,cojubim,107_sky,awin,awin,a w i n,,Duran2000,107_sky-A,,^ a w i n $,default,a w i n,a i n w
+888,jaru-107_sky-1,,jaru,107_sky,awi,awi,a w i,,Rondon1948,107_sky-A,,^ a w i $,default,a w i,a i w
+889,kitemoka-107_sky-1,,kitemoka,107_sky,awen,awen,a w e n,,CrequiMontfortRivet1913,107_sky-A,,^ a w e n $,default,a w e n,a e n w
+890,more-107_sky-1,,more,107_sky,awin,awin,a w i n,,Angenot2002;Leigue1957,107_sky-A,,^ a w i n $,default,a w i n,a i n w
+891,orowin-107_sky-1,,orowin,107_sky,awin,awin,a w i n,,Birchall2016;deFranca2002,107_sky-A,,^ a w i n $,default,a w i n,a i n w
+892,tapakura-107_sky-1,,tapakura,107_sky,awin,awin,a w i n,,CrequiMontfortRivet1913,107_sky-A,,^ a w i n $,default,a w i n,a i n w
+893,tora-107_sky-1,,tora,107_sky,awin,awin,a w i n,,Nimuendaju1925;Nimuendaju1923,107_sky-A,,^ a w i n $,default,a w i n,a i n w
+894,urupa-107_sky-1,,urupa,107_sky,awin,awin,a w i n,,Nimuendaju1925,107_sky-A,,^ a w i n $,default,a w i n,a i n w
+895,wanyam-107_sky-1,,wanyam,107_sky,awin,awin,a w i n,,Ribeiro1998;Hanke1975,107_sky-A,,^ a w i n $,default,a w i n,a i n w
+896,wari-107_sky-1,,wari,107_sky,nanawin,nanawin,n a n a w i n,,EverettKern1997;Kern1996,107_sky-A,,^ n a n a w i n $,default,n a n a w i n,a i n w
+897,orowin-108_wind-1,,orowin,108_wind,pafotiʔ,pafotiʔ,p a f o t i ʔ,,Birchall2016;deFranca2002,108_wind-A,,^ p a f o t i ʔ $,default,p a f o t i 7,7 a f i o p t
+898,tora-108_wind-1,,tora,108_wind,pahuzi,pahuzi,p a h u z i,,Nimuendaju1925;Nimuendaju1923,108_wind-A,,^ p a h u z i $,default,p a h u z i,a h i p u z
+899,wanyam-108_wind-1,,wanyam,108_wind,pahotiʔ,pahotiʔ,p a h o t i ʔ,,Ribeiro1998;Hanke1975,108_wind-A,,^ p a h o t i ʔ $,default,p a h o t i 7,7 a h i o p t
+900,wari-108_wind-1,,wari,108_wind,hotowa,hotowa,h o t o w a,,EverettKern1997;Kern1996,108_wind-A,,^ h o t o w a $,default,h o t o w a,a h o t w
+901,jaru-108_wind-1,,jaru,108_wind,kaho,kaho,k a h o,,Rondon1948,108_wind-B,,^ k a h o $,default,k a h o,a h k o
+902,urupa-108_wind-1,,urupa,108_wind,kako,kako,k a k o,,Nimuendaju1925,108_wind-B,,^ k a k o $,default,k a k o,a k o
+903,cojubim-108_wind-1,,cojubim,108_wind,pujani,pujani,p u j a n i,,Duran2000,108_wind-C,,^ p u j a n i $,default,p u y a n i,a i n p u y
+904,more-108_wind-1,,more,108_wind,pujani,pujani,p u j a n i,,Angenot2002;Leigue1957,108_wind-C,,^ p u j a n i $,default,p u y a n i,a i n p u y
+905,kitemoka-108_wind-1,,kitemoka,108_wind,irin,irin,i r i n,,CrequiMontfortRivet1913,108_wind-D,,^ i r i n $,default,i r i n,i n r
+906,cojubim-109_smoke-1,,cojubim,109_smoke,iwiʔ,iwiʔ,i w i ʔ,,Duran2000,109_smoke-A,,^ i w i ʔ $,default,i w i 7,7 i w
+907,jaru-109_smoke-1,,jaru,109_smoke,iwi,iwi,i w i,,Rondon1948,109_smoke-A,,^ i w i $,default,i w i,i w
+908,more-109_smoke-1,,more,109_smoke,iwi,iwi,i w i,,Angenot2002;Leigue1957,109_smoke-A,,^ i w i $,default,i w i,i w
+909,tora-109_smoke-1,,tora,109_smoke,iwiʔ,iwiʔ,i w i ʔ,,Nimuendaju1925;Nimuendaju1923,109_smoke-A,,^ i w i ʔ $,default,i w i 7,7 i w
+910,urupa-109_smoke-1,,urupa,109_smoke,iwi,iwi,i w i,,Nimuendaju1925,109_smoke-A,,^ i w i $,default,i w i,i w
+911,wanyam-109_smoke-1,,wanyam,109_smoke,iwi,iwi,i w i,,Ribeiro1998;Hanke1975,109_smoke-A,,^ i w i $,default,i w i,i w
+912,wari-109_smoke-1,,wari,109_smoke,taɲʔ,taɲʔ,t a ɲ ʔ,,EverettKern1997;Kern1996,109_smoke-B,,^ t a ɲ ʔ $,default,t a 5 7,5 7 a t
+913,orowin-109_smoke-1,,orowin,109_smoke,torotoʔ,torotoʔ,t o r o t o ʔ,,Birchall2016;deFranca2002,109_smoke-C,,^ t o r o t o ʔ $,default,t o r o t o 7,7 o r t
+914,cojubim-110_fire-1,,cojubim,110_fire,itʃe,itʃe,i tʃ e,,Duran2000,110_fire-A,,^ i tʃ e $,default,i tS e,e i tS
+915,jaru-110_fire-1,,jaru,110_fire,ise,ise,i s e,,Rondon1948,110_fire-A,,^ i s e $,default,i s e,e i s
+916,kitemoka-110_fire-1,,kitemoka,110_fire,ise,ise,i s e,,CrequiMontfortRivet1913,110_fire-A,,^ i s e $,default,i s e,e i s
+917,more-110_fire-1,,more,110_fire,itʃe,itʃe,i tʃ e,,Angenot2002;Leigue1957,110_fire-A,,^ i tʃ e $,default,i tS e,e i tS
+918,orowin-110_fire-1,,orowin,110_fire,ise,ise,i s e,,Birchall2016;deFranca2002,110_fire-A,,^ i s e $,default,i s e,e i s
+919,tapakura-110_fire-1,,tapakura,110_fire,ise,ise,i s e,,CrequiMontfortRivet1913,110_fire-A,,^ i s e $,default,i s e,e i s
+920,tora-110_fire-1,,tora,110_fire,iʃeʔ,iʃeʔ,i ʃ e ʔ,,Nimuendaju1925;Nimuendaju1923,110_fire-A,,^ i ʃ e ʔ $,default,i S e 7,7 S e i
+921,urupa-110_fire-1,,urupa,110_fire,ise,ise,i s e,,Nimuendaju1925,110_fire-A,,^ i s e $,default,i s e,e i s
+922,wanyam-110_fire-1,,wanyam,110_fire,iʃeʔ,iʃeʔ,i ʃ e ʔ,,Ribeiro1998;Hanke1975,110_fire-A,,^ i ʃ e ʔ $,default,i S e 7,7 S e i
+923,wari-110_fire-1,,wari,110_fire,tʃe,tʃe,tʃ e,,EverettKern1997;Kern1996,110_fire-A,,^ tʃ e $,default,tS e,e tS
+924,jaru-111_ashes-1,,jaru,111_ashes,burete pakon,burete pakon,b u r e t e + p a k o n,,Rondon1948,111_ashes-A,,^ b u r e t e + p a k o n $,default,b u r e t e  p a k o n, a b e k n o p r t u
+925,more-111_ashes-1,,more,111_ashes,rupitsikon,rupitsikon,r u p i ts i k o n,,Angenot2002;Leigue1957,111_ashes-A,,^ r u p i ts i k o n $,default,r u p i ts i k o n,i k n o p r ts u
+926,orowin-111_ashes-1,,orowin,111_ashes,morotipakon,morotipakon,m o r o t i p a k o n,,Birchall2016;deFranca2002,111_ashes-A,,^ m o r o t i p a k o n $,default,m o r o t i p a k o n,a i k m n o p r t
+927,tora-111_ashes-1,,tora,111_ashes,murooton,murooton,m u r oː t o n,,Nimuendaju1925;Nimuendaju1923,111_ashes-A,,^ m u r oo t o n $,default,m u r o t o n,m n o r t u
+928,urupa-111_ashes-1,,urupa,111_ashes,murupatekon,murupatekon,m u r u p a t e k o n,,Nimuendaju1925,111_ashes-A,,^ m u r u p a t e k o n $,default,m u r u p a t e k o n,a e k m n o p r t u
+929,wari-111_ashes-1,,wari,111_ashes,topakon,topakon,t o p a k o n,,EverettKern1997;Kern1996,111_ashes-A,,^ t o p a k o n $,default,t o p a k o n,a k n o p t
+930,cojubim-112_road-1,,cojubim,112_road,wana,wana,w a n a,,Duran2000,112_road-A,,^ w a n a $,default,w a n a,a n w
+931,more-112_road-1,,more,112_road,wana,wana,w a n a,,Angenot2002;Leigue1957,112_road-A,,^ w a n a $,default,w a n a,a n w
+932,orowin-112_road-1,,orowin,112_road,wanaʔ,wanaʔ,w a n a ʔ,,Birchall2016;deFranca2002,112_road-A,,^ w a n a ʔ $,default,w a n a 7,7 a n w
+933,tora-112_road-1,,tora,112_road,wana,wana,w a n a,,Nimuendaju1925;Nimuendaju1923,112_road-A,,^ w a n a $,default,w a n a,a n w
+934,wanyam-112_road-1,,wanyam,112_road,wanaʔ,wanaʔ,w a n a ʔ,,Ribeiro1998;Hanke1975,112_road-A,,^ w a n a ʔ $,default,w a n a 7,7 a n w
+935,wari-112_road-1,,wari,112_road,wana,wana,w a n a,,EverettKern1997;Kern1996,112_road-A,,^ w a n a $,default,w a n a,a n w
+936,cojubim-113_red-1,,cojubim,113_red,mem,mem,m e m,,Duran2000,113_red-A,,^ m e m $,default,m e m,e m
+937,more-113_red-1,,more,113_red,mem,mem,m e m,,Angenot2002;Leigue1957,113_red-A,,^ m e m $,default,m e m,e m
+938,orowin-113_red-1,,orowin,113_red,mem,mem,m e m,,Birchall2016;deFranca2002,113_red-A,,^ m e m $,default,m e m,e m
+939,tora-113_red-1,,tora,113_red,mëbn,mëbn,m ë b n,,Nimuendaju1925;Nimuendaju1923,113_red-A,,^ m ë b n $,default,m e b n,b e m n
+940,wanyam-113_red-1,,wanyam,113_red,pakaɲikon,pakaɲikon,p a k a ɲ i k o n,,Ribeiro1998;Hanke1975,113_red-B,,^ p a k a ɲ i k o n $,default,p a k a 5 i k o n,5 a i k n o p
+941,wari-113_red-1,,wari,113_red,pakaʔ,pakaʔ,p a k a ʔ,,EverettKern1997;Kern1996,113_red-B,,^ p a k a ʔ $,default,p a k a 7,7 a k p
+942,jaru-113_red-1,,jaru,113_red,temʔ,temʔ,t e m ʔ,,Rondon1948,113_red-C,,^ t e m ʔ $,default,t e m 7,7 e m t
+943,urupa-113_red-1,,urupa,113_red,tym,tym,t y m,,Nimuendaju1925,113_red-C,,^ t y m $,default,t i m,i m t
+944,kitemoka-113_red-1,,kitemoka,113_red,tiopatʃene,tiopatʃene,t i o p a tʃ e n e,,CrequiMontfortRivet1913,113_red-D,,^ t i o p a tʃ e n e $,default,t i o p a tS e n e,a e i n o p t tS
+945,tapakura-113_red-1,,tapakura,113_red,tupatʃini,tupatʃini,t u p a tʃ i n i,,CrequiMontfortRivet1913,113_red-D,,^ t u p a tʃ i n i $,default,t u p a tS i n i,a i n p t tS u
+946,wari-114_yellow-1,,wari,114_yellow,kotʃik,kotʃik,k o tʃ i k,,EverettKern1997;Kern1996,114_yellow-A,,^ k o tʃ i k $,default,k o tS i k,i k o tS
+947,more-114_yellow-1,,more,114_yellow,sasik,sasik,s a s i k,,Angenot2002;Leigue1957,114_yellow-B,,^ s a s i k $,default,s a s i k,a i k s
+948,kitemoka-114_yellow-1,,kitemoka,114_yellow,atʃiwi,atʃiwi,a tʃ i w i,,CrequiMontfortRivet1913,114_yellow-C,,^ a tʃ i w i $,default,a tS i w i,a i tS w
+949,tapakura-114_yellow-1,,tapakura,114_yellow,ituwi,ituwi,i t u w i,,CrequiMontfortRivet1913,114_yellow-C,,^ i t u w i $,default,i t u w i,i t u w
+950,cojubim-115_white-1,,cojubim,115_white,towaʔ,towaʔ,t o w a ʔ,,Duran2000,115_white-A,,^ t o w a ʔ $,default,t o w a 7,7 a o t w
+951,jaru-115_white-1,,jaru,115_white,toa,toa,t o a,,Rondon1948,115_white-A,,^ t o a $,default,t o a,a o t
+952,more-115_white-1,,more,115_white,towa,towa,t o w a,,Angenot2002;Leigue1957,115_white-A,,^ t o w a $,default,t o w a,a o t w
+953,orowin-115_white-1,,orowin,115_white,towaʔ,towaʔ,t o w a ʔ,,Birchall2016;deFranca2002,115_white-A,,^ t o w a ʔ $,default,t o w a 7,7 a o t w
+954,tora-115_white-1,,tora,115_white,tuag,tuag,t u a g,,Nimuendaju1925;Nimuendaju1923,115_white-A,,^ t u a g $,default,t u a g,a g t u
+955,urupa-115_white-1,,urupa,115_white,tua,tua,t u a,,Nimuendaju1925,115_white-A,,^ t u a $,default,t u a,a t u
+956,wanyam-115_white-1,,wanyam,115_white,towa,towa,t o w a,,Ribeiro1998;Hanke1975,115_white-A,,^ t o w a $,default,t o w a,a o t w
+957,wari-115_white-1,,wari,115_white,towoʔ,towoʔ,t o w o ʔ,,EverettKern1997;Kern1996,115_white-A,,^ t o w o ʔ $,default,t o w o 7,7 o t w
+958,kitemoka-115_white-1,,kitemoka,115_white,tihoti,tihoti,t i h o t i,,CrequiMontfortRivet1913,115_white-B,,^ t i h o t i $,default,t i h o t i,h i o t
+959,tapakura-115_white-1,,tapakura,115_white,tahuti,tahuti,t a h u t i,,CrequiMontfortRivet1913,115_white-B,,^ t a h u t i $,default,t a h u t i,a h i t u
+960,orowin-116_black-1,,orowin,116_black,mesem,mesem,m e s e m,,Birchall2016;deFranca2002,116_black-A,,^ m e s e m $,default,m e s e m,e m s
+961,tora-116_black-1,,tora,116_black,morem,morem,m o r e m,,Nimuendaju1925;Nimuendaju1923,116_black-A,,^ m o r e m $,default,m o r e m,e m o r
+962,wari-116_black-1,,wari,116_black,mitʃem,mitʃem,m i tʃ e m,,EverettKern1997;Kern1996,116_black-A,,^ m i tʃ e m $,default,m i tS e m,e i m tS
+963,wanyam-116_black-1,,wanyam,116_black,tukan,tukan,t u k a n,,Ribeiro1998;Hanke1975,116_black-B,,^ t u k a n $,default,t u k a n,a k n t u
+964,jaru-116_black-1,,jaru,116_black,sagaj,sagaj,s a g a j,,Rondon1948,116_black-C,,^ s a g a j $,default,s a g a y,a g s y
+965,urupa-116_black-1,,urupa,116_black,skaid,skaid,s k a i d,,Nimuendaju1925,116_black-C,,^ s k a i d $,default,s k a i d,a d i k s
+966,kitemoka-116_black-1,,kitemoka,116_black,juitamake,juitamake,j u i t a m a k e,,CrequiMontfortRivet1913,116_black-D,,^ j u i t a m a k e $,default,y u i t a m a k e,a e i k m t u y
+967,tapakura-116_black-1,,tapakura,116_black,witam,witam,w i t a m,,CrequiMontfortRivet1913,116_black-D,,^ w i t a m $,default,w i t a m,a i m t w
+968,cojubim-116_black-1,,cojubim,116_black,tom,tom,t o m,,Duran2000,116_black-E,,^ t o m $,default,t o m,m o t
+969,more-116_black-1,,more,116_black,tom,tom,t o m,,Angenot2002;Leigue1957,116_black-E,,^ t o m $,default,t o m,m o t
+970,orowin-116_black-2,,orowin,116_black,tom,tom,t o m,,Birchall2016;deFranca2002,116_black-E,,^ t o m $,default,t o m,m o t
+971,wari-116_black-2,,wari,116_black,tom,tom,t o m,,EverettKern1997;Kern1996,116_black-E,,^ t o m $,default,t o m,m o t
+972,cojubim-117_night-1,,cojubim,117_night,isim,isim,i s i m,,Duran2000,117_night-A,,^ i s i m $,default,i s i m,i m s
+973,jaru-117_night-1,,jaru,117_night,etimʔ,etimʔ,e t i m ʔ,,Rondon1948,117_night-A,,^ e t i m ʔ $,default,e t i m 7,7 e i m t
+974,kitemoka-117_night-1,,kitemoka,117_night,paitin,paitin,p a i t i n,,CrequiMontfortRivet1913,117_night-A,,^ p a i t i n $,default,p a i t i n,a i n p t
+975,more-117_night-1,,more,117_night,isim,isim,i s i m,,Angenot2002;Leigue1957,117_night-A,,^ i s i m $,default,i s i m,i m s
+976,orowin-117_night-1,,orowin,117_night,itim,itim,i t i m,,Birchall2016;deFranca2002,117_night-A,,^ i t i m $,default,i t i m,i m t
+977,tapakura-117_night-1,,tapakura,117_night,paitin,paitin,p a i t i n,,CrequiMontfortRivet1913,117_night-A,,^ p a i t i n $,default,p a i t i n,a i n p t
+978,tora-117_night-1,,tora,117_night,ijsibm,ijsibm,i j s i b m,,Nimuendaju1925;Nimuendaju1923,117_night-A,,^ i js i b m $,default,i y s i b m,b i m s y
+979,wanyam-117_night-1,,wanyam,117_night,itim,itim,i t i m,,Ribeiro1998;Hanke1975,117_night-A,,^ i t i m $,default,i t i m,i m t
+980,wari-117_night-1,,wari,117_night,tʃim,tʃim,tʃ i m,,EverettKern1997;Kern1996,117_night-A,,^ tʃ i m $,default,tS i m,i m tS
+981,jaru-118_day-1,,jaru,118_day,toa,toa,t o a,,Rondon1948,118_day-A,,^ t o a $,default,t o a,a o t
+982,orowin-118_day-1,,orowin,118_day,towa,towa,t o w a,,Birchall2016;deFranca2002,118_day-A,,^ t o w a $,default,t o w a,a o t w
+983,tapakura-118_day-1,,tapakura,118_day,tuwa,tuwa,t u w a,,CrequiMontfortRivet1913,118_day-A,,^ t u w a $,default,t u w a,a t u w
+984,tora-118_day-1,,tora,118_day,toa,toa,t o a,,Nimuendaju1925;Nimuendaju1923,118_day-A,,^ t o a $,default,t o a,a o t
+985,wanyam-118_day-1,,wanyam,118_day,towa,towa,t o w a,,Ribeiro1998;Hanke1975,118_day-A,,^ t o w a $,default,t o w a,a o t w
+986,wari-118_day-1,,wari,118_day,towa,towa,t o w a,,EverettKern1997;Kern1996,118_day-A,,^ t o w a $,default,t o w a,a o t w
+987,wari-118_day-2,,wari,118_day,tʃek,tʃek,tʃ e k,,EverettKern1997;Kern1996,118_day-B,,^ tʃ e k $,default,tS e k,e k tS
+988,cojubim-118_day-1,,cojubim,118_day,tipat,tipat,t i p a t,,Duran2000,118_day-C,,^ t i p a t $,default,t i p a t,a i p t
+989,more-118_day-1,,more,118_day,tijipat,tijipat,t i j i p a t,,Angenot2002;Leigue1957,118_day-C,,^ t i j i p a t $,default,t i y i p a t,a i p t y
+990,tora-118_day-2,,tora,118_day,anapat,anapat,a n a p a t,,Nimuendaju1925;Nimuendaju1923,118_day-C,,^ a n a p a t $,default,a n a p a t,a n p t
+991,cojubim-119_summer-1,,cojubim,119_summer,kawaziʔ,kawaziʔ,k a w a z i ʔ,,Duran2000,119_summer-A,,^ k a w a z i ʔ $,default,k a w a z i 7,7 a i k w z
+992,more-119_summer-1,,more,119_summer,kawaʒ̟i,kawaʒ̟i,k a w a ʒ̟ i,,Angenot2002;Leigue1957,119_summer-A,,^ k a w a ʒ̟ i $,default,k a w a Z i,Z a i k w
+993,orowin-119_summer-1,,orowin,119_summer,kawatiʔ,kawatiʔ,k a w a t i ʔ,,Birchall2016;deFranca2002,119_summer-A,,^ k a w a t i ʔ $,default,k a w a t i 7,7 a i k t w
+994,wanyam-119_summer-1,,wanyam,119_summer,kawatiʔ,kawatiʔ,k a w a t i ʔ,,Ribeiro1998;Hanke1975,119_summer-A,,^ k a w a t i ʔ $,default,k a w a t i 7,7 a i k t w
+995,wari-119_summer-1,,wari,119_summer,kawatʃiʔ,kawatʃiʔ,k a w a tʃ i ʔ,,EverettKern1997;Kern1996,119_summer-A,,^ k a w a tʃ i ʔ $,default,k a w a tS i 7,7 a i k tS w
+996,cojubim-120_cold-1,,cojubim,120_cold,tʃiwʔ,tʃiwʔ,tʃ i w ʔ,,Duran2000,120_cold-A,,^ tʃ i w ʔ $,default,tS i w 7,7 i tS w
+997,more-120_cold-1,,more,120_cold,tʃiw,tʃiw,tʃ i w,,Angenot2002;Leigue1957,120_cold-A,,^ tʃ i w $,default,tS i w,i tS w
+998,orowin-120_cold-1,,orowin,120_cold,surimi,surimi,s u r i m i,,Birchall2016;deFranca2002,120_cold-A,,^ s u r i m i $,default,s u r i m i,i m r s u
+999,tora-120_cold-1,,tora,120_cold,siuni,siuni,s i u n i,,Nimuendaju1925;Nimuendaju1923,120_cold-A,,^ s i u n i $,default,s i u n i,i n s u
+1000,urupa-120_cold-1,,urupa,120_cold,siv,siv,s i v,,Nimuendaju1925,120_cold-A,,^ s i v $,default,s i v,i s v
+1001,wari-120_cold-1,,wari,120_cold,tʃiw,tʃiw,tʃ i w,,EverettKern1997;Kern1996,120_cold-A,,^ tʃ i w $,default,tS i w,i tS w
+1002,wanyam-120_cold-1,,wanyam,120_cold,kipin,kipin,k i p i n,,Ribeiro1998;Hanke1975,120_cold-B,,^ k i p i n $,default,k i p i n,i k n p
+1003,orowin-121_new-1,,orowin,121_new,sokori,sokori,s o k o r i,,Birchall2016;deFranca2002,121_new-A,,^ s o k o r i $,default,s o k o r i,i k o r s
+1004,tora-121_new-1,,tora,121_new,tukurudn,tukurudn,t u k u r u d n,,Nimuendaju1925;Nimuendaju1923,121_new-A,,^ t u k u r u d n $,default,t u k u r u d n,d k n r t u
+1005,wari-121_new-1,,wari,121_new,tʃokori,tʃokori,tʃ o k o r i,,EverettKern1997;Kern1996,121_new-A,,^ tʃ o k o r i $,default,tS o k o r i,i k o r tS
+1006,more-121_new-1,,more,121_new,takan,takan,t a k a n,,Angenot2002;Leigue1957,121_new-B,,^ t a k a n $,default,t a k a n,a k n t
+1007,orowin-122_old-1,,orowin,122_old,foron,foron,f o r o n,,Birchall2016;deFranca2002,122_old-A,,^ f o r o n $,default,f o r o n,f n o r
+1008,wanyam-122_old-1,,wanyam,122_old,marahoron,marahoron,m a r a h o r o n,,Ribeiro1998;Hanke1975,122_old-A,,^ m a r a h o r o n $,default,m a r a h o r o n,a h m n o r
+1009,wari-122_old-1,,wari,122_old,horon,horon,h o r o n,,EverettKern1997;Kern1996,122_old-A,,^ h o r o n $,default,h o r o n,h n o r
+1010,tora-122_old-1,,tora,122_old,serati,serati,s e r a t i,,Nimuendaju1925;Nimuendaju1923,122_old-B,,^ s e r a t i $,default,s e r a t i,a e i r s t
+1011,kitemoka-122_old-1,,kitemoka,122_old,tarakon,tarakon,t a r a k o n,,CrequiMontfortRivet1913,122_old-C,,^ t a r a k o n $,default,t a r a k o n,a k n o r t
+1012,tapakura-122_old-1,,tapakura,122_old,itarakun,itarakun,i t a r a k u n,,CrequiMontfortRivet1913,122_old-C,,^ i t a r a k u n $,default,i t a r a k u n,a i k n r t u
+1013,more-122_old-1,,more,122_old,ukut,ukut,u k u t,,Angenot2002;Leigue1957,122_old-D,,^ u k u t $,default,u k u t,k t u
+1014,orowin-123_good-1,,orowin,123_good,awi,awi,a w i,,Birchall2016;deFranca2002,123_good-A,,^ a w i $,default,a w i,a i w
+1015,wari-123_good-1,,wari,123_good,awiʔ,awiʔ,a w i ʔ,,EverettKern1997;Kern1996,123_good-A,,^ a w i ʔ $,default,a w i 7,7 a i w
+1016,jaru-123_good-1,,jaru,123_good,asap,asap,a s a p,,Rondon1948,123_good-B,,^ a s a p $,default,a s a p,a p s
+1017,kitemoka-123_good-1,,kitemoka,123_good,navisaja,navisaja,n a v i s a j a,,CrequiMontfortRivet1913,123_good-B,,^ n a v i s a j a $,default,n a v i s a y a,a i n s v y
+1018,orowin-123_good-2,,orowin,123_good,isap,isap,i s a p,,Birchall2016;deFranca2002,123_good-B,,^ i s a p $,default,i s a p,a i p s
+1019,tapakura-123_good-1,,tapakura,123_good,nawasa,nawasa,n a w a s a,,CrequiMontfortRivet1913,123_good-B,,^ n a w a s a $,default,n a w a s a,a n s w
+1020,urupa-123_good-1,,urupa,123_good,wasab,wasab,w a s a b,,Nimuendaju1925,123_good-B,,^ w a s a b $,default,w a s a b,a b s w
+1021,cojubim-123_good-1,,cojubim,123_good,namiʔ,namiʔ,n a m i ʔ,,Duran2000,123_good-C,,^ n a m i ʔ $,default,n a m i 7,7 a i m n
+1022,wanyam-123_good-1,,wanyam,123_good,ija,ija,i j a,,Ribeiro1998;Hanke1975,123_good-C,,^ i j a $,default,i y a,a i y
+1023,tora-123_good-1,,tora,123_good,itera,itera,i t e r a,,Nimuendaju1925;Nimuendaju1923,123_good-D,,^ i t e r a $,default,i t e r a,a e i r t
+1024,more-123_good-1,,more,123_good,piriman,piriman,p i r i m a n,,Angenot2002;Leigue1957,123_good-E,,^ p i r i m a n $,default,p i r i m a n,a i m n p r
+1025,more-124_name-1,,more,124_name,wit,wit,w i t,,Angenot2002;Leigue1957,124_name-A,,^ w i t $,default,w i t,i t w
+1026,orowin-124_name-1,,orowin,124_name,witi,witi,w i t i,,Birchall2016;deFranca2002,124_name-A,,^ w i t i $,default,w i t i,i t w
+1027,tora-124_name-1,,tora,124_name,viti,viti,v i t i,,Nimuendaju1925;Nimuendaju1923,124_name-A,,^ v i t i $,default,v i t i,i t v
+1028,urupa-124_name-1,,urupa,124_name,yvyty,yvyty,y v y t y,,Nimuendaju1925,124_name-A,,^ y v y t y $,default,i v i t i,i t v
+1029,wanyam-124_name-1,,wanyam,124_name,uwaw,uwaw,u w a w,,Ribeiro1998;Hanke1975,124_name-A,,^ u w a w $,default,u w a w,a u w
+1030,wari-124_name-1,,wari,124_name,witʃi,witʃi,w i tʃ i,,EverettKern1997;Kern1996,124_name-A,,^ w i tʃ i $,default,w i tS i,i tS w
+1031,cojubim-125_afternoon-1,,cojubim,125_afternoon,irawin,irawin,i r a w i n,,Duran2000,125_afternoon-A,,^ i r a w i n $,default,i r a w i n,a i n r w
+1032,more-125_afternoon-1,,more,125_afternoon,irawin,irawin,i r a w i n,,Angenot2002;Leigue1957,125_afternoon-A,,^ i r a w i n $,default,i r a w i n,a i n r w
+1033,orowin-125_afternoon-1,,orowin,125_afternoon,irawin,irawin,i r a w i n,,Birchall2016;deFranca2002,125_afternoon-A,,^ i r a w i n $,default,i r a w i n,a i n r w
+1034,tora-125_afternoon-1,,tora,125_afternoon,ireawidn,ireawidn,i r e a w i d n,,Nimuendaju1925;Nimuendaju1923,125_afternoon-A,,^ i r e a w i d n $,default,i r e a w i d n,a d e i n r w
+1035,wanyam-125_afternoon-1,,wanyam,125_afternoon,irawin,irawin,i r a w i n,,Ribeiro1998;Hanke1975,125_afternoon-A,,^ i r a w i n $,default,i r a w i n,a i n r w
+1036,wari-125_afternoon-1,,wari,125_afternoon,irawin,irawin,i r a w i n,,EverettKern1997;Kern1996,125_afternoon-A,,^ i r a w i n $,default,i r a w i n,a i n r w

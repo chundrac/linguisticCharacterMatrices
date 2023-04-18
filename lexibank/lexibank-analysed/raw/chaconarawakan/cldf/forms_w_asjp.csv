@@ -1,0 +1,712 @@
+,ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,asjp_forms,asjp_segs
+0,Achagua-1_i-1,,Achagua,1_i,nujá,nuja,n u j a,,melendez_lozano_diccionario_2011,,,,,n u y a,a n u y
+1,Baniwa-1_i-1,,Baniwa,1_i,nhóa,nhóa,ɲ ó/o a,,ramirez_dicionario_2001,,,,,5 o o a,5 a o
+2,Kabiyari-1_i-1,,Kabiyari,1_i,nhú,nhú,ɲ ú/u,,Chacon2017,,,,,5 u u,5 u
+3,Kabiyari-1_i-2,,Kabiyari,1_i,nu-,nu-,n u,,Chacon2017,,,,,n u,n u
+4,Piapoco-1_i-1,,Piapoco,1_i,núa,núa,n ú/u a,,Chacon2017,,,,,n u u a,a n u
+5,Resigaro-1_i-1,,Resigaro,1_i,ó,ó,ó/o,,Chacon2017,,,,,o o,o
+6,Tariana-1_i-1,,Tariana,1_i,nuha,nuha,n u h a,,Chacon2017,,,,,n u h a,a h n u
+7,Yukuna-1_i-1,,Yukuna,1_i,nuká,nuká,n u k á/a,,schauer_diccionario_2005,,,,,n u k a a,a k n u
+8,Achagua-2_all-1,,Achagua,2_all,kinínama,kininama,k i n i n a m a,,melendez_lozano_diccionario_2011,,,,,k i n i n a m a,a i k m n
+9,Baniwa-2_all-1,,Baniwa,2_all,phálhai,phálhai,pʰ á/a ʎ a i,,ramirez_dicionario_2001,,,,,ph~ a a L a i,L a i ph~
+10,Kabiyari-2_all-1,,Kabiyari,2_all,put'i,put'i,p u t ʔ i,,Chacon2017,,,,,p u t 7 i,7 i p t u
+11,Piapoco-2_all-1,,Piapoco,2_all,canánama,kanánama,k a n á/a n a m a,,Chacon2017,,,,,k a n a a n a m a,a k m n
+12,Piapoco-2_all-2,,Piapoco,2_all,macáita,makáita,m a k á/a i t a,,Chacon2017,,,,,m a k a a i t a,a i k m t
+13,Resigaro-2_all-1,,Resigaro,2_all,phé?tó?,phé?tó?,pʰ é/e ʔ t ó/o ʔ,,huber_vocabulario_1992,,,,,ph~ e e 7 t o o 7,7 e o ph~ t
+14,Yukuna-2_all-1,,Yukuna,2_all,piyukeja,pijukeha,p i j u k e h a,,Chacon2017,,,,,p i y u k e h a,a e h i k p u y
+15,Achagua-3_ash-1,,Achagua,3_ash,báali,ba:li,b a: l i,,melendez_lozano_diccionario_2011,,,,,b a l i,a b i l
+16,Baniwa-3_ash-1,,Baniwa,3_ash,-wádzole,-wádzole,w á/a dz o l e,,ramirez_dicionario_2001,,,,,w a a dz o l e,a dz e l o w
+17,Kabiyari-3_ash-1,,Kabiyari,3_ash,pa'ari,pa'ari,p a ʔ a r i,,ramirez_dicionario_2001,,,,,p a 7 a r i,7 a i p r
+18,Piapoco-3_ash-1,,Piapoco,3_ash,balìi,balìi,b a l ì/i i,,Chacon2017,,,,,b a l i i i,a b i l
+19,Piapoco-3_ash-2,,Piapoco,3_ash,ibalìiná,ibalìiná,i b a l ì/i i n á/a,,Chacon2017,,,,,i b a l i i i n a a,a b i l n
+20,Resigaro-3_ash-1,,Resigaro,3_ash,ókóniigiJíhú,ókóniigiJíhú,ó/o k ó/o n ii g i ʒ í/i h ú/u,,Chacon2017,,,,,o o k o o n ii g i Z i i h u u,Z g h i ii k n o u
+21,Yukuna-3_ash-1,,Yukuna,3_ash,pai'ilá,paiʔilá,p a i ʔ i l á/a,,Chacon2017,,,,,p a i 7 i l a a,7 a i l p
+22,Achagua-4_bark-1,,Achagua,4_bark,íimanaʃi,i:manaʃi,i: m a n a ʃ i,,melendez_lozano_diccionario_2011,,,,,i m a n a S i,S a i m n
+23,Baniwa-4_bark-1,,Baniwa,4_bark,-ya,-ya,y a,,ramirez_dicionario_2001,,,,,i a,a i
+24,Resigaro-4_bark-1,,Resigaro,4_bark,da?mí,daʔmí,d a ʔ m í/i,,Chacon2017,,,,,d a 7 m i i,7 a d i m
+25,Yukuna-4_bark-1,,Yukuna,4_bark,ímaji,ímahi,í/i m a h i,,Chacon2017,,,,,i i m a h i,a h i m
+26,Achagua-5_belly-1,,Achagua,5_belly,jawaiʃi,jawaiʃi,j a w a i ʃ i,,melendez_lozano_diccionario_2011,,,,,y a w a i S i,S a i w y
+27,Baniwa-5_belly-1,,Baniwa,5_belly,-xáda,-xáda,ʃ á/a d a,,ramirez_dicionario_2001,,,,,S a a d a,S a d
+28,Kabiyari-5_belly-1,,Kabiyari,5_belly,te[re],te[re],t e r e,,Chacon2017,,,,,t e r e,e r t
+29,Piapoco-5_belly-1,,Piapoco,5_belly,dèe,dèe,d è/e e,,Chacon2017,,,,,d e e e,d e
+30,Resigaro-5_belly-1,,Resigaro,5_belly,-ii?šáú,-ii?šáú,ii ʔ ʃ á/a ú/u,,allin_vocabulario_1979,,,,,ii 7 S a a u u,7 S a ii u
+31,Yukuna-5_belly-1,,Yukuna,5_belly,julaji,hulahi,h u l a h i,,Chacon2017,,,,,h u l a h i,a h i l u
+32,Achagua-6_big-1,,Achagua,6_big,máanuii,maanuii,m aa n u ii,,melendez_lozano_diccionario_2011,,,,,m aa n u ii,aa ii m n u
+33,Baniwa-6_big-1,,Baniwa,6_big,maka-,maka-,m a k a,,ramirez_dicionario_2001,,,,,m a k a,a k m
+34,Kabiyari-6_big-1,,Kabiyari,6_big,manuʔú,manuʔú,m a n u ʔ ú/u,,Chacon2017,,,,,m a n u 7 u u,7 a m n u
+35,Piapoco-6_big-1,,Piapoco,6_big,manuíri,manuíɾi,m a n u í/i ɾ i,,Chacon2017,,,,,m a n u i i r i,a i m n r u
+36,Resigaro-6_big-1,,Resigaro,6_big,ǰiǰá?aamí,ǰiǰá?aamí,dʒ i dʒ á/a ʔ aa m í/i,,allin_vocabulario_1979,,,,,dZ i dZ a a 7 aa m i i,7 a aa dZ i m
+37,Yukuna-6_big-1,,Yukuna,6_big,ñópo'ojlo,ɲópoʔohlo,ɲ ó/o p o ʔ o h l o,,Chacon2017,,,,,5 o o p o 7 o h l o,5 7 h l o p
+38,Achagua-7_bird-1,,Achagua,7_bird,míʃidu,míʃidu,m í/i ʃ i d u,,melendez_lozano_diccionario_2011,,,,,m i i S i d u,S d i m u
+39,Baniwa-7_bird-1,,Baniwa,7_bird,képira,képira,k é/e p i r a,,ramirez_dicionario_2001,,,,,k e e p i r a,a e i k p r
+40,Kabiyari-7_bird-1,,Kabiyari,7_bird,ʔupira,ʔupira,ʔ u p i r a,,ramirez_dicionario_2001,,,,,7 u p i r a,7 a i p r u
+41,Kabiyari-7_bird-2,,Kabiyari,7_bird,ku(' )pira,ku(' )pira,k u ʔ p i r a,,ramirez_dicionario_2001,,,,,k u 7 p i r a,7 a i k p r u
+42,Piapoco-7_bird-1,,Piapoco,7_bird,màsibèe,màsibèe,m à/a s i b è/e e,,Chacon2017,,,,,m a a s i b e e e,a b e i m s
+43,Piapoco-7_bird-2,,Piapoco,7_bird,kuìpìra,kuìpìra,k u ì/i p ì/i r a,,huber_vocabulario_1992,,,,,k u i i p i i r a,a i k p r u
+44,Resigaro-7_bird-1,,Resigaro,7_bird,kóʔpíidú,kóʔpíidú,k ó/o ʔ p í/i i d ú/u,,Chacon2017,,,,,k o o 7 p i i i d u u,7 d i k o p u
+45,Resigaro-7_bird-2,,Resigaro,7_bird,adovíigí,adovíigí,a d o v í/i i g í/i,,Chacon2017,,,,,a d o v i i i g i i,a d g i o v
+46,Yukuna-7_bird-1,,Yukuna,7_bird,kupira'aphá,kupiraʔapʰá,k u p i r a ʔ a pʰ á/a,,Chacon2017,,,,,k u p i r a 7 a ph~ a a,7 a i k p ph~ r u
+47,Achagua-8_bite-1,,Achagua,8_bite,-ámua,-ámua,á/a m u a,,ramirez_dicionario_2001,,,,,a a m u a,a m u
+48,Baniwa-8_bite-1,,Baniwa,8_bite,-mhoa,-mhoa,mʰ o a,,ramirez_dicionario_2001,,,,,mh~ o a,a mh~ o
+49,Kabiyari-8_bite-1,,Kabiyari,8_bite,amhe,amhe,a mʰ e,,ramirez_dicionario_2001,,,,,a mh~ e,a e mh~
+50,Piapoco-8_bite-1,,Piapoco,8_bite,ichicúadaca,itʃikúadaka,i tʃ i k ú/u a d a k a,,Chacon2017,,,,,i tS i k u u a d a k a,a d i k tS u
+51,Piapoco-8_bite-2,,Piapoco,8_bite,imasáaca,imasáaka,i m a s á/a a k a,,Chacon2017,,,,,i m a s a a a k a,a i k m s
+52,Piapoco-8_bite-3,,Piapoco,8_bite,nuamíadaca,nuamíadaka,n u a m í/i a d a k a,,Chacon2017,,,,,n u a m i i a d a k a,a d i k m n u
+53,Piapoco-8_bite-4,,Piapoco,8_bite,yaamíaca,jaamíaka,j aa m í/i a k a,,Chacon2017,,,,,y aa m i i a k a,a aa i k m y
+54,Piapoco-8_bite-5,,Piapoco,8_bite,yúucaca,júukaka,j ú/u u k a k a,,Chacon2017,,,,,y u u u k a k a,a k u y
+55,Resigaro-8_bite-1,,Resigaro,8_bite,-emú,-emú,e m ú/u,,allin_vocabulario_1979,,,,,e m u u,e m u
+56,Yukuna-8_bite-1,,Yukuna,8_bite,ajma'akaje,ahmaʔakahe,a h m a ʔ a k a h e,,Chacon2017,,,,,a h m a 7 a k a h e,7 a e h k m
+57,Achagua-9_black-1,,Achagua,9_black,katʃáhulailau,katʃahulailau,k a tʃ a h u l a i l a u,,melendez_lozano_diccionario_2011,,,,,k a tS a h u l a i l a u,a h i k l tS u
+58,Baniwa-9_black-1,,Baniwa,9_black,íitta,íitta,í/i i tt a,,ramirez_dicionario_2001,,,,,i i i tt a,a i tt
+59,Kabiyari-9_black-1,,Kabiyari,9_black,kewere-ri,kewere-ri,k e w e r e r i,,Chacon2017,,,,,k e w e r e r i,e i k r w
+60,Piapoco-9_black-1,,Piapoco,9_black,cúulíiri,kú:lí:ɾi,k ú:/uː l í:/iː ɾ i,,Chacon2017,,,,,k u u l i i r i,i k l r u
+61,Resigaro-9_black-1,,Resigaro,9_black,tsaphó?,tsaphó?,ts a pʰ ó/o ʔ,,allin_vocabulario_1979,,,,,ts a ph~ o o 7,7 a o ph~ ts
+62,Yukuna-9_black-1,,Yukuna,9_black,kameni,kameni,k a m e n i,,schauer_diccionario_2005,,,,,k a m e n i,a e i k m n
+63,Achagua-10_blood-1,,Achagua,10_blood,íirai,iirai,ii r a i,,melendez_lozano_diccionario_2011,,,,,ii r a i,a i ii r
+64,Baniwa-10_blood-1,,Baniwa,10_blood,-iiranaa,-iiranaa,ii r a n aa,,ramirez_dicionario_2001,,,,,ii r a n aa,a aa ii n r
+65,Kabiyari-10_blood-1,,Kabiyari,10_blood,íʔira,íʔira,í/i ʔ i r a,,Chacon2017,,,,,i i 7 i r a,7 a i r
+66,Piapoco-10_blood-1,,Piapoco,10_blood,irái,iɾái,i ɾ á/a i,,Chacon2017,,,,,i r a a i,a i r
+67,Resigaro-10_blood-1,,Resigaro,10_blood,-iidú,-iidú,ii d ú/u,,allin_vocabulario_1979,,,,,ii d u u,d ii u
+68,Yukuna-10_blood-1,,Yukuna,10_blood,íraji,íɾahi,í/i ɾ a h i,,Chacon2017,,,,,i i r a h i,a h i r
+69,Yukuna-10_blood-2,,Yukuna,10_blood,jirá,hiɾá,h i ɾ á/a,,Chacon2017,,,,,h i r a a,a h i r
+70,Achagua-11_bone-1,,Achagua,11_bone,jáhiʃi,jahiʃi,j a h i ʃ i,,melendez_lozano_diccionario_2011,,,,,y a h i S i,S a h i y
+71,Baniwa-11_bone-1,,Baniwa,11_bone,-áapi,-áapi,á/a a p i,,ramirez_dicionario_2001,,,,,a a a p i,a i p
+72,Kabiyari-11_bone-1,,Kabiyari,11_bone,japi,japi,j a p i,,Chacon2017,,,,,y a p i,a i p y
+73,Piapoco-11_bone-1,,Piapoco,11_bone,api,api,a p i,,Chacon2017,,,,,a p i,a i p
+74,Resigaro-11_bone-1,,Resigaro,11_bone,aápí,aápí,a á/a p í/i,,Chacon2017,,,,,a a a p i i,a i p
+75,Yukuna-11_bone-1,,Yukuna,11_bone,aphinámiji,apʰinámihi,a pʰ i n á/a m i h i,,Chacon2017,,,,,a ph~ i n a a m i h i,a h i m n ph~
+76,Baniwa-12_breast1-1,,Baniwa,12_breast1,-íini,-íini,í/i i n i,,ramirez_dicionario_2001,,,,,i i i n i,i n
+77,Piapoco-12_breast1-1,,Piapoco,12_breast1,ìni,ìni,ì/i n i,,Chacon2017,,,,,i i n i,i n
+78,Achagua-13_breast2-1,,Achagua,13_breast2,kútaʃi,kutaʃi,k u t a ʃ i,,melendez_lozano_diccionario_2011,,,,,k u t a S i,S a i k t u
+79,Kabiyari-13_breast2-1,,Kabiyari,13_breast2,ji,ji,j i,,Chacon2017,,,,,y i,i y
+80,Kabiyari-13_breast2-2,,Kabiyari,13_breast2,ukhu(ta),ukhu(ta),u kʰ u t a,,Chacon2017,,,,,u kh~ u t a,a kh~ t u
+81,Piapoco-13_breast2-1,,Piapoco,13_breast2,ucuta,ukuta,u k u t a,,Chacon2017,,,,,u k u t a,a k t u
+82,Resigaro-13_breast2-1,,Resigaro,13_breast2,ó?kótáapígú,óʔkótáapígú,ó/o ʔ k ó/o t á/a a p í/i g ú/u,,Chacon2017,,,,,o o 7 k o o t a a a p i i g u u,7 a g i k o p t u
+83,Yukuna-13_breast2-1,,Yukuna,13_breast2,chu'uchú,tʃuʔutʃú,tʃ u ʔ u tʃ ú/u,,Chacon2017,,,,,tS u 7 u tS u u,7 tS u
+84,Baniwa-14_burn1-1,,Baniwa,14_burn1,-haaka,-haaka,h aa k a,,ramirez_dicionario_2001,,,,,h aa k a,a aa h k
+85,Yukuna-14_burn1-1,,Yukuna,14_burn1,kára'akaje,káraʔakahe,k á/a r a ʔ a k a h e,,Chacon2017,,,,,k a a r a 7 a k a h e,7 a e h k r
+86,Achagua-15_burn2-1,,Achagua,15_burn2,éemairi,e:mairi,e: m a i r i,,melendez_lozano_diccionario_2011,,,,,e m a i r i,a e i m r
+87,Baniwa-15_burn2-1,,Baniwa,15_burn2,-ma,-ma,m a,,ramirez_dicionario_2001,,,,,m a,a m
+88,Kabiyari-15_burn2-1,,Kabiyari,15_burn2,kahema,kahema,k a h e m a,,ramirez_dicionario_2001,,,,,k a h e m a,a e h k m
+89,Kabiyari-15_burn2-2,,Kabiyari,15_burn2,heema,heema,h ee m a,,ramirez_dicionario_2001,,,,,h ee m a,a ee h m
+90,Piapoco-15_burn2-1,,Piapoco,15_burn2,emáca,emáka,e m á/a k a,,Chacon2017,,,,,e m a a k a,a e k m
+91,Resigaro-15_burn2-1,,Resigaro,15_burn2,hoo-khú,hoo-kʰú,h oo kʰ ú/u,,Chacon2017,,,,,h oo kh~ u u,h kh~ oo u
+92,Warekena-15_burn2-1,,Warekena,15_burn2,méniketa,méniketa,m é/e n i k e t a,,ramirez_dicionario_2001,,,,,m e e n i k e t a,a e i k m n t
+93,Achagua-16_claw-1,,Achagua,16_claw,júbawiaʃi,jubawiaʃi,j u b a w i a ʃ i,,melendez_lozano_diccionario_2011,,,,,y u b a w i a S i,S a b i u w y
+94,Baniwa-16_claw-1,,Baniwa,16_claw,-tsóta,-tsóta,ts ó/o t a,,ramirez_dicionario_2001,,,,,ts o o t a,a o t ts
+95,Kabiyari-16_claw-1,,Kabiyari,16_claw,u'upa,uʔupa,u ʔ u p a,,Chacon2017,,,,,u 7 u p a,7 a p u
+96,Piapoco-16_claw-1,,Piapoco,16_claw,yúuba,yúuba,y ú/u u b a,,Chacon2017,,,,,i u u u b a,a b i u
+97,Piapoco-16_claw-2,,Piapoco,16_claw,uba,uba,u b a,,Chacon2017,,,,,u b a,a b u
+98,Resigaro-16_claw-1,,Resigaro,16_claw,hi?táví,hiʔtáví,h i ʔ t á/a v í/i,,Chacon2017,,,,,h i 7 t a a v i i,7 a h i t v
+99,Yukuna-16_claw-1,,Yukuna,16_claw,u'upa,uʔupa,u ʔ u p a,,Chacon2017,,,,,u 7 u p a,7 a p u
+100,Achagua-17_cloud-1,,Achagua,17_cloud,sáanai,saanai,s aa n a i,,melendez_lozano_diccionario_2011,,,,,s aa n a i,a aa i n s
+101,Baniwa-17_cloud-1,,Baniwa,17_cloud,eenótona,eenótona,ee n ó/o t o n a,,ramirez_dicionario_2001,,,,,ee n o o t o n a,a ee n o t
+102,Baniwa-17_cloud-2,,Baniwa,17_cloud,idzadawäka,idzadawäka,i dz a d a w a k a,,ramirez_dicionario_2001,,,,,i dz a d a w a k a,a d dz i k w
+103,Piapoco-17_cloud-1,,Piapoco,17_cloud,acalèe,akalèe,a k a l è/e e,,Chacon2017,,,,,a k a l e e e,a e k l
+104,Resigaro-17_cloud-1,,Resigaro,17_cloud,iítshú,iítshú,i í/i tsʰ ú/u,,allin_vocabulario_1979,,,,,i i i tsh~ u u,i tsh~ u
+105,Yukuna-17_cloud-1,,Yukuna,17_cloud,[juni] juwáka'ala,[huni] huwákaʔala,h u n i + h u w á/a k a ʔ a l a,,Chacon2017,,,,,h u n i  h u w a a k a 7 a l a, 7 a h i k l n u w
+106,Achagua-18_cold-1,,Achagua,18_cold,kasáIinii,kasalini:,k a s a l i n i:,,melendez_lozano_diccionario_2011,,,,,k a s a l i n i,a i k l n s
+107,Baniwa-18_cold-1,,Baniwa,18_cold,hápe,hápe,h á/a p e,,ramirez_dicionario_2001,,,,,h a a p e,a e h p
+108,Kabiyari-18_cold-1,,Kabiyari,18_cold,peʔe,peʔe,p e ʔ e,,Chacon2017,,,,,p e 7 e,7 e p
+109,Piapoco-18_cold-1,,Piapoco,18_cold,casalíníiri,kasalíní:ɾi,k a s a l í/i n í:/iː ɾ i,,Chacon2017,,,,,k a s a l i i n i i r i,a i k l n r s
+110,Resigaro-18_cold-1,,Resigaro,18_cold,hi?píí?,hiʔpííʔ,h i ʔ p íí/iː ʔ,,Chacon2017,,,,,h i 7 p ii i 7,7 h i ii p
+111,Resigaro-18_cold-2,,Resigaro,18_cold,taa,taa,t aa,,Chacon2017,,,,,t aa,aa t
+112,Yukuna-18_cold-1,,Yukuna,18_cold,ipe'ení,ipeʔení,i p e ʔ e n í/i,,Chacon2017,,,,,i p e 7 e n i i,7 e i n p
+113,Achagua-19_come-1,,Achagua,19_come,íinueri,i:nueri,i: n u e r i,,melendez_lozano_diccionario_2011,,,,,i n u e r i,e i n r u
+114,Baniwa-19_come-1,,Baniwa,19_come,-no,-no,n o,,ramirez_dicionario_2001,,,,,n o,n o
+115,Kabiyari-19_come-1,,Kabiyari,19_come,mira(a)ni,mira(a)ni,m i r a a n i,,Chacon2017,,,,,m i r a a n i,a i m n r
+116,Kabiyari-19_come-2,,Kabiyari,19_come,anaa,anaa,a n aa,,Chacon2017,,,,,a n aa,a aa n
+117,Piapoco-19_come-1,,Piapoco,19_come,nùacawa néese,nùakawa néese,n ù/u a k a w a + n é/e e s e,,Chacon2017,,,,,n u u a k a w a  n e e e s e, a e k n s u w
+118,Resigaro-19_come-1,,Resigaro,19_come,tsa?nú,tsaʔnú,ts a ʔ n ú/u,,Chacon2017,,,,,ts a 7 n u u,7 a n ts u
+119,Yukuna-19_come-1,,Yukuna,19_come,iphakaje,ipʰakahe,i pʰ a k a h e,,Chacon2017,,,,,i ph~ a k a h e,a e h i k ph~
+120,Yukuna-19_come-2,,Yukuna,19_come,waícha,waítʃa,w a í/i tʃ a,,Chacon2017,,,,,w a i i tS a,a i tS w
+121,Warekena-19_come-1,,Warekena,19_come,-wína,-wína,w í/i n a,,ramirez_dicionario_2001,,,,,w i i n a,a i n w
+122,Warekena-19_come-2,,Warekena,19_come,wádi!,wádi!,w á/a d i,,ramirez_dicionario_2001,,,,,w a a d i,a d i w
+123,Achagua-20_die-1,,Achagua,20_die,máanalii,ma:nali:,m a: n a l i:,,melendez_lozano_diccionario_2011,,,,,m a n a l i,a i l m n
+124,Baniwa-20_die-1,,Baniwa,20_die,malíome,malíome,m a l í/i o m e,,ramirez_dicionario_2001,,,,,m a l i i o m e,a e i l m o
+125,Kabiyari-20_die-1,,Kabiyari,20_die,mikuu,mikuu,m i k uu,,Chacon2017,,,,,m i k uu,i k m uu
+126,Piapoco-20_die-1,,Piapoco,20_die,étácawa,étákawa,é/e t á/a k a w a,,Chacon2017,,,,,e e t a a k a w a,a e k t w
+127,Resigaro-20_die-1,,Resigaro,20_die,kainée- ǰú,kainée- ǰú,k a i n é/e e + dʒ ú/u,,allin_vocabulario_1979,,,,,k a i n e e e  dZ u u, a dZ e i k n u
+128,Yukuna-20_die-1,,Yukuna,20_die,taka'akaje,takaʔakahe,t a k a ʔ a k a h e,,Chacon2017,,,,,t a k a 7 a k a h e,7 a e h k t
+129,Achagua-21_dog-1,,Achagua,21_dog,auli,auli,a u l i,,ramirez_dicionario_2001,,,,,a u l i,a i l u
+130,Baniwa-21_dog-1,,Baniwa,21_dog,tsiino,tsiino,ts ii n o,,ramirez_dicionario_2001,,,,,ts ii n o,ii n o ts
+131,Kabiyari-21_dog-1,,Kabiyari,21_dog,t∫aawi,t∫aawi,t ʃ aa w i,,Chacon2017,,,,,t S aa w i,S aa i t w
+132,Piapoco-21_dog-1,,Piapoco,21_dog,yàlidu,jàlidu,j à/a l i d u,,Chacon2017,,,,,y a a l i d u,a d i l u y
+133,Resigaro-21_dog-1,,Resigaro,21_dog,íiní,íiní,í/i i n í/i,,Chacon2017,,,,,i i i n i i,i n
+134,Tariana-21_dog-1,,Tariana,21_dog,čínu,tʃínu,tʃ í/i n u,,Chacon2017,,,,,tS i i n u,i n tS u
+135,Yukuna-21_dog-1,,Yukuna,21_dog,walú,walú,w a l ú/u,,Chacon2017,,,,,w a l u u,a l u w
+136,Achagua-22_drink-1,,Achagua,22_drink,íireri,i:reri,i: r e r i,,melendez_lozano_diccionario_2011,,,,,i r e r i,e i r
+137,Baniwa-22_drink-1,,Baniwa,22_drink,-íira,-íira,í/i i r a,,ramirez_dicionario_2001,,,,,i i i r a,a i r
+138,Kabiyari-22_drink-1,,Kabiyari,22_drink,irá,irá,i r á/a,,Chacon2017,,,,,i r a a,a i r
+139,Piapoco-22_drink-1,,Piapoco,22_drink,ìraca,ìɾaka,ì/i ɾ a k a,,Chacon2017,,,,,i i r a k a,a i k r
+140,Resigaro-22_drink-1,,Resigaro,22_drink,i?dú,i?dú,i ʔ d ú/u,,Chacon2017,,,,,i 7 d u u,7 d i u
+141,Yukuna-22_drink-1,,Yukuna,22_drink,i'irakaje,iʔiɾakahe,i ʔ i ɾ a k a h e,,Chacon2017,,,,,i 7 i r a k a h e,7 a e h i k r
+142,Baniwa-23_dryn-1,,Baniwa,23_dryn,-meettáta,-meettáta,m ee tt á/a t a,,ramirez_dicionario_2001,,,,,m ee tt a a t a,a ee m t tt
+143,Kabiyari-23_dryn-1,,Kabiyari,23_dryn,iwá,iwá,i w á/a,,Chacon2017,,,,,i w a a,a i w
+144,Piapoco-23_dryn-1,,Piapoco,23_dryn,chuìri,tʃuìɾi,tʃ u ì/i ɾ i,,Chacon2017,,,,,tS u i i r i,i r tS u
+145,Resigaro-23_dryn-1,,Resigaro,23_dryn,makádú,makádú,m a k á/a d ú/u,,Chacon2017,,,,,m a k a a d u u,a d k m u
+146,Yukuna-23_dryn-1,,Yukuna,23_dryn,makára'akaje,makára'akaje,m a k á/a r a ʔ a k a j e,,schauer_diccionario_2005,,,,,m a k a a r a 7 a k a y e,7 a e k m r y
+147,Achagua-24_ear-1,,Achagua,24_ear,wíbaʃi,wibaʃi,w i b a ʃ i,,melendez_lozano_diccionario_2011,,,,,w i b a S i,S a b i w
+148,Baniwa-24_ear-1,,Baniwa,24_ear,-heeni,-heeni,h ee n i,,ramirez_dicionario_2001,,,,,h ee n i,ee h i n
+149,Baniwa-24_ear-2,,Baniwa,24_ear,-hináko-liko,-hináko-liko,h i n á/a k o l i k o,,ramirez_dicionario_2001,,,,,h i n a a k o l i k o,a h i k l n o
+150,Kabiyari-24_ear-1,,Kabiyari,24_ear,u'uwi,uʔuwi,u ʔ u w i,,Chacon2017,,,,,u 7 u w i,7 i u w
+151,Piapoco-24_ear-1,,Piapoco,24_ear,uwi,uwi,u w i,,Chacon2017,,,,,u w i,i u w
+152,Resigaro-24_ear-1,,Resigaro,24_ear,henákó,henákó,h e n á/a k ó/o,,Chacon2017,,,,,h e n a a k o o,a e h k n o
+153,Yukuna-24_ear-1,,Yukuna,24_ear,i'ijwijí,iʔihwihí,i ʔ i h w i h í/i,,Chacon2017,,,,,i 7 i h w i h i i,7 h i w
+154,Achagua-25_earth-1,,Achagua,25_earth,káinabi,kainabi,k a i n a b i,,melendez_lozano_diccionario_2011,,,,,k a i n a b i,a b i k n
+155,Baniwa-25_earth-1,,Baniwa,25_earth,híipai,híipai,h í/i i p a i,,ramirez_dicionario_2001,,,,,h i i i p a i,a h i p
+156,Kabiyari-25_earth-1,,Kabiyari,25_earth,ta'ka(a)ri,taʔka(a)ri,t a ʔ k a a r i,,Chacon2017,,,,,t a 7 k a a r i,7 a i k r t
+157,Piapoco-25_earth-1,,Piapoco,25_earth,cáli,káli,k á/a l i,,Chacon2017,,,,,k a a l i,a i k l
+158,Resigaro-25_earth-1,,Resigaro,25_earth,hihi,hihi,h i h i,,Chacon2017,,,,,h i h i,h i
+159,Yukuna-25_earth-1,,Yukuna,25_earth,te'erí,teʔeɾí,t e ʔ e ɾ í/i,,Chacon2017,,,,,t e 7 e r i i,7 e i r t
+160,Achagua-26_eat-1,,Achagua,26_eat,íijeri,i:jeri,i: j e r i,,melendez_lozano_diccionario_2011,,,,,i y e r i,e i r y
+161,Baniwa-26_eat-1,,Baniwa,26_eat,-íiñha,-íiñha,í/i i ɲ a,,ramirez_dicionario_2001,,,,,i i i 5 a,5 a i
+162,Kabiyari-26_eat-1,,Kabiyari,26_eat,tʃha,tʃha,tʃʰ a,,Chacon2017,,,,,tSh~ a,a tSh~
+163,Piapoco-26_eat-1,,Piapoco,26_eat,yáaca,já:ka,j á:/aː k a,,Chacon2017,,,,,y a a k a,a k y
+164,Resigaro-26_eat-1,,Resigaro,26_eat,a?mitú,a?mitú,a ʔ m i t ú/u,,Chacon2017,,,,,a 7 m i t u u,7 a i m t u
+165,Yukuna-26_eat-1,,Yukuna,26_eat,ajñakaje,ahɲakahe,a h ɲ a k a h e,,Chacon2017,,,,,a h 5 a k a h e,5 a e h k
+166,Achagua-27_egg-1,,Achagua,27_egg,éewiʃi,eewiʃi,ee w i ʃ i,,melendez_lozano_diccionario_2011,,,,,ee w i S i,S ee i w
+167,Baniwa-27_egg-1,,Baniwa,27_egg,-éewhe,-éewhe,é/e e w h e,,ramirez_dicionario_2001,,,,,e e e w h e,e h w
+168,Kabiyari-27_egg-1,,Kabiyari,27_egg,éewhé,éewhé,é/e e w h é/e,,Chacon2017,,,,,e e e w h e e,e h w
+169,Piapoco-27_egg-1,,Piapoco,27_egg,yéewési,jé:wési,j éː/eː w é/e s i,,Chacon2017,,,,,y e e w e e s i,e i s w y
+170,Resigaro-27_egg-1,,Resigaro,27_egg,eévé(ú),eévé(ú),e é/e v é/e ú/u,,Chacon2017,,,,,e e e v e e u u,e u v
+171,Yukuna-27_egg-1,,Yukuna,27_egg,ejweji,ehwehi,e h w e h i,,Chacon2017,,,,,e h w e h i,e h i w
+172,Achagua-28_eye-1,,Achagua,28_eye,túiʃi,tuiʃi,t u i ʃ i,,melendez_lozano_diccionario_2011,,,,,t u i S i,S i t u
+173,Baniwa-28_eye-1,,Baniwa,28_eye,-thi,-thi,tʰ i,,ramirez_dicionario_2001,,,,,th~ i,i th~
+174,Kabiyari-28_eye-1,,Kabiyari,28_eye,thu,thu,tʰ u,,Chacon2017,,,,,th~ u,th~ u
+175,Piapoco-28_eye-1,,Piapoco,28_eye,tuí,tuí,t u í/i,,Chacon2017,,,,,t u i i,i t u
+176,Resigaro-28_eye-1,,Resigaro,28_eye,ijlují,ihluhí,i h l u h í/i,,Chacon2017,,,,,i h l u h i i,h i l u
+177,Yukuna-28_eye-1,,Yukuna,28_eye,ijlují,ihluhí,i h l u h í/i,,Chacon2017,,,,,i h l u h i i,h i l u
+178,Kabiyari-29_feather-1,,Kabiyari,29_feather,apána,apána,a p á/a n a,,Chacon2017,,,,,a p a a n a,a n p
+179,Piapoco-29_feather-1,,Piapoco,29_feather,báica,báika,b á/a i k a,,Chacon2017,,,,,b a a i k a,a b i k
+180,Resigaro-29_feather-1,,Resigaro,29_feather,tsíináhí,tsíináhí,ts í/i i n á/a h í/i,,Chacon2017,,,,,ts i i i n a a h i i,a h i n ts
+181,Tariana-29_feather-1,,Tariana,29_feather,dí-ča,dí-tʃa,d í/i tʃ a,,Chacon2017,,,,,d i i tS a,a d i tS
+182,Tariana-29_feather-2,,Tariana,29_feather,díča-ɾe,dítʃa-ɾe,d í/i tʃ a ɾ e,,Chacon2017,,,,,d i i tS a r e,a d e i r tS
+183,Tariana-29_feather-3,,Tariana,29_feather,daɾuphemá-ma,daɾupʰemá-ma,d a ɾ u pʰ e m á/a m a,,Chacon2017,,,,,d a r u ph~ e m a a m a,a d e m ph~ r u
+184,Yukuna-29_feather-1,,Yukuna,29_feather,chijneji,tʃihnehi,tʃ i h n e h i,,Chacon2017,,,,,tS i h n e h i,e h i n tS
+185,Achagua-30_fire-1,,Achagua,30_fire,tʃitʃái,tʃitʃai,tʃ i tʃ a i,,melendez_lozano_diccionario_2011,,,,,tS i tS a i,a i tS
+186,Baniwa-30_fire-1,,Baniwa,30_fire,ttídzee,ttídzee,tt í/i dz ee,,ramirez_dicionario_2001,,,,,tt i i dz ee,dz ee i tt
+187,Kabiyari-30_fire-1,,Kabiyari,30_fire,kira'ari,kiraʔari,k i r a ʔ a r i,,Chacon2017,,,,,k i r a 7 a r i,7 a i k r
+188,Piapoco-30_fire-1,,Piapoco,30_fire,quichái,kitʃái,k i tʃ á/a i,,Chacon2017,,,,,k i tS a a i,a i k tS
+189,Piapoco-30_fire-2,,Piapoco,30_fire,síyái,síjái,s í/i j á/a i,,Chacon2017,,,,,s i i y a a i,a i s y
+190,Resigaro-30_fire-1,,Resigaro,30_fire,o?koná?,oʔkonáʔ,o ʔ k o n á/a ʔ,,Chacon2017,,,,,o 7 k o n a a 7,7 a k n o
+191,Yukuna-30_fire-1,,Yukuna,30_fire,jiyá,hijá,h i j á/a,,Chacon2017,,,,,h i y a a,a h i y
+192,Yukuna-30_fire-2,,Yukuna,30_fire,kera'atani,keɾaʔatani,k e ɾ a ʔ a t a n i,,Chacon2017,,,,,k e r a 7 a t a n i,7 a e i k n r t
+193,Achagua-31_fishn-1,,Achagua,31_fishn,kubái,kubai,k u b a i,,melendez_lozano_diccionario_2011,,,,,k u b a i,a b i k u
+194,Baniwa-31_fishn-1,,Baniwa,31_fishn,kóphe,kóphe,k ó/o pʰ e,,ramirez_dicionario_2001,,,,,k o o ph~ e,e k o ph~
+195,Kabiyari-31_fishn-1,,Kabiyari,31_fishn,kúpha,ʔulle,ʔ u lː e,,huber_vocabulario_1992,,,,,7 u l e,7 e l u
+196,Piapoco-31_fishn-1,,Piapoco,31_fishn,kubái,kubái,k u b á/a i,,Chacon2017,,,,,k u b a a i,a b i k u
+197,Resigaro-31_fishn-1,,Resigaro,31_fishn,ámoogí,ámoogí,á/a m oo g í/i,,Chacon2017,,,,,a a m oo g i i,a g i m oo
+198,Yukuna-31_fishn-1,,Yukuna,31_fishn,kúpe,kúpe,k ú/u p e,,Chacon2017,,,,,k u u p e,e k p u
+199,Achagua-32_flesh-1,,Achagua,32_flesh,íinaʃi,i:naʃi,i: n a ʃ i,,melendez_lozano_diccionario_2011,,,,,i n a S i,S a i n
+200,Baniwa-32_flesh-1,,Baniwa,32_flesh,-íipe,-íipe,í/i i p e,,ramirez_dicionario_2001,,,,,i i i p e,e i p
+201,Kabiyari-32_flesh-1,,Kabiyari,32_flesh,?ii,?ii,ʔ ii,,huber_vocabulario_1992,,,,,7 ii,7 ii
+202,Piapoco-32_flesh-1,,Piapoco,32_flesh,iinási,iinási,ii n á/a s i,,Chacon2017,,,,,ii n a a s i,a i ii n s
+203,Resigaro-32_flesh-1,,Resigaro,32_flesh,gí?í,gí?í,g í/i ʔ í/i,,huber_vocabulario_1992,,,,,g i i 7 i i,7 g i
+204,Yukuna-32_flesh-1,,Yukuna,32_flesh,i'iji,ri'í,r i ʔ í/i,,Chacon2017,,,,,r i 7 i i,7 i r
+205,Achagua-33_flyv-1,,Achagua,33_flyv,jáareriu,ja:reriu,j a: r e r i u,,melendez_lozano_diccionario_2011,,,,,y a r e r i u,a e i r u y
+206,Baniwa-33_flyv-1,,Baniwa,33_flyv,-áara,-áara,á/a a r a,,ramirez_dicionario_2001,,,,,a a a r a,a r
+207,Kabiyari-33_flyv-1,,Kabiyari,33_flyv,áara,áara,á/a a r a,,schauer_diccionario_2005,,,,,a a a r a,a r
+208,Piapoco-33_flyv-1,,Piapoco,33_flyv,yálacawa,jálakawa,j á/a l a k a w a,,Chacon2017,,,,,y a a l a k a w a,a k l w y
+209,Resigaro-33_flyv-1,,Resigaro,33_flyv,adú,adú,a d ú/u,,Chacon2017,,,,,a d u u,a d u
+210,Yukuna-33_flyv-1,,Yukuna,33_flyv,ajrakaje,ahɾakahe,a h ɾ a k a h e,,Chacon2017,,,,,a h r a k a h e,a e h k r
+211,Achagua-34_foot-1,,Achagua,34_foot,íibaʃi,i:baʃi,i: b a ʃ i,,melendez_lozano_diccionario_2011,,,,,i b a S i,S a b i
+212,Baniwa-34_foot-1,,Baniwa,34_foot,-híipa,-híipa,h í/i i p a,,ramirez_dicionario_2001,,,,,h i i i p a,a h i p
+213,Kabiyari-34_foot-1,,Kabiyari,34_foot,híipa,híipa,h í/i i p a,,Chacon2017,,,,,h i i i p a,a h i p
+214,Piapoco-34_foot-1,,Piapoco,34_foot,abàli,abàli,a b à/a l i,,Chacon2017,,,,,a b a a l i,a b i l
+215,Resigaro-34_foot-1,,Resigaro,34_foot,hii?pú,hiiʔpú,h ii ʔ p ú/u,,Chacon2017,,,,,h ii 7 p u u,7 h ii p u
+216,Yukuna-34_foot-1,,Yukuna,34_foot,ji'imaji,hiʔimahi,h i ʔ i m a h i,,Chacon2017,,,,,h i 7 i m a h i,7 a h i m
+217,Achagua-35_full-1,,Achagua,35_full,káawai,ka:wai,k a: w a i,,melendez_lozano_diccionario_2011,,,,,k a w a i,a i k w
+218,Baniwa-35_full-1,,Baniwa,35_full,pákhame(i),pákhame(i),p á/a kʰ a m e i,,ramirez_dicionario_2001,,,,,p a a kh~ a m e i,a e i kh~ m p
+219,Kabiyari-35_full-1,,Kabiyari,35_full,manu',manu',m a n u ʔ,,ramirez_dicionario_2001,,,,,m a n u 7,7 a m n u
+220,Kabiyari-35_full-2,,Kabiyari,35_full,miyana,miyana,m i y a n a,,ramirez_dicionario_2001,,,,,m i i a n a,a i m n
+221,Resigaro-35_full-1,,Resigaro,35_full,potsʰí?mó,potsʰí?mó,p o tsʰ í/i ʔ m ó/o,,huber_vocabulario_1992,,,,,p o tsh~ i i 7 m o o,7 i m o p tsh~
+222,Yukuna-35_full-1,,Yukuna,35_full,mano'okaje,mano'okaje,m a n o ʔ o k a j e,,schauer_diccionario_2005,,,,,m a n o 7 o k a y e,7 a e k m n o y
+223,Achagua-36_give-1,,Achagua,36_give,jáairi,jaairi,j aa i r i,,melendez_lozano_diccionario_2011,,,,,y aa i r i,aa i r y
+224,Baniwa-36_give-1,,Baniwa,36_give,-áa,-áa,á/a a,,ramirez_dicionario_2001,,,,,a a a,a
+225,Kabiyari-36_give-1,,Kabiyari,36_give,-aa,-aa,aa,,ramirez_dicionario_2001,,,,,aa,aa
+226,Resigaro-36_give-1,,Resigaro,36_give,-aa?ní,-aa?ní,aa ʔ n í/i,,huber_vocabulario_1992,,,,,aa 7 n i i,7 aa i n
+227,Yukuna-36_give-1,,Yukuna,36_give,a'akaje,a'akaje,a ʔ a k a j e,,schauer_diccionario_2005,,,,,a 7 a k a y e,7 a e k y
+228,Warekena-36_give-1,,Warekena,36_give,-huwa,-huwa,h u w a,,ramirez_dicionario_2001,,,,,h u w a,a h u w
+229,Achagua-37_good-1,,Achagua,37_good,sáika,saika,s a i k a,,melendez_lozano_diccionario_2011,,,,,s a i k a,a i k s
+230,Baniwa-37_good-1,,Baniwa,37_good,mátsia,mátsia,m á/a ts i a,,ramirez_dicionario_2001,,,,,m a a ts i a,a i m ts
+231,Kabiyari-37_good-1,,Kabiyari,37_good,tʃuni-ka,tʃuni-ka,tʃ u n i k a,,Chacon2017,,,,,tS u n i k a,a i k n tS u
+232,Piapoco-37_good-1,,Piapoco,37_good,cayábéeri,kajábé:ɾi,k a j á/a b é:/eː ɾ i,,Chacon2017,,,,,k a y a a b e e r i,a b e i k r y
+233,Resigaro-37_good-1,,Resigaro,37_good,kaŝó?,kaʃóʔ,k a ʃ ó/o ʔ,,Chacon2017,,,,,k a S o o 7,7 S a k o
+234,Yukuna-37_good-1,,Yukuna,37_good,palani,palani,p a l a n i,,Chacon2017,,,,,p a l a n i,a i l n p
+235,Achagua-38_grease-1,,Achagua,38_grease,júuwika,juuwika,j uu w i k a,,melendez_lozano_diccionario_2011,,,,,y uu w i k a,a i k uu w y
+236,Baniwa-38_grease-1,,Baniwa,38_grease,íitti,íitti,í/i i tt i,,ramirez_dicionario_2001,,,,,i i i tt i,i tt
+237,Kabiyari-38_grease-1,,Kabiyari,38_grease,íʔit̪i,íʔit̪i,í/i ʔ i t̪ i,,Chacon2017,,,,,i i 7 i t i,7 i t
+238,Piapoco-38_grease-1,,Piapoco,38_grease,iséená,isé:ná,i s é:/eː n á/a,,Chacon2017,,,,,i s e e n a a,a e i n s
+239,Resigaro-38_grease-1,,Resigaro,38_grease,phedee?kátasí,phedee?kátasí,pʰ e d ee ʔ k á/a t a s í/i,,allin_vocabulario_1979,,,,,ph~ e d ee 7 k a a t a s i i,7 a d e ee i k ph~ s t
+240,Yukuna-38_grease-1,,Yukuna,38_grease,jilaji,hilahi,h i l a h i,,Chacon2017,,,,,h i l a h i,a h i l
+241,Achagua-39_green-1,,Achagua,39_green,uléejii,ule:ji,u l e: j i,,melendez_lozano_diccionario_2011,,,,,u l e y i,e i l u y
+242,Baniwa-39_green-1,,Baniwa,39_green,hípole,hípole,h í/i p o l e,,ramirez_dicionario_2001,,,,,h i i p o l e,e h i l o p
+243,Kabiyari-39_green-1,,Kabiyari,39_green,puré,puré,p u r é/e,,Chacon2017,,,,,p u r e e,e p r u
+244,Piapoco-39_green-1,,Piapoco,39_green,ipùléeri,ipùlé:ɾi,i p ù/u l é:/eː ɾ i,,Chacon2017,,,,,i p u u l e e r i,e i l p r u
+245,Resigaro-39_green-1,,Resigaro,39_green,ipogí?,ipogí?,i p o g í/i ʔ,,Chacon2017,,,,,i p o g i i 7,7 g i o p
+246,Yukuna-39_green-1,,Yukuna,39_green,ipureni,ipuɾeni,i p u ɾ e n i,,Chacon2017,,,,,i p u r e n i,e i n p r u
+247,Achagua-40_hair-1,,Achagua,40_hair,báinaʃi,bainaʃi,b a i n a ʃ i,,melendez_lozano_diccionario_2011,,,,,b a i n a S i,S a b i n
+248,Baniwa-40_hair-1,,Baniwa,40_hair,-tsíkole,-tsíkole,ts í/i k o l e,,ramirez_dicionario_2001,,,,,ts i i k o l e,e i k l o ts
+249,Kabiyari-40_hair-1,,Kabiyari,40_hair,tʃuna,tʃuna,tʃ u n a,,Chacon2017,,,,,tS u n a,a n tS u
+250,Piapoco-40_hair-1,,Piapoco,40_hair,ichùna,itʃùna,i tʃ ù/u n a,,Chacon2017,,,,,i tS u u n a,a i n tS u
+251,Resigaro-40_hair-1,,Resigaro,40_hair,híve?áǰii?ó,híveʔádʒiiʔó,h í/i v e ʔ á/a dʒ ii ʔ ó/o,,Chacon2017,,,,,h i i v e 7 a a dZ ii 7 o o,7 a dZ e h i ii o v
+252,Yukuna-40_hair-1,,Yukuna,40_hair,wilaji,wilahi,w i l a h i,,Chacon2017,,,,,w i l a h i,a h i l w
+253,Achagua-41_hand-1,,Achagua,41_hand,káhiʃi,kahiʃi,k a h i ʃ i,,melendez_lozano_diccionario_2011,,,,,k a h i S i,S a h i k
+254,Baniwa-41_hand-1,,Baniwa,41_hand,-káapi,-káapi,k á/a a p i,,ramirez_dicionario_2001,,,,,k a a a p i,a i k p
+255,Kabiyari-41_hand-1,,Kabiyari,41_hand,kaapi,kaapi,k aa p i,,Chacon2017,,,,,k aa p i,aa i k p
+256,Piapoco-41_hand-1,,Piapoco,41_hand,cáapi,ká:pi,k á:/aː p i,,Chacon2017,,,,,k a a p i,a i k p
+257,Resigaro-41_hand-1,,Resigaro,41_hand,-ké,-ké,k é/e,,allin_vocabulario_1979,,,,,k e e,e k
+258,Yukuna-41_hand-1,,Yukuna,41_hand,yáte'elaji,játeʔelahi,j á/a t e ʔ e l a h i,,Chacon2017,,,,,y a a t e 7 e l a h i,7 a e h i l t y
+259,Achagua-42_head-1,,Achagua,42_head,wítaʃi,witaʃi,w i t a ʃ i,,melendez_lozano_diccionario_2011,,,,,w i t a S i,S a i t w
+260,Baniwa-42_head-1,,Baniwa,42_head,-hiwída,-hiwída,h i w í/i d a,,ramirez_dicionario_2001,,,,,h i w i i d a,a d h i w
+261,Kabiyari-42_head-1,,Kabiyari,42_head,hiwíta,hiwíta,h i w í/i t a,,Chacon2017,,,,,h i w i i t a,a h i t w
+262,Piapoco-42_head-1,,Piapoco,42_head,[nu]iwita,[nu]iwita,n u i w i t a,,Chacon2017,,,,,n u i w i t a,a i n t u w
+263,Resigaro-42_head-1,,Resigaro,42_head,híveú,híveú,h í/i v e ú/u,,Chacon2017,,,,,h i i v e u u,e h i u v
+264,Yukuna-42_head-1,,Yukuna,42_head,wíla'aruji,wílaʔaɾuhi,w í/i l a ʔ a ɾ u h i,,Chacon2017,,,,,w i i l a 7 a r u h i,7 a h i l r u w
+265,Achagua-43_hear-1,,Achagua,43_hear,éemeri,e:meri,e: m e r i,,melendez_lozano_diccionario_2011,,,,,e m e r i,e i m r
+266,Baniwa-43_hear-1,,Baniwa,43_hear,-hima,-hima,h i m a,,ramirez_dicionario_2001,,,,,h i m a,a h i m
+267,Baniwa-43_hear-2,,Baniwa,43_hear,-himeeta,-himeeta,h i m ee t a,,ramirez_dicionario_2001,,,,,h i m ee t a,a ee h i m t
+268,Kabiyari-43_hear-1,,Kabiyari,43_hear,heme,heme,h e m e,,Chacon2017,,,,,h e m e,e h m
+269,Piapoco-43_hear-1,,Piapoco,43_hear,émìaca,émìaka,é/e m ì/i a k a,,Chacon2017,,,,,e e m i i a k a,a e i k m
+270,Resigaro-43_hear-1,,Resigaro,43_hear,hé?mú,hé?mú,h é/e ʔ m ú/u,,Chacon2017,,,,,h e e 7 m u u,7 e h m u
+271,Tariana-43_hear-1,,Tariana,43_hear,-híma,-híma,h í/i m a,,ramirez_dicionario_2001,,,,,h i i m a,a h i m
+272,Yukuna-43_hear-1,,Yukuna,43_hear,jema'akaje,hemaʔakahe,h e m a ʔ a k a h e,,Chacon2017,,,,,h e m a 7 a k a h e,7 a e h k m
+273,Achagua-44_heart-1,,Achagua,44_heart,wówaʃi,wowaʃi,w o w a ʃ i,,melendez_lozano_diccionario_2011,,,,,w o w a S i,S a i o w
+274,Baniwa-44_heart-1,,Baniwa,44_heart,-kaale,-kaale,k aa l e,,ramirez_dicionario_2001,,,,,k aa l e,aa e k l
+275,Kabiyari-44_heart-1,,Kabiyari,44_heart,kareta,kareta,k a r e t a,,Chacon2017,,,,,k a r e t a,a e k r t
+276,Piapoco-44_heart-1,,Piapoco,44_heart,nu-wàwa,nu-wàwa,n u w à/a w a,,Chacon2017,,,,,n u w a a w a,a n u w
+277,Piapoco-44_heart-2,,Piapoco,44_heart,íiricu,í:ɾiku,í:/iː ɾ i k u,,Chacon2017,,,,,i i r i k u,i k r u
+278,Resigaro-44_heart-1,,Resigaro,44_heart,váfoú,váfoú,v á/a f o ú/u,,Chacon2017,,,,,v a a f o u u,a f o u v
+279,Yukuna-44_heart-1,,Yukuna,44_heart,wajweji,wahwehi,w a h w e h i,,Chacon2017,,,,,w a h w e h i,a e h i w
+280,Achagua-45_horn-1,,Achagua,45_horn,tʃáalaʃi,tʃa:laʃi,tʃ a: l a ʃ i,,melendez_lozano_diccionario_2011,,,,,tS a l a S i,S a i l tS
+281,Baniwa-45_horn-1,,Baniwa,45_horn,-tsówa,-tsówa,ts ó/o w a,,ramirez_dicionario_2001,,,,,ts o o w a,a o ts w
+282,Kabiyari-45_horn-1,,Kabiyari,45_horn,nuire,nuire,n u i r e,,huber_vocabulario_1992,,,,,n u i r e,e i n r u
+283,Resigaro-45_horn-1,,Resigaro,45_horn,-iijβií,-iijβií,ii j β i í/i,,huber_vocabulario_1992,,,,,ii y b i i i,b i ii y
+284,Yukuna-45_horn-1,,Yukuna,45_horn,i'iwáwiji,ri'iwawi,r i ʔ i w a w i,,schauer_diccionario_2005,,,,,r i 7 i w a w i,7 a i r w
+285,Achagua-46_hot-1,,Achagua,46_hot,amuái,amuai,a m u a i,,melendez_lozano_diccionario_2011,,,,,a m u a i,a i m u
+286,Baniwa-46_hot-1,,Baniwa,46_hot,hámo,hámo,h á/a m o,,ramirez_dicionario_2001,,,,,h a a m o,a h m o
+287,Kabiyari-46_hot-1,,Kabiyari,46_hot,muʔú,muʔú,m u ʔ ú/u,,Chacon2017,,,,,m u 7 u u,7 m u
+288,Piapoco-46_hot-1,,Piapoco,46_hot,ùuléeri,ùulé:ɾi,ù/u u l é:/eː ɾ i,,Chacon2017,,,,,u u u l e e r i,e i l r u
+289,Resigaro-46_hot-1,,Resigaro,46_hot,ha?mo?,ha?mo?,h a ʔ m o ʔ,,Chacon2017,,,,,h a 7 m o 7,7 a h m o
+290,Yukuna-46_hot-1,,Yukuna,46_hot,ima'aní,ima'aní,i m a ʔ a n í/i,,schauer_diccionario_2005,,,,,i m a 7 a n i i,7 a i m n
+291,Achagua-47_kill-1,,Achagua,47_kill,íinueri,i:nueri,i: n u e r i,,melendez_lozano_diccionario_2011,,,,,i n u e r i,e i n r u
+292,Baniwa-47_kill-1,,Baniwa,47_kill,-íinoa,-íinoa,í/i i n o a,,ramirez_dicionario_2001,,,,,i i i n o a,a i n o
+293,Kabiyari-47_kill-1,,Kabiyari,47_kill,nua,nua,n u a,,Chacon2017,,,,,n u a,a n u
+294,Piapoco-47_kill-1,,Piapoco,47_kill,étáidaca,étáidaka,é/e t á/a i d a k a,,Chacon2017,,,,,e e t a a i d a k a,a d e i k t
+295,Piapoco-47_kill-2,,Piapoco,47_kill,nuáca,nuáka,n u á/a k a,,Chacon2017,,,,,n u a a k a,a k n u
+296,Resigaro-47_kill-1,,Resigaro,47_kill,kainée-khú,kainée-kʰú,k a i n é/e e kʰ ú/u,,Chacon2017,,,,,k a i n e e e kh~ u u,a e i k kh~ n u
+297,Resigaro-47_kill-2,,Resigaro,47_kill,mótshó,mótsʰó,m ó/o tsʰ ó/o,,Chacon2017,,,,,m o o tsh~ o o,m o tsh~
+298,Yukuna-47_kill-1,,Yukuna,47_kill,nókaje,nókahe,n ó/o k a h e,,Chacon2017,,,,,n o o k a h e,a e h k n o
+299,Achagua-48_knee-1,,Achagua,48_knee,júruiʃi,juruiʃi,j u r u i ʃ i,,melendez_lozano_diccionario_2011,,,,,y u r u i S i,S i r u y
+300,Baniwa-48_knee-1,,Baniwa,48_knee,-hóorhi,-hóorhi,h ó/o o rʰ i,,ramirez_dicionario_2001,,,,,h o o o rh~ i,h i o rh~
+301,Kabiyari-48_knee-1,,Kabiyari,48_knee,-urhu(na),-urhu(na),u rʰ u n a,,ramirez_dicionario_2001,,,,,u rh~ u n a,a n rh~ u
+302,Kabiyari-48_knee-2,,Kabiyari,48_knee,-huru,-huru,h u r u,,ramirez_dicionario_2001,,,,,h u r u,h r u
+303,Resigaro-48_knee-1,,Resigaro,48_knee,-ho?dónaú,-ho?dónaú,h o ʔ d ó/o n a ú/u,,allin_vocabulario_1979,,,,,h o 7 d o o n a u u,7 a d h n o u
+304,Yukuna-48_knee-1,,Yukuna,48_knee,i'irúpachiji,ri'irúpachi,r i ʔ i r ú/u p a ʃ i,,schauer_diccionario_2005,,,,,r i 7 i r u u p a S i,7 S a i p r u
+305,Achagua-49_know-1,,Achagua,49_know,éeweri,e:weri,e: w e r i,,melendez_lozano_diccionario_2011,,,,,e w e r i,e i r w
+306,Achagua-49_know-2,,Achagua,49_know,jaléenaa,jale:na:,j a l e: n a:,,melendez_lozano_diccionario_2011,,,,,y a l e n a,a e l n y
+307,Baniwa-49_know-1,,Baniwa,49_know,-áanhee,-áanhee,á/a a ɲ ee,,ramirez_dicionario_2001,,,,,a a a 5 ee,5 a ee
+308,Kabiyari-49_know-1,,Kabiyari,49_know,aranhú,aranhú,a r a ɲ ú/u,,Chacon2017,,,,,a r a 5 u u,5 a r u
+309,Piapoco-49_know-1,,Piapoco,49_know,alíacawa,alíakawa,a l í/i a k a w a,,Chacon2017,,,,,a l i i a k a w a,a i k l w
+310,Resigaro-49_know-1,,Resigaro,49_know,-manaá-tó?,-manaá-tó?,m a n a á/a t ó/o ʔ,,allin_vocabulario_1979,,,,,m a n a a a t o o 7,7 a m n o t
+311,Yukuna-49_know-1,,Yukuna,49_know,we'epíkaje,weʔepíkahe,w e ʔ e p í/i k a h e,,Chacon2017,,,,,w e 7 e p i i k a h e,7 a e h i k p w
+312,Achagua-50_leaf-1,,Achagua,50_leaf,bánabai,banabai,b a n a b a i,,melendez_lozano_diccionario_2011,,,,,b a n a b a i,a b i n
+313,Baniwa-50_leaf-1,,Baniwa,50_leaf,panaphe,panaphe,p a n a pʰ e,,ramirez_dicionario_2001,,,,,p a n a ph~ e,a e n p ph~
+314,Baniwa-50_leaf-2,,Baniwa,50_leaf,-phe,-phe,pʰ e,,ramirez_dicionario_2001,,,,,ph~ e,e ph~
+315,Kabiyari-50_leaf-1,,Kabiyari,50_leaf,apana,apana,a p a n a,,Chacon2017,,,,,a p a n a,a n p
+316,Piapoco-50_leaf-1,,Piapoco,50_leaf,ibáiná,ibáiná,i b á/a i n á/a,,Chacon2017,,,,,i b a a i n a a,a b i n
+317,Resigaro-50_leaf-1,,Resigaro,50_leaf,apáná?aamí,apánáʔaamí,a p á/a n á/a ʔ aa m í/i,,Chacon2017,,,,,a p a a n a a 7 aa m i i,7 a aa i m n p
+318,Yukuna-50_leaf-1,,Yukuna,50_leaf,wíchu'upe,wíchu'upe,w í/i ʃ u ʔ u p e,,schauer_diccionario_2005,,,,,w i i S u 7 u p e,7 S e i p u w
+319,Warekena-50_leaf-1,,Warekena,50_leaf,-phe,-phe,pʰ e,,ramirez_dicionario_2001,,,,,ph~ e,e ph~
+320,Warekena-50_leaf-2,,Warekena,50_leaf,apanaphe,apanaphe,a p a n a pʰ e,,ramirez_dicionario_2001,,,,,a p a n a ph~ e,a e n p ph~
+321,Achagua-51_lie-1,,Achagua,51_lie,kuániriu,kuaniriu,k u a n i r i u,,melendez_lozano_diccionario_2011,,,,,k u a n i r i u,a i k n r u
+322,Baniwa-51_lie-1,,Baniwa,51_lie,-kua,-kua,k u a,,ramirez_dicionario_2001,,,,,k u a,a k u
+323,Baniwa-51_lie-2,,Baniwa,51_lie,-ɻhua,-ɻhua,ɻ h u a,,ramirez_dicionario_2001,,,,,r h u a,a h r u
+324,Kabiyari-51_lie-1,,Kabiyari,51_lie,-ku'apu,-ku'apu,k u ʔ a p u,,ramirez_dicionario_2001,,,,,k u 7 a p u,7 a k p u
+325,Kabiyari-51_lie-2,,Kabiyari,51_lie,-huapuku,-huapuku,h u a p u k u,,ramirez_dicionario_2001,,,,,h u a p u k u,a h k p u
+326,Resigaro-51_lie-1,,Resigaro,51_lie,šoóné-ǰú,šoóné-ǰú,ʃ o ó/o n é/e ʒ ú/u,,allin_vocabulario_1979,,,,,S o o o n e e Z u u,S Z e n o u
+327,Tariana-51_lie-1,,Tariana,51_lie,swá,swá,s w á/a,,Chacon2017,,,,,s w a a,a s w
+328,Yukuna-51_lie-1,,Yukuna,51_lie,to'okajo,to'okajo,t o ʔ o k a j o,,schauer_diccionario_2005,,,,,t o 7 o k a y o,7 a k o t y
+329,Achagua-52_liver-1,,Achagua,52_liver,tʃáaliʃi,tʃa:liʃi,tʃ a: l i ʃ i,,melendez_lozano_diccionario_2011,,,,,tS a l i S i,S a i l tS
+330,Baniwa-52_liver-1,,Baniwa,52_liver,-xópana,-xópana,ʃ ó/o p a n a,,ramirez_dicionario_2001,,,,,S o o p a n a,S a n o p
+331,Kabiyari-52_liver-1,,Kabiyari,52_liver,úupana,úupana,ú/u u p a n a,,Chacon2017,,,,,u u u p a n a,a n p u
+332,Piapoco-52_liver-1,,Piapoco,52_liver,ubana,ubana,u b a n a,,Chacon2017,,,,,u b a n a,a b n u
+333,Resigaro-52_liver-1,,Resigaro,52_liver,-opáanú,-opáanú,o p á/a a n ú/u,,huber_vocabulario_1992,,,,,o p a a a n u u,a n o p u
+334,Yukuna-52_liver-1,,Yukuna,52_liver,panaji,panaji,p a n a j i,,schauer_diccionario_2005,,,,,p a n a y i,a i n p y
+335,Achagua-53_long-1,,Achagua,53_long,matʃéenii,matʃe:ni:,m a tʃ e: n i:,,melendez_lozano_diccionario_2011,,,,,m a tS e n i,a e i m n tS
+336,Baniwa-53_long-1,,Baniwa,53_long,yápi,yápi,y á/a p i,,ramirez_dicionario_2001,,,,,i a a p i,a i p
+337,Kabiyari-53_long-1,,Kabiyari,53_long,wia,wia,w i a,,ramirez_dicionario_2001,,,,,w i a,a i w
+338,Piapoco-53_long-1,,Piapoco,53_long,cáaléeri,káaléeri,k á/a a l é/e e r i,,Chacon2017,,,,,k a a a l e e e r i,a e i k l r
+339,Resigaro-53_long-1,,Resigaro,53_long,tseinó?,tseinó?,ts e i n ó/o ʔ,,Chacon2017,,,,,ts e i n o o 7,7 e i n o ts
+340,Yukuna-53_long-1,,Yukuna,53_long,waphereni,waphereni,w a pʰ e r e n i,,schauer_diccionario_2005,,,,,w a ph~ e r e n i,a e i n ph~ r w
+341,Achagua-54_louse-1,,Achagua,54_louse,witéneʃi,witeneʃi,w i t e n e ʃ i,,melendez_lozano_diccionario_2011,,,,,w i t e n e S i,S e i n t w
+342,Baniwa-54_louse-1,,Baniwa,54_louse,towída,towída,t o w í/i d a,,ramirez_dicionario_2001,,,,,t o w i i d a,a d i o t w
+343,Kabiyari-54_louse-1,,Kabiyari,54_louse,nií,nií,n i í/i,,Chacon2017,,,,,n i i i,i n
+344,Piapoco-54_louse-1,,Piapoco,54_louse,cùlibàu,kùlibàu,k ù/u l i b à/a u,,Chacon2017,,,,,k u u l i b a a u,a b i k l u
+345,Resigaro-54_louse-1,,Resigaro,54_louse,netetshí?ó,netetsʰíʔó,n e t e tsʰ í/i ʔ ó/o,,Chacon2017,,,,,n e t e tsh~ i i 7 o o,7 e i n o t tsh~
+346,Yukuna-54_louse-1,,Yukuna,54_louse,inejí,rine,r i n e,,schauer_diccionario_2005,,,,,r i n e,e i n r
+347,Achagua-55_manadultmale-1,,Achagua,55_manadultmale,waʃiálikueri,waʃialikueri,w a ʃ i a l i k u e r i,,melendez_lozano_diccionario_2011,,,,,w a S i a l i k u e r i,S a e i k l r u w
+348,Baniwa-55_manadultmale-1,,Baniwa,55_manadultmale,atsíanli,atsíanli,a ts í/i a n l i,,ramirez_dicionario_2001,,,,,a ts i i a n l i,a i l n ts
+349,Baniwa-55_manadultmale-2,,Baniwa,55_manadultmale,newíki,newíki,n e w í/i k i,,ramirez_dicionario_2001,,,,,n e w i i k i,e i k n w
+350,Kabiyari-55_manadultmale-1,,Kabiyari,55_manadultmale,t̪ijá-ri,t̪ijá-ri,t̪ i j á/a r i,,Chacon2017,,,,,t i y a a r i,a i r t y
+351,Resigaro-55_manadultmale-1,,Resigaro,55_manadultmale,atsáagí,atsáagí,a ts á/a a g í/i,,Chacon2017,,,,,a ts a a a g i i,a g i ts
+352,Yukuna-55_manadultmale-1,,Yukuna,55_manadultmale,achiñá,atʃiɲá,a tʃ i ɲ á/a,,Chacon2017,,,,,a tS i 5 a a,5 a i tS
+353,Achagua-56_many-1,,Achagua,56_many,báhiala,bahiala,b a h i a l a,,melendez_lozano_diccionario_2011,,,,,b a h i a l a,a b h i l
+354,Baniwa-56_many-1,,Baniwa,56_many,hanípa,hanípa,h a n í/i p a,,ramirez_dicionario_2001,,,,,h a n i i p a,a h i n p
+355,Baniwa-56_many-2,,Baniwa,56_many,hóre,hóre,h ó/o r e,,ramirez_dicionario_2001,,,,,h o o r e,e h o r
+356,Baniwa-56_many-3,,Baniwa,56_many,manópe,manópe,m a n ó/o p e,,ramirez_dicionario_2001,,,,,m a n o o p e,a e m n o p
+357,Kabiyari-56_many-1,,Kabiyari,56_many,muura,muura,m uu r a,,ramirez_dicionario_2001,,,,,m uu r a,a m r uu
+358,Piapoco-56_many-1,,Piapoco,56_many,kána(na)ma,kána(na)ma,k á/a n a n a m a,,ramirez_dicionario_2001,,,,,k a a n a n a m a,a k m n
+359,Piapoco-56_many-2,,Piapoco,56_many,manuba,manuba,m a n u b a,,ramirez_dicionario_2001,,,,,m a n u b a,a b m n u
+360,Piapoco-56_many-3,,Piapoco,56_many,maini,maini,m a i n i,,ramirez_dicionario_2001,,,,,m a i n i,a i m n
+361,Resigaro-56_many-1,,Resigaro,56_many,an̥epúúʔ,an̥epúúʔ,a n̥ e p ú:/uː ʔ,,huber_vocabulario_1992,,,,,a n e p u u 7,7 a e n p u
+362,Yukuna-56_many-1,,Yukuna,56_many,cha'aphá,cha'aphá,ʃ a ʔ a pʰ á/a,,schauer_diccionario_2005,,,,,S a 7 a ph~ a a,7 S a ph~
+363,Achagua-57_moon-1,,Achagua,57_moon,kéeri,ke:ri,k e: r i,,melendez_lozano_diccionario_2011,,,,,k e r i,e i k r
+364,Baniwa-57_moon-1,,Baniwa,57_moon,kéeri,kéeri,k é/e e r i,,ramirez_dicionario_2001,,,,,k e e e r i,e i k r
+365,Kabiyari-57_moon-1,,Kabiyari,57_moon,kéeri,kéeri,k é/e e r i,,Chacon2017,,,,,k e e e r i,e i k r
+366,Piapoco-57_moon-1,,Piapoco,57_moon,quéeri,ké:ɾi,k é:/eː ɾ i,,Chacon2017,,,,,k e e r i,e i k r
+367,Resigaro-57_moon-1,,Resigaro,57_moon,keégí,keégí,k e é/e g í/i,,Chacon2017,,,,,k e e e g i i,e g i k
+368,Yukuna-57_moon-1,,Yukuna,57_moon,keri,keɾi,k e ɾ i,,Chacon2017,,,,,k e r i,e i k r
+369,Achagua-58_mountain-1,,Achagua,58_mountain,dúuli,dúuli,d ú/u u l i,,ramirez_dicionario_2001,,,,,d u u u l i,d i l u
+370,Baniwa-58_mountain-1,,Baniwa,58_mountain,hidzápa,hidzápa,h i dz á/a p a,,ramirez_dicionario_2001,,,,,h i dz a a p a,a dz h i p
+371,Baniwa-58_mountain-2,,Baniwa,58_mountain,híipana,híipana,h í/i i p a n a,,ramirez_dicionario_2001,,,,,h i i i p a n a,a h i n p
+372,Kabiyari-58_mountain-1,,Kabiyari,58_mountain,marena,marena,m a r e n a,,Chacon2017,,,,,m a r e n a,a e m n r
+373,Kabiyari-58_mountain-2,,Kabiyari,58_mountain,takari,takari,t a k a r i,,Chacon2017,,,,,t a k a r i,a i k r t
+374,Piapoco-58_mountain-1,,Piapoco,58_mountain,dúli,dúli,d ú/u l i,,Chacon2017,,,,,d u u l i,d i l u
+375,Resigaro-58_mountain-1,,Resigaro,58_mountain,tégahú,tégahú,t é/e g a h ú/u,,allin_vocabulario_1979,,,,,t e e g a h u u,a e g h t u
+376,Tariana-58_mountain-1,,Tariana,58_mountain,maka-pulikúda,maka-pulikúda,m a k a p u l i k ú/u d a,,Chacon2017,,,,,m a k a p u l i k u u d a,a d i k l m p u
+377,Yukuna-58_mountain-1,,Yukuna,58_mountain,yenuri,jenuɾi,j e n u ɾ i,,Chacon2017,,,,,y e n u r i,e i n r u y
+378,Warekena-58_mountain-1,,Warekena,58_mountain,hidápa,hidápa,h i d á/a p a,,ramirez_dicionario_2001,,,,,h i d a a p a,a d h i p
+379,Achagua-59_mouth-1,,Achagua,59_mouth,númaʃi,numaʃi,n u m a ʃ i,,melendez_lozano_diccionario_2011,,,,,n u m a S i,S a i m n u
+380,Baniwa-59_mouth-1,,Baniwa,59_mouth,-nóma,-nóma,n ó/o m a,,ramirez_dicionario_2001,,,,,n o o m a,a m n o
+381,Kabiyari-59_mouth-1,,Kabiyari,59_mouth,numa,numa,n u m a,,Chacon2017,,,,,n u m a,a m n u
+382,Piapoco-59_mouth-1,,Piapoco,59_mouth,nùma,nùma,n ù/u m a,,Chacon2017,,,,,n u u m a,a m n u
+383,Resigaro-59_mouth-1,,Resigaro,59_mouth,nó,nó,n ó/o,,Chacon2017,,,,,n o o,n o
+384,Yukuna-59_mouth-1,,Yukuna,59_mouth,numaji,numahi,n u m a h i,,Chacon2017,,,,,n u m a h i,a h i m n u
+385,Achagua-60_name-1,,Achagua,60_name,hiʔinaʃi,hiʔinaʃi,h i ʔ i n a ʃ i,,melendez_lozano_diccionario_2011,,,,,h i 7 i n a S i,7 S a h i n
+386,Baniwa-60_name-1,,Baniwa,60_name,-iipítana,-iipítana,ii p í/i t a n a,,ramirez_dicionario_2001,,,,,ii p i i t a n a,a i ii n p t
+387,Kabiyari-60_name-1,,Kabiyari,60_name,íí,íí,íí/iː,,Chacon2017,,,,,ii i,i ii
+388,Piapoco-60_name-1,,Piapoco,60_name,ípidená,ípidená,í/i p i d e n á/a,,Chacon2017,,,,,i i p i d e n a a,a d e i n p
+389,Resigaro-60_name-1,,Resigaro,60_name,iivú,iivú,ii v ú/u,,Chacon2017,,,,,ii v u u,ii u v
+390,Yukuna-60_name-1,,Yukuna,60_name,iíji,iíhi,i í/i h i,,Chacon2017,,,,,i i i h i,h i
+391,Achagua-61_neck-1,,Achagua,61_neck,wáaʃi,wa:ʃi,w a: ʃ i,,melendez_lozano_diccionario_2011,,,,,w a S i,S a i w
+392,Baniwa-61_neck-1,,Baniwa,61_neck,-nóoro,-nóoro,n ó/o o r o,,ramirez_dicionario_2001,,,,,n o o o r o,n o r
+393,Kabiyari-61_neck-1,,Kabiyari,61_neck,kanhapi,kanhapi,k a ɲ a p i,,Chacon2017,,,,,k a 5 a p i,5 a i k p
+394,Piapoco-61_neck-1,,Piapoco,61_neck,canápi,kanápi,k a n á/a p i,,Chacon2017,,,,,k a n a a p i,a i k n p
+395,Resigaro-61_neck-1,,Resigaro,61_neck,-iñočhí,-iñočhí,i ñ o tʃʰ í/i,,allin_vocabulario_1979,,,,,i n* o tSh~ i i,i n* o tSh~
+396,Yukuna-61_neck-1,,Yukuna,61_neck,núrupiji,núrupihi,n ú/u r u p i h i,,Chacon2017,,,,,n u u r u p i h i,h i n p r u
+397,Achagua-62_new-1,,Achagua,62_new,wáalii,wa:li:,w a: l i:,,melendez_lozano_diccionario_2011,,,,,w a l i,a i l w
+398,Baniwa-62_new-1,,Baniwa,62_new,éemi,éemi,é/e e m i,,ramirez_dicionario_2001,,,,,e e e m i,e i m
+399,Baniwa-62_new-2,,Baniwa,62_new,wali-,wali-,w a l i,,ramirez_dicionario_2001,,,,,w a l i,a i l w
+400,Baniwa-62_new-3,,Baniwa,62_new,yapiápali,yapiápali,y a p i á/a p a l i,,ramirez_dicionario_2001,,,,,i a p i a a p a l i,a i l p
+401,Kabiyari-62_new-1,,Kabiyari,62_new,wárit̪é,wárit̪é,w á/a r i t̪ é/e,,Chacon2017,,,,,w a a r i t e e,a e i r t w
+402,Piapoco-62_new-1,,Piapoco,62_new,wàlisàiri,wàlisàiri,w à/a l i s à/a i r i,,Chacon2017,,,,,w a a l i s a a i r i,a i l r s w
+403,Resigaro-62_new-1,,Resigaro,62_new,be?é,be?é,b e ʔ é/e,,Chacon2017,,,,,b e 7 e e,7 b e
+404,Yukuna-62_new-1,,Yukuna,62_new,wajé,wahé,w a h é/e,,Chacon2017,,,,,w a h e e,a e h w
+405,Achagua-63_night-1,,Achagua,63_night,táaje,ta:je,t a: j e,,melendez_lozano_diccionario_2011,,,,,t a y e,a e t y
+406,Baniwa-63_night-1,,Baniwa,63_night,déepi,déepi,d é/e e p i,,ramirez_dicionario_2001,,,,,d e e e p i,d e i p
+407,Kabiyari-63_night-1,,Kabiyari,63_night,néápi,néápi,n é/e á/a p i,,Chacon2017,,,,,n e e a a p i,a e i n p
+408,Piapoco-63_night-1,,Piapoco,63_night,catá,katá,k a t á/a,,Chacon2017,,,,,k a t a a,a k t
+409,Resigaro-63_night-1,,Resigaro,63_night,naapí,naapí,n aa p í/i,,Chacon2017,,,,,n aa p i i,aa i n p
+410,Yukuna-63_night-1,,Yukuna,63_night,lapí,lapí,l a p í/i,,Chacon2017,,,,,l a p i i,a i l p
+411,Achagua-64_nose-1,,Achagua,64_nose,dákuʃi,dakuʃi,d a k u ʃ i,,melendez_lozano_diccionario_2011,,,,,d a k u S i,S a d i k u
+412,Baniwa-64_nose-1,,Baniwa,64_nose,-hitáko,-hitáko,h i t á/a k o,,ramirez_dicionario_2001,,,,,h i t a a k o,a h i k o t
+413,Kabiyari-64_nose-1,,Kabiyari,64_nose,hitákú,hitákú,h i t á/a k ú/u,,Chacon2017,,,,,h i t a a k u u,a h i k t u
+414,Piapoco-64_nose-1,,Piapoco,64_nose,ídacu,ídaku,í/i d a k u,,Chacon2017,,,,,i i d a k u,a d i k u
+415,Resigaro-64_nose-1,,Resigaro,64_nose,-hitákó,-hitákó,h i t á/a k ó/o,,allin_vocabulario_1979,,,,,h i t a a k o o,a h i k o t
+416,Yukuna-64_nose-1,,Yukuna,64_nose,takuji,takuhi,t a k u h i,,Chacon2017,,,,,t a k u h i,a h i k t u
+417,Achagua-65_not-1,,Achagua,65_not,ma-,ma-,m a,,ramirez_dicionario_2001,,,,,m a,a m
+418,Achagua-65_not-2,,Achagua,65_not,hookai,hookai,h oo k a i,,ramirez_dicionario_2001,,,,,h oo k a i,a h i k oo
+419,Baniwa-65_not-1,,Baniwa,65_not,ma-,ma-,m a,,ramirez_dicionario_2001,,,,,m a,a m
+420,Baniwa-65_not-2,,Baniwa,65_not,ñáme,ñáme,ñ á/a m e,,ramirez_dicionario_2001,,,,,n* a a m e,a e m n*
+421,Kabiyari-65_not-1,,Kabiyari,65_not,uka,uka,u k a,,Chacon2017,,,,,u k a,a k u
+422,Piapoco-65_not-1,,Piapoco,65_not,càmita,kàmita,k à/a m i t a,,Chacon2017,,,,,k a a m i t a,a i k m t
+423,Resigaro-65_not-1,,Resigaro,65_not,nii,nii,n ii,,ramirez_dicionario_2001,,,,,n ii,ii n
+424,Resigaro-65_not-2,,Resigaro,65_not,ma-,ma-,m a,,ramirez_dicionario_2001,,,,,m a,a m
+425,Tariana-65_not-1,,Tariana,65_not,ma-,ma-,m a,,ramirez_dicionario_2001,,,,,m a,a m
+426,Yukuna-65_not-1,,Yukuna,65_not,unká,unká,u n k á/a,,Chacon2017,,,,,u n k a a,a k n u
+427,Warekena-65_not-1,,Warekena,65_not,ma-,ma-,m a,,ramirez_dicionario_2001,,,,,m a,a m
+428,Warekena-65_not-2,,Warekena,65_not,nalé,nalé,n a l é/e,,ramirez_dicionario_2001,,,,,n a l e e,a e l n
+429,Achagua-66_one-1,,Achagua,66_one,áabai,a:bai,a: b a i,,melendez_lozano_diccionario_2011,,,,,a b a i,a b i
+430,Baniwa-66_one-1,,Baniwa,66_one,a(a)pa-,a(a)pa-,a a p a,,ramirez_dicionario_2001,,,,,a a p a,a p
+431,Kabiyari-66_one-1,,Kabiyari,66_one,pa[pu],pa[pu],p a p u,,Chacon2017,,,,,p a p u,a p u
+432,Piapoco-66_one-1,,Piapoco,66_one,ab[ì-],ab[ì-],a b ì/i,,Chacon2017,,,,,a b i i,a b i
+433,Piapoco-66_one-2,,Piapoco,66_one,abe,abe,a b e,,Chacon2017,,,,,a b e,a b e
+434,Resigaro-66_one-1,,Resigaro,66_one,pa[topʰe],pa[topʰe],p a t o pʰ e,,Chacon2017,,,,,p a t o ph~ e,a e o p ph~ t
+435,Resigaro-66_one-2,,Resigaro,66_one,sagú,sagú,s a g ú/u,,Chacon2017,,,,,s a g u u,a g s u
+436,Yukuna-66_one-1,,Yukuna,66_one,pajluwa,pa(hluwáha),p a h l u w á/a h a,,Chacon2017,,,,,p a h l u w a a h a,a h l p u w
+437,Achagua-67_path-1,,Achagua,67_path,iníhibaa,inihiba:,i n i h i b a:,,melendez_lozano_diccionario_2011,,,,,i n i h i b a,a b h i n
+438,Baniwa-67_path-1,,Baniwa,67_path,inípo,inípo,i n í/i p o,,ramirez_dicionario_2001,,,,,i n i i p o,i n o p
+439,Baniwa-67_path-2,,Baniwa,67_path,-aapówa,-aapówa,aa p ó/o w a,,ramirez_dicionario_2001,,,,,aa p o o w a,a aa o p w
+440,Baniwa-67_path-3,,Baniwa,67_path,-aapowánaa,-aapowánaa,aa p o w á/a n aa,,ramirez_dicionario_2001,,,,,aa p o w a a n aa,a aa n o p w
+441,Kabiyari-67_path-1,,Kabiyari,67_path,apú-há,apú-há,a p ú/u h á/a,,Chacon2017,,,,,a p u u h a a,a h p u
+442,Kabiyari-67_path-2,,Kabiyari,67_path,jóopu,jóopu,j ó/o o p u,,Chacon2017,,,,,y o o o p u,o p u y
+443,Kabiyari-67_path-3,,Kabiyari,67_path,ajápú,ajápú,a j á/a p ú/u,,Chacon2017,,,,,a y a a p u u,a p u y
+444,Piapoco-67_path-1,,Piapoco,67_path,àyapu,àjapu,à/a j a p u,,Chacon2017,,,,,a a y a p u,a p u y
+445,Resigaro-67_path-1,,Resigaro,67_path,aǰápó,adʒápó,a dʒ á/a p ó/o,,Chacon2017,,,,,a dZ a a p o o,a dZ o p
+446,Resigaro-67_path-2,,Resigaro,67_path,éhuúhí,éhuúhí,é/e h u ú/u h í/i,,Chacon2017,,,,,e e h u u u h i i,e h i u
+447,Yukuna-67_path-1,,Yukuna,67_path,iñe'epú,iñe'epú,i ñ e ʔ e p ú/u,,schauer_diccionario_2005,,,,,i n* e 7 e p u u,7 e i n* p u
+448,Achagua-68_person-1,,Achagua,68_person,wenàiwica,wenàiwika,w e n à/a i w i k a,,Chacon2017,,,,,w e n a a i w i k a,a e i k n w
+449,Baniwa-68_person-1,,Baniwa,68_person,newíki,newíki,n e w í/i k i,,ramirez_dicionario_2001,,,,,n e w i i k i,e i k n w
+450,Kabiyari-68_person-1,,Kabiyari,68_person,néki-ri,néki-ɾi,n é/e k i ɾ i,,Chacon2017,,,,,n e e k i r i,e i k n r
+451,Piapoco-68_person-1,,Piapoco,68_person,wenàiwica,wenàiwika,w e n à/a i w i k a,,Chacon2017,,,,,w e n a a i w i k a,a e i k n w
+452,Resigaro-68_person-1,,Resigaro,68_person,ináavi?žaánigí,ináaviʔʒaánigí,i n á/a a v i ʔ ʒ a á/a n i g í/i,,Chacon2017,,,,,i n a a a v i 7 Z a a a n i g i i,7 Z a g i n v
+453,Yukuna-68_person-1,,Yukuna,68_person,ina'uké,ina'uké,i n a ʔ u k é/e,,Chacon2017,,,,,i n a 7 u k e e,7 a e i k n u
+454,Achagua-69_rain-1,,Achagua,69_rain,júweriu,júweriu,j ú/u w e r i u,,melendez_lozano_diccionario_2011,,,,,y u u w e r i u,e i r u w y
+455,Baniwa-69_rain-1,,Baniwa,69_rain,íidza,íidza,í/i i dz a,,ramirez_dicionario_2001,,,,,i i i dz a,a dz i
+456,Kabiyari-69_rain-1,,Kabiyari,69_rain,peʔekhe,peʔekhe,p e ʔ e kʰ e,,Chacon2017,,,,,p e 7 e kh~ e,7 e kh~ p
+457,Kabiyari-69_rain-2,,Kabiyari,69_rain,pehe,pehe,p e h e,,Chacon2017,,,,,p e h e,e h p
+458,Piapoco-69_rain-1,,Piapoco,69_rain,unía,unía,u n í/i a,,Chacon2017,,,,,u n i i a,a i n u
+459,Resigaro-69_rain-1,,Resigaro,69_rain,fá?voótsí,fá?voótsí,f á/a ʔ v o ó/o ts í/i,,Chacon2017,,,,,f a a 7 v o o o ts i i,7 a f i o ts v
+460,Yukuna-69_rain-1,,Yukuna,69_rain,juni,huni,h u n i,,Chacon2017,,,,,h u n i,h i n u
+461,Achagua-70_red-1,,Achagua,70_red,kírai,kírai,k í/i r a i,,melendez_lozano_diccionario_2011,,,,,k i i r a i,a i k r
+462,Baniwa-70_red-1,,Baniwa,70_red,iirai,iirai,ii r a i,,ramirez_dicionario_2001,,,,,ii r a i,a i ii r
+463,Baniwa-70_red-2,,Baniwa,70_red,kéerama,kéerama,k é/e e r a m a,,ramirez_dicionario_2001,,,,,k e e e r a m a,a e k m r
+464,Kabiyari-70_red-1,,Kabiyari,70_red,kíira,kíira,k í/i i r a,,Chacon2017,,,,,k i i i r a,a i k r
+465,Piapoco-70_red-1,,Piapoco,70_red,quíiraca,kí:ɾaka,k í:/iː ɾ a k a,,Chacon2017,,,,,k i i r a k a,a i k r
+466,Resigaro-70_red-1,,Resigaro,70_red,kedávií́?,kedávií́ʔ,k e d á/a v i í/i ʔ,,Chacon2017,,,,,k e d a a v i i i 7,7 a d e i k v
+467,Yukuna-70_red-1,,Yukuna,70_red,kerani,keɾani,k e ɾ a n i,,Chacon2017,,,,,k e r a n i,a e i k n r
+468,Achagua-71_root-1,,Achagua,71_root,híitʃuʃi,híitʃuʃi,h í/i i tʃ u ʃ i,,melendez_lozano_diccionario_2011,,,,,h i i i tS u S i,S h i tS u
+469,Baniwa-71_root-1,,Baniwa,71_root,-pali,-pali,p a l i,,ramirez_dicionario_2001,,,,,p a l i,a i l p
+470,Kabiyari-71_root-1,,Kabiyari,71_root,apáre,apáre,a p á/a r e,,Chacon2017,,,,,a p a a r e,a e p r
+471,Piapoco-71_root-1,,Piapoco,71_root,ipìchu,ipìtʃu,i p ì/i tʃ u,,Chacon2017,,,,,i p i i tS u,i p tS u
+472,Resigaro-71_root-1,,Resigaro,71_root,tébaké,tébaké,t é/e b a k é/e,,Chacon2017,,,,,t e e b a k e e,a b e k t
+473,Yukuna-71_root-1,,Yukuna,71_root,ji'ilaji,hiʔilahi,h i ʔ i l a h i,,Chacon2017,,,,,h i 7 i l a h i,7 a h i l
+474,Warekena-71_root-1,,Warekena,71_root,-ili,-ili,i l i,,ramirez_dicionario_2001,,,,,i l i,i l
+475,Achagua-72_round-1,,Achagua,72_round,maka,maka,m a k a,,ramirez_dicionario_2001,,,,,m a k a,a k m
+476,Baniwa-72_round-1,,Baniwa,72_round,madzakánhu,madzakánhu,m a dz a k á/a ɲ u,,ramirez_dicionario_2001,,,,,m a dz a k a a 5 u,5 a dz k m u
+477,Kabiyari-72_round-1,,Kabiyari,72_round,paβuudú,paβuudú,p a β uu d ú/u,,huber_vocabulario_1992,,,,,p a b uu d u u,a b d p u uu
+478,Resigaro-72_round-1,,Resigaro,72_round,pavuudu,pavuudu,p a v uu d u,,ramirez_dicionario_2001,,,,,p a v uu d u,a d p u uu v
+479,Achagua-73_sand-1,,Achagua,73_sand,káina,káina,k á/a i n a,,melendez_lozano_diccionario_2011,,,,,k a a i n a,a i k n
+480,Baniwa-73_sand-1,,Baniwa,73_sand,káida,káida,k á/a i d a,,ramirez_dicionario_2001,,,,,k a a i d a,a d i k
+481,Kabiyari-73_sand-1,,Kabiyari,73_sand,káʔa,káʔa,k á/a ʔ a,,Chacon2017,,,,,k a a 7 a,7 a k
+482,Piapoco-73_sand-1,,Piapoco,73_sand,kai[na],kai[na],k a i n a,,Chacon2017,,,,,k a i n a,a i k n
+483,Resigaro-73_sand-1,,Resigaro,73_sand,meníigí,meníigí,m e n í/i i g í/i,,allin_vocabulario_1979,,,,,m e n i i i g i i,e g i m n
+484,Yukuna-73_sand-1,,Yukuna,73_sand,ke'epé,keʔ-pé,k e ʔ p é/e,,Chacon2017,,,,,k e 7 p e e,7 e k p
+485,Achagua-74_say-1,,Achagua,74_say,máiri,máiri,m á/a i r i,,melendez_lozano_diccionario_2011,,,,,m a a i r i,a i m r
+486,Baniwa-74_say-1,,Baniwa,74_say,-kaíte,-kaíte,k a í/i t e,,ramirez_dicionario_2001,,,,,k a i i t e,a e i k t
+487,Kabiyari-74_say-1,,Kabiyari,74_say,íma,íma,í/i m a,,Chacon2017,,,,,i i m a,a i m
+488,Piapoco-74_say-1,,Piapoco,74_say,íma,íma,í/i m a,,Chacon2017,,,,,i i m a,a i m
+489,Resigaro-74_say-1,,Resigaro,74_say,-kemú,-kemú,k e m ú/u,,allin_vocabulario_1979,,,,,k e m u u,e k m u
+490,Yukuna-74_say-1,,Yukuna,74_say,mí-,mí-,m í/i,,Chacon2017,,,,,m i i,i m
+491,Warekena-74_say-1,,Warekena,74_say,-máka,-máka,m á/a k a,,ramirez_dicionario_2001,,,,,m a a k a,a k m
+492,Warekena-74_say-2,,Warekena,74_say,-kasaléta,-kasaléta,k a s a l é/e t a,,ramirez_dicionario_2001,,,,,k a s a l e e t a,a e k l s t
+493,Achagua-75_see-1,,Achagua,75_see,káberi,káberi,k á/a b e r i,,melendez_lozano_diccionario_2011,,,,,k a a b e r i,a b e i k r
+494,Baniwa-75_see-1,,Baniwa,75_see,-kápa,-kápa,k á/a p a,,ramirez_dicionario_2001,,,,,k a a p a,a k p
+495,Kabiyari-75_see-1,,Kabiyari,75_see,ikhá,ikhá,i kʰ á/a,,Chacon2017,,,,,i kh~ a a,a i kh~
+496,Piapoco-75_see-1,,Piapoco,75_see,icáca,ikáka,i k á/a k a,,Chacon2017,,,,,i k a a k a,a i k
+497,Resigaro-75_see-1,,Resigaro,75_see,-tshení,-tshení,tsʰ e n í/i,,huber_vocabulario_1992,,,,,tsh~ e n i i,e i n tsh~
+498,Yukuna-75_see-1,,Yukuna,75_see,amákaje,amákahe,a m á/a k a h e,,Chacon2017,,,,,a m a a k a h e,a e h k m
+499,Achagua-76_seed-1,,Achagua,76_seed,íimiʃi,íimiʃi,í/i i m i ʃ i,,melendez_lozano_diccionario_2011,,,,,i i i m i S i,S i m
+500,Baniwa-76_seed-1,,Baniwa,76_seed,-éekhe,-éekhe,é/e e kʰ e,,ramirez_dicionario_2001,,,,,e e e kh~ e,e kh~
+501,Kabiyari-76_seed-1,,Kabiyari,76_seed,(ka ka)kitjihe,(ka ka)kitjihe,k a + k a k i t j i h e,,huber_vocabulario_1992,,,,,k a  k a k i t y i h e, a e h i k t y
+502,Resigaro-76_seed-1,,Resigaro,76_seed,hímiú,hímiú,h í/i m i ú/u,,allin_vocabulario_1979,,,,,h i i m i u u,h i m u
+503,Yukuna-76_seed-1,,Yukuna,76_seed,ijiji,ijiji,i j i j i,,schauer_diccionario_2005,,,,,i y i y i,i y
+504,Warekena-76_seed-1,,Warekena,76_seed,-ihina,-ihina,i h i n a,,ramirez_dicionario_2001,,,,,i h i n a,a h i n
+505,Achagua-77_sit-1,,Achagua,77_sit,wáairiu,wáairiu,w á/a a i r i u,,melendez_lozano_diccionario_2011,,,,,w a a a i r i u,a i r u w
+506,Baniwa-77_sit-1,,Baniwa,77_sit,-oówhaa,-oówhaa,o ó/o w h aa,,ramirez_dicionario_2001,,,,,o o o w h aa,aa h o w
+507,Kabiyari-77_sit-1,,Kabiyari,77_sit,tu(')na,tu(')na,t u ʔ n a,,Chacon2017,,,,,t u 7 n a,7 a n t u
+508,Piapoco-77_sit-1,,Piapoco,77_sit,awinacawa,awinakawa,a w i n a k a w a,,Chacon2017,,,,,a w i n a k a w a,a i k n w
+509,Resigaro-77_sit-1,,Resigaro,77_sit,ítshú,ítsʰú,í/i tsʰ ú/u,,Chacon2017,,,,,i i tsh~ u u,i tsh~ u
+510,Resigaro-77_sit-2,,Resigaro,77_sit,i?tsháká,iʔtsʰáká,i ʔ tsʰ á/a k á/a,,Chacon2017,,,,,i 7 tsh~ a a k a a,7 a i k tsh~
+511,Yukuna-77_sit-1,,Yukuna,77_sit,yá'akajo,jáʔakaho,j á/a ʔ a k a h o,,Chacon2017,,,,,y a a 7 a k a h o,7 a h k o y
+512,Yukuna-77_sit-2,,Yukuna,77_sit,yá'akaje,yá'akaje,y á/a ʔ a k a j e,,Chacon2017,,,,,i a a 7 a k a y e,7 a e i k y
+513,Achagua-78_skin-1,,Achagua,78_skin,íimanaʃi,íimanaʃi,í/i i m a n a ʃ i,,melendez_lozano_diccionario_2011,,,,,i i i m a n a S i,S a i m n
+514,Baniwa-78_skin-1,,Baniwa,78_skin,-ya,-ya,y a,,ramirez_dicionario_2001,,,,,i a,a i
+515,Kabiyari-78_skin-1,,Kabiyari,78_skin,íʔa-mi,íʔa-mi,í/i ʔ a m i,,Chacon2017,,,,,i i 7 a m i,7 a i m
+516,Piapoco-78_skin-1,,Piapoco,78_skin,ímami,ímami,í/i m a m i,,Chacon2017,,,,,i i m a m i,a i m
+517,Resigaro-78_skin-1,,Resigaro,78_skin,eémú,eémú,e é/e m ú/u,,Chacon2017,,,,,e e e m u u,e m u
+518,Yukuna-78_skin-1,,Yukuna,78_skin,ímaji,ímahi,í/i m a h i,,Chacon2017,,,,,i i m a h i,a h i m
+519,Achagua-79_sleep-1,,Achagua,79_sleep,máairi,máairi,m á/a a i r i,,melendez_lozano_diccionario_2011,,,,,m a a a i r i,a i m r
+520,Baniwa-79_sleep-1,,Baniwa,79_sleep,-ímaa,-ímaa,í/i m aa,,ramirez_dicionario_2001,,,,,i i m aa,aa i m
+521,Kabiyari-79_sleep-1,,Kabiyari,79_sleep,imáa,imáa,i m á/a a,,Chacon2017,,,,,i m a a a,a i m
+522,Piapoco-79_sleep-1,,Piapoco,79_sleep,imáca,imáka,i m á/a k a,,Chacon2017,,,,,i m a a k a,a i k m
+523,Resigaro-79_sleep-1,,Resigaro,79_sleep,ímú,ímú,í/i m ú/u,,Chacon2017,,,,,i i m u u,i m u
+524,Yukuna-79_sleep-1,,Yukuna,79_sleep,kamátakajo,kamátakaho,k a m á/a t a k a h o,,Chacon2017,,,,,k a m a a t a k a h o,a h k m o t
+525,Achagua-80_small-1,,Achagua,80_small,píituituu,pi:tuitu:,p i: t u i t u:,,melendez_lozano_diccionario_2011,,,,,p i t u i t u,i p t u
+526,Baniwa-80_small-1,,Baniwa,80_small,tsúu,tsúu,ts ú/u u,,ramirez_dicionario_2001,,,,,ts u u u,ts u
+527,Kabiyari-80_small-1,,Kabiyari,80_small,karitʃhũĩ,karitʃhũĩ,k a r i tʃʰ ũ ĩ,,Chacon2017,,,,,k a r i tSh~ u* i*,a i i* k r tSh~ u*
+528,Piapoco-80_small-1,,Piapoco,80_small,achúméeri,atʃúmé:ɾi,a tʃ ú/u m é:/eː ɾ i,,Chacon2017,,,,,a tS u u m e e r i,a e i m r tS u
+529,Resigaro-80_small-1,,Resigaro,80_small,karitʃhũĩ,karitʃhũĩ,k a r i tʃʰ ũ ĩ,,Chacon2017,,,,,k a r i tSh~ u* i*,a i i* k r tSh~ u*
+530,Yukuna-80_small-1,,Yukuna,80_small,kamu'ujini,kamu'ujini,k a m u ʔ u j i n i,,schauer_diccionario_2005,,,,,k a m u 7 u y i n i,7 a i k m n u y
+531,Achagua-81_smoke-1,,Achagua,81_smoke,íisaninaa,íisaninaa,í/i i s a n i n aa,,melendez_lozano_diccionario_2011,,,,,i i i s a n i n aa,a aa i n s
+532,Baniwa-81_smoke-1,,Baniwa,81_smoke,íitta,íitta,í/i i tt a,,ramirez_dicionario_2001,,,,,i i i tt a,a i tt
+533,Kabiyari-81_smoke-1,,Kabiyari,81_smoke,ít̪a-ri,ít̪a-ri,í/i t̪ a r i,,Chacon2017,,,,,i i t a r i,a i r t
+534,Resigaro-81_smoke-1,,Resigaro,81_smoke,iítshú,iítsʰú,i í/i tsʰ ú/u,,Chacon2017,,,,,i i i tsh~ u u,i tsh~ u
+535,Yukuna-81_smoke-1,,Yukuna,81_smoke,ija,iha,i h a,,Chacon2017,,,,,i h a,a h i
+536,Achagua-82_stand-1,,Achagua,82_stand,bárueriu,barueriu,b a r u e r i u,,melendez_lozano_diccionario_2011,,,,,b a r u e r i u,a b e i r u
+537,Baniwa-82_stand-1,,Baniwa,82_stand,-éema,-éema,é/e e m a,,ramirez_dicionario_2001,,,,,e e e m a,a e m
+538,Kabiyari-82_stand-1,,Kabiyari,82_stand,patʃha,patʃha,p a tʃʰ a,,Chacon2017,,,,,p a tSh~ a,a p tSh~
+539,Piapoco-82_stand-1,,Piapoco,82_stand,bàlùanícawa,bàlùanícawa,b à/a l ù/u a n í/i c a w a,,Chacon2017,,,,,b a a l u u a n i i T a w a,T a b i l n u w
+540,Resigaro-82_stand-1,,Resigaro,82_stand,-i?tóṇú,-i?tóṇú,i ʔ t ó/o ṇ ú/u,,huber_vocabulario_1992,,,,,i 7 t o o n u u,7 i n o t u
+541,Yukuna-82_stand-1,,Yukuna,82_stand,tára'akajo,tára'akajo,t á/a r a ʔ a k a j o,,schauer_diccionario_2005,,,,,t a a r a 7 a k a y o,7 a k o r t y
+542,Achagua-83_star-1,,Achagua,83_star,sáalii,sáalii,s á/a a l ii,,melendez_lozano_diccionario_2011,,,,,s a a a l ii,a ii l s
+543,Baniwa-83_star-1,,Baniwa,83_star,hiwírhi,hiwírhi,h i w í/i rʰ i,,ramirez_dicionario_2001,,,,,h i w i i rh~ i,h i rh~ w
+544,Kabiyari-83_star-1,,Kabiyari,83_star,wirínhu,wirínhu,w i r í/i ɲ u,,Chacon2017,,,,,w i r i i 5 u,5 i r u w
+545,Piapoco-83_star-1,,Piapoco,83_star,dùlupùta,dùlupùta,d ù/u l u p ù/u t a,,Chacon2017,,,,,d u u l u p u u t a,a d l p t u
+546,Resigaro-83_star-1,,Resigaro,83_star,hivíigí,hivíigí,h i v í/i i g í/i,,Chacon2017,,,,,h i v i i i g i i,g h i v
+547,Yukuna-83_star-1,,Yukuna,83_star,iwijrí,iwihɾí,i w i h ɾ í/i,,Chacon2017,,,,,i w i h r i i,h i r w
+548,Achagua-84_stone-1,,Achagua,84_stone,íiba,íiba,í/i i b a,,melendez_lozano_diccionario_2011,,,,,i i i b a,a b i
+549,Baniwa-84_stone-1,,Baniwa,84_stone,hiipada,hiipada,h ii p a d a,,ramirez_dicionario_2001,,,,,h ii p a d a,a d h ii p
+550,Kabiyari-84_stone-1,,Kabiyari,84_stone,híipa,híipa,h í/i i p a,,Chacon2017,,,,,h i i i p a,a h i p
+551,Piapoco-84_stone-1,,Piapoco,84_stone,íba,íba,í/i b a,,Chacon2017,,,,,i i b a,a b i
+552,Resigaro-84_stone-1,,Resigaro,84_stone,vííši?óú,vííši?óú,v íí/iː ʃ i ʔ ó/o ú/u,,allin_vocabulario_1979,,,,,v ii i S i 7 o o u u,7 S i ii o u v
+553,Yukuna-84_stone-1,,Yukuna,84_stone,jipa,hipa,h i p a,,Chacon2017,,,,,h i p a,a h i p
+554,Achagua-85_sun-1,,Achagua,85_sun,káiwia,káiwia,k á/a i w i a,,melendez_lozano_diccionario_2011,,,,,k a a i w i a,a i k w
+555,Baniwa-85_sun-1,,Baniwa,85_sun,kámoi,kámoi,k á/a m o i,,ramirez_dicionario_2001,,,,,k a a m o i,a i k m o
+556,Kabiyari-85_sun-1,,Kabiyari,85_sun,abe,abe,a b e,,Chacon2017,,,,,a b e,a b e
+557,Kabiyari-85_sun-2,,Kabiyari,85_sun,eri,eri,e r i,,Chacon2017,,,,,e r i,e i r
+558,Piapoco-85_sun-1,,Piapoco,85_sun,èeri,èeri,è/e e r i,,Chacon2017,,,,,e e e r i,e i r
+559,Resigaro-85_sun-1,,Resigaro,85_sun,há?í,háʔí,h á/a ʔ í/i,,Chacon2017,,,,,h a a 7 i i,7 a h i
+560,Yukuna-85_sun-1,,Yukuna,85_sun,kamú,kamú,k a m ú/u,,Chacon2017,,,,,k a m u u,a k m u
+561,Achagua-86_swim-1,,Achagua,86_swim,jámareriu,jámareriu,j á/a m a r e r i u,,melendez_lozano_diccionario_2011,,,,,y a a m a r e r i u,a e i m r u y
+562,Baniwa-86_swim-1,,Baniwa,86_swim,-aaxaa,-aaxaa,aa ʃ aa,,ramirez_dicionario_2001,,,,,aa S aa,S aa
+563,Baniwa-86_swim-2,,Baniwa,86_swim,-aanhi,-aanhi,aa ɲ i,,ramirez_dicionario_2001,,,,,aa 5 i,5 aa i
+564,Kabiyari-86_swim-1,,Kabiyari,86_swim,awápa,awápa,a w á/a p a,,Chacon2017,,,,,a w a a p a,a p w
+565,Piapoco-86_swim-1,,Piapoco,86_swim,màlacawa,màlakawa,m à/a l a k a w a,,Chacon2017,,,,,m a a l a k a w a,a k l m w
+566,Resigaro-86_swim-1,,Resigaro,86_swim,o?vápú,oʔvápú,o ʔ v á/a p ú/u,,Chacon2017,,,,,o 7 v a a p u u,7 a o p u v
+567,Yukuna-86_swim-1,,Yukuna,86_swim,i'iwapakaje,iʔiwapakahe,i ʔ i w a p a k a h e,,Chacon2017,,,,,i 7 i w a p a k a h e,7 a e h i k p w
+568,Achagua-87_tail-1,,Achagua,87_tail,íiʃiʃi,íiʃiʃi,í/i i ʃ i ʃ i,,melendez_lozano_diccionario_2011,,,,,i i i S i S i,S i
+569,Baniwa-87_tail-1,,Baniwa,87_tail,-iittípi,-iittípi,ii tt í/i p i,,ramirez_dicionario_2001,,,,,ii tt i i p i,i ii p tt
+570,Kabiyari-87_tail-1,,Kabiyari,87_tail,t̪ipi,t̪ipi,t̪ i p i,,Chacon2017,,,,,t i p i,i p t
+571,Kabiyari-87_tail-2,,Kabiyari,87_tail,muuku,muuku,m uu k u,,Chacon2017,,,,,m uu k u,k m u uu
+572,Piapoco-87_tail-1,,Piapoco,87_tail,yàapusài,jàapusài,j à/a a p u s à/a i,,Chacon2017,,,,,y a a a p u s a a i,a i p s u y
+573,Resigaro-87_tail-1,,Resigaro,87_tail,tshíipí,tsʰíipí,tsʰ í/i i p í/i,,Chacon2017,,,,,tsh~ i i i p i i,i p tsh~
+574,Tariana-87_tail-1,,Tariana,87_tail,di-číma,di-tʃíma,d i tʃ í/i m a,,Chacon2017,,,,,d i tS i i m a,a d i m tS
+575,Tariana-87_tail-2,,Tariana,87_tail,di-sipí,di-sipí,d i s i p í/i,,Chacon2017,,,,,d i s i p i i,d i p s
+576,Yukuna-87_tail-1,,Yukuna,87_tail,jipiji,hipihi,h i p i h i,,Chacon2017,,,,,h i p i h i,h i p
+577,Achagua-88_that-1,,Achagua,88_that,liára,liára,l i á/a r a,,melendez_lozano_diccionario_2011,,,,,l i a a r a,a i l r
+578,Achagua-88_that-2,,Achagua,88_that,ruára,ruára,r u á/a r a,,melendez_lozano_diccionario_2011,,,,,r u a a r a,a r u
+579,Baniwa-88_that-1,,Baniwa,88_that,lhiera(ha),lhiera(ha),ʎ i e r a h a,,ramirez_dicionario_2001,,,,,L i e r a h a,L a e h i r
+580,Kabiyari-88_that-1,,Kabiyari,88_that,ja-ta,ja-ta,j a t a,,Chacon2017,,,,,y a t a,a t y
+581,Kabiyari-88_that-2,,Kabiyari,88_that,ja-ra,ja-ra,j a r a,,Chacon2017,,,,,y a r a,a r y
+582,Piapoco-88_that-1,,Piapoco,88_that,yáara,já:ɾa,j á:/aː ɾ a,,Chacon2017,,,,,y a a r a,a r y
+583,Resigaro-88_that-1,,Resigaro,88_that,aí,aí,a í/i,,Chacon2017,,,,,a i i,a i
+584,Yukuna-88_that-1,,Yukuna,88_that,marí,maɾí,m a ɾ í/i,,Chacon2017,,,,,m a r i i,a i m r
+585,Warekena-88_that-1,,Warekena,88_that,-la,-la,l a,,ramirez_dicionario_2001,,,,,l a,a l
+586,Warekena-88_that-2,,Warekena,88_that,-di,-di,d i,,ramirez_dicionario_2001,,,,,d i,d i
+587,Warekena-88_that-3,,Warekena,88_that,-ni,-ni,n i,,ramirez_dicionario_2001,,,,,n i,i n
+588,Achagua-89_this-1,,Achagua,89_this,liáni,liáni,l i á/a n i,,melendez_lozano_diccionario_2011,,,,,l i a a n i,a i l n
+589,Achagua-89_this-2,,Achagua,89_this,ruani,ruani,r u a n i,,melendez_lozano_diccionario_2011,,,,,r u a n i,a i n r u
+590,Achagua-89_this-3,,Achagua,89_this,náani,náani,n á/a a n i,,melendez_lozano_diccionario_2011,,,,,n a a a n i,a i n
+591,Baniwa-89_this-1,,Baniwa,89_this,Ihíehe,Ihíehe,ɪ h í/i e h e,,ramirez_dicionario_2001,,,,,i h i i e h e,e h i
+592,Kabiyari-89_this-1,,Kabiyari,89_this,do?ó,do?ó,d o ʔ ó/o,,Chacon2017,,,,,d o 7 o o,7 d o
+593,Piapoco-89_this-1,,Piapoco,89_this,yái,jái,j á/a i,,Chacon2017,,,,,y a a i,a i y
+594,Piapoco-89_this-2,,Piapoco,89_this,úái,úái,ú/u á/a i,,Chacon2017,,,,,u u a a i,a i u
+595,Resigaro-89_this-1,,Resigaro,89_this,gi?í,gi?í,g i ʔ í/i,,Chacon2017,,,,,g i 7 i i,7 g i
+596,Resigaro-89_this-2,,Resigaro,89_this,do?ó,doʔó,d o ʔ ó/o,,Chacon2017,,,,,d o 7 o o,7 d o
+597,Tariana-89_this-1,,Tariana,89_this,hĩ,hĩ,h ĩ,,Chacon2017,,,,,h i*,h i*
+598,Yukuna-89_this-1,,Yukuna,89_this,kele,kele,k e l e,,Chacon2017,,,,,k e l e,e k l
+599,Warekena-89_this-1,,Warekena,89_this,-ti,-ti,t i,,ramirez_dicionario_2001,,,,,t i,i t
+600,Achagua-90_thouyou-1,,Achagua,90_thouyou,ijá,ijá,i j á/a,,melendez_lozano_diccionario_2011,,,,,i y a a,a i y
+601,Baniwa-90_thouyou-1,,Baniwa,90_thouyou,hía,hía,h í/i a,,ramirez_dicionario_2001,,,,,h i i a,a h i
+602,Baniwa-90_thouyou-2,,Baniwa,90_thouyou,você,você,v o c ê/e,,ramirez_dicionario_2001,,,,,v o T e e,T e o v
+603,Kabiyari-90_thouyou-1,,Kabiyari,90_thouyou,phé,phé,pʰ é/e,,Chacon2017,,,,,ph~ e e,e ph~
+604,Kabiyari-90_thouyou-2,,Kabiyari,90_thouyou,pi-,pi-,p i,,Chacon2017,,,,,p i,i p
+605,Piapoco-90_thouyou-1,,Piapoco,90_thouyou,pía,pía,p í/i a,,Chacon2017,,,,,p i i a,a i p
+606,Resigaro-90_thouyou-1,,Resigaro,90_thouyou,ha?,haʔá,h a ʔ á/a,,Chacon2017,,,,,h a 7 a a,7 a h
+607,Resigaro-90_thouyou-2,,Resigaro,90_thouyou,phá,pʰá,pʰ á/a,,Chacon2017,,,,,ph~ a a,a ph~
+608,Resigaro-90_thouyou-3,,Resigaro,90_thouyou,phú,pʰú,pʰ ú/u,,Chacon2017,,,,,ph~ u u,ph~ u
+609,Tariana-90_thouyou-1,,Tariana,90_thouyou,piha,piha,p i h a,,Chacon2017,,,,,p i h a,a h i p
+610,Tariana-90_thouyou-2,,Tariana,90_thouyou,piha,pʰia,pʰ i a,,Chacon2017,,,,,ph~ i a,a i ph~
+611,Tariana-90_thouyou-3,,Tariana,90_thouyou,iha,iha,i h a,,Chacon2017,,,,,i h a,a h i
+612,Yukuna-90_thouyou-1,,Yukuna,90_thouyou,iká,iká,i k á/a,,Chacon2017,,,,,i k a a,a i k
+613,Yukuna-90_thouyou-2,,Yukuna,90_thouyou,piká,piká,p i k á/a,,Chacon2017,,,,,p i k a a,a i k p
+614,Achagua-91_tongue-1,,Achagua,91_tongue,ínaneeʃi,ínaneeʃi,í/i n a n ee ʃ i,,melendez_lozano_diccionario_2011,,,,,i i n a n ee S i,S a ee i n
+615,Baniwa-91_tongue-1,,Baniwa,91_tongue,-eenene,-eenene,ee n e n e,,ramirez_dicionario_2001,,,,,ee n e n e,e ee n
+616,Kabiyari-91_tongue-1,,Kabiyari,91_tongue,nenipá,nenipá,n e n i p á/a,,Chacon2017,,,,,n e n i p a a,a e i n p
+617,Piapoco-91_tongue-1,,Piapoco,91_tongue,nène,nène,n è/e n e,,Chacon2017,,,,,n e e n e,e n
+618,Resigaro-91_tongue-1,,Resigaro,91_tongue,e?héepé,eʔhéepé,e ʔ h é/e e p é/e,,Chacon2017,,,,,e 7 h e e e p e e,7 e h p
+619,Yukuna-91_tongue-1,,Yukuna,91_tongue,lenaji,lenahi,l e n a h i,,Chacon2017,,,,,l e n a h i,a e h i l n
+620,Achagua-92_tooth-1,,Achagua,92_tooth,éeʃi,éeʃi,é/e e ʃ i,,melendez_lozano_diccionario_2011,,,,,e e e S i,S e i
+621,Baniwa-92_tooth-1,,Baniwa,92_tooth,-eetsha,-eetsha,ee tsʰ a,,ramirez_dicionario_2001,,,,,ee tsh~ a,a ee tsh~
+622,Baniwa-92_tooth-2,,Baniwa,92_tooth,-dzawiere,-dzawiere,dz a w i e r e,,ramirez_dicionario_2001,,,,,dz a w i e r e,a dz e i r w
+623,Baniwa-92_tooth-3,,Baniwa,92_tooth,-ee,-ee,ee,,ramirez_dicionario_2001,,,,,ee,ee
+624,Baniwa-92_tooth-4,,Baniwa,92_tooth,-kako,-kako,k a k o,,ramirez_dicionario_2001,,,,,k a k o,a k o
+625,Baniwa-92_tooth-5,,Baniwa,92_tooth,-likoe,-likoe,l i k o e,,ramirez_dicionario_2001,,,,,l i k o e,e i k l o
+626,Kabiyari-92_tooth-1,,Kabiyari,92_tooth,ʔía,ʔía,ʔ í/i a,,Chacon2017,,,,,7 i i a,7 a i
+627,Piapoco-92_tooth-1,,Piapoco,92_tooth,yèi,jèi,j è/e i,,Chacon2017,,,,,y e e i,e i y
+628,Resigaro-92_tooth-1,,Resigaro,92_tooth,oné,oné,o n é/e,,Chacon2017,,,,,o n e e,e n o
+629,Yukuna-92_tooth-1,,Yukuna,92_tooth,aijí,aihí,a i h í/i,,Chacon2017,,,,,a i h i i,a h i
+630,Achagua-93_treewood-1,,Achagua,93_treewood,áikuba,áikuba,á/a i k u b a,,melendez_lozano_diccionario_2011,,,,,a a i k u b a,a b i k u
+631,Baniwa-93_treewood-1,,Baniwa,93_treewood,haiko,haiko,h a i k o,,ramirez_dicionario_2001,,,,,h a i k o,a h i k o
+632,Kabiyari-93_treewood-1,,Kabiyari,93_treewood,ʔahaa,ʔahaa,ʔ a h aa,,Chacon2017,,,,,7 a h aa,7 a aa h
+633,Piapoco-93_treewood-1,,Piapoco,93_treewood,jéetaná,jéetaná,j é/e e t a n á/a,,Chacon2017,,,,,y e e e t a n a a,a e n t y
+634,Piapoco-93_treewood-2,,Piapoco,93_treewood,àiku,àiku,à/a i k u,,Chacon2017,,,,,a a i k u,a i k u
+635,Resigaro-93_treewood-1,,Resigaro,93_treewood,aváana?é,aváanaʔé,a v á/a a n a ʔ é/e,,Chacon2017,,,,,a v a a a n a 7 e e,7 a e n v
+636,Yukuna-93_treewood-1,,Yukuna,93_treewood,a'awaná,aʔawaná,a ʔ a w a n á/a,,Chacon2017,,,,,a 7 a w a n a a,7 a n w
+637,Achagua-94_two-1,,Achagua,94_two,tʃámai,tʃámai,tʃ á/a m a i,,melendez_lozano_diccionario_2011,,,,,tS a a m a i,a i m tS
+638,Baniwa-94_two-1,,Baniwa,94_two,dzama-,dzama-,dz a m a,,ramirez_dicionario_2001,,,,,dz a m a,a dz m
+639,Kabiyari-94_two-1,,Kabiyari,94_two,tʃumaa-,tʃumaa-,tʃ u m aa,,Chacon2017,,,,,tS u m aa,aa m tS u
+640,Piapoco-94_two-1,,Piapoco,94_two,pucháiba,putʃáiba,p u tʃ á/a i b a,,Chacon2017,,,,,p u tS a a i b a,a b i p tS u
+641,Resigaro-94_two-1,,Resigaro,94_two,migaakú,migaakú,m i g aa k ú/u,,Chacon2017,,,,,m i g aa k u u,aa g i k m u
+642,Yukuna-94_two-1,,Yukuna,94_two,iyamá,ijamá,i j a m á/a,,Chacon2017,,,,,i y a m a a,a i m y
+643,Warekena-94_two-1,,Warekena,94_two,dama-,dama-,d a m a,,ramirez_dicionario_2001,,,,,d a m a,a d m
+644,Achagua-95_walk-1,,Achagua,95_walk,híneriu,híneriu,h í/i n e r i u,,melendez_lozano_diccionario_2011,,,,,h i i n e r i u,e h i n r u
+645,Baniwa-95_walk-1,,Baniwa,95_walk,-áanhi,-áanhi,á/a a ɲ i,,ramirez_dicionario_2001,,,,,a a a 5 i,5 a i
+646,Baniwa-95_walk-2,,Baniwa,95_walk,-eemánhi,-eemánhi,ee m á/a ɲ i,,ramirez_dicionario_2001,,,,,ee m a a 5 i,5 a ee i m
+647,Kabiyari-95_walk-1,,Kabiyari,95_walk,aa,aa,aa,,Chacon2017,,,,,aa,aa
+648,Piapoco-95_walk-1,,Piapoco,95_walk,nuèpunícawa,nuèpuníkawa,n u è/e p u n í/i k a w a,,Chacon2017,,,,,n u e e p u n i i k a w a,a e i k n p u w
+649,Resigaro-95_walk-1,,Resigaro,95_walk,-hí?vu,-hí?vu,h í/i ʔ v u,,allin_vocabulario_1979,,,,,h i i 7 v u,7 h i u v
+650,Yukuna-95_walk-1,,Yukuna,95_walk,ja'apákaje,ja'apákaje,j a ʔ a p á/a k a j e,,schauer_diccionario_2005,,,,,y a 7 a p a a k a y e,7 a e k p y
+651,Achagua-96_water-1,,Achagua,96_water,ʃiátai,ʃiátai,ʃ i á/a t a i,,melendez_lozano_diccionario_2011,,,,,S i a a t a i,S a i t
+652,Baniwa-96_water-1,,Baniwa,96_water,óoni,óoni,ó/o o n i,,ramirez_dicionario_2001,,,,,o o o n i,i n o
+653,Kabiyari-96_water-1,,Kabiyari,96_water,úuni,úuni,ú/u u n i,,Chacon2017,,,,,u u u n i,i n u
+654,Piapoco-96_water-1,,Piapoco,96_water,ú(u)ni,ú(u)ni,ú/u u n i,,Chacon2017,,,,,u u u n i,i n u
+655,Resigaro-96_water-1,,Resigaro,96_water,hooní,hooní,h oo n í/i,,Chacon2017,,,,,h oo n i i,h i n oo
+656,Yukuna-96_water-1,,Yukuna,96_water,juni,húni,h ú/u n i,,Chacon2017,,,,,h u u n i,h i n u
+657,Achagua-97_we-1,,Achagua,97_we,wajá,wajá,w a j á/a,,melendez_lozano_diccionario_2011,,,,,w a y a a,a w y
+658,Baniwa-97_we-1,,Baniwa,97_we,whía,whía,w h í/i a,,ramirez_dicionario_2001,,,,,w h i i a,a h i w
+659,Baniwa-97_we-2,,Baniwa,97_we,wa-,wa-,w a,,ramirez_dicionario_2001,,,,,w a,a w
+660,Kabiyari-97_we-1,,Kabiyari,97_we,whé,whé,w h é/e,,Chacon2017,,,,,w h e e,e h w
+661,Kabiyari-97_we-2,,Kabiyari,97_we,wa-,wa-,w a,,Chacon2017,,,,,w a,a w
+662,Piapoco-97_we-1,,Piapoco,97_we,wía,wía,w í/i a,,Chacon2017,,,,,w i i a,a i w
+663,Resigaro-97_we-1,,Resigaro,97_we,muu?á,muuʔá,m uu ʔ á/a,,Chacon2017,,,,,m uu 7 a a,7 a m uu
+664,Resigaro-97_we-2,,Resigaro,97_we,fa?á,faʔá,f a ʔ á/a,,Chacon2017,,,,,f a 7 a a,7 a f
+665,Tariana-97_we-1,,Tariana,97_we,w(a)ha,w(a)ha,w a h a,,Chacon2017,,,,,w a h a,a h w
+666,Yukuna-97_we-1,,Yukuna,97_we,weká,weká,w e k á/a,,Chacon2017,,,,,w e k a a,a e k w
+667,Yukuna-97_we-2,,Yukuna,97_we,weká,weká,w e k á/a,,Chacon2017,,,,,w e k a a,a e k w
+668,Warekena-97_we-1,,Warekena,97_we,wa-,wa-,w a,,ramirez_dicionario_2001,,,,,w a,a w
+669,Warekena-97_we-2,,Warekena,97_we,-wi,-wi,w i,,ramirez_dicionario_2001,,,,,w i,i w
+670,Achagua-98_what-1,,Achagua,98_what,tána,tána,t á/a n a,,melendez_lozano_diccionario_2011,,,,,t a a n a,a n t
+671,Baniwa-98_what-1,,Baniwa,98_what,kôaka?,kôaka?,k ô/o a k a ʔ,,ramirez_dicionario_2001,,,,,k o o a k a 7,7 a k o
+672,Kabiyari-98_what-1,,Kabiyari,98_what,mikha,mikha,m i kʰ a,,Chacon2017,,,,,m i kh~ a,a i kh~ m
+673,Kabiyari-98_what-2,,Kabiyari,98_what,arhi,arhi,a rʰ i,,Chacon2017,,,,,a rh~ i,a i rh~
+674,Kabiyari-98_what-3,,Kabiyari,98_what,umha,umha,u mʰ a,,Chacon2017,,,,,u mh~ a,a mh~ u
+675,Piapoco-98_what-1,,Piapoco,98_what,càiná,kàiná,k à/a i n á/a,,Chacon2017,,,,,k a a i n a a,a i k n
+676,Piapoco-98_what-2,,Piapoco,98_what,cawiná,kawiná,k a w i n á/a,,Chacon2017,,,,,k a w i n a a,a i k n w
+677,Resigaro-98_what-1,,Resigaro,98_what,keeni,keeni,k ee n i,,ramirez_dicionario_2001,,,,,k ee n i,ee i k n
+678,Resigaro-98_what-2,,Resigaro,98_what,kooni,kooni,k oo n i,,ramirez_dicionario_2001,,,,,k oo n i,i k n oo
+679,Yukuna-98_what-1,,Yukuna,98_what,na,na,n a,,Chacon2017,,,,,n a,a n
+680,Achagua-99_white-1,,Achagua,99_white,kabálai,kabálai,k a b á/a l a i,,melendez_lozano_diccionario_2011,,,,,k a b a a l a i,a b i k l
+681,Baniwa-99_white-1,,Baniwa,99_white,hále,hále,h á/a l e,,ramirez_dicionario_2001,,,,,h a a l e,a e h l
+682,Baniwa-99_white-2,,Baniwa,99_white,yalanawi,yalanawi,y a l a n a w i,,ramirez_dicionario_2001,,,,,i a l a n a w i,a i l n w
+683,Kabiyari-99_white-1,,Kabiyari,99_white,katare:i-ri,katare:i-ri,k a t a r e: i r i,,Chacon2017,,,,,k a t a r e i r i,a e i k r t
+684,Kabiyari-99_white-2,,Kabiyari,99_white,jarane,jarane,j a r a n e,,Chacon2017,,,,,y a r a n e,a e n r y
+685,Piapoco-99_white-1,,Piapoco,99_white,cabalèeri,kabalèeɾi,k a b a l è/e e ɾ i,,Chacon2017,,,,,k a b a l e e e r i,a b e i k l r
+686,Yukuna-99_white-1,,Yukuna,99_white,jareni,jareni,j a r e n i,,schauer_diccionario_2005,,,,,y a r e n i,a e i n r y
+687,Achagua-100_who-1,,Achagua,100_who,tána,tána,t á/a n a,,melendez_lozano_diccionario_2011,,,,,t a a n a,a n t
+688,Baniwa-100_who-1,,Baniwa,100_who,kóaka,kóaka,k ó/o a k a,,ramirez_dicionario_2001,,,,,k o o a k a,a k o
+689,Kabiyari-100_who-1,,Kabiyari,100_who,mikha,mikha,m i kʰ a,,Chacon2017,,,,,m i kh~ a,a i kh~ m
+690,Kabiyari-100_who-2,,Kabiyari,100_who,arhi,arhi,a rʰ i,,Chacon2017,,,,,a rh~ i,a i rh~
+691,Kabiyari-100_who-3,,Kabiyari,100_who,umha,umha,u mʰ a,,Chacon2017,,,,,u mh~ a,a mh~ u
+692,Piapoco-100_who-1,,Piapoco,100_who,càiná,kàiná,k à/a i n á/a,,Chacon2017,,,,,k a a i n a a,a i k n
+693,Piapoco-100_who-2,,Piapoco,100_who,cawiná,kawiná,k a w i n á/a,,Chacon2017,,,,,k a w i n a a,a i k n w
+694,Resigaro-100_who-1,,Resigaro,100_who,kéení,kéení,k é/e e n í/i,,huber_vocabulario_1992,,,,,k e e e n i i,e i k n
+695,Tariana-100_who-1,,Tariana,100_who,kwana,kwana,k w a n a,,Chacon2017,,,,,k w a n a,a k n w
+696,Yukuna-100_who-1,,Yukuna,100_who,najlo,nahlo,n a h l o,,Chacon2017,,,,,n a h l o,a h l n o
+697,Achagua-101_woman-1,,Achagua,101_woman,íinetoo,íinetoo,í/i i n e t oo,,melendez_lozano_diccionario_2011,,,,,i i i n e t oo,e i n oo t
+698,Achagua-101_woman-2,,Achagua,101_woman,íina,íina,í/i i n a,,melendez_lozano_diccionario_2011,,,,,i i i n a,a i n
+699,Baniwa-101_woman-1,,Baniwa,101_woman,íinaro,íinaro,í/i i n a r o,,ramirez_dicionario_2001,,,,,i i i n a r o,a i n o r
+700,Kabiyari-101_woman-1,,Kabiyari,101_woman,nanáwí,nanáwí,n a n á/a w í/i,,Chacon2017,,,,,n a n a a w i i,a i n w
+701,Piapoco-101_woman-1,,Piapoco,101_woman,inanái,inanái,i n a n á/a i,,Chacon2017,,,,,i n a n a a i,a i n
+702,Resigaro-101_woman-1,,Resigaro,101_woman,ináadó,ináadó,i n á/a a d ó/o,,Chacon2017,,,,,i n a a a d o o,a d i n o
+703,Yukuna-101_woman-1,,Yukuna,101_woman,inanaru,inanaɾu,i n a n a ɾ u,,Chacon2017,,,,,i n a n a r u,a i n r u
+704,Achagua-102_yellow-1,,Achagua,102_yellow,meréekii,mereekii,m e r ee k ii,,melendez_lozano_diccionario_2011,,,,,m e r ee k ii,e ee ii k m r
+705,Baniwa-102_yellow-1,,Baniwa,102_yellow,éewa,éewa,é/e e w a,,ramirez_dicionario_2001,,,,,e e e w a,a e w
+706,Kabiyari-102_yellow-1,,Kabiyari,102_yellow,karawa-ri,karawa-ri,k a r a w a r i,,Chacon2017,,,,,k a r a w a r i,a i k r w
+707,Piapoco-102_yellow-1,,Piapoco,102_yellow,é(e)wa,é(e)wa,é/e e w a,,Chacon2017,,,,,e e e w a,a e w
+708,Piapoco-102_yellow-2,,Piapoco,102_yellow,éewéeri,é:wé:ɾi,é:/eː w é:/eː ɾ i,,Chacon2017,,,,,e e w e e r i,e i r w
+709,Resigaro-102_yellow-1,,Resigaro,102_yellow,dogíiga?é?,dogíigaʔéʔ,d o g í/i i g a ʔ é/e ʔ,,Chacon2017,,,,,d o g i i i g a 7 e e 7,7 a d e g i o
+710,Yukuna-102_yellow-1,,Yukuna,102_yellow,jewani,jewani,j e w a n i,,schauer_diccionario_2005,,,,,y e w a n i,a e i n w y

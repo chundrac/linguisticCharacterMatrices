@@ -1,0 +1,1215 @@
+,ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,asjp_forms,asjp_segs
+0,Khasi-1_all-1,,Khasi,1_all,roʔ,roʔ,r o ʔ,,Nagaraja2013,1_all_a,False,^r o ʔ$,default,r o 7,7 o r
+1,Lyngngam-1_all-1,,Lyngngam,1_all,prok,prok,p r o k,,Nagaraja2013,1_all_a,False,^p r o k$,default,p r o k,k o p r
+2,PnarJaintia-1_all-1,,PnarJaintia,1_all,warɔʔ,warɔʔ,w a r ɔ ʔ,,Nagaraja2013,1_all_a,False,^w a r ɔ ʔ$,default,w a r o 7,7 a o r w
+3,WarLamin-1_all-1,,WarLamin,1_all,bərɒʔ,bərɒʔ,b ə r ɒ ʔ,,Nagaraja2013,1_all_a,False,^b ə r ɒ ʔ$,default,b 3 r o 7,3 7 b o r
+4,Palaung-1_all-1,,Palaung,1_all,paj,paj,p ai̯,,Nagaraja2013,1_all_b,False,^p aj $,default,p ai,ai p
+5,Khmu-1_all-1,,Khmu,1_all,sam,sam,s a m,,Nagaraja2013,1_all_c,False,^s a m$,default,s a m,a m s
+6,Khasi-2_and-1,,Khasi,2_and,baːd,baːd,b aː d,,Nagaraja2013,2_and_a,False,^b aː d$,default,b a d,a b d
+7,Lyngngam-2_and-1,,Lyngngam,2_and,nam,nam,n a m,,Nagaraja2013,,True,^n a m$,default,n a m,a m n
+8,PnarJaintia-2_and-1,,PnarJaintia,2_and,wa,wa,w a,,Nagaraja2013,2_and_c,False,^w a$,default,w a,a w
+9,WarLamin-2_and-1,,WarLamin,2_and,waː,waː,w aː,,Nagaraja2013,2_and_c,False,^w aː$,default,w a,a w
+10,Khasi-3_animal-1,,Khasi,3_animal,mraːd,mraːd,m r aː d,,Nagaraja2013,3_animal_a,False,^m r aː d$,default,m r a d,a d m r
+11,Lyngngam-3_animal-1,,Lyngngam,3_animal,mraːd,mraːd,m r aː d,,Nagaraja2013,,True,^m r aː d$,default,m r a d,a d m r
+12,PnarJaintia-3_animal-1,,PnarJaintia,3_animal,mraːd,mraːd,m r aː d,,Nagaraja2013,,True,^m r aː d$,default,m r a d,a d m r
+13,WarLamin-3_animal-1,,WarLamin,3_animal,mrat,mrat,m r a t,,Nagaraja2013,,True,^m r a t$,default,m r a t,a m r t
+14,Palaung-3_animal-1,,Palaung,3_animal,to,to,t o,,Nagaraja2013,,True,^t o$,default,t o,o t
+15,Khmu-3_animal-1,,Khmu,3_animal,toː,toː,t oː,,Nagaraja2013,,True,^t oː$,default,t o,o t
+16,Khasi-4_ashes-1,,Khasi,4_ashes,dpej,dpej,d p ei̯,,Nagaraja2013,4_ashes_a,False,^d p ej $,default,d p ei,d ei p
+17,Lyngngam-4_ashes-1,,Lyngngam,4_ashes,əpaw,əpaw,ə p a w,,Nagaraja2013,4_ashes_a,False,^ə p a w$,default,3 p a w,3 a p w
+18,PnarJaintia-4_ashes-1,,PnarJaintia,4_ashes,tpai,tpai,t p a i,,Nagaraja2013,4_ashes_a,False,^t p a i$,default,t p a i,a i p t
+19,WarLamin-4_ashes-1,,WarLamin,4_ashes,tvʊ,tvʊ,t v ʊ,,Nagaraja2013,4_ashes_c,False,^t v ʊ$,default,t v u,t u v
+20,Palaung-4_ashes-1,,Palaung,4_ashes,kəhvaŋ,kəhvaŋ,k ə h v a ŋ,,Nagaraja2013,4_ashes_d,False,^k ə h v a ŋ$,default,k 3 h v a N,3 N a h k v
+21,Khmu-4_ashes-1,,Khmu,4_ashes,bɔh,bɔh,b ɔ h,,Nagaraja2013,4_ashes_e,False,^b ɔ h$,default,b o h,b h o
+22,Khasi-5_at-1,,Khasi,5_at,ha,ha,h a,,Nagaraja2013,5_at_a,False,^h a$,default,h a,a h
+23,Lyngngam-5_at-1,,Lyngngam,5_at,he,he,h e,,Nagaraja2013,5_at_a,False,^h e$,default,h e,e h
+24,PnarJaintia-5_at-1,,PnarJaintia,5_at,ha,ha,h a,,Nagaraja2013,5_at_a,False,^h a$,default,h a,a h
+25,WarLamin-5_at-1,,WarLamin,5_at,ti,ti,t i,,Nagaraja2013,5_at_b,False,^t i$,default,t i,i t
+26,Khmu-5_at-1,,Khmu,5_at,daʔ,daʔ,d a ʔ,,Nagaraja2013,5_at_b,False,^d a ʔ$,default,d a 7,7 a d
+27,Khasi-6_backanat-1,,Khasi,6_backanat,dien,dien,d i e n,,Nagaraja2013,6_backanat_a,False,^d i e n$,default,d i e n,d e i n
+28,Lyngngam-6_backanat-1,,Lyngngam,6_backanat,bad don,bad don,b a d + d o n,,Nagaraja2013,6_backanat_a,False,^b a d + d o n$,default,b a d  d o n, a b d n o
+29,PnarJaintia-6_backanat-1,,PnarJaintia,6_backanat,rn̩kʰi,rn̩kʰi,r n̩ kʰ i,,Nagaraja2013,6_backanat_b,False,^r n̩ kʰ i$,default,r n kh~ i,i kh~ n r
+30,WarLamin-6_backanat-1,,WarLamin,6_backanat,təmpɒŋ,təmpɒŋ,t ə m p ɒ ŋ,,Nagaraja2013,6_backanat_c,False,^t ə m p ɒ ŋ$,default,t 3 m p o N,3 N m o p t
+31,Palaung-6_backanat-1,,Palaung,6_backanat,krɔŋ,krɔŋ,k r ɔ ŋ,,Nagaraja2013,6_backanat_d,False,^k r ɔ ŋ$,default,k r o N,N k o r
+32,Khmu-6_backanat-1,,Khmu,6_backanat,kndrɔːŋ,kndrɔːŋ,k d r ɔː ŋ,,Nagaraja2013,6_backanat_d,False,^k n d r ɔː ŋ$,default,k d r o N,N d k o r
+33,Khasi-7_bad-1,,Khasi,7_bad,sɲiew,sɲiew,s ɲ i e w,,Nagaraja2013,7_bad_a,False,^s ɲ i e w$,default,s 5 i e w,5 e i s w
+34,Lyngngam-7_bad-1,,Lyngngam,7_bad,kɨncʰa,kɨncʰa,k ɨ cʰ a,,Nagaraja2013,7_bad_b,False,^k ɨ n cʰ a$,default,k 3 Th~ a,3 Th~ a k
+35,PnarJaintia-7_bad-1,,PnarJaintia,7_bad,siʔ,siʔ,s i ʔ,,Nagaraja2013,7_bad_c,False,^s i ʔ$,default,s i 7,7 i s
+36,WarLamin-7_bad-1,,WarLamin,7_bad,kɒ͂m,kɒ͂m,k ɒ̃ m,,Nagaraja2013,7_bad_d,False,^k ɒ͂ m$,default,k o* m,k m o*
+37,Palaung-7_bad-1,,Palaung,7_bad,kʰu (?),kʰu,kʰ u,,Nagaraja2013,7_bad_e,False,^kʰ u$,default,kh~ u,kh~ u
+38,Khmu-7_bad-1,,Khmu,7_bad,ɲoːɲ,ɲoːɲ,ɲ oː ɲ,,Nagaraja2013,7_bad_f,False,^ɲ oː ɲ$,default,5 o 5,5 o
+39,Khasi-8_barkoftree-1,,Khasi,8_barkoftree,snep,snep,s e p,,Nagaraja2013,8_barkoftree_a,False,^s n e p$,default,s e p,e p s
+40,Lyngngam-8_barkoftree-1,,Lyngngam,8_barkoftree,snieʔ,snieʔ,s i e ʔ,,Nagaraja2013,8_barkoftree_a,False,^s n i e ʔ$,default,s i e 7,7 e i s
+41,PnarJaintia-8_barkoftree-1,,PnarJaintia,8_barkoftree,sneiʔ,sneiʔ,s e i ʔ,,Nagaraja2013,8_barkoftree_a,False,^s n e i ʔ$,default,s e i 7,7 e i s
+42,WarLamin-8_barkoftree-1,,WarLamin,8_barkoftree,snɪəʔ,snɪəʔ,s ɪ ə ʔ,,Nagaraja2013,8_barkoftree_a,False,^s n ɪ ə ʔ$,default,s i 3 7,3 7 i s
+43,Palaung-8_barkoftree-1,,Palaung,8_barkoftree,gɔʔ,gɔʔ,g ɔ ʔ,,Nagaraja2013,8_barkoftree_b,False,^g ɔ ʔ$,default,g o 7,7 g o
+44,Khmu-8_barkoftree-1,,Khmu,8_barkoftree,səŋkhraʔ,səŋkhraʔ,s ə ŋ kʰ r a ʔ,,Nagaraja2013,8_barkoftree_c,False,^s ə ŋ kh r a ʔ$,default,s 3 N kh~ r a 7,3 7 N a kh~ r s
+45,Khasi-9_because-1,,Khasi,9_because,namar,namar,n a m a r,,Nagaraja2013,9_because_a,False,^n a m a r$,default,n a m a r,a m n r
+46,Lyngngam-9_because-1,,Lyngngam,9_because,amte,amte,a m t e,,Nagaraja2013,9_because_b,False,^a m t e$,default,a m t e,a e m t
+47,PnarJaintia-9_because-1,,PnarJaintia,9_because,neibʰaʔ,neibʰaʔ,n e i bʰ a ʔ,,Nagaraja2013,9_because_c,False,^n e i bʰ a ʔ$,default,n e i bh~ a 7,7 a bh~ e i n
+48,WarLamin-9_because-1,,WarLamin,9_because,kaʔ,kaʔ,k a ʔ,,Nagaraja2013,9_because_d,False,^k a ʔ$,default,k a 7,7 a k
+49,Khmu-9_because-1,,Khmu,9_because,jɔʔ,jɔʔ,j ɔ ʔ,,Nagaraja2013,9_because_e,False,^j ɔ ʔ$,default,y o 7,7 o y
+50,Khasi-10_belly-1,,Khasi,10_belly,kpoʔ,kpoʔ,k p o ʔ,,Nagaraja2013,10_belly_a,False,^k p o ʔ$,default,k p o 7,7 k o p
+51,Lyngngam-10_belly-1,,Lyngngam,10_belly,ləwbaʔ,ləwbaʔ,l ə w b a ʔ,,Nagaraja2013,10_belly_b,False,^l ə w b a ʔ$,default,l 3 w b a 7,3 7 a b l w
+52,PnarJaintia-10_belly-1,,PnarJaintia,10_belly,kpɔʔ,kpɔʔ,k p ɔ ʔ,,Nagaraja2013,10_belly_a,False,^k p ɔ ʔ$,default,k p o 7,7 k o p
+53,WarLamin-10_belly-1,,WarLamin,10_belly,pɒʔ,pɒʔ,p ɒ ʔ,,Nagaraja2013,10_belly_a,False,^p ɒ ʔ$,default,p o 7,7 o p
+54,Palaung-10_belly-1,,Palaung,10_belly,vɛʔ,vɛʔ,v ɛ ʔ,,Nagaraja2013,10_belly_c,False,^v ɛ ʔ$,default,v E 7,7 E v
+55,Khmu-10_belly-1,,Khmu,10_belly,luːj,luːj,l uː j,,Nagaraja2013,10_belly_d,False,^l uː j$,default,l u y,l u y
+56,Khasi-11_big-1,,Khasi,11_big,heʔ,heʔ,h e ʔ,,Nagaraja2013,11_big_a,False,^h e ʔ$,default,h e 7,7 e h
+57,Lyngngam-11_big-1,,Lyngngam,11_big,kɨmba,kɨmba,k ɨ m b a,,Nagaraja2013,11_big_b,False,^k ɨ m b a$,default,k 3 m b a,3 a b k m
+58,PnarJaintia-11_big-1,,PnarJaintia,11_big,hɛʔ,hɛʔ,h ɛ ʔ,,Nagaraja2013,11_big_a,False,^h ɛ ʔ$,default,h E 7,7 E h
+59,WarLamin-11_big-1,,WarLamin,11_big,mɪa,mɪa,m ɪ a,,Nagaraja2013,11_big_b,False,^m ɪ a$,default,m i a,a i m
+60,Palaung-11_big-1,,Palaung,11_big,daŋ,daŋ,d a ŋ,,Nagaraja2013,11_big_c,False,^d a ŋ$,default,d a N,N a d
+61,Khmu-11_big-1,,Khmu,11_big,hnam,hnam,h a m,,Nagaraja2013,11_big_d,False,^h n a m$,default,h a m,a h m
+62,Khasi-12_bird-1,,Khasi,12_bird,sim,sim,s i m,,Nagaraja2013,12_bird_a,False,^s i m$,default,s i m,i m s
+63,Lyngngam-12_bird-1,,Lyngngam,12_bird,sim,sim,s i m,,Nagaraja2013,12_bird_a,False,^s i m$,default,s i m,i m s
+64,PnarJaintia-12_bird-1,,PnarJaintia,12_bird,sim,sim,s i m,,Nagaraja2013,12_bird_a,False,^s i m$,default,s i m,i m s
+65,WarLamin-12_bird-1,,WarLamin,12_bird,ksem,ksem,k s e m,,Nagaraja2013,12_bird_a,False,^ks e m$,default,k s e m,e k m s
+66,Palaung-12_bird-1,,Palaung,12_bird,sim,sim,s i m,,Nagaraja2013,12_bird_a,False,^s i m$,default,s i m,i m s
+67,Khmu-12_bird-1,,Khmu,12_bird,siːm,siːm,s iː m,,Nagaraja2013,12_bird_a,False,^s iː m$,default,s i m,i m s
+68,Khasi-13_tobite-1,,Khasi,13_tobite,daʲt,daʲt,d ai̯ t,,Nagaraja2013,13_tobite_a,False,^d aʲ t$,default,d ai t,ai d t
+69,Lyngngam-13_tobite-1,,Lyngngam,13_tobite,kɨnnap,kɨnnap,k ɨ nː a p,,Nagaraja2013,13_tobite_b,False,^k ɨ nn a p$,default,k 3 n a p,3 a k n p
+70,PnarJaintia-13_tobite-1,,PnarJaintia,13_tobite,dait,dait,d a i t,,Nagaraja2013,13_tobite_a,False,^d a i t$,default,d a i t,a d i t
+71,WarLamin-13_tobite-1,,WarLamin,13_tobite,hit,hit,h i t,,Nagaraja2013,13_tobite_c,False,^h i t$,default,h i t,h i t
+72,Palaung-13_tobite-1,,Palaung,13_tobite,gaʔ,gaʔ,g a ʔ,,Nagaraja2013,13_tobite_d,False,^g a ʔ$,default,g a 7,7 a g
+73,Khmu-13_tobite-1,,Khmu,13_tobite,pok,pok,p o k,,Nagaraja2013,13_tobite_e,False,^p o k$,default,p o k,k o p
+74,Khasi-14_black-1,,Khasi,14_black,joŋ,joŋ,j o ŋ,,Nagaraja2013,14_black_a,False,^j o ŋ$,default,y o N,N o y
+75,Lyngngam-14_black-1,,Lyngngam,14_black,ɨnɲoŋ,ɨnɲoŋ,ɨ ɲ o ŋ,,Nagaraja2013,14_black_a,False,^ɨ n ɲ o ŋ$,default,3 5 o N,3 5 N o
+76,PnarJaintia-14_black-1,,PnarJaintia,14_black,jɔŋ,jɔŋ,j ɔ ŋ,,Nagaraja2013,14_black_a,False,^j ɔ ŋ$,default,y o N,N o y
+77,WarLamin-14_black-1,,WarLamin,14_black,priŋ,priŋ,p r i ŋ,,Nagaraja2013,14_black_b,False,^p r i ŋ$,default,p r i N,N i p r
+78,Palaung-14_black-1,,Palaung,14_black,jəm,jəm,j ə m,,Nagaraja2013,14_black_c,False,^j ə m$,default,y 3 m,3 m y
+79,Khmu-14_black-1,,Khmu,14_black,hiəŋ,hiəŋ,h i ə ŋ,,Nagaraja2013,14_black_d,False,^h i ə ŋ$,default,h i 3 N,3 N h i
+80,Khasi-15_blood-1,,Khasi,15_blood,snam,snam,s a m,,Nagaraja2013,15_blood_a,False,^s n a m$,default,s a m,a m s
+81,Lyngngam-15_blood-1,,Lyngngam,15_blood,snam,snam,s a m,,Nagaraja2013,15_blood_a,False,^s n a m$,default,s a m,a m s
+82,PnarJaintia-15_blood-1,,PnarJaintia,15_blood,snam,snam,s a m,,Nagaraja2013,15_blood_a,False,^s n a m$,default,s a m,a m s
+83,WarLamin-15_blood-1,,WarLamin,15_blood,rnʊə,rnʊə,r ʊ ə,,Nagaraja2013,15_blood_a,False,^r n ʊ ə$,default,r u 3,3 r u
+84,Palaung-15_blood-1,,Palaung,15_blood,hnam,hnam,h a m,,Nagaraja2013,15_blood_a,False,^h n a m$,default,h a m,a h m
+85,Khmu-15_blood-1,,Khmu,15_blood,maːm,maːm,m aː m,,Nagaraja2013,15_blood_a,False,^m aː m$,default,m a m,a m
+86,Khasi-16_blow-1,,Khasi,16_blow,pɨrsat,pɨrsat,p ɨ r s a t,,Nagaraja2013,16_blow_a,False,^p ɨ rs a t$,default,p 3 r s a t,3 a p r s t
+87,Lyngngam-16_blow-1,,Lyngngam,16_blow,pʰɨnnur,pʰɨnnur,pʰ ɨ nː u r,,Nagaraja2013,16_blow_b,False,^pʰ ɨ nn u r$,default,ph~ 3 n u r,3 n ph~ r u
+88,PnarJaintia-16_blow-1,,PnarJaintia,16_blow,slu,slu,s l u,,Nagaraja2013,16_blow_c,False,^s l u$,default,s l u,l s u
+89,WarLamin-16_blow-1,,WarLamin,16_blow,pet,pet,p e t,,Nagaraja2013,16_blow_d,False,^p e t$,default,p e t,e p t
+90,Palaung-16_blow-1,,Palaung,16_blow,put,put,p u t,,Nagaraja2013,16_blow_d,False,^p u t$,default,p u t,p t u
+91,Khmu-16_blow-1,,Khmu,16_blow,hur,hur,h u r,,Nagaraja2013,16_blow_e,False,^h u r$,default,h u r,h r u
+92,Khasi-17_bone-1,,Khasi,17_bone,ʃʔeŋ,ʃʔeŋ,ʃ ʔ e ŋ,,Nagaraja2013,17_bone_a,False,^ʃ ʔ e ŋ$,default,S 7 e N,7 N S e
+93,Lyngngam-17_bone-1,,Lyngngam,17_bone,cʔeŋ,cʔeŋ,c ʔ e ŋ,,Nagaraja2013,17_bone_a,False,^c ʔ e ŋ$,default,T 7 e N,7 N T e
+94,PnarJaintia-17_bone-1,,PnarJaintia,17_bone,ʧʔeiɲ,ʧʔeiɲ,tʃ ʔ e i ɲ,,Nagaraja2013,17_bone_a,False,^ʧ ʔ e i ɲ$,default,tS 7 e i 5,5 7 e i tS
+95,WarLamin-17_bone-1,,WarLamin,17_bone,ʧɪəʔ,ʧɪəʔ,tʃ ɪ ə ʔ,,Nagaraja2013,17_bone_a,False,^ʧ ɪ ə ʔ$,default,tS i 3 7,3 7 i tS
+96,Palaung-17_bone-1,,Palaung,17_bone,kəʔaŋ,kəʔaŋ,k ə ʔ a ŋ,,Nagaraja2013,17_bone_a,False,^k ə ʔ a ŋ$,default,k 3 7 a N,3 7 N a k
+97,Khmu-17_bone-1,,Khmu,17_bone,cəʔaːŋ,cəʔaːŋ,c ə ʔ aː ŋ,,Nagaraja2013,17_bone_a,False,^c ə ʔ aː ŋ$,default,T 3 7 a N,3 7 N T a
+98,Khasi-18_breathe-1,,Khasi,18_breathe,riŋ mɨnsiem,riŋ mɨnsiem,r i ŋ + m ɨ n s i e m,,Nagaraja2013,18_breathe_a,False,^r i ŋ + m ɨ ns i e m$,default,r i N  m 3 n s i e m, 3 N e i m n r s
+99,Lyngngam-18_breathe-1,,Lyngngam,18_breathe,riŋ ɨnsom,riŋ ɨnsom,r i ŋ + ɨ n s o m,,Nagaraja2013,18_breathe_a,False,^r i ŋ + ɨ ns o m$,default,r i N  3 n s o m, 3 N i m n o r s
+100,PnarJaintia-18_breathe-1,,PnarJaintia,18_breathe,rɪɲ mn̩seim,rɪɲ mn̩seim,r ɪ ɲ + m n̩ s e i m,,Nagaraja2013,18_breathe_a,False,^r ɪ ɲ + m n̩s e i m$,default,r i 5  m n s e i m, 5 e i m n r s
+101,WarLamin-18_breathe-1,,WarLamin,18_breathe,reŋ hənsʊ,reŋ hənsʊ,r e ŋ + h ə n s ʊ,,Nagaraja2013,18_breathe_a,False,^r e ŋ + h ə ns ʊ$,default,r e N  h 3 n s u, 3 N e h n r s u
+102,Palaung-18_breathe-1,,Palaung,18_breathe,pʰɯm,pʰɯm,pʰ ɯ m,,Nagaraja2013,18_breathe_a,False,^pʰ ɯ m$,default,ph~ u m,m ph~ u
+103,Khmu-18_breathe-1,,Khmu,18_breathe,hrɲɨəm,hrɲɨəm,h r ɲ ɨ ə m,,Nagaraja2013,18_breathe_a,False,^h r ɲ ɨ ə m$,default,h r 5 3 3 m,3 5 h m r
+104,Khasi-19_burn-1,,Khasi,19_burn,tʰaŋ,tʰaŋ,tʰ a ŋ,,Nagaraja2013,19_burn_a,False,^tʰ a ŋ$,default,th~ a N,N a th~
+105,Lyngngam-19_burn-1,,Lyngngam,19_burn,ɨntʰaŋ / tʰɨnnəŋ,ɨntʰaŋ,ɨ tʰ a ŋ,,Nagaraja2013,19_burn_a,False,^ɨ n tʰ a ŋ$,default,3 th~ a N,3 N a th~
+106,Lyngngam-19_burn-2,,Lyngngam,19_burn,ɨntʰaŋ / tʰɨnnəŋ,tʰɨnnəŋ,tʰ ɨ nː ə ŋ,,Nagaraja2013,19_burn_a,False,^tʰ ɨ nn ə ŋ$,default,th~ 3 n 3 N,3 N n th~
+107,PnarJaintia-19_burn-1,,PnarJaintia,19_burn,tʰaŋ,tʰaŋ,tʰ a ŋ,,Nagaraja2013,19_burn_a,False,^tʰ a ŋ$,default,th~ a N,N a th~
+108,WarLamin-19_burn-1,,WarLamin,19_burn,ɵaŋ,ɵaŋ,ɵ/θ a ŋ,,Nagaraja2013,19_burn_a,False,^ɵ a ŋ$,default,3 8 a N,3 8 N a
+109,Palaung-19_burn-1,,Palaung,19_burn,gut,gut,g u t,,Nagaraja2013,19_burn_b,False,^g u t$,default,g u t,g t u
+110,Khmu-19_burn-1,,Khmu,19_burn,pɔːk,pɔːk,p ɔː k,,Nagaraja2013,19_burn_c,False,^p ɔː k$,default,p o k,k o p
+111,Khasi-20_child-1,,Khasi,20_child,kʰun,kʰun,kʰ u n,,Nagaraja2013,20_child_a,False,^kʰ u n$,default,kh~ u n,kh~ n u
+112,Lyngngam-20_child-1,,Lyngngam,20_child,kʰon,kʰon,kʰ o n,,Nagaraja2013,20_child_a,False,^kʰ o n$,default,kh~ o n,kh~ n o
+113,PnarJaintia-20_child-1,,PnarJaintia,20_child,kʰɔn,kʰɔn,kʰ ɔ n,,Nagaraja2013,20_child_a,False,^kʰ ɔ n$,default,kh~ o n,kh~ n o
+114,WarLamin-20_child-1,,WarLamin,20_child,hʊn,hʊn,h ʊ n,,Nagaraja2013,20_child_a,False,^h ʊ n$,default,h u n,h n u
+115,Palaung-20_child-1,,Palaung,20_child,kuən,kuən,k u ə n,,Nagaraja2013,20_child_a,False,^k u ə n$,default,k u 3 n,3 k n u
+116,Khmu-20_child-1,,Khmu,20_child,kɔːn,kɔːn,k ɔː n,,Nagaraja2013,20_child_a,False,^k ɔː n$,default,k o n,k n o
+117,Khasi-21_cloud-1,,Khasi,21_cloud,lʔoʔ,lʔoʔ,l ʔ o ʔ,,Nagaraja2013,21_cloud_a,False,^l ʔ o ʔ$,default,l 7 o 7,7 l o
+118,Lyngngam-21_cloud-1,,Lyngngam,21_cloud,lʔoʔ,lʔoʔ,l ʔ o ʔ,,Nagaraja2013,21_cloud_a,False,^l ʔ o ʔ$,default,l 7 o 7,7 l o
+119,PnarJaintia-21_cloud-1,,PnarJaintia,21_cloud,lʔɔʔ,lʔɔʔ,l ʔ ɔ ʔ,,Nagaraja2013,21_cloud_a,False,^l ʔ ɔ ʔ$,default,l 7 o 7,7 l o
+120,WarLamin-21_cloud-1,,WarLamin,21_cloud,ləmpem,ləmpem,l ə m p e m,,Nagaraja2013,21_cloud_b,False,^l ə m p e m$,default,l 3 m p e m,3 e l m p
+121,Palaung-21_cloud-1,,Palaung,21_cloud,ut,ut,u t,,Nagaraja2013,21_cloud_c,False,^u t$,default,u t,t u
+122,Khmu-21_cloud-1,,Khmu,21_cloud,həmpuːt,həmpuːt,h ə m p uː t,,Nagaraja2013,21_cloud_d,False,^h ə m p uː t$,default,h 3 m p u t,3 h m p t u
+123,Khasi-22_cold-1,,Khasi,22_cold,kʰriat,kʰriat,kʰ r i a t,,Nagaraja2013,22_cold_a,False,^kʰ r i a t$,default,kh~ r i a t,a i kh~ r t
+124,Lyngngam-22_cold-1,,Lyngngam,22_cold,bɨnsir,bɨnsir,b ɨ n s i r,,Nagaraja2013,22_cold_b,False,^b ɨ ns i r$,default,b 3 n s i r,3 b i n r s
+125,PnarJaintia-22_cold-1,,PnarJaintia,22_cold,kdʒam,kdʒam,k dʒ a m,,Nagaraja2013,22_cold_c,False,^k dʒ a m$,default,k dZ a m,a dZ k m
+126,WarLamin-22_cold-1,,WarLamin,22_cold,ktjam,ktjam,k t j a m,,Nagaraja2013,22_cold_c,False,^k t j a m$,default,k t y a m,a k m t y
+127,Palaung-22_cold-1,,Palaung,22_cold,kat,kat,k a t,,Nagaraja2013,22_cold_d,False,^k a t$,default,k a t,a k t
+128,Khmu-22_cold-1,,Khmu,22_cold,huːc,huːc,h uː c,,Nagaraja2013,22_cold_e,False,^h uː c$,default,h u T,T h u
+129,Khasi-23_come-1,,Khasi,23_come,wan,wan,w a n,,Nagaraja2013,23_come_a,False,^w a n$,default,w a n,a n w
+130,Lyngngam-23_come-1,,Lyngngam,23_come,lɨnnar,lɨnnar,l ɨ nː a r,,Nagaraja2013,23_come_b,False,^l ɨ nn a r$,default,l 3 n a r,3 a l n r
+131,PnarJaintia-23_come-1,,PnarJaintia,23_come,wan,wan,w a n,,Nagaraja2013,23_come_a,False,^w a n$,default,w a n,a n w
+132,WarLamin-23_come-1,,WarLamin,23_come,"va, van",va,v a,,Nagaraja2013,23_come_a,False,^v a$,default,v a,a v
+133,WarLamin-23_come-2,,WarLamin,23_come,"va, van",van,v a n,,Nagaraja2013,23_come_a,False,^v a n$,default,v a n,a n v
+134,Palaung-23_come-1,,Palaung,23_come,"hluh, rɔt",hluh,h l u h,,Nagaraja2013,23_come_c,False,^h l u h$,default,h l u h,h l u
+135,Palaung-23_come-2,,Palaung,23_come,"hluh, rɔt",rɔt,r ɔ t,,Nagaraja2013,23_come_c,False,^r ɔ t$,default,r o t,o r t
+136,Khmu-23_come-1,,Khmu,23_come,gaːj,gaːj,g aːi̯,,Nagaraja2013,23_come_d,False,^g aːj $,default,g ai,ai g
+137,Khasi-24_count-1,,Khasi,24_count,ɲjaw,ɲjaw,ɲ j a w,,Nagaraja2013,24_count_a,False,^ɲ j a w$,default,5 y a w,5 a w y
+138,Lyngngam-24_count-1,,Lyngngam,24_count,cʰɨnnan,cʰɨnnan,cʰ ɨ nː a n,,Nagaraja2013,24_count_b,False,^cʰ ɨ nn a n$,default,Th~ 3 n a n,3 Th~ a n
+139,PnarJaintia-24_count-1,,PnarJaintia,24_count,niaw,niaw,n i a w,,Nagaraja2013,24_count_a,False,^n i a w$,default,n i a w,a i n w
+140,WarLamin-24_count-1,,WarLamin,24_count,ʧaː,ʧaː,tʃ aː,,Nagaraja2013,24_count_c,False,^ʧ aː$,default,tS a,a tS
+141,Palaung-24_count-1,,Palaung,24_count,dir,dir,d i r,,Nagaraja2013,24_count_d,False,^d i r$,default,d i r,d i r
+142,Khmu-24_count-1,,Khmu,24_count,nap,nap,n a p,,Nagaraja2013,24_count_e,False,^n a p$,default,n a p,a n p
+143,Khasi-25_cut-1,,Khasi,25_cut,kʰap,kʰap,kʰ a p,,Nagaraja2013,25_cut_a,False,^kʰ a p$,default,kh~ a p,a kh~ p
+144,Lyngngam-25_cut-1,,Lyngngam,25_cut,kʰɨnnap,kʰɨnnap,kʰ ɨ nː a p,,Nagaraja2013,25_cut_a,False,^kʰ ɨ nn a p$,default,kh~ 3 n a p,3 a kh~ n p
+145,PnarJaintia-25_cut-1,,PnarJaintia,25_cut,aʔ,aʔ,a ʔ,,Nagaraja2013,25_cut_b,False,^a ʔ$,default,a 7,7 a
+146,WarLamin-25_cut-1,,WarLamin,25_cut,pam,pam,p a m,,Nagaraja2013,25_cut_c,False,^p a m$,default,p a m,a m p
+147,Palaung-25_cut-1,,Palaung,25_cut,set,set,s e t,,Nagaraja2013,25_cut_d,False,^s e t$,default,s e t,e s t
+148,Khmu-25_cut-1,,Khmu,25_cut,paːt,paːt,p aː t,,Nagaraja2013,25_cut_e,False,^p aː t$,default,p a t,a p t
+149,Khasi-26_day-1,,Khasi,26_day,sŋi,sŋi,s ŋ i,,Nagaraja2013,26_day_a,False,^s ŋ i$,default,s N i,N i s
+150,Lyngngam-26_day-1,,Lyngngam,26_day,sŋej,sŋej,s ŋ ei̯,,Nagaraja2013,26_day_a,False,^s ŋ ej $,default,s N ei,N ei s
+151,PnarJaintia-26_day-1,,PnarJaintia,26_day,sŋi,sŋi,s ŋ i,,Nagaraja2013,26_day_a,False,^s ŋ i$,default,s N i,N i s
+152,WarLamin-26_day-1,,WarLamin,26_day,ʃŋaː,ʃŋaː,ʃ ŋ aː,,Nagaraja2013,26_day_a,False,^ʃ ŋ aː$,default,S N a,N S a
+153,Palaung-26_day-1,,Palaung,26_day,səŋi,səŋi,s ə ŋ i,,Nagaraja2013,26_day_a,False,^s ə ŋ i$,default,s 3 N i,3 N i s
+154,Khmu-26_day-1,,Khmu,26_day,siʔ,siʔ,s i ʔ,,Nagaraja2013,26_day_b,False,^s i ʔ$,default,s i 7,7 i s
+155,Khasi-27_die-1,,Khasi,27_die,jap,jap,j a p,,Nagaraja2013,27_die_a,False,^j a p$,default,y a p,a p y
+156,Lyngngam-27_die-1,,Lyngngam,27_die,ɲinnap,ɲinnap,ɲ i nː a p,,Nagaraja2013,27_die_a,False,^ɲ i nn a p$,default,5 i n a p,5 a i n p
+157,PnarJaintia-27_die-1,,PnarJaintia,27_die,jap,jap,j a p,,Nagaraja2013,27_die_a,False,^j a p$,default,y a p,a p y
+158,WarLamin-27_die-1,,WarLamin,27_die,jip,jip,j i p,,Nagaraja2013,27_die_a,False,^j i p$,default,y i p,i p y
+159,Palaung-27_die-1,,Palaung,27_die,jəm,jəm,j ə m,,Nagaraja2013,27_die_b,False,^j ə m$,default,y 3 m,3 m y
+160,Khmu-27_die-1,,Khmu,27_die,haːn,haːn,h aː n,,Nagaraja2013,27_die_c,False,^h aː n$,default,h a n,a h n
+161,Khasi-28_dig-1,,Khasi,28_dig,tiʔ,tiʔ,t i ʔ,,Nagaraja2013,28_dig_a,False,^t i ʔ$,default,t i 7,7 i t
+162,Lyngngam-28_dig-1,,Lyngngam,28_dig,tɨnniet,tɨnniet,t ɨ nː i e t,,Nagaraja2013,28_dig_a,False,^t ɨ nn i e t$,default,t 3 n i e t,3 e i n t
+163,PnarJaintia-28_dig-1,,PnarJaintia,28_dig,tiʔ,tiʔ,t i ʔ,,Nagaraja2013,28_dig_a,False,^t i ʔ$,default,t i 7,7 i t
+164,WarLamin-28_dig-1,,WarLamin,28_dig,tɪəʔ,tɪəʔ,t ɪ ə ʔ,,Nagaraja2013,28_dig_a,False,^t ɪ ə ʔ$,default,t i 3 7,3 7 i t
+165,Palaung-28_dig-1,,Palaung,28_dig,puər,puər,p u ə r,,Nagaraja2013,28_dig_b,False,^p u ə r$,default,p u 3 r,3 p r u
+166,Khmu-28_dig-1,,Khmu,28_dig,kʰɨəŋ,kʰɨəŋ,kʰ ɨ ə ŋ,,Nagaraja2013,28_dig_c,False,^kʰ ɨ ə ŋ$,default,kh~ 3 3 N,3 N kh~
+167,Khasi-29_dirty-1,,Khasi,29_dirty,ɟaboʔ / ɟakʰlia,ɟaboʔ,ɟ a b o ʔ,,Nagaraja2013,29_dirty_a,False,^ɟ a b o ʔ$,default,T a b o 7,7 T a b o
+168,Khasi-29_dirty-2,,Khasi,29_dirty,ɟaboʔ / ɟakʰlia,ɟakʰlia,ɟ a kʰ l i a,,Nagaraja2013,29_dirty_a,False,^ɟ a kʰ l i a$,default,T a kh~ l i a,T a i kh~ l
+169,Lyngngam-29_dirty-1,,Lyngngam,29_dirty,dɨmmut / ɟɨmbaʲt ,dɨmmut,d ɨ mː u t,,Nagaraja2013,29_dirty_b,False,^d ɨ mm u t$,default,d 3 m u t,3 d m t u
+170,Lyngngam-29_dirty-2,,Lyngngam,29_dirty,dɨmmut / ɟɨmbaʲt ,ɟɨmbaʲt,ɟ ɨ m b ai̯ t,,Nagaraja2013,29_dirty_b,False,^ɟ ɨ m b aʲ t$,default,T 3 m b ai t,3 T ai b m t
+171,PnarJaintia-29_dirty-1,,PnarJaintia,29_dirty,taroj,taroj,t a r oi̯,,Nagaraja2013,29_dirty_c,False,^t a r oj $,default,t a r oi,a oi r t
+172,WarLamin-29_dirty-1,,WarLamin,29_dirty,ʧəmet,ʧəmet,tʃ ə m e t,,Nagaraja2013,29_dirty_d,False,^ʧ ə m e t$,default,tS 3 m e t,3 e m t tS
+173,Palaung-29_dirty-1,,Palaung,29_dirty,ɟu ɟu (?),ɟu ɟu,ɟ u + ɟ u,,Nagaraja2013,29_dirty_e,False,^ɟ u + ɟ u$,default,T u  T u, T u
+174,Khmu-29_dirty-1,,Khmu,29_dirty,ruk,ruk,r u k,,Nagaraja2013,29_dirty_f,False,^r u k$,default,r u k,k r u
+175,Khasi-30_dog-1,,Khasi,30_dog,ksew,ksew,k s e w,,Nagaraja2013,30_dog_a,False,^ks e w$,default,k s e w,e k s w
+176,Lyngngam-30_dog-1,,Lyngngam,30_dog,ksu,ksu,k s u,,Nagaraja2013,30_dog_a,False,^ks u$,default,k s u,k s u
+177,PnarJaintia-30_dog-1,,PnarJaintia,30_dog,ksaw,ksaw,k s a w,,Nagaraja2013,30_dog_a,False,^ks a w$,default,k s a w,a k s w
+178,WarLamin-30_dog-1,,WarLamin,30_dog,ksɪa,ksɪa,k s ɪ a,,Nagaraja2013,30_dog_a,False,^ks ɪ a$,default,k s i a,a i k s
+179,Palaung-30_dog-1,,Palaung,30_dog,sɔ,sɔ,s ɔ,,Nagaraja2013,30_dog_a,False,^s ɔ$,default,s o,o s
+180,Khmu-30_dog-1,,Khmu,30_dog,sɔʔ,sɔʔ,s ɔ ʔ,,Nagaraja2013,30_dog_a,False,^s ɔ ʔ$,default,s o 7,7 o s
+181,Khasi-31_drink-1,,Khasi,31_drink,diʔ,diʔ,d i ʔ,,Nagaraja2013,31_drink_a,False,^d i ʔ$,default,d i 7,7 d i
+182,Lyngngam-31_drink-1,,Lyngngam,31_drink,dɨnniet,dɨnniet,d ɨ nː i e t,,Nagaraja2013,31_drink_a,False,^d ɨ nn i e t$,default,d 3 n i e t,3 d e i n t
+183,PnarJaintia-31_drink-1,,PnarJaintia,31_drink,diʔ,diʔ,d i ʔ,,Nagaraja2013,31_drink_a,False,^d i ʔ$,default,d i 7,7 d i
+184,WarLamin-31_drink-1,,WarLamin,31_drink,deʔ,deʔ,d e ʔ,,Nagaraja2013,31_drink_a,False,^d e ʔ$,default,d e 7,7 d e
+185,Palaung-31_drink-1,,Palaung,31_drink,teəŋ,teəŋ,t e ə ŋ,,Nagaraja2013,31_drink_b,False,^t e ə ŋ$,default,t e 3 N,3 N e t
+186,Khmu-31_drink-1,,Khmu,31_drink,ʔɨək,ʔɨək,ʔ ɨ ə k,,Nagaraja2013,31_drink_c,False,^ʔ ɨ ə k$,default,7 3 3 k,3 7 k
+187,Khasi-32_dry-1,,Khasi,32_dry,rkʰiaŋ,rkʰiaŋ,r kʰ i a ŋ,,Nagaraja2013,32_dry_a,False,^r kʰ i a ŋ$,default,r kh~ i a N,N a i kh~ r
+188,Lyngngam-32_dry-1,,Lyngngam,32_dry,riəŋkʰoŋ,riəŋkʰoŋ,r i ə ŋ kʰ o ŋ,,Nagaraja2013,32_dry_a,False,^r i ə ŋ kʰ o ŋ$,default,r i 3 N kh~ o N,3 N i kh~ o r
+189,PnarJaintia-32_dry-1,,PnarJaintia,32_dry,raw,raw,r a w,,Nagaraja2013,32_dry_b,False,^r a w$,default,r a w,a r w
+190,WarLamin-32_dry-1,,WarLamin,32_dry,rhɪəŋ,rhɪəŋ,rʰ ɪ ə ŋ,,Nagaraja2013,32_dry_a,False,^rh ɪ ə ŋ$,default,rh~ i 3 N,3 N i rh~
+191,Palaung-32_dry-1,,Palaung,32_dry,"raj, roh",raj,r ai̯,,Nagaraja2013,32_dry_c,False,^r aj $,default,r ai,ai r
+192,Palaung-32_dry-2,,Palaung,32_dry,"raj, roh",roh,r o h,,Nagaraja2013,32_dry_c,False,^r o h$,default,r o h,h o r
+193,Khmu-32_dry-1,,Khmu,32_dry,həntaŋ,həntaŋ,h ə t a ŋ,,Nagaraja2013,32_dry_d,False,^h ə n t a ŋ$,default,h 3 t a N,3 N a h t
+194,Khasi-33_dullblunt-1,,Khasi,33_dullblunt,isiʔ,isiʔ,i s i ʔ,,Nagaraja2013,33_dullblunt_a,False,^i s i ʔ$,default,i s i 7,7 i s
+195,Lyngngam-33_dullblunt-1,,Lyngngam,33_dullblunt,ɟosmoʲt,ɟosmoʲt,ɟ o s m oi̯ t,,Nagaraja2013,33_dullblunt_b,False,^ɟ o s m oʲ t$,default,T o s m oi t,T m o oi s t
+196,PnarJaintia-33_dullblunt-1,,PnarJaintia,33_dullblunt,tʰla,tʰla,tʰ l a,,Nagaraja2013,33_dullblunt_c,False,^tʰ l a$,default,th~ l a,a l th~
+197,WarLamin-33_dullblunt-1,,WarLamin,33_dullblunt,len,len,l e n,,Nagaraja2013,33_dullblunt_d,False,^l e n$,default,l e n,e l n
+198,Khmu-33_dullblunt-1,,Khmu,33_dullblunt,daːl,daːl,d aː l,,Nagaraja2013,33_dullblunt_e,False,^d aː l$,default,d a l,a d l
+199,Khasi-34_dust-1,,Khasi,34_dust,pum-pum,pum-pum,p u m + p u m,,Nagaraja2013,34_dust_a,False,^p u m - p u m$,default,p u m  p u m, m p u
+200,Lyngngam-34_dust-1,,Lyngngam,34_dust,pum-pum,pum-pum,p u m + p u m,,Nagaraja2013,,True,^p u m - p u m$,default,p u m  p u m, m p u
+201,PnarJaintia-34_dust-1,,PnarJaintia,34_dust,dʒl̩pʰoʔ,dʒl̩pʰoʔ,dʒ l̩ pʰ o ʔ,,Nagaraja2013,34_dust_b,False,^dʒ l̩ pʰ o ʔ$,default,dZ l ph~ o 7,7 dZ l o ph~
+202,WarLamin-34_dust-1,,WarLamin,34_dust,tjəlpʰʊʔ,tjəlpʰʊʔ,t j ə l pʰ ʊ ʔ,,Nagaraja2013,34_dust_b,False,^t j ə l pʰ ʊ ʔ$,default,t y 3 l ph~ u 7,3 7 l ph~ t u y
+203,Palaung-34_dust-1,,Palaung,34_dust,kərboh,kərboh,k ə r b o h,,Nagaraja2013,34_dust_c,False,^k ə r b o h$,default,k 3 r b o h,3 b h k o r
+204,Khmu-34_dust-1,,Khmu,34_dust,bɔh,bɔh,b ɔ h,,Nagaraja2013,34_dust_c,False,^b ɔ h$,default,b o h,b h o
+205,Khasi-35_ear-1,,Khasi,35_ear,ʃkor,ʃkor,ʃ k o r,,Nagaraja2013,35_ear_a,False,^ʃ k o r$,default,S k o r,S k o r
+206,Lyngngam-35_ear-1,,Lyngngam,35_ear,ləkur,ləkur,l ə k u r,,Nagaraja2013,35_ear_a,False,^l ə k u r$,default,l 3 k u r,3 k l r u
+207,PnarJaintia-35_ear-1,,PnarJaintia,35_ear,tʃkɔr,tʃkɔr,tʃ k ɔ r,,Nagaraja2013,35_ear_a,False,^tʃ k ɔ r$,default,tS k o r,k o r tS
+208,WarLamin-35_ear-1,,WarLamin,35_ear,təraŋ,təraŋ,t ə r a ŋ,,Nagaraja2013,35_ear_b,False,^t ə r a ŋ$,default,t 3 r a N,3 N a r t
+209,Palaung-35_ear-1,,Palaung,35_ear,hjɔɁ,hjɔɁ,h j ɔ ʔ,,Nagaraja2013,35_ear_c,False,^h j ɔ Ɂ$,default,h y o 7,7 h o y
+210,Khmu-35_ear-1,,Khmu,35_ear,rməːj,rməːj,r m əː j,,Nagaraja2013,35_ear_d,False,^r m əː j$,default,r m 3 y,3 m r y
+211,Khasi-36_earth-1,,Khasi,36_earth,kʰɨndew,kʰɨndew,kʰ ɨ d e w,,Nagaraja2013,36_earth_a,False,^kʰ ɨ n d e w$,default,kh~ 3 d e w,3 d e kh~ w
+212,Lyngngam-36_earth-1,,Lyngngam,36_earth,kmiəŋ,kmiəŋ,k m i ə ŋ,,Nagaraja2013,36_earth_b,False,^k m i ə ŋ$,default,k m i 3 N,3 N i k m
+213,PnarJaintia-36_earth-1,,PnarJaintia,36_earth,kʰndaw,kʰndaw,kʰ d a w,,Nagaraja2013,36_earth_c,False,^kʰ n d a w$,default,kh~ d a w,a d kh~ w
+214,WarLamin-36_earth-1,,WarLamin,36_earth,pәrθa,pәrθa,p ə r θ a,,Nagaraja2013,,True,^p ә r θ a$,default,p 3 r 8 a,3 8 a p r
+215,Palaung-36_earth-1,,Palaung,36_earth,kətɛ,kətɛ,k ə t ɛ,,Nagaraja2013,36_earth_d,False,^k ə t ɛ$,default,k 3 t E,3 E k t
+216,Khmu-36_earth-1,,Khmu,36_earth,pəteʔ,pəteʔ,p ə t e ʔ,,Nagaraja2013,36_earth_d,False,^p ə t e ʔ$,default,p 3 t e 7,3 7 e p t
+217,Khasi-37_eat-1,,Khasi,37_eat,baːm,baːm,b aː m,,Nagaraja2013,37_eat_a,False,^b aː m$,default,b a m,a b m
+218,Lyngngam-37_eat-1,,Lyngngam,37_eat,bɨnnəŋ,bɨnnəŋ,b ɨ nː ə ŋ,,Nagaraja2013,37_eat_a,False,^b ɨ nn ə ŋ$,default,b 3 n 3 N,3 N b n
+219,PnarJaintia-37_eat-1,,PnarJaintia,37_eat,bam,bam,b a m,,Nagaraja2013,37_eat_a,False,^b a m$,default,b a m,a b m
+220,WarLamin-37_eat-1,,WarLamin,37_eat,bʊə,bʊə,b ʊ ə,,Nagaraja2013,37_eat_a,False,^b ʊ ə$,default,b u 3,3 b u
+221,Palaung-37_eat-1,,Palaung,37_eat,hap,hap,h a p,,Nagaraja2013,37_eat_c,False,^h a p$,default,h a p,a h p
+222,Khmu-37_eat-1,,Khmu,37_eat,mah,mah,m a h,,Nagaraja2013,37_eat_d,False,^m a h$,default,m a h,a h m
+223,Khasi-38_egg-1,,Khasi,38_egg,pɨlleŋ,pɨlleŋ,p ɨ lː e ŋ,,Nagaraja2013,38_egg_a,False,^p ɨ ll e ŋ$,default,p 3 l e N,3 N e l p
+224,Lyngngam-38_egg-1,,Lyngngam,38_egg,pɨllɨŋ,pɨllɨŋ,p ɨ lː ɨ ŋ,,Nagaraja2013,38_egg_a,False,^p ɨ ll ɨ ŋ$,default,p 3 l 3 N,3 N l p
+225,PnarJaintia-38_egg-1,,PnarJaintia,38_egg,pl̩leiɲ,pl̩leiɲ,p l̩ l e i ɲ,,Nagaraja2013,38_egg_a,False,^p l̩ l e i ɲ$,default,p l l e i 5,5 e i l p
+226,WarLamin-38_egg-1,,WarLamin,38_egg,sʔі,sʔі,s ʔ i,,Nagaraja2013,38_egg_b,False,^s ʔ і$,default,s 7 i,7 i s
+227,Palaung-38_egg-1,,Palaung,38_egg,kətəm,kətəm,k ə t ə m,,Nagaraja2013,38_egg_c,False,^k ə t ə m$,default,k 3 t 3 m,3 k m t
+228,Khmu-38_egg-1,,Khmu,38_egg,kədoŋ,kədoŋ,k ə d o ŋ,,Nagaraja2013,38_egg_d,False,^k ə d o ŋ$,default,k 3 d o N,3 N d k o
+229,Khasi-39_eye-1,,Khasi,39_eye,kʰmat,kʰmat,kʰ m a t,,Nagaraja2013,39_eye_a,False,^kʰ m a t$,default,kh~ m a t,a kh~ m t
+230,Lyngngam-39_eye-1,,Lyngngam,39_eye,kʰmat,kʰmat,kʰ m a t,,Nagaraja2013,39_eye_a,False,^kʰ m a t$,default,kh~ m a t,a kh~ m t
+231,PnarJaintia-39_eye-1,,PnarJaintia,39_eye,kʰmat,kʰmat,kʰ m a t,,Nagaraja2013,39_eye_a,False,^kʰ m a t$,default,kh~ m a t,a kh~ m t
+232,WarLamin-39_eye-1,,WarLamin,39_eye,mat,mat,m a t,,Nagaraja2013,39_eye_a,False,^m a t$,default,m a t,a m t
+233,Palaung-39_eye-1,,Palaung,39_eye,ŋaj,ŋaj,ŋ ai̯,,Nagaraja2013,39_eye_b,False,^ŋ aj $,default,N ai,N ai
+234,Khmu-39_eye-1,,Khmu,39_eye,mat,mat,m a t,,Nagaraja2013,39_eye_a,False,^m a t$,default,m a t,a m t
+235,Khasi-40_tofall-1,,Khasi,40_tofall,hap,hap,h a p,,Nagaraja2013,40_tofall_a,False,^h a p$,default,h a p,a h p
+236,Lyngngam-40_tofall-1,,Lyngngam,40_tofall,eŋaj,eŋaj,e ŋ ai̯,,Nagaraja2013,40_tofall_b,False,^e ŋ aj $,default,e N ai,N ai e
+237,PnarJaintia-40_tofall-1,,PnarJaintia,40_tofall,hap,hap,h a p,,Nagaraja2013,40_tofall_a,False,^h a p$,default,h a p,a h p
+238,WarLamin-40_tofall-1,,WarLamin,40_tofall,hərem,hərem,h ə r e m,,Nagaraja2013,40_tofall_c,False,^h ə r e m$,default,h 3 r e m,3 e h m r
+239,Palaung-40_tofall-1,,Palaung,40_tofall,rar,rar,r a r,,Nagaraja2013,40_tofall_d,False,^r a r$,default,r a r,a r
+240,Khmu-40_tofall-1,,Khmu,40_tofall,"grɔːj, ʰlon",grɔːj,g r ɔː j,,Nagaraja2013,40_tofall_e,False,^g r ɔː j$,default,g r o y,g o r y
+241,Khmu-40_tofall-2,,Khmu,40_tofall,"grɔːj, ʰlon",ʰlon,ʰl o n,,Nagaraja2013,40_tofall_e,False,^ʰl o n$,default,hl o n,hl n o
+242,Khasi-41_far-1,,Khasi,41_far,ɟŋaj,ɟŋaj,ɟ ŋ ai̯,,Nagaraja2013,41_far_a,False,^ɟ ŋ aj $,default,T N ai,N T ai
+243,Lyngngam-41_far-1,,Lyngngam,41_far,ɟŋi,ɟŋi,ɟ ŋ i,,Nagaraja2013,41_far_a,False,^ɟ ŋ i$,default,T N i,N T i
+244,PnarJaintia-41_far-1,,PnarJaintia,41_far,dʒŋai,dʒŋai,dʒ ŋ a i,,Nagaraja2013,41_far_a,False,^dʒ ŋ a i$,default,dZ N a i,N a dZ i
+245,WarLamin-41_far-1,,WarLamin,41_far,ʧŋʊ,ʧŋʊ,tʃ ŋ ʊ,,Nagaraja2013,41_far_a,False,^ʧ ŋ ʊ$,default,tS N u,N tS u
+246,Palaung-41_far-1,,Palaung,41_far,səŋaj,səŋaj,s ə ŋ ai̯,,Nagaraja2013,41_far_a,False,^s ə ŋ aj $,default,s 3 N ai,3 N ai s
+247,Khmu-41_far-1,,Khmu,41_far,ɟaːr,ɟaːr,ɟ aː r,,Nagaraja2013,41_far_b,False,^ɟ aː r$,default,T a r,T a r
+248,Khasi-42_fatgrease-1,,Khasi,42_fatgrease,sŋaːʲd,sŋaːʲd,s ŋ aːi̯ d,,Nagaraja2013,42_fatgrease_a,False,^s ŋ aːʲ d$,default,s N ai d,N ai d s
+249,Lyngngam-42_fatgrease-1,,Lyngngam,42_fatgrease,ɨmmir,ɨmmir,ɨ mː i r,,Nagaraja2013,42_fatgrease_b,False,^ɨ mm i r$,default,3 m i r,3 i m r
+250,PnarJaintia-42_fatgrease-1,,PnarJaintia,42_fatgrease,kʰlaɲ,kʰlaɲ,kʰ l a ɲ,,Nagaraja2013,42_fatgrease_c,False,^kʰ l a ɲ$,default,kh~ l a 5,5 a kh~ l
+251,WarLamin-42_fatgrease-1,,WarLamin,42_fatgrease,ləʔɒt,ləʔɒt,l ə ʔ ɒ t,,Nagaraja2013,42_fatgrease_d,False,^l ə ʔ ɒ t$,default,l 3 7 o t,3 7 l o t
+252,Palaung-42_fatgrease-1,,Palaung,42_fatgrease,kəmu,kəmu,k ə m u,,Nagaraja2013,42_fatgrease_e,False,^k ə m u$,default,k 3 m u,3 k m u
+253,Khmu-42_fatgrease-1,,Khmu,42_fatgrease,məːj,məːj,m əː j,,Nagaraja2013,42_fatgrease_f,False,^m əː j$,default,m 3 y,3 m y
+254,Khasi-43_father-1,,Khasi,43_father,kpa,kpa,k p a,,Nagaraja2013,43_father_a,False,^k p a$,default,k p a,a k p
+255,Lyngngam-43_father-1,,Lyngngam,43_father,pa,pa,p a,,Nagaraja2013,43_father_a,False,^p a$,default,p a,a p
+256,PnarJaintia-43_father-1,,PnarJaintia,43_father,pa,pa,p a,,Nagaraja2013,43_father_a,False,^p a$,default,p a,a p
+257,WarLamin-43_father-1,,WarLamin,43_father,pa,pa,p a,,Nagaraja2013,43_father_a,False,^p a$,default,p a,a p
+258,Palaung-43_father-1,,Palaung,43_father,kun,kun,k u n,,Nagaraja2013,43_father_b,False,^k u n$,default,k u n,k n u
+259,Khmu-43_father-1,,Khmu,43_father,joŋ,joŋ,j o ŋ,,Nagaraja2013,43_father_c,False,^j o ŋ$,default,y o N,N o y
+260,Khasi-44_tofear-1,,Khasi,44_tofear,ʃeptieŋ,ʃeptieŋ,ʃ e p t i e ŋ,,Nagaraja2013,44_tofear_a,False,^ʃ e p t i e ŋ$,default,S e p t i e N,N S e i p t
+261,Lyngngam-44_tofear-1,,Lyngngam,44_tofear,tieŋ dait,tieŋ dait,t i e ŋ + d a i t,,Nagaraja2013,44_tofear_a,False,^t i e ŋ + d a i t$,default,t i e N  d a i t, N a d e i t
+262,PnarJaintia-44_tofear-1,,PnarJaintia,44_tofear,teʲɲ,teʲɲ,t ei̯ ɲ,,Nagaraja2013,44_tofear_a,False,^t eʲ ɲ$,default,t ei 5,5 ei t
+263,WarLamin-44_tofear-1,,WarLamin,44_tofear,ktɪәŋ,ktɪәŋ,k t ɪ ə ŋ,,Nagaraja2013,44_tofear_a,False,^k t ɪ ә ŋ$,default,k t i 3 N,3 N i k t
+264,Palaung-44_tofear-1,,Palaung,44_tofear,jɔ,jɔ,j ɔ,,Nagaraja2013,44_tofear_b,False,^j ɔ$,default,y o,o y
+265,Khmu-44_tofear-1,,Khmu,44_tofear,hŋkɨər,hŋkɨər,h ŋ k ɨ ə r,,Nagaraja2013,44_tofear_c,False,^h ŋ k ɨ ə r$,default,h N k 3 3 r,3 N h k r
+266,Khasi-45_feather-1,,Khasi,45_feather,sner,sner,s e r,,Nagaraja2013,45_feather_a,False,^s n e r$,default,s e r,e r s
+267,Lyngngam-45_feather-1,,Lyngngam,45_feather,snir,snir,s i r,,Nagaraja2013,45_feather_a,False,^s n i r$,default,s i r,i r s
+268,PnarJaintia-45_feather-1,,PnarJaintia,45_feather,tʰawanɛr,tʰawanɛr,tʰ a w a ɛ r,,Nagaraja2013,45_feather_a,False,^tʰ a w a n ɛ r$,default,th~ a w a E r,E a r th~ w
+269,WarLamin-45_feather-1,,WarLamin,45_feather,θәbәnɪar,θәbәnɪar,θ ə b ə ɪ a r,,Nagaraja2013,45_feather_a,False,^θ ә b ә n ɪ a r$,default,8 3 b 3 i a r,3 8 a b i r
+270,Khmu-45_feather-1,,Khmu,45_feather,khuːl,khuːl,kʰ uː l,,Nagaraja2013,45_feather_b,False,^kh uː l$,default,kh~ u l,kh~ l u
+271,Khasi-46_few-1,,Khasi,46_few,kʰɨn-diat,kʰɨn-diat,kʰ ɨ + d i a t,,Nagaraja2013,46_few_a,False,^kʰ ɨ n - d i a t$,default,kh~ 3  d i a t, 3 a d i kh~ t
+272,Lyngngam-46_few-1,,Lyngngam,46_few,tah-diat,tah-diat,t a h + d i a t,,Nagaraja2013,46_few_a,False,^t a h - d i a t$,default,t a h  d i a t, a d h i t
+273,PnarJaintia-46_few-1,,PnarJaintia,46_few,kʰadʒʲak,kʰadʒʲak,kʰ a dʒʲ a k,,Nagaraja2013,46_few_b,False,^kʰ a dʒʲ a k$,default,kh~ a dZy~ a k,a dZy~ k kh~
+274,Palaung-46_few-1,,Palaung,46_few,bre,bre,b r e,,Nagaraja2013,46_few_c,False,^b r e$,default,b r e,b e r
+275,Khmu-46_few-1,,Khmu,46_few,laːŋ,laːŋ,l aː ŋ,,Nagaraja2013,46_few_d,False,^l aː ŋ$,default,l a N,N a l
+276,Khasi-47_tofight-1,,Khasi,47_tofight,jaʃoʔ / jadat,jaʃoʔ,j a ʃ o ʔ,,Nagaraja2013,47_tofight_a,False,^j a ʃ o ʔ$,default,y a S o 7,7 S a o y
+277,Khasi-47_tofight-2,,Khasi,47_tofight,jaʃoʔ / jadat,jadat,j a d a t,,Nagaraja2013,47_tofight_a,False,^j a d a t$,default,y a d a t,a d t y
+278,Lyngngam-47_tofight-1,,Lyngngam,47_tofight,jamuʔ,jamuʔ,j a m u ʔ,,Nagaraja2013,47_tofight_b,False,^j a m u ʔ$,default,y a m u 7,7 a m u y
+279,PnarJaintia-47_tofight-1,,PnarJaintia,47_tofight,jatʃɔʔ,jatʃɔʔ,j a tʃ ɔ ʔ,,Nagaraja2013,47_tofight_a,False,^j a tʃ ɔ ʔ$,default,y a tS o 7,7 a o tS y
+280,WarLamin-47_tofight-1,,WarLamin,47_tofight,jaʔ dat,jaʔ dat,j a ʔ + d a t,,Nagaraja2013,,True,^j a ʔ + d a t$,default,y a 7  d a t, 7 a d t y
+281,Palaung-47_tofight-1,,Palaung,47_tofight,taik,taik,t a i k,,Nagaraja2013,47_tofight_c,False,^t a i k$,default,t a i k,a i k t
+282,Khmu-47_tofight-1,,Khmu,47_tofight,leːw,leːw,l eː w,,Nagaraja2013,47_tofight_d,False,^l eː w$,default,l e w,e l w
+283,Khasi-48_fire-1,,Khasi,48_fire,diŋ,diŋ,d i ŋ,,Nagaraja2013,48_fire_a,False,^d i ŋ$,default,d i N,N d i
+284,Lyngngam-48_fire-1,,Lyngngam,48_fire,ədoɲ,ədoɲ,ə d o ɲ,,Nagaraja2013,48_fire_a,False,^ə d o ɲ$,default,3 d o 5,3 5 d o
+285,PnarJaintia-48_fire-1,,PnarJaintia,48_fire,diɲ,diɲ,d i ɲ,,Nagaraja2013,48_fire_a,False,^d i ɲ$,default,d i 5,5 d i
+286,WarLamin-48_fire-1,,WarLamin,48_fire,ʃmen,ʃmen,ʃ m e n,,Nagaraja2013,48_fire_b,False,^ʃ m e n$,default,S m e n,S e m n
+287,Palaung-48_fire-1,,Palaung,48_fire,ŋər,ŋər,ŋ ə r,,Nagaraja2013,48_fire_c,False,^ŋ ə r$,default,N 3 r,3 N r
+288,Khmu-48_fire-1,,Khmu,48_fire,pʰrɨə,pʰrɨə,pʰ r ɨ ə,,Nagaraja2013,48_fire_d,False,^pʰ r ɨ ə$,default,ph~ r 3 3,3 ph~ r
+289,Khasi-49_fish-1,,Khasi,49_fish,doʔkʰa,doʔkʰa,d o ʔ kʰ a,,Nagaraja2013,49_fish_a,False,^d o ʔ kʰ a$,default,d o 7 kh~ a,7 a d kh~ o
+290,Lyngngam-49_fish-1,,Lyngngam,49_fish,kʰa,kʰa,kʰ a,,Nagaraja2013,49_fish_a,False,^kʰ a$,default,kh~ a,a kh~
+291,PnarJaintia-49_fish-1,,PnarJaintia,49_fish,dakʰa,dakʰa,d a kʰ a,,Nagaraja2013,49_fish_a,False,^d a kʰ a$,default,d a kh~ a,a d kh~
+292,WarLamin-49_fish-1,,WarLamin,49_fish,hi,hi,h i,,Nagaraja2013,49_fish_a,False,^h i$,default,h i,h i
+293,Palaung-49_fish-1,,Palaung,49_fish,ka,ka,k a,,Nagaraja2013,49_fish_a,False,^k a$,default,k a,a k
+294,Khmu-49_fish-1,,Khmu,49_fish,kaʔ,kaʔ,k a ʔ,,Nagaraja2013,49_fish_a,False,^k a ʔ$,default,k a 7,7 a k
+295,Khasi-50_five-1,,Khasi,50_five,san,san,s a n,,Nagaraja2013,50_five_a,False,^s a n$,default,s a n,a n s
+296,Lyngngam-50_five-1,,Lyngngam,50_five,san,san,s a n,,Nagaraja2013,50_five_a,False,^s a n$,default,s a n,a n s
+297,PnarJaintia-50_five-1,,PnarJaintia,50_five,san,san,s a n,,Nagaraja2013,50_five_a,False,^s a n$,default,s a n,a n s
+298,WarLamin-50_five-1,,WarLamin,50_five,ran,ran,r a n,,Nagaraja2013,50_five_a,False,^r a n$,default,r a n,a n r
+299,Palaung-50_five-1,,Palaung,50_five,pʰən,pʰən,pʰ ə n,,Nagaraja2013,50_five_a,False,^pʰ ə n$,default,ph~ 3 n,3 n ph~
+300,Khmu-50_five-1,,Khmu,50_five,haː,haː,h aː,,Nagaraja2013,,True,^h aː$,default,h a,a h
+301,Khasi-51_tofloat-1,,Khasi,51_tofloat,per,per,p e r,,Nagaraja2013,51_tofloat_a,False,^p e r$,default,p e r,e p r
+302,Lyngngam-51_tofloat-1,,Lyngngam,51_tofloat,raŋ,raŋ,r a ŋ,,Nagaraja2013,51_tofloat_b,False,^r a ŋ$,default,r a N,N a r
+303,PnarJaintia-51_tofloat-1,,PnarJaintia,51_tofloat,pɛr,pɛr,p ɛ r,,Nagaraja2013,51_tofloat_a,False,^p ɛ r$,default,p E r,E p r
+304,WarLamin-51_tofloat-1,,WarLamin,51_tofloat,sper,sper,s p e r,,Nagaraja2013,51_tofloat_a,False,^s p e r$,default,s p e r,e p r s
+305,Palaung-51_tofloat-1,,Palaung,51_tofloat,plɯr,plɯr,p l ɯ r,,Nagaraja2013,51_tofloat_c,False,^p l ɯ r$,default,p l u r,l p r u
+306,Khmu-51_tofloat-1,,Khmu,51_tofloat,hrloːj,hrloːj,h r l oː j,,Nagaraja2013,51_tofloat_d,False,^h r l oː j$,default,h r l o y,h l o r y
+307,Khasi-52_toflow-1,,Khasi,52_toflow,tuːʲd,tuːʲd,t uːi̯ d,,Nagaraja2013,52_toflow_a,False,^t uːʲ d$,default,t ui d,d t ui
+308,Lyngngam-52_toflow-1,,Lyngngam,52_toflow,sɨn-toːʲd,sɨn-toːʲd,s ɨ + t oːi̯ d,,Nagaraja2013,52_toflow_a,False,^s ɨ n - t oːʲ d$,default,s 3  t oi d, 3 d oi s t
+309,PnarJaintia-52_toflow-1,,PnarJaintia,52_toflow,toːʲd,toːʲd,t oːi̯ d,,Nagaraja2013,52_toflow_a,False,^t oːʲ d$,default,t oi d,d oi t
+310,WarLamin-52_toflow-1,,WarLamin,52_toflow,pɒr,pɒr,p ɒ r,,Nagaraja2013,52_toflow_b,False,^p ɒ r$,default,p o r,o p r
+311,Palaung-52_toflow-1,,Palaung,52_toflow,hlaj,hlaj,h l ai̯,,Nagaraja2013,52_toflow_c,False,^h l aj $,default,h l ai,ai h l
+312,Khmu-52_toflow-1,,Khmu,52_toflow,kɔːr,kɔːr,k ɔː r,,Nagaraja2013,52_toflow_d,False,^k ɔː r$,default,k o r,k o r
+313,Khasi-53_flower-1,,Khasi,53_flower,sɨntiew,sɨntiew,s ɨ t i e w,,Nagaraja2013,53_flower_a,False,^s ɨ n t i e w$,default,s 3 t i e w,3 e i s t w
+314,Lyngngam-53_flower-1,,Lyngngam,53_flower,sɨntew,sɨntew,s ɨ t e w,,Nagaraja2013,53_flower_a,False,^s ɨ n t e w$,default,s 3 t e w,3 e s t w
+315,PnarJaintia-53_flower-1,,PnarJaintia,53_flower,sn̩tu,sn̩tu,s n̩ t u,,Nagaraja2013,53_flower_a,False,^s n̩ t u$,default,s n t u,n s t u
+316,WarLamin-53_flower-1,,WarLamin,53_flower,khlʊə,khlʊə,kʰ l ʊ ə,,Nagaraja2013,53_flower_b,False,^kh l ʊ ə$,default,kh~ l u 3,3 kh~ l u
+317,Palaung-53_flower-1,,Palaung,53_flower,poh,poh,p o h,,Nagaraja2013,53_flower_c,False,^p o h$,default,p o h,h o p
+318,Khmu-53_flower-1,,Khmu,53_flower,raːŋ,raːŋ,r aː ŋ,,Nagaraja2013,53_flower_d,False,^r aː ŋ$,default,r a N,N a r
+319,Khasi-54_tofly-1,,Khasi,54_tofly,her,her,h e r,,Nagaraja2013,54_tofly_a,False,^h e r$,default,h e r,e h r
+320,Lyngngam-54_tofly-1,,Lyngngam,54_tofly,kɨndej,kɨndej,k ɨ d ei̯,,Nagaraja2013,54_tofly_b,False,^k ɨ n d ej $,default,k 3 d ei,3 d ei k
+321,PnarJaintia-54_tofly-1,,PnarJaintia,54_tofly,pn̩hɛr,pn̩hɛr,p n̩ h ɛ r,,Nagaraja2013,54_tofly_a,False,^p n̩h ɛ r$,default,p n h E r,E h n p r
+322,WarLamin-54_tofly-1,,WarLamin,54_tofly,pɪar,pɪar,p ɪ a r,,Nagaraja2013,54_tofly_c,False,^p ɪ a r$,default,p i a r,a i p r
+323,Palaung-54_tofly-1,,Palaung,54_tofly,pər,pər,p ə r,,Nagaraja2013,54_tofly_c,False,^p ə r$,default,p 3 r,3 p r
+324,Khmu-54_tofly-1,,Khmu,54_tofly,tɨːr,tɨːr,t ɨː r,,Nagaraja2013,54_tofly_e,False,^t ɨː r$,default,t 3 r,3 r t
+325,Khasi-55_fog-1,,Khasi,55_fog,dum-lʔoʔ,dum-lʔoʔ,d u m + l ʔ o ʔ,,Nagaraja2013,55_fog_a,False,^d u m - l ʔ o ʔ$,default,d u m  l 7 o 7, 7 d l m o u
+326,Lyngngam-55_fog-1,,Lyngngam,55_fog,nioŋ nia,nioŋ nia,n i o ŋ + i a,,Nagaraja2013,55_fog_b,False,^n i o ŋ + n i a$,default,n i o N  i a, N a i n o
+327,PnarJaintia-55_fog-1,,PnarJaintia,55_fog,lʔɔʔ kʰn̩daw,lʔɔʔ kʰn̩daw,l ʔ ɔ ʔ + kʰ n̩ d a w,,Nagaraja2013,55_fog_c,False,^l ʔ ɔ ʔ + kʰ n̩ d a w$,default,l 7 o 7  kh~ n d a w, 7 a d kh~ l n o w
+328,WarLamin-55_fog-1,,WarLamin,55_fog,dʊm,dʊm,d ʊ m,,Nagaraja2013,55_fog_a,False,^d ʊ m$,default,d u m,d m u
+329,Palaung-55_fog-1,,Palaung,55_fog,aj,aj,a j,,Nagaraja2013,55_fog_d,False,^a j$,default,a y,a y
+330,Khmu-55_fog-1,,Khmu,55_fog,ʔom hmpuːt,ʔom hmpuːt,ʔ o m + h m p uː t,,Nagaraja2013,55_fog_e,False,^ʔ o m + h m p uː t$,default,7 o m  h m p u t, 7 h m o p t u
+331,Khasi-56_foot-1,,Khasi,56_foot,kɟat,kɟat,k ɟ a t,,Nagaraja2013,56_foot_a,False,^k ɟ a t$,default,k T a t,T a k t
+332,Lyngngam-56_foot-1,,Lyngngam,56_foot,kɟat,kɟat,k ɟ a t,,Nagaraja2013,56_foot_a,False,^k ɟ a t$,default,k T a t,T a k t
+333,PnarJaintia-56_foot-1,,PnarJaintia,56_foot,kdʒat,kdʒat,k dʒ a t,,Nagaraja2013,56_foot_a,False,^k dʒ a t$,default,k dZ a t,a dZ k t
+334,WarLamin-56_foot-1,,WarLamin,56_foot,nɪa,nɪa,n ɪ a,,Nagaraja2013,56_foot_b,False,^n ɪ a$,default,n i a,a i n
+335,Palaung-56_foot-1,,Palaung,56_foot,ɟɯŋ,ɟɯŋ,ɟ ɯ ŋ,,Nagaraja2013,56_foot_c,False,^ɟ ɯ ŋ$,default,T u N,N T u
+336,Khmu-56_foot-1,,Khmu,56_foot,ɟɨəŋ,ɟɨəŋ,ɟ ɨ ə ŋ,,Nagaraja2013,56_foot_c,False,^ɟ ɨ ə ŋ$,default,T 3 3 N,3 N T
+337,Khasi-57_four-1,,Khasi,57_four,saw,saw,s a w,,Nagaraja2013,57_four_a,False,^s a w$,default,s a w,a s w
+338,Lyngngam-57_four-1,,Lyngngam,57_four,saw,saw,s a w,,Nagaraja2013,57_four_a,False,^s a w$,default,s a w,a s w
+339,PnarJaintia-57_four-1,,PnarJaintia,57_four,so,so,s o,,Nagaraja2013,57_four_a,False,^s o$,default,s o,o s
+340,WarLamin-57_four-1,,WarLamin,57_four,rɪa,rɪa,r ɪ a,,Nagaraja2013,57_four_a,False,^r ɪ a$,default,r i a,a i r
+341,Palaung-57_four-1,,Palaung,57_four,pʰon,pʰon,pʰ o n,,Nagaraja2013,57_four_b,False,^pʰ o n$,default,ph~ o n,n o ph~
+342,Khmu-57_four-1,,Khmu,57_four,puːl,puːl,p uː l,,Nagaraja2013,57_four_c,False,^p uː l$,default,p u l,l p u
+343,Khasi-58_freeze-1,,Khasi,58_freeze,ʃoʔ tʰaʔ,ʃoʔ tʰaʔ,ʃ o ʔ + tʰ a ʔ,,Nagaraja2013,58_freeze_a,False,^ʃ o ʔ + tʰ a ʔ$,default,S o 7  th~ a 7, 7 S a o th~
+344,Lyngngam-58_freeze-1,,Lyngngam,58_freeze,tɨŋŋam / bɨnsier,tɨŋŋam,t ɨ ŋː a m,,Nagaraja2013,58_freeze_b,False,^t ɨ ŋŋ a m$,default,t 3 N a m,3 N a m t
+345,Lyngngam-58_freeze-2,,Lyngngam,58_freeze,tɨŋŋam / bɨnsier,bɨnsier,b ɨ n s i e r,,Nagaraja2013,58_freeze_b,False,^b ɨ ns i e r$,default,b 3 n s i e r,3 b e i n r s
+346,PnarJaintia-58_freeze-1,,PnarJaintia,58_freeze,tʰaʔ,tʰaʔ,tʰ a ʔ,,Nagaraja2013,58_freeze_a,False,^tʰ a ʔ$,default,th~ a 7,7 a th~
+347,WarLamin-58_freeze-1,,WarLamin,58_freeze,tʰaʔ,tʰaʔ,tʰ a ʔ,,Nagaraja2013,58_freeze_a,False,^tʰ a ʔ$,default,th~ a 7,7 a th~
+348,Palaung-58_freeze-1,,Palaung,58_freeze,krɔʔ,krɔʔ,k r ɔ ʔ,,Nagaraja2013,58_freeze_c,False,^k r ɔ ʔ$,default,k r o 7,7 k o r
+349,Khasi-59_fruit-1,,Khasi,59_fruit,soʔ,soʔ,s o ʔ,,Nagaraja2013,59_fruit_a,False,^s o ʔ$,default,s o 7,7 o s
+350,Lyngngam-59_fruit-1,,Lyngngam,59_fruit,suʔ,suʔ,s u ʔ,,Nagaraja2013,59_fruit_a,False,^s u ʔ$,default,s u 7,7 s u
+351,PnarJaintia-59_fruit-1,,PnarJaintia,59_fruit,sɔʔ,sɔʔ,s ɔ ʔ,,Nagaraja2013,59_fruit_a,False,^s ɔ ʔ$,default,s o 7,7 o s
+352,WarLamin-59_fruit-1,,WarLamin,59_fruit,sɒʔ,sɒʔ,s ɒ ʔ,,Nagaraja2013,59_fruit_a,False,^s ɒ ʔ$,default,s o 7,7 o s
+353,Palaung-59_fruit-1,,Palaung,59_fruit,ple,ple,p l e,,Nagaraja2013,59_fruit_b,False,^p l e$,default,p l e,e l p
+354,Khmu-59_fruit-1,,Khmu,59_fruit,pleʔ,pleʔ,p l e ʔ,,Nagaraja2013,59_fruit_b,False,^p l e ʔ$,default,p l e 7,7 e l p
+355,Khasi-60_give-1,,Khasi,60_give,aj,aj,a j,,Nagaraja2013,60_give_a,False,^a j$,default,a y,a y
+356,Lyngngam-60_give-1,,Lyngngam,60_give,ɨnnaj,ɨnnaj,ɨ nː ai̯,,Nagaraja2013,60_give_a,False,^ɨ nn aj $,default,3 n ai,3 ai n
+357,PnarJaintia-60_give-1,,PnarJaintia,60_give,e,e,e,,Nagaraja2013,60_give_a,False,^e$,default,e,e
+358,WarLamin-60_give-1,,WarLamin,60_give,ʔaː,ʔaː,ʔ aː,,Nagaraja2013,60_give_a,False,^ʔ aː$,default,7 a,7 a
+359,Palaung-60_give-1,,Palaung,60_give,dɛh,dɛh,d ɛ h,,Nagaraja2013,60_give_b,False,^d ɛ h$,default,d E h,E d h
+360,Khmu-60_give-1,,Khmu,60_give,ʔan,ʔan,ʔ a n,,Nagaraja2013,60_give_c,False,^ʔ a n$,default,7 a n,7 a n
+361,Khasi-61_good-1,,Khasi,61_good,bʰa,bʰa,bʰ a,,Nagaraja2013,,True,^bʰ a$,default,bh~ a,a bh~
+362,Lyngngam-61_good-1,,Lyngngam,61_good,mɨrrʰiaŋ,mɨrrʰiaŋ,m ɨ rʰː i a ŋ,,Nagaraja2013,61_good_a,False,^m ɨ rrʰ i a ŋ$,default,m 3 rh~ i a N,3 N a i m rh~
+363,PnarJaintia-61_good-1,,PnarJaintia,61_good,bʰa,bʰa,bʰ a,,Nagaraja2013,,True,^bʰ a$,default,bh~ a,a bh~
+364,WarLamin-61_good-1,,WarLamin,61_good,mɪət,mɪət,m ɪ ə t,,Nagaraja2013,61_good_b,False,^m ɪ ə t$,default,m i 3 t,3 i m t
+365,Palaung-61_good-1,,Palaung,61_good,laʔ,laʔ,l a ʔ,,Nagaraja2013,61_good_c,False,^l a ʔ$,default,l a 7,7 a l
+366,Khmu-61_good-1,,Khmu,61_good,ləʔ,ləʔ,l ə ʔ,,Nagaraja2013,61_good_c,False,^l ə ʔ$,default,l 3 7,3 7 l
+367,Khasi-62_grass-1,,Khasi,62_grass,pʰlaŋ,pʰlaŋ,pʰ l a ŋ,,Nagaraja2013,62_grass_a,False,^pʰ l a ŋ$,default,ph~ l a N,N a l ph~
+368,Lyngngam-62_grass-1,,Lyngngam,62_grass,pʰlaŋ,pʰlaŋ,pʰ l a ŋ,,Nagaraja2013,62_grass_a,False,^pʰ l a ŋ$,default,ph~ l a N,N a l ph~
+369,PnarJaintia-62_grass-1,,PnarJaintia,62_grass,pʰlaŋ,pʰlaŋ,pʰ l a ŋ,,Nagaraja2013,62_grass_a,False,^pʰ l a ŋ$,default,ph~ l a N,N a l ph~
+370,WarLamin-62_grass-1,,WarLamin,62_grass,smʊt,smʊt,s m ʊ t,,Nagaraja2013,62_grass_b,False,^s m ʊ t$,default,s m u t,m s t u
+371,Palaung-62_grass-1,,Palaung,62_grass,kərban,kərban,k ə r b a n,,Nagaraja2013,62_grass_c,False,^k ə r b a n$,default,k 3 r b a n,3 a b k n r
+372,Khmu-62_grass-1,,Khmu,62_grass,cit,cit,c i t,,Nagaraja2013,62_grass_d,False,^c i t$,default,T i t,T i t
+373,Khasi-63_green-1,,Khasi,63_green,ɟɨrŋam,ɟɨrŋam,ɟ ɨ r ŋ a m,,Nagaraja2013,63_green_a,False,^ɟ ɨ r ŋ a m$,default,T 3 r N a m,3 N T a m r
+374,Lyngngam-63_green-1,,Lyngngam,63_green,sɨŋiəŋ,sɨŋiəŋ,s ɨ ŋ i ə ŋ,,Nagaraja2013,63_green_a,False,^s ɨ ŋ i ə ŋ$,default,s 3 N i 3 N,3 N i s
+375,PnarJaintia-63_green-1,,PnarJaintia,63_green,jr̩ŋam,jr̩ŋam,j r̩ ŋ a m,,Nagaraja2013,63_green_a,False,^j r̩ ŋ a m$,default,y r N a m,N a m r y
+376,WarLamin-63_green-1,,WarLamin,63_green,ʧərŋam,ʧərŋam,tʃ ə r ŋ a m,,Nagaraja2013,63_green_a,False,^ʧ ə r ŋ a m$,default,tS 3 r N a m,3 N a m r tS
+377,Palaung-63_green-1,,Palaung,63_green,ɲər,ɲər,ɲ ə r,,Nagaraja2013,63_green_b,False,^ɲ ə r$,default,5 3 r,3 5 r
+378,Khmu-63_green-1,,Khmu,63_green,siːw,siːw,s iː w,,Nagaraja2013,63_green_c,False,^s iː w$,default,s i w,i s w
+379,Khasi-64_gutsintestines-1,,Khasi,64_gutsintestines,snier,snier,s i e r,,Nagaraja2013,64_gutsintestines_a,False,^s n i e r$,default,s i e r,e i r s
+380,Lyngngam-64_gutsintestines-1,,Lyngngam,64_gutsintestines,snor,snor,s o r,,Nagaraja2013,64_gutsintestines_a,False,^s n o r$,default,s o r,o r s
+381,PnarJaintia-64_gutsintestines-1,,PnarJaintia,64_gutsintestines,snɛr,snɛr,s ɛ r,,Nagaraja2013,64_gutsintestines_a,False,^s n ɛ r$,default,s E r,E r s
+382,WarLamin-64_gutsintestines-1,,WarLamin,64_gutsintestines,nɒr,nɒr,n ɒ r,,Nagaraja2013,64_gutsintestines_a,False,^n ɒ r$,default,n o r,n o r
+383,Palaung-64_gutsintestines-1,,Palaung,64_gutsintestines,rɛŋ,rɛŋ,r ɛ ŋ,,Nagaraja2013,64_gutsintestines_b,False,^r ɛ ŋ$,default,r E N,E N r
+384,Khmu-64_gutsintestines-1,,Khmu,64_gutsintestines,ʰriəŋ,ʰriəŋ,ʰr i ə ŋ,,Nagaraja2013,64_gutsintestines_b,False,^ʰr i ə ŋ$,default,hr i 3 N,3 N hr i
+385,Khasi-65_hair-1,,Khasi,65_hair,sɲiuʔ,sɲiuʔ,s ɲ i u ʔ,,Nagaraja2013,65_hair_a,False,^s ɲ i u ʔ$,default,s 5 i u 7,5 7 i s u
+386,Lyngngam-65_hair-1,,Lyngngam,65_hair,sɲiək,sɲiək,s ɲ i ə k,,Nagaraja2013,65_hair_a,False,^s ɲ i ə k$,default,s 5 i 3 k,3 5 i k s
+387,PnarJaintia-65_hair-1,,PnarJaintia,65_hair,sɲʲoʔ,sɲʲoʔ,s ɲʲ o ʔ,,Nagaraja2013,65_hair_a,False,^s ɲʲ o ʔ$,default,s 5y~ o 7,5y~ 7 o s
+388,WarLamin-65_hair-1,,WarLamin,65_hair,sʊʔ,sʊʔ,s ʊ ʔ,,Nagaraja2013,65_hair_a,False,^s ʊ ʔ$,default,s u 7,7 s u
+389,Palaung-65_hair-1,,Palaung,65_hair,huʔ,huʔ,h u ʔ,,Nagaraja2013,65_hair_a,False,^h u ʔ$,default,h u 7,7 h u
+390,Khmu-65_hair-1,,Khmu,65_hair,kʰuːl,kʰuːl,kʰ uː l,,Nagaraja2013,65_hair_b,False,^kʰ uː l$,default,kh~ u l,kh~ l u
+391,Khasi-66_hand-1,,Khasi,66_hand,kti,kti,k t i,,Nagaraja2013,66_hand_a,False,^k t i$,default,k t i,i k t
+392,Lyngngam-66_hand-1,,Lyngngam,66_hand,ktej,ktej,k t ei̯,,Nagaraja2013,66_hand_a,False,^k t ej $,default,k t ei,ei k t
+393,PnarJaintia-66_hand-1,,PnarJaintia,66_hand,kti,kti,k t i,,Nagaraja2013,66_hand_a,False,^k t i$,default,k t i,i k t
+394,WarLamin-66_hand-1,,WarLamin,66_hand,taː,taː,t aː,,Nagaraja2013,66_hand_a,False,^t aː$,default,t a,a t
+395,Palaung-66_hand-1,,Palaung,66_hand,ti,ti,t i,,Nagaraja2013,66_hand_a,False,^t i$,default,t i,i t
+396,Khmu-66_hand-1,,Khmu,66_hand,tiʔ,tiʔ,t i ʔ,,Nagaraja2013,66_hand_a,False,^t i ʔ$,default,t i 7,7 i t
+397,Khasi-67_he-1,,Khasi,67_he,u,u,u,,Nagaraja2013,67_he_a,False,^u$,default,u,u
+398,Lyngngam-67_he-1,,Lyngngam,67_he,ɟutuʔ / umi,ɟutuʔ,ɟ u t u ʔ,,Nagaraja2013,67_he_a,False,^ɟ u t u ʔ$,default,T u t u 7,7 T t u
+399,Lyngngam-67_he-2,,Lyngngam,67_he,ɟutuʔ / umi,umi,u m i,,Nagaraja2013,67_he_a,False,^u m i$,default,u m i,i m u
+400,PnarJaintia-67_he-1,,PnarJaintia,67_he,u,u,u,,Nagaraja2013,67_he_a,False,^u$,default,u,u
+401,WarLamin-67_he-1,,WarLamin,67_he,u,u,u,,Nagaraja2013,67_he_a,False,^u$,default,u,u
+402,Palaung-67_he-1,,Palaung,67_he,ən,ən,ə n,,Nagaraja2013,67_he_b,False,^ə n$,default,3 n,3 n
+403,Khmu-67_he-1,,Khmu,67_he,gəː,gəː,g əː,,Nagaraja2013,67_he_c,False,^g əː$,default,g 3,3 g
+404,Khasi-68_head-1,,Khasi,68_head,kʰlieʔ,kʰlieʔ,kʰ l i e ʔ,,Nagaraja2013,68_head_a,False,^kʰ l i e ʔ$,default,kh~ l i e 7,7 e i kh~ l
+405,Lyngngam-68_head-1,,Lyngngam,68_head,kʰliʔ,kʰliʔ,kʰ l i ʔ,,Nagaraja2013,68_head_a,False,^kʰ l i ʔ$,default,kh~ l i 7,7 i kh~ l
+406,PnarJaintia-68_head-1,,PnarJaintia,68_head,kʰleiʔ,kʰleiʔ,kʰ l e i ʔ,,Nagaraja2013,68_head_a,False,^kʰ l e i ʔ$,default,kh~ l e i 7,7 e i kh~ l
+407,WarLamin-68_head-1,,WarLamin,68_head,kʰlɪa,kʰlɪa,kʰ l ɪ a,,Nagaraja2013,68_head_a,False,^kʰ l ɪ a$,default,kh~ l i a,a i kh~ l
+408,Palaung-68_head-1,,Palaung,68_head,kiŋ,kiŋ,k i ŋ,,Nagaraja2013,68_head_b,False,^k i ŋ$,default,k i N,N i k
+409,Khmu-68_head-1,,Khmu,68_head,kmpoŋ,kmpoŋ,k m p o ŋ,,Nagaraja2013,68_head_c,False,^k m p o ŋ$,default,k m p o N,N k m o p
+410,Khasi-69_hear-1,,Khasi,69_hear,sŋap,sŋap,s ŋ a p,,Nagaraja2013,69_hear_a,False,^s ŋ a p$,default,s N a p,N a p s
+411,Lyngngam-69_hear-1,,Lyngngam,69_hear,sŋu,sŋu,s ŋ u,,Nagaraja2013,69_hear_a,False,^s ŋ u$,default,s N u,N s u
+412,PnarJaintia-69_hear-1,,PnarJaintia,69_hear,sniaw,sniaw,s i a w,,Nagaraja2013,69_hear_a,False,^s n i a w$,default,s i a w,a i s w
+413,WarLamin-69_hear-1,,WarLamin,69_hear,sãʔ,sãʔ,s ã ʔ,,Nagaraja2013,69_hear_b,False,^s ã ʔ$,default,s a* 7,7 a* s
+414,Palaung-69_hear-1,,Palaung,69_hear,ɟu,ɟu,ɟ u,,Nagaraja2013,69_hear_c,False,^ɟ u$,default,T u,T u
+415,Khmu-69_hear-1,,Khmu,69_hear,mec,mec,m e c,,Nagaraja2013,69_hear_d,False,^m e c$,default,m e T,T e m
+416,Khasi-70_heart-1,,Khasi,70_heart,kloŋ snam,kloŋ snam,k l o ŋ + s a m,,Nagaraja2013,70_heart_a,False,^k l o ŋ + s n a m$,default,k l o N  s a m, N a k l m o s
+417,Lyngngam-70_heart-1,,Lyngngam,70_heart,kloŋ snam,kloŋ snam,k l o ŋ + s a m,,Nagaraja2013,70_heart_a,False,^k l o ŋ + s n a m$,default,k l o N  s a m, N a k l m o s
+418,PnarJaintia-70_heart-1,,PnarJaintia,70_heart,klɔŋ snam,klɔŋ snam,k l ɔ ŋ + s a m,,Nagaraja2013,70_heart_a,False,^k l ɔ ŋ + s n a m$,default,k l o N  s a m, N a k l m o s
+419,WarLamin-70_heart-1,,WarLamin,70_heart,klɒŋ rnʊə,klɒŋ rnʊə,k l ɒ ŋ + r ʊ ə,,Nagaraja2013,70_heart_a,False,^k l ɒ ŋ + r n ʊ ə$,default,k l o N  r u 3, 3 N k l o r u
+420,Palaung-70_heart-1,,Palaung,70_heart,nuər,nuər,n u ə r,,Nagaraja2013,70_heart_b,False,^n u ə r$,default,n u 3 r,3 n r u
+421,Khmu-70_heart-1,,Khmu,70_heart,tlɔːm ŋok,tlɔːm ŋok,t l ɔː m + ŋ o k,,Nagaraja2013,70_heart_c,False,^t l ɔː m + ŋ o k$,default,t l o m  N o k, N k l m o t
+422,Khasi-71_heavy-1,,Khasi,71_heavy,heʔ,heʔ,h e ʔ,,Nagaraja2013,71_heavy_a,False,^h e ʔ$,default,h e 7,7 e h
+423,Lyngngam-71_heavy-1,,Lyngngam,71_heavy,kenbaʔ / kʰɨnnia,kenbaʔ,k e b a ʔ,,Nagaraja2013,71_heavy_b,False,^k e n b a ʔ$,default,k e b a 7,7 a b e k
+424,Lyngngam-71_heavy-2,,Lyngngam,71_heavy,kenbaʔ / kʰɨnnia,kʰɨnnia,kʰ ɨ nː i a,,Nagaraja2013,71_heavy_b,False,^kʰ ɨ nn i a$,default,kh~ 3 n i a,3 a i kh~ n
+425,PnarJaintia-71_heavy-1,,PnarJaintia,71_heavy,kʰia,kʰia,kʰ i a,,Nagaraja2013,71_heavy_c,False,^kʰ i a$,default,kh~ i a,a i kh~
+426,WarLamin-71_heavy-1,,WarLamin,71_heavy,stʊʔ,stʊʔ,s t ʊ ʔ,,Nagaraja2013,71_heavy_d,False,^s t ʊ ʔ$,default,s t u 7,7 s t u
+427,Palaung-71_heavy-1,,Palaung,71_heavy,ɟən,ɟən,ɟ ə n,,Nagaraja2013,71_heavy_e,False,^ɟ ə n$,default,T 3 n,3 T n
+428,Khmu-71_heavy-1,,Khmu,71_heavy,ktam,ktam,k t a m,,Nagaraja2013,71_heavy_f,False,^k t a m$,default,k t a m,a k m t
+429,Khasi-72_here-1,,Khasi,72_here,haŋ ne,haŋ ne,h a ŋ + e,,Nagaraja2013,72_here_a,False,^h a ŋ + n e$,default,h a N  e, N a e h
+430,Lyngngam-72_here-1,,Lyngngam,72_here,haniʔ,haniʔ,h a i ʔ,,Nagaraja2013,72_here_a,False,^h a n i ʔ$,default,h a i 7,7 a h i
+431,PnarJaintia-72_here-1,,PnarJaintia,72_here,heini,heini,h e i i,,Nagaraja2013,72_here_a,False,^h e i n i$,default,h e i i,e h i
+432,WarLamin-72_here-1,,WarLamin,72_here,tineː,tineː,t i eː,,Nagaraja2013,72_here_a,False,^t i n eː$,default,t i e,e i t
+433,Khmu-72_here-1,,Khmu,72_here,daʔ giː,daʔ giː,d a ʔ + g iː,,Nagaraja2013,72_here_b,False,^d a ʔ + g iː$,default,d a 7  g i, 7 a d g i
+434,Khasi-73_hit-1,,Khasi,73_hit,tied,tied,t i e d,,Nagaraja2013,73_hit_a,False,^t i e d$,default,t i e d,d e i t
+435,Lyngngam-73_hit-1,,Lyngngam,73_hit,udaʔ,udaʔ,u d a ʔ,,Nagaraja2013,73_hit_b,False,^u d a ʔ$,default,u d a 7,7 a d u
+436,PnarJaintia-73_hit-1,,PnarJaintia,73_hit,dat,dat,d a t,,Nagaraja2013,73_hit_c,False,^d a t$,default,d a t,a d t
+437,WarLamin-73_hit-1,,WarLamin,73_hit,dat,dat,d a t,,Nagaraja2013,73_hit_c,False,^d a t$,default,d a t,a d t
+438,Palaung-73_hit-1,,Palaung,73_hit,tɯm,tɯm,t ɯ m,,Nagaraja2013,73_hit_d,False,^t ɯ m$,default,t u m,m t u
+439,Khmu-73_hit-1,,Khmu,73_hit,"puʔ, dɨc",puʔ,p u ʔ,,Nagaraja2013,73_hit_e,False,^p u ʔ$,default,p u 7,7 p u
+440,Khmu-73_hit-2,,Khmu,73_hit,"puʔ, dɨc",dɨc,d ɨ c,,Nagaraja2013,73_hit_e,False,^d ɨ c$,default,d 3 T,3 T d
+441,Khasi-74_holdtake-1,,Khasi,74_holdtake,ʃim,ʃim,ʃ i m,,Nagaraja2013,74_holdtake_a,False,^ʃ i m$,default,S i m,S i m
+442,Lyngngam-74_holdtake-1,,Lyngngam,74_holdtake,tʰom,tʰom,tʰ o m,,Nagaraja2013,74_holdtake_b,False,^tʰ o m$,default,th~ o m,m o th~
+443,PnarJaintia-74_holdtake-1,,PnarJaintia,74_holdtake,tʃɪm,tʃɪm,tʃ ɪ m,,Nagaraja2013,74_holdtake_a,False,^tʃ ɪ m$,default,tS i m,i m tS
+444,WarLamin-74_holdtake-1,,WarLamin,74_holdtake,lʊm,lʊm,l ʊ m,,Nagaraja2013,74_holdtake_c,False,^l ʊ m$,default,l u m,l m u
+445,Palaung-74_holdtake-1,,Palaung,74_holdtake,lɛ,lɛ,l ɛ,,Nagaraja2013,74_holdtake_d,False,^l ɛ$,default,l E,E l
+446,Khmu-74_holdtake-1,,Khmu,74_holdtake,deʔ,deʔ,d e ʔ,,Nagaraja2013,74_holdtake_e,False,^d e ʔ$,default,d e 7,7 d e
+447,Khasi-75_how-1,,Khasi,75_how,kumno,kumno,k u m o,,Nagaraja2013,75_how_a,False,^k u m n o$,default,k u m o,k m o u
+448,Lyngngam-75_how-1,,Lyngngam,75_how,naŋ net,naŋ net,n a ŋ + e t,,Nagaraja2013,75_how_b,False,^n a ŋ + n e t$,default,n a N  e t, N a e n t
+449,PnarJaintia-75_how-1,,PnarJaintia,75_how,kammɔn,kammɔn,k a mː ɔ n,,Nagaraja2013,75_how_a,False,^k a mm ɔ n$,default,k a m o n,a k m n o
+450,WarLamin-75_how-1,,WarLamin,75_how,kinjaʔ,kinjaʔ,k i j a ʔ,,Nagaraja2013,75_how_c,False,^k i n j a ʔ$,default,k i y a 7,7 a i k y
+451,Palaung-75_how-1,,Palaung,75_how,kʰɯj mɔ,kʰɯj mɔ,kʰ ɯ j + m ɔ,,Nagaraja2013,75_how_d,False,^kʰ ɯ j + m ɔ$,default,kh~ u y  m o, kh~ m o u y
+452,Khmu-75_how-1,,Khmu,75_how,nɛːw məʔ,nɛːw məʔ,n ɛː w + m ə ʔ,,Nagaraja2013,75_how_d,False,^n ɛː w + m ə ʔ$,default,n E w  m 3 7, 3 7 E m n w
+453,Khasi-76_hunt-1,,Khasi,76_hunt,beʔ (mraːd),beʔ,b e ʔ,,Nagaraja2013,76_hunt_a,False,^b e ʔ$,default,b e 7,7 b e
+454,Lyngngam-76_hunt-1,,Lyngngam,76_hunt,wuŋ na,wuŋ na,w u ŋ + a,,Nagaraja2013,76_hunt_b,False,^w u ŋ + n a$,default,w u N  a, N a u w
+455,PnarJaintia-76_hunt-1,,PnarJaintia,76_hunt,lai siɛt dɔʔ,lai siɛt dɔʔ,l a i + s i ɛ t + d ɔ ʔ,,Nagaraja2013,76_hunt_c,False,^l a i + s i ɛ t + d ɔ ʔ$,default,l a i  s i E t  d o 7, 7 E a d i l o s t
+456,WarLamin-76_hunt-1,,WarLamin,76_hunt,pətar,pətar,p ə t a r,,Nagaraja2013,76_hunt_d,False,^p ə t a r$,default,p 3 t a r,3 a p r t
+457,Palaung-76_hunt-1,,Palaung,76_hunt,ɟɔm,ɟɔm,ɟ ɔ m,,Nagaraja2013,76_hunt_e,False,^ɟ ɔ m$,default,T o m,T m o
+458,Khmu-76_hunt-1,,Khmu,76_hunt,jɔh laʔ briʔ,jɔh laʔ briʔ,j ɔ h + l a ʔ + b r i ʔ,,Nagaraja2013,76_hunt_f,False,^j ɔ h + l a ʔ + b r i ʔ$,default,y o h  l a 7  b r i 7, 7 a b h i l o r y
+459,Khasi-77_husband-1,,Khasi,77_husband,tŋa / lok,tŋa,t ŋ a,,Nagaraja2013,77_husband_a,False,^t ŋ a$,default,t N a,N a t
+460,Khasi-77_husband-2,,Khasi,77_husband,tŋa / lok,lok,l o k,,Nagaraja2013,77_husband_a,False,^l o k$,default,l o k,k l o
+461,Lyngngam-77_husband-1,,Lyngngam,77_husband,koraŋ,koraŋ,k o r a ŋ,,Nagaraja2013,77_husband_b,False,^k o r a ŋ$,default,k o r a N,N a k o r
+462,PnarJaintia-77_husband-1,,PnarJaintia,77_husband,lɔk,lɔk,l ɔ k,,Nagaraja2013,77_husband_b,False,^l ɔ k$,default,l o k,k l o
+463,WarLamin-77_husband-1,,WarLamin,77_husband,lɒk,lɒk,l ɒ k,,Nagaraja2013,77_husband_a,False,^l ɒ k$,default,l o k,k l o
+464,Palaung-77_husband-1,,Palaung,77_husband,rəleh,rəleh,r ə l e h,,Nagaraja2013,77_husband_c,False,^r ə l e h$,default,r 3 l e h,3 e h l r
+465,Khmu-77_husband-1,,Khmu,77_husband,gleʔ,gleʔ,g l e ʔ,,Nagaraja2013,77_husband_d,False,^g l e ʔ$,default,g l e 7,7 e g l
+466,Khasi-78_i-1,,Khasi,78_i,ŋa,ŋa,ŋ a,,Nagaraja2013,78_i_a,False,^ŋ a$,default,N a,N a
+467,Lyngngam-78_i-1,,Lyngngam,78_i,nə,nə,n ə,,Nagaraja2013,78_i_a,False,^n ə$,default,n 3,3 n
+468,PnarJaintia-78_i-1,,PnarJaintia,78_i,ŋa,ŋa,ŋ a,,Nagaraja2013,78_i_a,False,^ŋ a$,default,N a,N a
+469,WarLamin-78_i-1,,WarLamin,78_i,ŋә,ŋә,ŋ ə,,Nagaraja2013,78_i_a,False,^ŋ ә$,default,N 3,3 N
+470,Palaung-78_i-1,,Palaung,78_i,ʔɔ,ʔɔ,ʔ ɔ,,Nagaraja2013,78_i_b,False,^ʔ ɔ$,default,7 o,7 o
+471,Khmu-78_i-1,,Khmu,78_i,ʔoʔ,ʔoʔ,ʔ o ʔ,,Nagaraja2013,78_i_b,False,^ʔ o ʔ$,default,7 o 7,7 o
+472,Khasi-79_ice-1,,Khasi,79_ice,tʰaʔ,tʰaʔ,tʰ a ʔ,,Nagaraja2013,79_ice_a,False,^tʰ a ʔ$,default,th~ a 7,7 a th~
+473,Lyngngam-79_ice-1,,Lyngngam,79_ice,tʰaʔ-əlliʔ,tʰaʔ-əlliʔ,tʰ a ʔ + ə lː i ʔ,,Nagaraja2013,79_ice_a,False,^tʰ a ʔ - ə ll i ʔ$,default,th~ a 7  3 l i 7, 3 7 a i l th~
+474,PnarJaintia-79_ice-1,,PnarJaintia,79_ice,tʰaʔ,tʰaʔ,tʰ a ʔ,,Nagaraja2013,79_ice_a,False,^tʰ a ʔ$,default,th~ a 7,7 a th~
+475,WarLamin-79_ice-1,,WarLamin,79_ice,tʰaʔ,tʰaʔ,tʰ a ʔ,,Nagaraja2013,79_ice_a,False,^tʰ a ʔ$,default,th~ a 7,7 a th~
+476,Palaung-79_ice-1,,Palaung,79_ice,je ge,je ge,j e + g e,,Nagaraja2013,,True,^j e + g e$,default,y e  g e, e g y
+477,Khmu-79_ice-1,,Khmu,79_ice,ʔom kloːn,ʔom kloːn,ʔ o m + k l oː n,,Nagaraja2013,79_ice_b,False,^ʔ o m + k l oː n$,default,7 o m  k l o n, 7 k l m n o
+478,Khasi-80_if-1,,Khasi,80_if,lada,lada,l a d a,,Nagaraja2013,80_if_a,False,^l a d a$,default,l a d a,a d l
+479,Lyngngam-80_if-1,,Lyngngam,80_if,lede,lede,l e d e,,Nagaraja2013,80_if_a,False,^l e d e$,default,l e d e,d e l
+480,PnarJaintia-80_if-1,,PnarJaintia,80_if,lada,lada,l a d a,,Nagaraja2013,80_if_a,False,^l a d a$,default,l a d a,a d l
+481,WarLamin-80_if-1,,WarLamin,80_if,nimә,nimә,n i m ə,,Nagaraja2013,80_if_b,False,^n i m ә$,default,n i m 3,3 i m n
+482,Khmu-80_if-1,,Khmu,80_if,ʔan,ʔan,ʔ a n,,Nagaraja2013,80_if_c,False,^ʔ a n$,default,7 a n,7 a n
+483,Khasi-81_in-1,,Khasi,81_in,ha,ha,h a,,Nagaraja2013,81_in_a,False,^h a$,default,h a,a h
+484,Lyngngam-81_in-1,,Lyngngam,81_in,he,he,h e,,Nagaraja2013,81_in_a,False,^h e$,default,h e,e h
+485,PnarJaintia-81_in-1,,PnarJaintia,81_in,ha,ha,h a,,Nagaraja2013,81_in_a,False,^h a$,default,h a,a h
+486,WarLamin-81_in-1,,WarLamin,81_in,ti,ti,t i,,Nagaraja2013,81_in_b,False,^t i$,default,t i,i t
+487,Palaung-81_in-1,,Palaung,81_in,naə,naə,n a ə,,Nagaraja2013,,True,^n a ə$,default,n a 3,3 a n
+488,Khmu-81_in-1,,Khmu,81_in,kluəŋ,kluəŋ,k l u ə ŋ,,Nagaraja2013,81_in_c,False,^k l u ə ŋ$,default,k l u 3 N,3 N k l u
+489,Khasi-82_kill-1,,Khasi,82_kill,pɨnjap,pɨnjap,p ɨ j a p,,Nagaraja2013,82_kill_a,False,^p ɨ n j a p$,default,p 3 y a p,3 a p y
+490,Lyngngam-82_kill-1,,Lyngngam,82_kill,pɨnɲap,pɨnɲap,p ɨ ɲ a p,,Nagaraja2013,82_kill_a,False,^p ɨ n ɲ a p$,default,p 3 5 a p,3 5 a p
+491,PnarJaintia-82_kill-1,,PnarJaintia,82_kill,pn̩jap,pn̩jap,p n̩ j a p,,Nagaraja2013,82_kill_a,False,^p n̩ j a p$,default,p n y a p,a n p y
+492,WarLamin-82_kill-1,,WarLamin,82_kill,pәnjip,pәnjip,p ə j i p,,Nagaraja2013,82_kill_a,False,^p ә n j i p$,default,p 3 y i p,3 i p y
+493,Palaung-82_kill-1,,Palaung,82_kill,piəm,piəm,p i ə m,,Nagaraja2013,82_kill_b,False,^p i ə m$,default,p i 3 m,3 i m p
+494,Khmu-82_kill-1,,Khmu,82_kill,pʰaːn,pʰaːn,pʰ aː n,,Nagaraja2013,82_kill_c,False,^pʰ aː n$,default,ph~ a n,a n ph~
+495,Khasi-83_know-1,,Khasi,83_know,tip,tip,t i p,,Nagaraja2013,83_know_a,False,^t i p$,default,t i p,i p t
+496,Lyngngam-83_know-1,,Lyngngam,83_know,heʔkən,heʔkən,h e ʔ k ə n,,Nagaraja2013,83_know_b,False,^h e ʔ k ə n$,default,h e 7 k 3 n,3 7 e h k n
+497,PnarJaintia-83_know-1,,PnarJaintia,83_know,tɪp,tɪp,t ɪ p,,Nagaraja2013,83_know_a,False,^t ɪ p$,default,t i p,i p t
+498,WarLamin-83_know-1,,WarLamin,83_know,tɒʔ,tɒʔ,t ɒ ʔ,,Nagaraja2013,83_know_a,False,^t ɒ ʔ$,default,t o 7,7 o t
+499,Palaung-83_know-1,,Palaung,83_know,nəp,nəp,n ə p,,Nagaraja2013,83_know_c,False,^n ə p$,default,n 3 p,3 n p
+500,Khmu-83_know-1,,Khmu,83_know,nəːŋ,nəːŋ,n əː ŋ,,Nagaraja2013,83_know_d,False,^n əː ŋ$,default,n 3 N,3 N n
+501,Khasi-84_lake-1,,Khasi,84_lake,puŋ,puŋ,p u ŋ,,Nagaraja2013,84_lake_a,False,^p u ŋ$,default,p u N,N p u
+502,Lyngngam-84_lake-1,,Lyngngam,84_lake,puŋ,puŋ,p u ŋ,,Nagaraja2013,84_lake_a,False,^p u ŋ$,default,p u N,N p u
+503,PnarJaintia-84_lake-1,,PnarJaintia,84_lake,puŋ,puŋ,p u ŋ,,Nagaraja2013,84_lake_a,False,^p u ŋ$,default,p u N,N p u
+504,WarLamin-84_lake-1,,WarLamin,84_lake,sʊ,sʊ,s ʊ,,Nagaraja2013,84_lake_b,False,^s ʊ$,default,s u,s u
+505,Palaung-84_lake-1,,Palaung,84_lake,nɔŋ,nɔŋ,n ɔ ŋ,,Nagaraja2013,,True,^n ɔ ŋ$,default,n o N,N n o
+506,Khasi-85_laugh-1,,Khasi,85_laugh,rkʰie,rkʰie,r kʰ i e,,Nagaraja2013,85_laugh_a,False,^r kʰ i e$,default,r kh~ i e,e i kh~ r
+507,Lyngngam-85_laugh-1,,Lyngngam,85_laugh,ɨllom,ɨllom,ɨ lː o m,,Nagaraja2013,85_laugh_b,False,^ɨ ll o m$,default,3 l o m,3 l m o
+508,PnarJaintia-85_laugh-1,,PnarJaintia,85_laugh,rkʰai,rkʰai,r kʰ a i,,Nagaraja2013,85_laugh_a,False,^r kʰ a i$,default,r kh~ a i,a i kh~ r
+509,WarLamin-85_laugh-1,,WarLamin,85_laugh,rʊ,rʊ,r ʊ,,Nagaraja2013,85_laugh_c,False,^r ʊ$,default,r u,r u
+510,Palaung-85_laugh-1,,Palaung,85_laugh,jum,jum,j u m,,Nagaraja2013,,True,^j u m$,default,y u m,m u y
+511,Khmu-85_laugh-1,,Khmu,85_laugh,kʰras,kʰras,kʰ r a s,,Nagaraja2013,85_laugh_d,False,^kʰ r a s$,default,kh~ r a s,a kh~ r s
+512,Khasi-86_leaf-1,,Khasi,86_leaf,sla,sla,s l a,,Nagaraja2013,86_leaf_a,False,^s l a$,default,s l a,a l s
+513,Lyngngam-86_leaf-1,,Lyngngam,86_leaf,sla,sla,s l a,,Nagaraja2013,86_leaf_a,False,^s l a$,default,s l a,a l s
+514,PnarJaintia-86_leaf-1,,PnarJaintia,86_leaf,sla,sla,s l a,,Nagaraja2013,86_leaf_a,False,^s l a$,default,s l a,a l s
+515,WarLamin-86_leaf-1,,WarLamin,86_leaf,sli,sli,s l i,,Nagaraja2013,86_leaf_a,False,^s l i$,default,s l i,i l s
+516,Palaung-86_leaf-1,,Palaung,86_leaf,hla,hla,h l a,,Nagaraja2013,86_leaf_a,False,^h l a$,default,h l a,a h l
+517,Khmu-86_leaf-1,,Khmu,86_leaf,ʰlaʔ,ʰlaʔ,ʰl a ʔ,,Nagaraja2013,86_leaf_a,False,^ʰl a ʔ$,default,hl a 7,7 a hl
+518,Khasi-87_leftside-1,,Khasi,87_leftside,diaŋ,diaŋ,d i a ŋ,,Nagaraja2013,87_leftside_a,False,^d i a ŋ$,default,d i a N,N a d i
+519,Lyngngam-87_leftside-1,,Lyngngam,87_leftside,tɨmmiəŋ,tɨmmiəŋ,t ɨ mː i ə ŋ,,Nagaraja2013,87_leftside_a,False,^t ɨ mm i ə ŋ$,default,t 3 m i 3 N,3 N i m t
+520,PnarJaintia-87_leftside-1,,PnarJaintia,87_leftside,tidiɛŋ,tidiɛŋ,t i d i ɛ ŋ,,Nagaraja2013,87_leftside_a,False,^t i d i ɛ ŋ$,default,t i d i E N,E N d i t
+521,WarLamin-87_leftside-1,,WarLamin,87_leftside,di par ta dɪəŋ,di par ta dɪəŋ,d i + p a r + t a + d ɪ ə ŋ,,Nagaraja2013,87_leftside_a,False,^d i + p a r + t a + d ɪ ə ŋ$,default,d i  p a r  t a  d i 3 N, 3 N a d i p r t
+522,Palaung-87_leftside-1,,Palaung,87_leftside,ʔi-ve,ʔi-ve,ʔ i + v e,,Nagaraja2013,87_leftside_b,False,^ʔ i - v e$,default,7 i  v e, 7 e i v
+523,Khmu-87_leftside-1,,Khmu,87_leftside,luəŋ weʔ,luəŋ weʔ,l u ə ŋ + w e ʔ,,Nagaraja2013,87_leftside_b,False,^l u ə ŋ + w e ʔ$,default,l u 3 N  w e 7, 3 7 N e l u w
+524,Khasi-88_leg-1,,Khasi,88_leg,kɟat,kɟat,k ɟ a t,,Nagaraja2013,88_leg_a,False,^k ɟ a t$,default,k T a t,T a k t
+525,Lyngngam-88_leg-1,,Lyngngam,88_leg,kɟat,kɟat,k ɟ a t,,Nagaraja2013,88_leg_a,False,^k ɟ a t$,default,k T a t,T a k t
+526,PnarJaintia-88_leg-1,,PnarJaintia,88_leg,kdʒat,kdʒat,k dʒ a t,,Nagaraja2013,88_leg_a,False,^k dʒ a t$,default,k dZ a t,a dZ k t
+527,WarLamin-88_leg-1,,WarLamin,88_leg,nɪa,nɪa,n ɪ a,,Nagaraja2013,88_leg_b,False,^n ɪ a$,default,n i a,a i n
+528,Palaung-88_leg-1,,Palaung,88_leg,ɟɯŋ,ɟɯŋ,ɟ ɯ ŋ,,Nagaraja2013,88_leg_c,False,^ɟ ɯ ŋ$,default,T u N,N T u
+529,Khmu-88_leg-1,,Khmu,88_leg,plɔːŋ,plɔːŋ,p l ɔː ŋ,,Nagaraja2013,88_leg_d,False,^p l ɔː ŋ$,default,p l o N,N l o p
+530,Khasi-89_toliedeceive-1,,Khasi,89_toliedeceive,tʰok,tʰok,tʰ o k,,Nagaraja2013,89_toliedeceive_a,False,^tʰ o k$,default,th~ o k,k o th~
+531,Lyngngam-89_toliedeceive-1,,Lyngngam,89_toliedeceive,tʰɨlloʲt,tʰɨlloʲt,tʰ ɨ lː oi̯ t,,Nagaraja2013,89_toliedeceive_b,False,^tʰ ɨ ll oʲ t$,default,th~ 3 l oi t,3 l oi t th~
+532,PnarJaintia-89_toliedeceive-1,,PnarJaintia,89_toliedeceive,dʒlɛr,dʒlɛr,dʒ l ɛ r,,Nagaraja2013,89_toliedeceive_c,False,^dʒ l ɛ r$,default,dZ l E r,E dZ l r
+533,WarLamin-89_toliedeceive-1,,WarLamin,89_toliedeceive,pənrɒʔ,pənrɒʔ,p ə r ɒ ʔ,,Nagaraja2013,89_toliedeceive_d,False,^p ə n r ɒ ʔ$,default,p 3 r o 7,3 7 o p r
+534,Palaung-89_toliedeceive-1,,Palaung,89_toliedeceive,cɔʔ,cɔʔ,c ɔ ʔ,,Nagaraja2013,89_toliedeceive_e,False,^c ɔ ʔ$,default,T o 7,7 T o
+535,Khmu-89_toliedeceive-1,,Khmu,89_toliedeceive,ɲuəʔ,ɲuəʔ,ɲ u ə ʔ,,Nagaraja2013,89_toliedeceive_f,False,^ɲ u ə ʔ$,default,5 u 3 7,3 5 7 u
+536,Khasi-90_live-1,,Khasi,90_live,im,im,i m,,Nagaraja2013,90_live_a,False,^i m$,default,i m,i m
+537,Lyngngam-90_live-1,,Lyngngam,90_live,ɨnnim,ɨnnim,ɨ nː i m,,Nagaraja2013,90_live_a,False,^ɨ nn i m$,default,3 n i m,3 i m n
+538,PnarJaintia-90_live-1,,PnarJaintia,90_live,ɪm,ɪm,ɪ m,,Nagaraja2013,90_live_a,False,^ɪ m$,default,i m,i m
+539,WarLamin-90_live-1,,WarLamin,90_live,pʔem,pʔem,p ʔ e m,,Nagaraja2013,90_live_a,False,^p ʔ e m$,default,p 7 e m,7 e m p
+540,Palaung-90_live-1,,Palaung,90_live,im,im,i m,,Nagaraja2013,90_live_a,False,^i m$,default,i m,i m
+541,Khmu-90_live-1,,Khmu,90_live,jat,jat,j a t,,Nagaraja2013,90_live_b,False,^j a t$,default,y a t,a t y
+542,Khasi-91_liver-1,,Khasi,91_liver,doʔnuːd,doʔnuːd,d o ʔ uː d,,Nagaraja2013,91_liver_a,False,^d o ʔ n uː d$,default,d o 7 u d,7 d o u
+543,Lyngngam-91_liver-1,,Lyngngam,91_liver,noːd,noːd,n oː d,,Nagaraja2013,91_liver_a,False,^n oː d$,default,n o d,d n o
+544,PnarJaintia-91_liver-1,,PnarJaintia,91_liver,noːd,noːd,n oː d,,Nagaraja2013,91_liver_a,False,^n oː d$,default,n o d,d n o
+545,WarLamin-91_liver-1,,WarLamin,91_liver,kθim,kθim,k θ i m,,Nagaraja2013,91_liver_b,False,^k θ i m$,default,k 8 i m,8 i k m
+546,Palaung-91_liver-1,,Palaung,91_liver,kərtɔm,kərtɔm,k ə r t ɔ m,,Nagaraja2013,91_liver_b,False,^k ə r t ɔ m$,default,k 3 r t o m,3 k m o r t
+547,Khmu-91_liver-1,,Khmu,91_liver,tlɔːm rɔŋ,tlɔːm rɔŋ,t l ɔː m + r ɔ ŋ,,Nagaraja2013,91_liver_c,False,^t l ɔː m + r ɔ ŋ$,default,t l o m  r o N, N l m o r t
+548,Khasi-92_long-1,,Khasi,92_long,ɟroŋ,ɟroŋ,ɟ r o ŋ,,Nagaraja2013,92_long_a,False,^ɟ r o ŋ$,default,T r o N,N T o r
+549,Lyngngam-92_long-1,,Lyngngam,92_long,ɟɨrroŋ,ɟɨrroŋ,ɟ ɨ rː o ŋ,,Nagaraja2013,92_long_a,False,^ɟ ɨ rr o ŋ$,default,T 3 r o N,3 N T o r
+550,PnarJaintia-92_long-1,,PnarJaintia,92_long,dʒrɔŋ,dʒrɔŋ,dʒ r ɔ ŋ,,Nagaraja2013,92_long_a,False,^dʒ r ɔ ŋ$,default,dZ r o N,N dZ o r
+551,WarLamin-92_long-1,,WarLamin,92_long,kərɒŋ,kərɒŋ,k ə r ɒ ŋ,,Nagaraja2013,92_long_a,False,^k ə r ɒ ŋ$,default,k 3 r o N,3 N k o r
+552,Palaung-92_long-1,,Palaung,92_long,hlɯŋ,hlɯŋ,h l ɯ ŋ,,Nagaraja2013,92_long_b,False,^h l ɯ ŋ$,default,h l u N,N h l u
+553,Khmu-92_long-1,,Khmu,92_long,waːŋ,waːŋ,w aː ŋ,,Nagaraja2013,92_long_c,False,^w aː ŋ$,default,w a N,N a w
+554,Khasi-93_louse-1,,Khasi,93_louse,ksi / ɟɨnreiɲ,ksi,k s i,,Nagaraja2013,93_louse_a,False,^ks i$,default,k s i,i k s
+555,Khasi-93_louse-2,,Khasi,93_louse,ksi / ɟɨnreiɲ,ɟɨnreiɲ,ɟ ɨ r e i ɲ,,Nagaraja2013,93_louse_a,False,^ɟ ɨ n r e i ɲ$,default,T 3 r e i 5,3 5 T e i r
+556,Lyngngam-93_louse-1,,Lyngngam,93_louse,sɨlliet,sɨlliet,s ɨ lː i e t,,Nagaraja2013,93_louse_b,False,^s ɨ ll i e t$,default,s 3 l i e t,3 e i l s t
+557,PnarJaintia-93_louse-1,,PnarJaintia,93_louse,ksi,ksi,k s i,,Nagaraja2013,93_louse_a,False,^ks i$,default,k s i,i k s
+558,WarLamin-93_louse-1,,WarLamin,93_louse,ksa,ksa,k s a,,Nagaraja2013,93_louse_a,False,^ks a$,default,k s a,a k s
+559,Palaung-93_louse-1,,Palaung,93_louse,si,si,s i,,Nagaraja2013,93_louse_a,False,^s i$,default,s i,i s
+560,Khmu-93_louse-1,,Khmu,93_louse,seʔ,seʔ,s e ʔ,,Nagaraja2013,93_louse_a,False,^s e ʔ$,default,s e 7,7 e s
+561,Khasi-94_manmale-1,,Khasi,94_manmale,ʃɨnraŋ,ʃɨnraŋ,ʃ ɨ r a ŋ,,Nagaraja2013,94_manmale_a,False,^ʃ ɨ n r a ŋ$,default,S 3 r a N,3 N S a r
+562,Lyngngam-94_manmale-1,,Lyngngam,94_manmale,kʰonkoraŋ,kʰonkoraŋ,kʰ o k o r a ŋ,,Nagaraja2013,94_manmale_a,False,^kʰ o n k o r a ŋ$,default,kh~ o k o r a N,N a k kh~ o r
+563,PnarJaintia-94_manmale-1,,PnarJaintia,94_manmale,cn̩raŋ,cn̩raŋ,c n̩ r a ŋ,,Nagaraja2013,94_manmale_a,False,^c n̩ r a ŋ$,default,T n r a N,N T a n r
+564,WarLamin-94_manmale-1,,WarLamin,94_manmale,tәrma,tәrma,t ə r m a,,Nagaraja2013,94_manmale_b,False,^t ә r m a$,default,t 3 r m a,3 a m r t
+565,Palaung-94_manmale-1,,Palaung,94_manmale,ime,ime,i m e,,Nagaraja2013,94_manmale_b,False,^i m e$,default,i m e,e i m
+566,Khmu-94_manmale-1,,Khmu,94_manmale,cmbrɔʔ,cmbrɔʔ,c m b r ɔ ʔ,,Nagaraja2013,94_manmale_c,False,^c m b r ɔ ʔ$,default,T m b r o 7,7 T b m o r
+567,Khasi-95_many-1,,Khasi,95_many,bun,bun,b u n,,Nagaraja2013,95_many_a,False,^b u n$,default,b u n,b n u
+568,Lyngngam-95_many-1,,Lyngngam,95_many,bon,bon,b o n,,Nagaraja2013,95_many_a,False,^b o n$,default,b o n,b n o
+569,PnarJaintia-95_many-1,,PnarJaintia,95_many,bon,bon,b o n,,Nagaraja2013,95_many_a,False,^b o n$,default,b o n,b n o
+570,WarLamin-95_many-1,,WarLamin,95_many,ʃibʊə,ʃibʊə,ʃ i b ʊ ə,,Nagaraja2013,95_many_a,False,^ʃ i b ʊ ə$,default,S i b u 3,3 S b i u
+571,Palaung-95_many-1,,Palaung,95_many,"kɯn, bərcɯ",kɯn,k ɯ n,,Nagaraja2013,95_many_b,False,^k ɯ n$,default,k u n,k n u
+572,Palaung-95_many-2,,Palaung,95_many,"kɯn, bərcɯ",bərcɯ,b ə r c ɯ,,Nagaraja2013,95_many_b,False,^b ə r c ɯ$,default,b 3 r T u,3 T b r u
+573,Khmu-95_many-1,,Khmu,95_many,maːk,maːk,m aː k,,Nagaraja2013,95_many_c,False,^m aː k$,default,m a k,a k m
+574,Khasi-96_meatflesh-1,,Khasi,96_meatflesh,doʔ,doʔ,d o ʔ,,Nagaraja2013,96_meatflesh_a,False,^d o ʔ$,default,d o 7,7 d o
+575,Lyngngam-96_meatflesh-1,,Lyngngam,96_meatflesh,meʲm,meʲm,m ei̯ m,,Nagaraja2013,96_meatflesh_b,False,^m eʲ m$,default,m ei m,ei m
+576,PnarJaintia-96_meatflesh-1,,PnarJaintia,96_meatflesh,dɔʔ,dɔʔ,d ɔ ʔ,,Nagaraja2013,96_meatflesh_a,False,^d ɔ ʔ$,default,d o 7,7 d o
+577,WarLamin-96_meatflesh-1,,WarLamin,96_meatflesh,dɒʔ,dɒʔ,d ɒ ʔ,,Nagaraja2013,96_meatflesh_a,False,^d ɒ ʔ$,default,d o 7,7 d o
+578,Palaung-96_meatflesh-1,,Palaung,96_meatflesh,jəŋ,jəŋ,j ə ŋ,,Nagaraja2013,96_meatflesh_c,False,^j ə ŋ$,default,y 3 N,3 N y
+579,Khmu-96_meatflesh-1,,Khmu,96_meatflesh,ʔah,ʔah,ʔ a h,,Nagaraja2013,96_meatflesh_d,False,^ʔ a h$,default,7 a h,7 a h
+580,Khasi-97_mother-1,,Khasi,97_mother,kmie,kmie,k m i e,,Nagaraja2013,97_mother_a,False,^k m i e$,default,k m i e,e i k m
+581,Lyngngam-97_mother-1,,Lyngngam,97_mother,gma,gma,g m a,,Nagaraja2013,97_mother_a,False,^g m a$,default,g m a,a g m
+582,PnarJaintia-97_mother-1,,PnarJaintia,97_mother,bei,bei,b e i,,Nagaraja2013,97_mother_a,False,^b e i$,default,b e i,b e i
+583,WarLamin-97_mother-1,,WarLamin,97_mother,maː,maː,m aː,,Nagaraja2013,97_mother_a,False,^m aː$,default,m a,a m
+584,Palaung-97_mother-1,,Palaung,97_mother,ma,ma,m a,,Nagaraja2013,97_mother_a,False,^m a$,default,m a,a m
+585,Khmu-97_mother-1,,Khmu,97_mother,maʔ,maʔ,m a ʔ,,Nagaraja2013,97_mother_a,False,^m a ʔ$,default,m a 7,7 a m
+586,Khasi-98_mountain-1,,Khasi,98_mountain,lum,lum,l u m,,Nagaraja2013,98_mountain_a,False,^l u m$,default,l u m,l m u
+587,Lyngngam-98_mountain-1,,Lyngngam,98_mountain,dom,dom,d o m,,Nagaraja2013,98_mountain_a,False,^d o m$,default,d o m,d m o
+588,PnarJaintia-98_mountain-1,,PnarJaintia,98_mountain,lom,lom,l o m,,Nagaraja2013,98_mountain_a,False,^l o m$,default,l o m,l m o
+589,WarLamin-98_mountain-1,,WarLamin,98_mountain,pdeŋ,pdeŋ,p d e ŋ,,Nagaraja2013,98_mountain_b,False,^p d e ŋ$,default,p d e N,N d e p
+590,Palaung-98_mountain-1,,Palaung,98_mountain,sor,sor,s o r,,Nagaraja2013,98_mountain_c,False,^s o r$,default,s o r,o r s
+591,Khmu-98_mountain-1,,Khmu,98_mountain,mok,mok,m o k,,Nagaraja2013,98_mountain_d,False,^m o k$,default,m o k,k m o
+592,Khasi-99_mouth-1,,Khasi,99_mouth,ʃɨntur,ʃɨntur,ʃ ɨ t u r,,Nagaraja2013,99_mouth_a,False,^ʃ ɨ n t u r$,default,S 3 t u r,3 S r t u
+593,Lyngngam-99_mouth-1,,Lyngngam,99_mouth,gap,gap,g a p,,Nagaraja2013,99_mouth_b,False,^g a p$,default,g a p,a g p
+594,PnarJaintia-99_mouth-1,,PnarJaintia,99_mouth,ktein,ktein,k t e i n,,Nagaraja2013,99_mouth_c,False,^k t e i n$,default,k t e i n,e i k n t
+595,WarLamin-99_mouth-1,,WarLamin,99_mouth,tkɒŋ,tkɒŋ,t k ɒ ŋ,,Nagaraja2013,99_mouth_d,False,^t k ɒ ŋ$,default,t k o N,N k o t
+596,Palaung-99_mouth-1,,Palaung,99_mouth,mur,mur,m u r,,Nagaraja2013,99_mouth_e,False,^m u r$,default,m u r,m r u
+597,Khmu-99_mouth-1,,Khmu,99_mouth,tnɔh,tnɔh,t ɔ h,,Nagaraja2013,99_mouth_f,False,^t n ɔ h$,default,t o h,h o t
+598,Khasi-100_name-1,,Khasi,100_name,kɨrteŋ,kɨrteŋ,k ɨ r t e ŋ,,Nagaraja2013,100_name_a,False,^k ɨ r t e ŋ$,default,k 3 r t e N,3 N e k r t
+599,Lyngngam-100_name-1,,Lyngngam,100_name,kɨrteŋ,kɨrteŋ,k ɨ r t e ŋ,,Nagaraja2013,,True,^k ɨ r t e ŋ$,default,k 3 r t e N,3 N e k r t
+600,PnarJaintia-100_name-1,,PnarJaintia,100_name,pr̩tuid,pr̩tuid,p r̩ t u i d,,Nagaraja2013,100_name_b,False,^p r̩ t u i d$,default,p r t u i d,d i p r t u
+601,WarLamin-100_name-1,,WarLamin,100_name,tvɪәŋ,tvɪәŋ,t v ɪ ə ŋ,,Nagaraja2013,100_name_c,False,^t v ɪ ә ŋ$,default,t v i 3 N,3 N i t v
+602,Palaung-100_name-1,,Palaung,100_name,ɟɯ,ɟɯ,ɟ ɯ,,Nagaraja2013,,True,^ɟ ɯ$,default,T u,T u
+603,Khmu-100_name-1,,Khmu,100_name,sŋməh,sŋməh,s ŋ m ə h,,Nagaraja2013,100_name_d,False,^s ŋ m ə h$,default,s N m 3 h,3 N h m s
+604,Khasi-101_narrow-1,,Khasi,101_narrow,raʃiŋ / bakʰim,raʃiŋ,r a ʃ i ŋ,,Nagaraja2013,101_narrow_a,False,^r a ʃ i ŋ$,default,r a S i N,N S a i r
+605,Khasi-101_narrow-2,,Khasi,101_narrow,raʃiŋ / bakʰim,bakʰim,b a kʰ i m,,Nagaraja2013,101_narrow_a,False,^b a kʰ i m$,default,b a kh~ i m,a b i kh~ m
+606,Lyngngam-101_narrow-1,,Lyngngam,101_narrow,bakʰim,bakʰim,b a kʰ i m,,Nagaraja2013,,True,^b a kʰ i m$,default,b a kh~ i m,a b i kh~ m
+607,PnarJaintia-101_narrow-1,,PnarJaintia,101_narrow,kʰɪm,kʰɪm,kʰ ɪ m,,Nagaraja2013,101_narrow_a,False,^kʰ ɪ m$,default,kh~ i m,i kh~ m
+608,Palaung-101_narrow-1,,Palaung,101_narrow,ɔp,ɔp,ɔ p,,Nagaraja2013,,True,^ɔ p$,default,o p,o p
+609,Khmu-101_narrow-1,,Khmu,101_narrow,sgɛːp,sgɛːp,s g ɛː p,,Nagaraja2013,101_narrow_b,False,^s g ɛː p$,default,s g E p,E g p s
+610,Khasi-102_near-1,,Khasi,102_near,ɟan,ɟan,ɟ a n,,Nagaraja2013,102_near_a,False,^ɟ a n$,default,T a n,T a n
+611,Lyngngam-102_near-1,,Lyngngam,102_near,ɟŋan,ɟŋan,ɟ ŋ a n,,Nagaraja2013,102_near_a,False,^ɟ ŋ a n$,default,T N a n,N T a n
+612,PnarJaintia-102_near-1,,PnarJaintia,102_near,dʒan,dʒan,dʒ a n,,Nagaraja2013,102_near_a,False,^dʒ a n$,default,dZ a n,a dZ n
+613,WarLamin-102_near-1,,WarLamin,102_near,tjan,tjan,t j a n,,Nagaraja2013,102_near_a,False,^t j a n$,default,t y a n,a n t y
+614,Palaung-102_near-1,,Palaung,102_near,dət,dət,d ə t,,Nagaraja2013,102_near_b,False,^d ə t$,default,d 3 t,3 d t
+615,Khmu-102_near-1,,Khmu,102_near,leh,leh,l e h,,Nagaraja2013,102_near_c,False,^l e h$,default,l e h,e h l
+616,Khasi-103_neck-1,,Khasi,103_neck,rɨndaŋ,rɨndaŋ,r ɨ d a ŋ,,Nagaraja2013,103_neck_a,False,^r ɨ n d a ŋ$,default,r 3 d a N,3 N a d r
+617,Lyngngam-103_neck-1,,Lyngngam,103_neck,kraŋ,kraŋ,k r a ŋ,,Nagaraja2013,103_neck_b,False,^k r a ŋ$,default,k r a N,N a k r
+618,PnarJaintia-103_neck-1,,PnarJaintia,103_neck,rdaŋ,rdaŋ,r d a ŋ,,Nagaraja2013,103_neck_a,False,^r d a ŋ$,default,r d a N,N a d r
+619,WarLamin-103_neck-1,,WarLamin,103_neck,rdaŋ,rdaŋ,r d a ŋ,,Nagaraja2013,103_neck_a,False,^r d a ŋ$,default,r d a N,N a d r
+620,Palaung-103_neck-1,,Palaung,103_neck,rəmɔŋ,rəmɔŋ,r ə m ɔ ŋ,,Nagaraja2013,103_neck_c,False,^r ə m ɔ ŋ$,default,r 3 m o N,3 N m o r
+621,Khmu-103_neck-1,,Khmu,103_neck,kntuər,kntuər,k t u ə r,,Nagaraja2013,103_neck_d,False,^k n t u ə r$,default,k t u 3 r,3 k r t u
+622,Khasi-104_new-1,,Khasi,104_new,tʰɨmmaj,tʰɨmmaj,tʰ ɨ mː ai̯,,Nagaraja2013,104_new_a,False,^tʰ ɨ mm aj $,default,th~ 3 m ai,3 ai m th~
+623,Lyngngam-104_new-1,,Lyngngam,104_new,tʰɨmmaj,tʰɨmmaj,tʰ ɨ mː ai̯,,Nagaraja2013,104_new_a,False,^tʰ ɨ mm aj $,default,th~ 3 m ai,3 ai m th~
+624,PnarJaintia-104_new-1,,PnarJaintia,104_new,tʰm̩me,tʰm̩me,tʰ m̩ m e,,Nagaraja2013,104_new_a,False,^tʰ m̩ m e$,default,th~ m m e,e m th~
+625,WarLamin-104_new-1,,WarLamin,104_new,θmaː,θmaː,θ m aː,,Nagaraja2013,104_new_a,False,^θ m aː$,default,8 m a,8 a m
+626,Palaung-104_new-1,,Palaung,104_new,kənmɛ,kənmɛ,k ə m ɛ,,Nagaraja2013,104_new_a,False,^k ə n m ɛ$,default,k 3 m E,3 E k m
+627,Khmu-104_new-1,,Khmu,104_new,hmmeʔ,hmmeʔ,h mː e ʔ,,Nagaraja2013,104_new_a,False,^h mm e ʔ$,default,h m e 7,7 e h m
+628,Khasi-105_night-1,,Khasi,105_night,miet,miet,m i e t,,Nagaraja2013,105_night_a,False,^m i e t$,default,m i e t,e i m t
+629,Lyngngam-105_night-1,,Lyngngam,105_night,sənɲu,sənɲu,s ə ɲ u,,Nagaraja2013,105_night_b,False,^s ə n ɲ u$,default,s 3 5 u,3 5 s u
+630,PnarJaintia-105_night-1,,PnarJaintia,105_night,meit,meit,m e i t,,Nagaraja2013,105_night_a,False,^m e i t$,default,m e i t,e i m t
+631,WarLamin-105_night-1,,WarLamin,105_night,ləmaʔ,ləmaʔ,l ə m a ʔ,,Nagaraja2013,105_night_a,False,^l ə m a ʔ$,default,l 3 m a 7,3 7 a l m
+632,Palaung-105_night-1,,Palaung,105_night,sɯm,sɯm,s ɯ m,,Nagaraja2013,105_night_c,False,^s ɯ m$,default,s u m,m s u
+633,Khmu-105_night-1,,Khmu,105_night,psɨəm,psɨəm,p s ɨ ə m,,Nagaraja2013,105_night_c,False,^ps ɨ ə m$,default,p s 3 3 m,3 m p s
+634,Khasi-106_nose-1,,Khasi,106_nose,kʰmut,kʰmut,kʰ m u t,,Nagaraja2013,106_nose_a,False,^kʰ m u t$,default,kh~ m u t,kh~ m t u
+635,Lyngngam-106_nose-1,,Lyngngam,106_nose,leumut,leumut,l e u m u t,,Nagaraja2013,106_nose_a,False,^l e u m u t$,default,l e u m u t,e l m t u
+636,PnarJaintia-106_nose-1,,PnarJaintia,106_nose,kʰmut,kʰmut,kʰ m u t,,Nagaraja2013,106_nose_a,False,^kʰ m u t$,default,kh~ m u t,kh~ m t u
+637,WarLamin-106_nose-1,,WarLamin,106_nose,mərkɒ͂ŋ,mərkɒ͂ŋ,m ə r k ɒ̃ ŋ,,Nagaraja2013,106_nose_b,False,^m ə r k ɒ͂ ŋ$,default,m 3 r k o* N,3 N k m o* r
+638,Palaung-106_nose-1,,Palaung,106_nose,"muh, mur",muh,m u h,,Nagaraja2013,106_nose_a,False,^m u h$,default,m u h,h m u
+639,Palaung-106_nose-2,,Palaung,106_nose,"muh, mur",mur,m u r,,Nagaraja2013,106_nose_a,False,^m u r$,default,m u r,m r u
+640,Khmu-106_nose-1,,Khmu,106_nose,muh,muh,m u h,,Nagaraja2013,106_nose_a,False,^m u h$,default,m u h,h m u
+641,Khasi-107_not-1,,Khasi,107_not,ɨm,ɨm,ɨ m,,Nagaraja2013,107_not_a,False,^ɨ m$,default,3 m,3 m
+642,Lyngngam-107_not-1,,Lyngngam,107_not,ɨnɟi,ɨnɟi,ɨ ɟ i,,Nagaraja2013,107_not_a,False,^ɨ n ɟ i$,default,3 T i,3 T i
+643,PnarJaintia-107_not-1,,PnarJaintia,107_not,m̩,m̩,m̩,,Nagaraja2013,107_not_b,False,^m̩$,default,m,m
+644,WarLamin-107_not-1,,WarLamin,107_not,tɒʔ tə,tɒʔ tə,t ɒ ʔ + t ə,,Nagaraja2013,107_not_b,False,^t ɒ ʔ + t ə$,default,t o 7  t 3, 3 7 o t
+645,Palaung-107_not-1,,Palaung,107_not,kə,kə,k ə,,Nagaraja2013,107_not_c,False,^k ə$,default,k 3,3 k
+646,Khmu-107_not-1,,Khmu,107_not,ʔam,ʔam,ʔ a m,,Nagaraja2013,107_not_a,False,^ʔ a m$,default,7 a m,7 a m
+647,Khasi-108_old-1,,Khasi,108_old,rim,rim,r i m,,Nagaraja2013,108_old_a,False,^r i m$,default,r i m,i m r
+648,Lyngngam-108_old-1,,Lyngngam,108_old,rim,rim,r i m,,Nagaraja2013,108_old_a,False,^r i m$,default,r i m,i m r
+649,PnarJaintia-108_old-1,,PnarJaintia,108_old,rɪm,rɪm,r ɪ m,,Nagaraja2013,108_old_a,False,^r ɪ m$,default,r i m,i m r
+650,WarLamin-108_old-1,,WarLamin,108_old,sәrem,sәrem,s ə r e m,,Nagaraja2013,108_old_a,False,^s ә r e m$,default,s 3 r e m,3 e m r s
+651,Palaung-108_old-1,,Palaung,108_old,prim,prim,p r i m,,Nagaraja2013,108_old_a,False,^p r i m$,default,p r i m,i m p r
+652,Khmu-108_old-1,,Khmu,108_old,ʰmaŋ,ʰmaŋ,ʰm a ŋ,,Nagaraja2013,108_old_b,False,^ʰm a ŋ$,default,hm a N,N a hm
+653,Khasi-109_one-1,,Khasi,109_one,uwej,uwej,u w ei̯,,Nagaraja2013,109_one_a,False,^u w ej $,default,u w ei,ei u w
+654,Lyngngam-109_one-1,,Lyngngam,109_one,uwew,uwew,u w e w,,Nagaraja2013,109_one_a,False,^u w e w$,default,u w e w,e u w
+655,PnarJaintia-109_one-1,,PnarJaintia,109_one,wi,wi,w i,,Nagaraja2013,109_one_a,False,^w i$,default,w i,i w
+656,WarLamin-109_one-1,,WarLamin,109_one,mi,mi,m i,,Nagaraja2013,109_one_b,False,^m i$,default,m i,i m
+657,Palaung-109_one-1,,Palaung,109_one,u,u,u,,Nagaraja2013,109_one_c,False,^u$,default,u,u
+658,Khmu-109_one-1,,Khmu,109_one,moːj,moːj,m oː j,,Nagaraja2013,109_one_b,False,^m oː j$,default,m o y,m o y
+659,Khasi-110_other-1,,Khasi,110_other,ki-wej,ki-wej,k i + w ei̯,,Nagaraja2013,110_other_a,False,^k i - w ej $,default,k i  w ei, ei i k w
+660,Lyngngam-110_other-1,,Lyngngam,110_other,marber,marber,m a r b e r,,Nagaraja2013,110_other_a,False,^m a r b e r$,default,m a r b e r,a b e m r
+661,PnarJaintia-110_other-1,,PnarJaintia,110_other,kɔpsar,kɔpsar,k ɔ p s a r,,Nagaraja2013,,True,^k ɔ ps a r$,default,k o p s a r,a k o p r s
+662,Palaung-110_other-1,,Palaung,110_other,laj,laj,l ai̯,,Nagaraja2013,110_other_b,False,^l aj $,default,l ai,ai l
+663,Khmu-110_other-1,,Khmu,110_other,baŋ,baŋ,b a ŋ,,Nagaraja2013,,True,^b a ŋ$,default,b a N,N a b
+664,Khasi-111_person-1,,Khasi,111_person,briew,briew,b r i e w,,Nagaraja2013,111_person_a,False,^b r i e w$,default,b r i e w,b e i r w
+665,Lyngngam-111_person-1,,Lyngngam,111_person,brü,brü,b r y,,Nagaraja2013,111_person_a,False,^b r ü$,default,b r i,b i r
+666,PnarJaintia-111_person-1,,PnarJaintia,111_person,bru,bru,b r u,,Nagaraja2013,111_person_a,False,^b r u$,default,b r u,b r u
+667,WarLamin-111_person-1,,WarLamin,111_person,tjəpreʊ,tjəpreʊ,t j ə p r e ʊ,,Nagaraja2013,111_person_a,False,^t j ə p r e ʊ$,default,t y 3 p r e u,3 e p r t u y
+668,Palaung-111_person-1,,Palaung,111_person,bi,bi,b i,,Nagaraja2013,111_person_b,False,^b i$,default,b i,b i
+669,Khmu-111_person-1,,Khmu,111_person,gon,gon,g o n,,Nagaraja2013,,True,^g o n$,default,g o n,g n o
+670,Khasi-112_toplay-1,,Khasi,112_toplay,leʔ kaj,leʔ kaj,l e ʔ + k ai̯,,Nagaraja2013,112_toplay_a,False,^l e ʔ + k aj $,default,l e 7  k ai, 7 ai e k l
+671,Lyngngam-112_toplay-1,,Lyngngam,112_toplay,kʰellaj,kʰellaj,kʰ e lː ai̯,,Nagaraja2013,112_toplay_b,False,^kʰ e ll aj $,default,kh~ e l ai,ai e kh~ l
+672,PnarJaintia-112_toplay-1,,PnarJaintia,112_toplay,kn̩deiʔ ke,kn̩deiʔ ke,k n̩ d e i ʔ + k e,,Nagaraja2013,112_toplay_a,False,^k n̩ d e i ʔ + k e$,default,k n d e i 7  k e, 7 d e i k n
+673,WarLamin-112_toplay-1,,WarLamin,112_toplay,khirʊ,khirʊ,kʰ i r ʊ,,Nagaraja2013,112_toplay_c,False,^kh i r ʊ$,default,kh~ i r u,i kh~ r u
+674,Palaung-112_toplay-1,,Palaung,112_toplay,kəvɛʔ,kəvɛʔ,k ə v ɛ ʔ,,Nagaraja2013,112_toplay_d,False,^k ə v ɛ ʔ$,default,k 3 v E 7,3 7 E k v
+675,Khmu-112_toplay-1,,Khmu,112_toplay,tŋhɔːj,tŋhɔːj,t ŋ̍ h ɔː j,,Nagaraja2013,112_toplay_e,False,^t ŋh ɔː j$,default,t N h o y,N h o t y
+676,Khasi-113_topull-1,,Khasi,113_topull,tan,tan,t a n,,Nagaraja2013,113_topull_a,False,^t a n$,default,t a n,a n t
+677,Lyngngam-113_topull-1,,Lyngngam,113_topull,rɨnnieŋ,rɨnnieŋ,r ɨ nː i e ŋ,,Nagaraja2013,113_topull_b,False,^r ɨ nn i e ŋ$,default,r 3 n i e N,3 N e i n r
+678,PnarJaintia-113_topull-1,,PnarJaintia,113_topull,tan,tan,t a n,,Nagaraja2013,113_topull_a,False,^t a n$,default,t a n,a n t
+679,WarLamin-113_topull-1,,WarLamin,113_topull,pətɪaʔ,pətɪaʔ,p ə t ɪ a ʔ,,Nagaraja2013,113_topull_c,False,^p ə t ɪ a ʔ$,default,p 3 t i a 7,3 7 a i p t
+680,Palaung-113_topull-1,,Palaung,113_topull,"rɯit, tɯt",rɯit,r ɯ i t,,Nagaraja2013,113_topull_d,False,^r ɯ i t$,default,r u i t,i r t u
+681,Palaung-113_topull-2,,Palaung,113_topull,"rɯit, tɯt",tɯt,t ɯ t,,Nagaraja2013,113_topull_d,False,^t ɯ t$,default,t u t,t u
+682,Khmu-113_topull-1,,Khmu,113_topull,toh,toh,t o h,,Nagaraja2013,113_topull_e,False,^t o h$,default,t o h,h o t
+683,Khasi-114_topush-1,,Khasi,114_topush,kʰɨnniaʔ,kʰɨnniaʔ,kʰ ɨ nː i a ʔ,,Nagaraja2013,114_topush_a,False,^kʰ ɨ nn i a ʔ$,default,kh~ 3 n i a 7,3 7 a i kh~ n
+684,Lyngngam-114_topush-1,,Lyngngam,114_topush,kɨncʰew,kɨncʰew,k ɨ cʰ e w,,Nagaraja2013,114_topush_b,False,^k ɨ n cʰ e w$,default,k 3 Th~ e w,3 Th~ e k w
+685,PnarJaintia-114_topush-1,,PnarJaintia,114_topush,ŋiat,ŋiat,ŋ i a t,,Nagaraja2013,114_topush_a,False,^ŋ i a t$,default,N i a t,N a i t
+686,WarLamin-114_topush-1,,WarLamin,114_topush,khən jit,khən jit,kʰ ə + j i t,,Nagaraja2013,114_topush_c,False,^kh ə n + j i t$,default,kh~ 3  y i t, 3 i kh~ t y
+687,Palaung-114_topush-1,,Palaung,114_topush,con,con,c o n,,Nagaraja2013,114_topush_d,False,^c o n$,default,T o n,T n o
+688,Khmu-114_topush-1,,Khmu,114_topush,kɲuːt,kɲuːt,k ɲ uː t,,Nagaraja2013,114_topush_e,False,^k ɲ uː t$,default,k 5 u t,5 k t u
+689,Khasi-115_torain-1,,Khasi,115_torain,slap,slap,s l a p,,Nagaraja2013,115_torain_a,False,^s l a p$,default,s l a p,a l p s
+690,Lyngngam-115_torain-1,,Lyngngam,115_torain,slap,slap,s l a p,,Nagaraja2013,115_torain_a,False,^s l a p$,default,s l a p,a l p s
+691,PnarJaintia-115_torain-1,,PnarJaintia,115_torain,slap,slap,s l a p,,Nagaraja2013,115_torain_a,False,^s l a p$,default,s l a p,a l p s
+692,WarLamin-115_torain-1,,WarLamin,115_torain,slaː,slaː,s l aː,,Nagaraja2013,115_torain_a,False,^s l aː$,default,s l a,a l s
+693,Palaung-115_torain-1,,Palaung,115_torain,ɟuŋ,ɟuŋ,ɟ u ŋ,,Nagaraja2013,115_torain_b,False,^ɟ u ŋ$,default,T u N,N T u
+694,Khmu-115_torain-1,,Khmu,115_torain,kmaʔ,kmaʔ,k m a ʔ,,Nagaraja2013,115_torain_c,False,^k m a ʔ$,default,k m a 7,7 a k m
+695,Khasi-116_red-1,,Khasi,116_red,saw,saw,s a w,,Nagaraja2013,116_red_a,False,^s a w$,default,s a w,a s w
+696,Lyngngam-116_red-1,,Lyngngam,116_red,ənsaw,ənsaw,ə n s a w,,Nagaraja2013,116_red_a,False,^ə ns a w$,default,3 n s a w,3 a n s w
+697,PnarJaintia-116_red-1,,PnarJaintia,116_red,so,so,s o,,Nagaraja2013,116_red_a,False,^s o$,default,s o,o s
+698,WarLamin-116_red-1,,WarLamin,116_red,sɪa,sɪa,s ɪ a,,Nagaraja2013,116_red_a,False,^s ɪ a$,default,s i a,a i s
+699,Palaung-116_red-1,,Palaung,116_red,"kʰo, ni",kʰo,kʰ o,,Nagaraja2013,116_red_b,False,^kʰ o$,default,kh~ o,kh~ o
+700,Palaung-116_red-2,,Palaung,116_red,"kʰo, ni",ni,n i,,Nagaraja2013,116_red_b,False,^n i$,default,n i,i n
+701,Khmu-116_red-1,,Khmu,116_red,jim,jim,j i m,,Nagaraja2013,116_red_c,False,^j i m$,default,y i m,i m y
+702,Khasi-117_rightcorrect-1,,Khasi,117_rightcorrect,dej,dej,d ei̯,,Nagaraja2013,117_rightcorrect_a,False,^d ej $,default,d ei,d ei
+703,Lyngngam-117_rightcorrect-1,,Lyngngam,117_rightcorrect,dew,dew,d e w,,Nagaraja2013,117_rightcorrect_a,False,^d e w$,default,d e w,d e w
+704,PnarJaintia-117_rightcorrect-1,,PnarJaintia,117_rightcorrect,tɔʔ,tɔʔ,t ɔ ʔ,,Nagaraja2013,117_rightcorrect_b,False,^t ɔ ʔ$,default,t o 7,7 o t
+705,WarLamin-117_rightcorrect-1,,WarLamin,117_rightcorrect,tɒʔ,tɒʔ,t ɒ ʔ,,Nagaraja2013,117_rightcorrect_b,False,^t ɒ ʔ$,default,t o 7,7 o t
+706,Khmu-117_rightcorrect-1,,Khmu,117_rightcorrect,mɛːn,mɛːn,m ɛː n,,Nagaraja2013,,True,^m ɛː n$,default,m E n,E m n
+707,Khasi-118_rightside-1,,Khasi,118_rightside,mon,mon,m o n,,Nagaraja2013,118_rightside_a,False,^m o n$,default,m o n,m n o
+708,Lyngngam-118_rightside-1,,Lyngngam,118_rightside,tɨm-mon,tɨm-mon,t ɨ m + m o n,,Nagaraja2013,118_rightside_a,False,^t ɨ m - m o n$,default,t 3 m  m o n, 3 m n o t
+709,PnarJaintia-118_rightside-1,,PnarJaintia,118_rightside,timun,timun,t i m u n,,Nagaraja2013,118_rightside_a,False,^t i m u n$,default,t i m u n,i m n t u
+710,WarLamin-118_rightside-1,,WarLamin,118_rightside,di par ta mɒn,di par ta mɒn,d i + p a r + t a + m ɒ n,,Nagaraja2013,118_rightside_a,False,^d i + p a r + t a + m ɒ n$,default,d i  p a r  t a  m o n, a d i m n o p r t
+711,Palaung-118_rightside-1,,Palaung,118_rightside,kʰwa,kʰwa,kʰ w a,,Nagaraja2013,,True,^kʰw a$,default,kh~ w a,a kh~ w
+712,Khmu-118_rightside-1,,Khmu,118_rightside,luəŋ ham,luəŋ ham,l u ə ŋ + h a m,,Nagaraja2013,118_rightside_b,False,^l u ə ŋ + h a m$,default,l u 3 N  h a m, 3 N a h l m u
+713,Khasi-119_river-1,,Khasi,119_river,waʔ,waʔ,w a ʔ,,Nagaraja2013,119_river_a,False,^w a ʔ$,default,w a 7,7 a w
+714,Lyngngam-119_river-1,,Lyngngam,119_river,por,por,p o r,,Nagaraja2013,119_river_b,False,^p o r$,default,p o r,o p r
+715,PnarJaintia-119_river-1,,PnarJaintia,119_river,waʔ,waʔ,w a ʔ,,Nagaraja2013,119_river_a,False,^w a ʔ$,default,w a 7,7 a w
+716,WarLamin-119_river-1,,WarLamin,119_river,ʔam,ʔam,ʔ a m,,Nagaraja2013,119_river_c,False,^ʔ a m$,default,7 a m,7 a m
+717,Palaung-119_river-1,,Palaung,119_river,om,om,o m,,Nagaraja2013,119_river_c,False,^o m$,default,o m,m o
+718,Khmu-119_river-1,,Khmu,119_river,ʰroŋ,ʰroŋ,ʰr o ŋ,,Nagaraja2013,119_river_d,False,^ʰr o ŋ$,default,hr o N,N hr o
+719,Khasi-120_road-1,,Khasi,120_road,lɨnti,lɨnti,l ɨ t i,,Nagaraja2013,120_road_a,False,^l ɨ n t i$,default,l 3 t i,3 i l t
+720,Lyngngam-120_road-1,,Lyngngam,120_road,twar,twar,t w a r,,Nagaraja2013,120_road_b,False,^tw a r$,default,t w a r,a r t w
+721,PnarJaintia-120_road-1,,PnarJaintia,120_road,sərɔk,sərɔk,s ə r ɔ k,,Nagaraja2013,120_road_a,False,^s ə r ɔ k$,default,s 3 r o k,3 k o r s
+722,WarLamin-120_road-1,,WarLamin,120_road,sərɒk,sərɒk,s ə r ɒ k,,Nagaraja2013,120_road_c,False,^s ə r ɒ k$,default,s 3 r o k,3 k o r s
+723,Palaung-120_road-1,,Palaung,120_road,deŋ,deŋ,d e ŋ,,Nagaraja2013,120_road_d,False,^d e ŋ$,default,d e N,N d e
+724,Khmu-120_road-1,,Khmu,120_road,ŋɔːr,ŋɔːr,ŋ ɔː r,,Nagaraja2013,120_road_e,False,^ŋ ɔː r$,default,N o r,N o r
+725,Khasi-121_root-1,,Khasi,121_root,tɨnraj,tɨnraj,t ɨ r ai̯,,Nagaraja2013,121_root_a,False,^t ɨ n r aj $,default,t 3 r ai,3 ai r t
+726,Lyngngam-121_root-1,,Lyngngam,121_root,tɨrraj,tɨrraj,t ɨ rː ai̯,,Nagaraja2013,121_root_a,False,^t ɨ rr aj $,default,t 3 r ai,3 ai r t
+727,PnarJaintia-121_root-1,,PnarJaintia,121_root,tʰeid,tʰeid,tʰ e i d,,Nagaraja2013,121_root_b,False,^tʰ e i d$,default,th~ e i d,d e i th~
+728,WarLamin-121_root-1,,WarLamin,121_root,ʃit,ʃit,ʃ i t,,Nagaraja2013,121_root_b,False,^ʃ i t$,default,S i t,S i t
+729,Palaung-121_root-1,,Palaung,121_root,riər,riər,r i ə r,,Nagaraja2013,121_root_a,False,^r i ə r$,default,r i 3 r,3 i r
+730,Khmu-121_root-1,,Khmu,121_root,riəs,riəs,r i ə s,,Nagaraja2013,121_root_a,False,^r i ə s$,default,r i 3 s,3 i r s
+731,Khasi-122_rope-1,,Khasi,122_rope,tɨllaj,tɨllaj,t ɨ lː ai̯,,Nagaraja2013,122_rope_a,False,^t ɨ ll aj $,default,t 3 l ai,3 ai l t
+732,Lyngngam-122_rope-1,,Lyngngam,122_rope,laŋnaj,laŋnaj,l a ŋ ai̯,,Nagaraja2013,122_rope_b,False,^l a ŋ n aj $,default,l a N ai,N a ai l
+733,PnarJaintia-122_rope-1,,PnarJaintia,122_rope,tl̩le,tl̩le,t l̩ l e,,Nagaraja2013,122_rope_a,False,^t l̩ l e$,default,t l l e,e l t
+734,WarLamin-122_rope-1,,WarLamin,122_rope,tәrʊ,tәrʊ,t ə r ʊ,,Nagaraja2013,122_rope_c,False,^t ә r ʊ$,default,t 3 r u,3 r t u
+735,Palaung-122_rope-1,,Palaung,122_rope,vər,vər,v ə r,,Nagaraja2013,122_rope_d,False,^v ə r$,default,v 3 r,3 r v
+736,Khmu-122_rope-1,,Khmu,122_rope,cməʔ,cməʔ,c m ə ʔ,,Nagaraja2013,122_rope_e,False,^c m ə ʔ$,default,T m 3 7,3 7 T m
+737,Khasi-123_rotten-1,,Khasi,123_rotten,pʔut,pʔut,p ʔ u t,,Nagaraja2013,123_rotten_a,False,^p ʔ u t$,default,p 7 u t,7 p t u
+738,Lyngngam-123_rotten-1,,Lyngngam,123_rotten,ɟɨllit,ɟɨllit,ɟ ɨ lː i t,,Nagaraja2013,123_rotten_b,False,^ɟ ɨ ll i t$,default,T 3 l i t,3 T i l t
+739,PnarJaintia-123_rotten-1,,PnarJaintia,123_rotten,pʔut,pʔut,p ʔ u t,,Nagaraja2013,123_rotten_a,False,^p ʔ u t$,default,p 7 u t,7 p t u
+740,WarLamin-123_rotten-1,,WarLamin,123_rotten,khvi,khvi,kʰ v i,,Nagaraja2013,123_rotten_c,False,^kh v i$,default,kh~ v i,i kh~ v
+741,Palaung-123_rotten-1,,Palaung,123_rotten,əm,əm,ə m,,Nagaraja2013,123_rotten_d,False,^ə m$,default,3 m,3 m
+742,Khmu-123_rotten-1,,Khmu,123_rotten,ʰmuʔ,ʰmuʔ,ʰm u ʔ,,Nagaraja2013,123_rotten_e,False,^ʰm u ʔ$,default,hm u 7,7 hm u
+743,Khasi-124_torub-1,,Khasi,124_torub,kɨrʃut,kɨrʃut,k ɨ r ʃ u t,,Nagaraja2013,124_torub_a,False,^k ɨ rʃ u t$,default,k 3 r S u t,3 S k r t u
+744,Lyngngam-124_torub-1,,Lyngngam,124_torub,kɨrcʰut,kɨrcʰut,k ɨ r cʰ u t,,Nagaraja2013,124_torub_a,False,^k ɨ r cʰ u t$,default,k 3 r Th~ u t,3 Th~ k r t u
+745,PnarJaintia-124_torub-1,,PnarJaintia,124_torub,kr̩tʃut,kr̩tʃut,k r̩ tʃ u t,,Nagaraja2013,124_torub_a,False,^k r̩ tʃ u t$,default,k r tS u t,k r t tS u
+746,WarLamin-124_torub-1,,WarLamin,124_torub,kənʧʊt,kənʧʊt,k ə tʃ ʊ t,,Nagaraja2013,124_torub_a,False,^k ə n ʧ ʊ t$,default,k 3 tS u t,3 k t tS u
+747,Palaung-124_torub-1,,Palaung,124_torub,sut,sut,s u t,,Nagaraja2013,124_torub_a,False,^s u t$,default,s u t,s t u
+748,Khmu-124_torub-1,,Khmu,124_torub,"huk, hntɔh",huk,h u k,,Nagaraja2013,124_torub_b,False,^h u k$,default,h u k,h k u
+749,Khmu-124_torub-2,,Khmu,124_torub,"huk, hntɔh",hntɔh,h t ɔ h,,Nagaraja2013,124_torub_b,False,^h n t ɔ h$,default,h t o h,h o t
+750,Khasi-125_salt-1,,Khasi,125_salt,mluʔ,mluʔ,m l u ʔ,,Nagaraja2013,125_salt_a,False,^m l u ʔ$,default,m l u 7,7 l m u
+751,Lyngngam-125_salt-1,,Lyngngam,125_salt,maluk,maluk,m a l u k,,Nagaraja2013,125_salt_a,False,^m a l u k$,default,m a l u k,a k l m u
+752,PnarJaintia-125_salt-1,,PnarJaintia,125_salt,bloʔ,bloʔ,b l o ʔ,,Nagaraja2013,125_salt_a,False,^b l o ʔ$,default,b l o 7,7 b l o
+753,WarLamin-125_salt-1,,WarLamin,125_salt,pnʊʔ,pnʊʔ,p ʊ ʔ,,Nagaraja2013,125_salt_a,False,^p n ʊ ʔ$,default,p u 7,7 p u
+754,Palaung-125_salt-1,,Palaung,125_salt,sɔɁ,sɔɁ,s ɔ ʔ,,Nagaraja2013,125_salt_b,False,^s ɔ Ɂ$,default,s o 7,7 o s
+755,Khmu-125_salt-1,,Khmu,125_salt,ʰmaːr,ʰmaːr,ʰm aː r,,Nagaraja2013,125_salt_c,False,^ʰm aː r$,default,hm a r,a hm r
+756,Khasi-126_sand-1,,Khasi,126_sand,ʃʔiap,ʃʔiap,ʃ ʔ i a p,,Nagaraja2013,126_sand_a,False,^ʃ ʔ i a p$,default,S 7 i a p,7 S a i p
+757,Lyngngam-126_sand-1,,Lyngngam,126_sand,cʰʔjap,cʰʔjap,cʰ ʔ j a p,,Nagaraja2013,126_sand_a,False,^cʰ ʔ j a p$,default,Th~ 7 y a p,7 Th~ a p y
+758,PnarJaintia-126_sand-1,,PnarJaintia,126_sand,tʃʔɛʌp,tʃʔɛʌp,tʃ ʔ ɛ ʌ p,,Nagaraja2013,126_sand_a,False,^tʃ ʔ ɛ ʌ p$,default,tS 7 E o p,7 E o p tS
+759,WarLamin-126_sand-1,,WarLamin,126_sand,sәrvʊ,sәrvʊ,s ə r v ʊ,,Nagaraja2013,126_sand_b,False,^s ә r v ʊ$,default,s 3 r v u,3 r s u v
+760,Palaung-126_sand-1,,Palaung,126_sand,saj,saj,s ai̯,,Nagaraja2013,126_sand_c,False,^s aj $,default,s ai,ai s
+761,Khmu-126_sand-1,,Khmu,126_sand,sreh,sreh,s r e h,,Nagaraja2013,126_sand_d,False,^s r e h$,default,s r e h,e h r s
+762,Khasi-127_tosay-1,,Khasi,127_tosay,oŋ,oŋ,o ŋ,,Nagaraja2013,127_tosay_a,False,^o ŋ$,default,o N,N o
+763,Lyngngam-127_tosay-1,,Lyngngam,127_tosay,ɨnnoŋ,ɨnnoŋ,ɨ nː o ŋ,,Nagaraja2013,127_tosay_a,False,^ɨ nn o ŋ$,default,3 n o N,3 N n o
+764,PnarJaintia-127_tosay-1,,PnarJaintia,127_tosay,ʔɔŋ,ʔɔŋ,ʔ ɔ ŋ,,Nagaraja2013,127_tosay_a,False,^ʔ ɔ ŋ$,default,7 o N,7 N o
+765,WarLamin-127_tosay-1,,WarLamin,127_tosay,ʔɒŋ,ʔɒŋ,ʔ ɒ ŋ,,Nagaraja2013,127_tosay_a,False,^ʔ ɒ ŋ$,default,7 o N,7 N o
+766,Palaung-127_tosay-1,,Palaung,127_tosay,dah,dah,d a h,,Nagaraja2013,127_tosay_b,False,^d a h$,default,d a h,a d h
+767,Khmu-127_tosay-1,,Khmu,127_tosay,sroʔ,sroʔ,s r o ʔ,,Nagaraja2013,127_tosay_c,False,^s r o ʔ$,default,s r o 7,7 o r s
+768,Khasi-128_toscratch-1,,Khasi,128_toscratch,truːd,truːd,t r uː d,,Nagaraja2013,128_toscratch_a,False,^t r uː d$,default,t r u d,d r t u
+769,Lyngngam-128_toscratch-1,,Lyngngam,128_toscratch,tɨrrut,tɨrrut,t ɨ rː u t,,Nagaraja2013,128_toscratch_a,False,^t ɨ rr u t$,default,t 3 r u t,3 r t u
+770,PnarJaintia-128_toscratch-1,,PnarJaintia,128_toscratch,tʃbɔt,tʃbɔt,tʃ b ɔ t,,Nagaraja2013,128_toscratch_b,False,^tʃ b ɔ t$,default,tS b o t,b o t tS
+771,WarLamin-128_toscratch-1,,WarLamin,128_toscratch,kʰəbɒʔ,kʰəbɒʔ,kʰ ə b ɒ ʔ,,Nagaraja2013,128_toscratch_b,False,^kʰ ə b ɒ ʔ$,default,kh~ 3 b o 7,3 7 b kh~ o
+772,Palaung-128_toscratch-1,,Palaung,128_toscratch,pɔɁ,pɔɁ,p ɔ ʔ,,Nagaraja2013,128_toscratch_c,False,^p ɔ Ɂ$,default,p o 7,7 o p
+773,Khmu-128_toscratch-1,,Khmu,128_toscratch,gor,gor,g o r,,Nagaraja2013,128_toscratch_d,False,^g o r$,default,g o r,g o r
+774,Khasi-129_sea-1,,Khasi,129_sea,duriaw,duriaw,d u r i a w,,Nagaraja2013,129_sea_a,False,^d u r i a w$,default,d u r i a w,a d i r u w
+775,Lyngngam-129_sea-1,,Lyngngam,129_sea,duriaw,duriaw,d u r i a w,,Nagaraja2013,,True,^d u r i a w$,default,d u r i a w,a d i r u w
+776,PnarJaintia-129_sea-1,,PnarJaintia,129_sea,duriaw,duriaw,d u r i a w,,Nagaraja2013,129_sea_a,False,^d u r i a w$,default,d u r i a w,a d i r u w
+777,WarLamin-129_sea-1,,WarLamin,129_sea,dʊrɪəʊ,dʊrɪəʊ,d ʊ r ɪ ə ʊ,,Nagaraja2013,129_sea_a,False,^d ʊ r ɪ ə ʊ$,default,d u r i 3 u,3 d i r u
+778,Khasi-130_see-1,,Khasi,130_see,joʔi,joʔi,j o ʔ i,,Nagaraja2013,130_see_a,False,^j o ʔ i$,default,y o 7 i,7 i o y
+779,Lyngngam-130_see-1,,Lyngngam,130_see,muɟoʔ,muɟoʔ,m u ɟ o ʔ,,Nagaraja2013,130_see_a,False,^m u ɟ o ʔ$,default,m u T o 7,7 T m o u
+780,PnarJaintia-130_see-1,,PnarJaintia,130_see,pait,pait,p a i t,,Nagaraja2013,130_see_b,False,^p a i t$,default,p a i t,a i p t
+781,WarLamin-130_see-1,,WarLamin,130_see,maʔ,maʔ,m a ʔ,,Nagaraja2013,130_see_c,False,^m a ʔ$,default,m a 7,7 a m
+782,Palaung-130_see-1,,Palaung,130_see,jɯ,jɯ,j ɯ,,Nagaraja2013,130_see_a,False,^j ɯ$,default,y u,u y
+783,Khmu-130_see-1,,Khmu,130_see,guːɲ,guːɲ,g uː ɲ,,Nagaraja2013,130_see_d,False,^g uː ɲ$,default,g u 5,5 g u
+784,Khasi-131_seed-1,,Khasi,131_seed,sɨmbaj,sɨmbaj,s ɨ m b ai̯,,Nagaraja2013,131_seed_a,False,^s ɨ m b aj $,default,s 3 m b ai,3 ai b m s
+785,Lyngngam-131_seed-1,,Lyngngam,131_seed,ɟellej,ɟellej,ɟ e lː ei̯,,Nagaraja2013,131_seed_b,False,^ɟ e ll ej $,default,T e l ei,T e ei l
+786,PnarJaintia-131_seed-1,,PnarJaintia,131_seed,sm̩be,sm̩be,s m̩ b e,,Nagaraja2013,131_seed_a,False,^s m̩ b e$,default,s m b e,b e m s
+787,WarLamin-131_seed-1,,WarLamin,131_seed,tjʊsba,tjʊsba,t j ʊ s b a,,Nagaraja2013,131_seed_a,False,^t j ʊ s b a$,default,t y u s b a,a b s t u y
+788,Palaung-131_seed-1,,Palaung,131_seed,kəʔaŋ,kəʔaŋ,k ə ʔ a ŋ,,Nagaraja2013,131_seed_c,False,^k ə ʔ a ŋ$,default,k 3 7 a N,3 7 N a k
+789,Khmu-131_seed-1,,Khmu,131_seed,klɔːŋ,klɔːŋ,k l ɔː ŋ,,Nagaraja2013,131_seed_d,False,^k l ɔː ŋ$,default,k l o N,N k l o
+790,Khasi-132_tosew-1,,Khasi,132_tosew,suʔ,suʔ,s u ʔ,,Nagaraja2013,132_tosew_a,False,^s u ʔ$,default,s u 7,7 s u
+791,Lyngngam-132_tosew-1,,Lyngngam,132_tosew,sɨnnek,sɨnnek,s ɨ nː e k,,Nagaraja2013,132_tosew_a,False,^s ɨ nn e k$,default,s 3 n e k,3 e k n s
+792,PnarJaintia-132_tosew-1,,PnarJaintia,132_tosew,sor,sor,s o r,,Nagaraja2013,132_tosew_a,False,^s o r$,default,s o r,o r s
+793,WarLamin-132_tosew-1,,WarLamin,132_tosew,sʊ,sʊ,s ʊ,,Nagaraja2013,132_tosew_a,False,^s ʊ$,default,s u,s u
+794,Palaung-132_tosew-1,,Palaung,132_tosew,ɟiŋ,ɟiŋ,ɟ i ŋ,,Nagaraja2013,132_tosew_b,False,^ɟ i ŋ$,default,T i N,N T i
+795,Khmu-132_tosew-1,,Khmu,132_tosew,lɔs,lɔs,l ɔ s,,Nagaraja2013,132_tosew_c,False,^l ɔ s$,default,l o s,l o s
+796,Khasi-133_sharp-1,,Khasi,133_sharp,nep,nep,n e p,,Nagaraja2013,133_sharp_a,False,^n e p$,default,n e p,e n p
+797,Lyngngam-133_sharp-1,,Lyngngam,133_sharp,ɨntaʔ,ɨntaʔ,ɨ t a ʔ,,Nagaraja2013,133_sharp_b,False,^ɨ n t a ʔ$,default,3 t a 7,3 7 a t
+798,PnarJaintia-133_sharp-1,,PnarJaintia,133_sharp,nɛp,nɛp,n ɛ p,,Nagaraja2013,133_sharp_a,False,^n ɛ p$,default,n E p,E n p
+799,WarLamin-133_sharp-1,,WarLamin,133_sharp,nep,nep,n e p,,Nagaraja2013,133_sharp_a,False,^n e p$,default,n e p,e n p
+800,Palaung-133_sharp-1,,Palaung,133_sharp,ləm,ləm,l ə m,,Nagaraja2013,133_sharp_c,False,^l ə m$,default,l 3 m,3 l m
+801,Khmu-133_sharp-1,,Khmu,133_sharp,ʔoh,ʔoh,ʔ o h,,Nagaraja2013,133_sharp_d,False,^ʔ o h$,default,7 o h,7 h o
+802,Khasi-134_short-1,,Khasi,134_short,lɨŋkot,lɨŋkot,l ɨ ŋ k o t,,Nagaraja2013,134_short_a,False,^l ɨ ŋ k o t$,default,l 3 N k o t,3 N k l o t
+803,Lyngngam-134_short-1,,Lyngngam,134_short,tɨmban,tɨmban,t ɨ m b a n,,Nagaraja2013,134_short_b,False,^t ɨ m b a n$,default,t 3 m b a n,3 a b m n t
+804,PnarJaintia-134_short-1,,PnarJaintia,134_short,tbien,tbien,t b i e n,,Nagaraja2013,134_short_b,False,^t b i e n$,default,t b i e n,b e i n t
+805,WarLamin-134_short-1,,WarLamin,134_short,ʧrit,ʧrit,tʃ r i t,,Nagaraja2013,134_short_c,False,^ʧ r i t$,default,tS r i t,i r t tS
+806,Palaung-134_short-1,,Palaung,134_short,ɛm,ɛm,ɛ m,,Nagaraja2013,134_short_d,False,^ɛ m$,default,E m,E m
+807,Khmu-134_short-1,,Khmu,134_short,hndeʔ,hndeʔ,h d e ʔ,,Nagaraja2013,134_short_e,False,^h n d e ʔ$,default,h d e 7,7 d e h
+808,Khasi-135_tosing-1,,Khasi,135_tosing,rwaj,rwaj,r w ai̯,,Nagaraja2013,135_tosing_a,False,^rw aj $,default,r w ai,ai r w
+809,Lyngngam-135_tosing-1,,Lyngngam,135_tosing,rɨŋwi,rɨŋwi,r ɨ ŋ w i,,Nagaraja2013,135_tosing_a,False,^r ɨ ŋw i$,default,r 3 N w i,3 N i r w
+810,PnarJaintia-135_tosing-1,,PnarJaintia,135_tosing,rwai,rwai,r w a i,,Nagaraja2013,135_tosing_a,False,^rw a i$,default,r w a i,a i r w
+811,WarLamin-135_tosing-1,,WarLamin,135_tosing,rvʊ,rvʊ,r v ʊ,,Nagaraja2013,135_tosing_a,False,^r v ʊ$,default,r v u,r u v
+812,Palaung-135_tosing-1,,Palaung,135_tosing,ŋir,ŋir,ŋ i r,,Nagaraja2013,135_tosing_b,False,^ŋ i r$,default,N i r,N i r
+813,Khmu-135_tosing-1,,Khmu,135_tosing,təːm,təːm,t əː m,,Nagaraja2013,135_tosing_c,False,^t əː m$,default,t 3 m,3 m t
+814,Khasi-136_tosit-1,,Khasi,136_tosit,ʃoŋ,ʃoŋ,ʃ o ŋ,,Nagaraja2013,136_tosit_a,False,^ʃ o ŋ$,default,S o N,N S o
+815,Lyngngam-136_tosit-1,,Lyngngam,136_tosit,cʰoŋ,cʰoŋ,cʰ o ŋ,,Nagaraja2013,136_tosit_a,False,^cʰ o ŋ$,default,Th~ o N,N Th~ o
+816,PnarJaintia-136_tosit-1,,PnarJaintia,136_tosit,tʃɔŋ,tʃɔŋ,tʃ ɔ ŋ,,Nagaraja2013,136_tosit_a,False,^tʃ ɔ ŋ$,default,tS o N,N o tS
+817,WarLamin-136_tosit-1,,WarLamin,136_tosit,ʃkɪə,ʃkɪə,ʃ k ɪ ə,,Nagaraja2013,136_tosit_b,False,^ʃ k ɪ ə$,default,S k i 3,3 S i k
+818,Palaung-136_tosit-1,,Palaung,136_tosit,mɔʔ,mɔʔ,m ɔ ʔ,,Nagaraja2013,136_tosit_c,False,^m ɔ ʔ$,default,m o 7,7 m o
+819,Khmu-136_tosit-1,,Khmu,136_tosit,den,den,d e n,,Nagaraja2013,136_tosit_d,False,^d e n$,default,d e n,d e n
+820,Khasi-137_skin-1,,Khasi,137_skin,snieʔ doʔ,snieʔ doʔ,s i e ʔ + d o ʔ,,Nagaraja2013,137_skin_a,False,^s n i e ʔ + d o ʔ$,default,s i e 7  d o 7, 7 d e i o s
+821,Lyngngam-137_skin-1,,Lyngngam,137_skin,snieʔ mejm,snieʔ mejm,s i e ʔ + m ei̯ m,,Nagaraja2013,137_skin_a,False,^s n i e ʔ + m ej m$,default,s i e 7  m ei m, 7 e ei i m s
+822,PnarJaintia-137_skin-1,,PnarJaintia,137_skin,sneiʔ,sneiʔ,s e i ʔ,,Nagaraja2013,137_skin_a,False,^s n e i ʔ$,default,s e i 7,7 e i s
+823,WarLamin-137_skin-1,,WarLamin,137_skin,snɪəʔ,snɪəʔ,s ɪ ə ʔ,,Nagaraja2013,137_skin_a,False,^s n ɪ ə ʔ$,default,s i 3 7,3 7 i s
+824,Palaung-137_skin-1,,Palaung,137_skin,hur,hur,h u r,,Nagaraja2013,137_skin_b,False,^h u r$,default,h u r,h r u
+825,Khmu-137_skin-1,,Khmu,137_skin,hmpuːr,hmpuːr,h m p uː r,,Nagaraja2013,137_skin_c,False,^h m p uː r$,default,h m p u r,h m p r u
+826,Khasi-138_sky-1,,Khasi,138_sky,bneŋ,bneŋ,b e ŋ,,Nagaraja2013,138_sky_a,False,^b n e ŋ$,default,b e N,N b e
+827,Lyngngam-138_sky-1,,Lyngngam,138_sky,brej,brej,b r ei̯,,Nagaraja2013,138_sky_b,False,^b r ej $,default,b r ei,b ei r
+828,PnarJaintia-138_sky-1,,PnarJaintia,138_sky,bneiɲ,bneiɲ,b e i ɲ,,Nagaraja2013,138_sky_a,False,^b n e i ɲ$,default,b e i 5,5 b e i
+829,Palaung-138_sky-1,,Palaung,138_sky,pleŋ,pleŋ,p l e ŋ,,Nagaraja2013,138_sky_a,False,^p l e ŋ$,default,p l e N,N e l p
+830,Khmu-138_sky-1,,Khmu,138_sky,lwaːŋ,lwaːŋ,l w aː ŋ,,Nagaraja2013,138_sky_c,False,^lw aː ŋ$,default,l w a N,N a l w
+831,Khasi-139_tosleep-1,,Khasi,139_tosleep,tʰiaʔ,tʰiaʔ,tʰ i a ʔ,,Nagaraja2013,139_tosleep_a,False,^tʰ i a ʔ$,default,th~ i a 7,7 a i th~
+832,Lyngngam-139_tosleep-1,,Lyngngam,139_tosleep,ɨnɲiɲ,ɨnɲiɲ,ɨ ɲ i ɲ,,Nagaraja2013,139_tosleep_b,False,^ɨ n ɲ i ɲ$,default,3 5 i 5,3 5 i
+833,PnarJaintia-139_tosleep-1,,PnarJaintia,139_tosleep,tʰiaʔ,tʰiaʔ,tʰ i a ʔ,,Nagaraja2013,139_tosleep_a,False,^tʰ i a ʔ$,default,th~ i a 7,7 a i th~
+834,WarLamin-139_tosleep-1,,WarLamin,139_tosleep,θɪəʔ,θɪəʔ,θ ɪ ə ʔ,,Nagaraja2013,139_tosleep_a,False,^θ ɪ ə ʔ$,default,8 i 3 7,3 7 8 i
+835,Palaung-139_tosleep-1,,Palaung,139_tosleep,ʔit,ʔit,ʔ i t,,Nagaraja2013,139_tosleep_c,False,^ʔ i t$,default,7 i t,7 i t
+836,Khmu-139_tosleep-1,,Khmu,139_tosleep,sih,sih,s i h,,Nagaraja2013,139_tosleep_d,False,^s i h$,default,s i h,h i s
+837,Khasi-140_small-1,,Khasi,140_small,rit,rit,r i t,,Nagaraja2013,140_small_a,False,^r i t$,default,r i t,i r t
+838,Lyngngam-140_small-1,,Lyngngam,140_small,doh-dit,doh-dit,d o h + d i t,,Nagaraja2013,140_small_b,False,^d o h - d i t$,default,d o h  d i t, d h i o t
+839,PnarJaintia-140_small-1,,PnarJaintia,140_small,kʰeiɲ,kʰeiɲ,kʰ e i ɲ,,Nagaraja2013,140_small_c,False,^kʰ e i ɲ$,default,kh~ e i 5,5 e i kh~
+840,WarLamin-140_small-1,,WarLamin,140_small,sbɪət,sbɪət,s b ɪ ə t,,Nagaraja2013,140_small_d,False,^s b ɪ ə t$,default,s b i 3 t,3 b i s t
+841,Palaung-140_small-1,,Palaung,140_small,diət,diət,d i ə t,,Nagaraja2013,140_small_b,False,^d i ə t$,default,d i 3 t,3 d i t
+842,Khmu-140_small-1,,Khmu,140_small,kʔnɛːŋ,kʔnɛːŋ,k ʔ ɛː ŋ,,Nagaraja2013,140_small_e,False,^k ʔ n ɛː ŋ$,default,k 7 E N,7 E N k
+843,Khasi-141_tosmell-1,,Khasi,141_tosmell,sma,sma,s m a,,Nagaraja2013,141_tosmell_a,False,^s m a$,default,s m a,a m s
+844,Lyngngam-141_tosmell-1,,Lyngngam,141_tosmell,ɨnnaw,ɨnnaw,ɨ nː a w,,Nagaraja2013,141_tosmell_b,False,^ɨ nn a w$,default,3 n a w,3 a n w
+845,PnarJaintia-141_tosmell-1,,PnarJaintia,141_tosmell,sma,sma,s m a,,Nagaraja2013,141_tosmell_a,False,^s m a$,default,s m a,a m s
+846,WarLamin-141_tosmell-1,,WarLamin,141_tosmell,rʔɪəŋ,rʔɪəŋ,r ʔ ɪ ə ŋ,,Nagaraja2013,141_tosmell_c,False,^r ʔ ɪ ə ŋ$,default,r 7 i 3 N,3 7 N i r
+847,Palaung-141_tosmell-1,,Palaung,141_tosmell,ʔur,ʔur,ʔ u r,,Nagaraja2013,141_tosmell_d,False,^ʔ u r$,default,7 u r,7 r u
+848,Khmu-141_tosmell-1,,Khmu,141_tosmell,mec,mec,m e c,,Nagaraja2013,141_tosmell_e,False,^m e c$,default,m e T,T e m
+849,Khasi-142_smoke-1,,Khasi,142_smoke,tdem,tdem,t d e m,,Nagaraja2013,142_smoke_a,False,^t d e m$,default,t d e m,d e m t
+850,Lyngngam-142_smoke-1,,Lyngngam,142_smoke,ɨntʰak,ɨntʰak,ɨ tʰ a k,,Nagaraja2013,142_smoke_b,False,^ɨ n tʰ a k$,default,3 th~ a k,3 a k th~
+851,PnarJaintia-142_smoke-1,,PnarJaintia,142_smoke,tdɛm,tdɛm,t d ɛ m,,Nagaraja2013,142_smoke_a,False,^t d ɛ m$,default,t d E m,E d m t
+852,WarLamin-142_smoke-1,,WarLamin,142_smoke,tdem,tdem,t d e m,,Nagaraja2013,142_smoke_a,False,^t d e m$,default,t d e m,d e m t
+853,Palaung-142_smoke-1,,Palaung,142_smoke,tɯk,tɯk,t ɯ k,,Nagaraja2013,142_smoke_b,False,^t ɯ k$,default,t u k,k t u
+854,Khmu-142_smoke-1,,Khmu,142_smoke,ptəʔ,ptəʔ,p t ə ʔ,,Nagaraja2013,142_smoke_b,False,^p t ə ʔ$,default,p t 3 7,3 7 p t
+855,Khasi-143_smooth-1,,Khasi,143_smooth,ɟliʔ,ɟliʔ,ɟ l i ʔ,,Nagaraja2013,143_smooth_a,False,^ɟ l i ʔ$,default,T l i 7,7 T i l
+856,Lyngngam-143_smooth-1,,Lyngngam,143_smooth,ɟɨmpaj,ɟɨmpaj,ɟ ɨ m p ai̯,,Nagaraja2013,143_smooth_b,False,^ɟ ɨ m p aj $,default,T 3 m p ai,3 T ai m p
+857,PnarJaintia-143_smooth-1,,PnarJaintia,143_smooth,jaliʔ,jaliʔ,j a l i ʔ,,Nagaraja2013,143_smooth_a,False,^j a l i ʔ$,default,y a l i 7,7 a i l y
+858,WarLamin-143_smooth-1,,WarLamin,143_smooth,tjəlliʔ,tjəlliʔ,t j ə lː i ʔ,,Nagaraja2013,143_smooth_a,False,^t j ə ll i ʔ$,default,t y 3 l i 7,3 7 i l t y
+859,Palaung-143_smooth-1,,Palaung,143_smooth,kleət,kleət,k l e ə t,,Nagaraja2013,143_smooth_c,False,^k l e ə t$,default,k l e 3 t,3 e k l t
+860,Khmu-143_smooth-1,,Khmu,143_smooth,lmɛːt,lmɛːt,l m ɛː t,,Nagaraja2013,143_smooth_d,False,^l m ɛː t$,default,l m E t,E l m t
+861,Khasi-144_snake-1,,Khasi,144_snake,bseɲ,bseɲ,b s e ɲ,,Nagaraja2013,144_snake_a,False,^bs e ɲ$,default,b s e 5,5 b e s
+862,Lyngngam-144_snake-1,,Lyngngam,144_snake,bseɲ,bseɲ,b s e ɲ,,Nagaraja2013,144_snake_a,False,^bs e ɲ$,default,b s e 5,5 b e s
+863,PnarJaintia-144_snake-1,,PnarJaintia,144_snake,pseiɲ,pseiɲ,p s e i ɲ,,Nagaraja2013,144_snake_a,False,^ps e i ɲ$,default,p s e i 5,5 e i p s
+864,WarLamin-144_snake-1,,WarLamin,144_snake,psen,psen,p s e n,,Nagaraja2013,144_snake_a,False,^ps e n$,default,p s e n,e n p s
+865,Palaung-144_snake-1,,Palaung,144_snake,hiŋ,hiŋ,h i ŋ,,Nagaraja2013,144_snake_a,False,^h i ŋ$,default,h i N,N h i
+866,Khmu-144_snake-1,,Khmu,144_snake,mar,mar,m a r,,Nagaraja2013,144_snake_b,False,^m a r$,default,m a r,a m r
+867,Khasi-145_snow-1,,Khasi,145_snow,jor,jor,j o r,,Nagaraja2013,145_snow_a,False,^j o r$,default,y o r,o r y
+868,Lyngngam-145_snow-1,,Lyngngam,145_snow,jor,jor,j o r,,Nagaraja2013,,True,^j o r$,default,y o r,o r y
+869,PnarJaintia-145_snow-1,,PnarJaintia,145_snow,tʰaʔ,tʰaʔ,tʰ a ʔ,,Nagaraja2013,145_snow_b,False,^tʰ a ʔ$,default,th~ a 7,7 a th~
+870,WarLamin-145_snow-1,,WarLamin,145_snow,ksɪəŋ məŋ,ksɪəŋ məŋ,k s ɪ ə ŋ + m ə ŋ,,Nagaraja2013,145_snow_c,False,^ks ɪ ə ŋ + m ə ŋ$,default,k s i 3 N  m 3 N, 3 N i k m s
+871,Khasi-146_some-1,,Khasi,146_some,kʰɨndiat,kʰɨndiat,kʰ ɨ d i a t,,Nagaraja2013,146_some_a,False,^kʰ ɨ n d i a t$,default,kh~ 3 d i a t,3 a d i kh~ t
+872,Lyngngam-146_some-1,,Lyngngam,146_some,taʔ-diat,taʔ-diat,t a ʔ + d i a t,,Nagaraja2013,146_some_a,False,^t a ʔ - d i a t$,default,t a 7  d i a t, 7 a d i t
+873,PnarJaintia-146_some-1,,PnarJaintia,146_some,kʰaɟiak,kʰaɟiak,kʰ a ɟ i a k,,Nagaraja2013,146_some_b,False,^kʰ a ɟ i a k$,default,kh~ a T i a k,T a i k kh~
+874,WarLamin-146_some-1,,WarLamin,146_some,ʃitjĩŋ,ʃitjĩŋ,ʃ i t j ĩ ŋ,,Nagaraja2013,146_some_c,False,^ʃ i t j ĩ ŋ$,default,S i t y i* N,N S i i* t y
+875,Palaung-146_some-1,,Palaung,146_some,pərdi,pərdi,p ə r d i,,Nagaraja2013,146_some_d,False,^p ə r d i$,default,p 3 r d i,3 d i p r
+876,Khmu-146_some-1,,Khmu,146_some,laːŋ,laːŋ,l aː ŋ,,Nagaraja2013,146_some_e,False,^l aː ŋ$,default,l a N,N a l
+877,Khasi-147_tospit-1,,Khasi,147_tospit,biaʔ,biaʔ,b i a ʔ,,Nagaraja2013,147_tospit_a,False,^b i a ʔ$,default,b i a 7,7 a b i
+878,Lyngngam-147_tospit-1,,Lyngngam,147_tospit,ɟɨrtʰew,ɟɨrtʰew,ɟ ɨ r tʰ e w,,Nagaraja2013,147_tospit_b,False,^ɟ ɨ r tʰ e w$,default,T 3 r th~ e w,3 T e r th~ w
+879,PnarJaintia-147_tospit-1,,PnarJaintia,147_tospit,mn̩tʰu,mn̩tʰu,m n̩ tʰ u,,Nagaraja2013,147_tospit_b,False,^m n̩ tʰ u$,default,m n th~ u,m n th~ u
+880,WarLamin-147_tospit-1,,WarLamin,147_tospit,pəθeʊ,pəθeʊ,p ə θ e ʊ,,Nagaraja2013,147_tospit_b,False,^p ə θ e ʊ$,default,p 3 8 e u,3 8 e p u
+881,Palaung-147_tospit-1,,Palaung,147_tospit,bɛʔ,bɛʔ,b ɛ ʔ,,Nagaraja2013,147_tospit_a,False,^b ɛ ʔ$,default,b E 7,7 E b
+882,Khmu-147_tospit-1,,Khmu,147_tospit,kɟuh,kɟuh,k ɟ u h,,Nagaraja2013,147_tospit_c,False,^k ɟ u h$,default,k T u h,T h k u
+883,Khasi-148_tosplit-1,,Khasi,148_tosplit,pʰiaʔ,pʰiaʔ,pʰ i a ʔ,,Nagaraja2013,148_tosplit_a,False,^pʰ i a ʔ$,default,ph~ i a 7,7 a i ph~
+884,Lyngngam-148_tosplit-1,,Lyngngam,148_tosplit,tʰɨllaʔ,tʰɨllaʔ,tʰ ɨ lː a ʔ,,Nagaraja2013,148_tosplit_b,False,^tʰ ɨ ll a ʔ$,default,th~ 3 l a 7,3 7 a l th~
+885,PnarJaintia-148_tosplit-1,,PnarJaintia,148_tosplit,pʰiaʔ,pʰiaʔ,pʰ i a ʔ,,Nagaraja2013,148_tosplit_a,False,^pʰ i a ʔ$,default,ph~ i a 7,7 a i ph~
+886,WarLamin-148_tosplit-1,,WarLamin,148_tosplit,"phit, khlɪəʔ",phit,pʰ i t,,Nagaraja2013,148_tosplit_a,False,^ph i t$,default,ph~ i t,i ph~ t
+887,WarLamin-148_tosplit-2,,WarLamin,148_tosplit,"phit, khlɪəʔ",khlɪəʔ,kʰ l ɪ ə ʔ,,Nagaraja2013,148_tosplit_a,False,^kh l ɪ ə ʔ$,default,kh~ l i 3 7,3 7 i kh~ l
+888,Palaung-148_tosplit-1,,Palaung,148_tosplit,ploh,ploh,p l o h,,Nagaraja2013,148_tosplit_c,False,^p l o h$,default,p l o h,h l o p
+889,Khmu-148_tosplit-1,,Khmu,148_tosplit,lak,lak,l a k,,Nagaraja2013,148_tosplit_d,False,^l a k$,default,l a k,a k l
+890,Khasi-149_tosqueeze-1,,Khasi,149_tosqueeze,kʰem,kʰem,kʰ e m,,Nagaraja2013,149_tosqueeze_a,False,^kʰ e m$,default,kh~ e m,e kh~ m
+891,Lyngngam-149_tosqueeze-1,,Lyngngam,149_tosqueeze,kʰɨnnim,kʰɨnnim,kʰ ɨ nː i m,,Nagaraja2013,149_tosqueeze_a,False,^kʰ ɨ nn i m$,default,kh~ 3 n i m,3 i kh~ m n
+892,PnarJaintia-149_tosqueeze-1,,PnarJaintia,149_tosqueeze,ksiʔ,ksiʔ,k s i ʔ,,Nagaraja2013,149_tosqueeze_b,False,^ks i ʔ$,default,k s i 7,7 i k s
+893,WarLamin-149_tosqueeze-1,,WarLamin,149_tosqueeze,ʧəpɪə,ʧəpɪə,tʃ ə p ɪ ə,,Nagaraja2013,149_tosqueeze_c,False,^ʧ ə p ɪ ə$,default,tS 3 p i 3,3 i p tS
+894,Palaung-149_tosqueeze-1,,Palaung,149_tosqueeze,piət,piət,p i ə t,,Nagaraja2013,149_tosqueeze_c,False,^p i ə t$,default,p i 3 t,3 i p t
+895,Khmu-149_tosqueeze-1,,Khmu,149_tosqueeze,pɨət,pɨət,p ɨ ə t,,Nagaraja2013,149_tosqueeze_c,False,^p ɨ ə t$,default,p 3 3 t,3 p t
+896,Khasi-150_tostabpierce-1,,Khasi,150_tostabpierce,duŋ,duŋ,d u ŋ,,Nagaraja2013,150_tostabpierce_a,False,^d u ŋ$,default,d u N,N d u
+897,Lyngngam-150_tostabpierce-1,,Lyngngam,150_tostabpierce,daneŋ,daneŋ,d a e ŋ,,Nagaraja2013,150_tostabpierce_a,False,^d a n e ŋ$,default,d a e N,N a d e
+898,PnarJaintia-150_tostabpierce-1,,PnarJaintia,150_tostabpierce,duŋ,duŋ,d u ŋ,,Nagaraja2013,150_tostabpierce_a,False,^d u ŋ$,default,d u N,N d u
+899,WarLamin-150_tostabpierce-1,,WarLamin,150_tostabpierce,tәndʊŋ,tәndʊŋ,t ə d ʊ ŋ,,Nagaraja2013,150_tostabpierce_a,False,^t ә n d ʊ ŋ$,default,t 3 d u N,3 N d t u
+900,Palaung-150_tostabpierce-1,,Palaung,150_tostabpierce,bruh,bruh,b r u h,,Nagaraja2013,150_tostabpierce_b,False,^b r u h$,default,b r u h,b h r u
+901,Khmu-150_tostabpierce-1,,Khmu,150_tostabpierce,keɲ,keɲ,k e ɲ,,Nagaraja2013,150_tostabpierce_c,False,^k e ɲ$,default,k e 5,5 e k
+902,Khasi-151_tostand-1,,Khasi,151_tostand,ieŋ,ieŋ,i e ŋ,,Nagaraja2013,151_tostand_a,False,^i e ŋ$,default,i e N,N e i
+903,Lyngngam-151_tostand-1,,Lyngngam,151_tostand,ñiəŋ,ñiəŋ,ɲ i ə ŋ,,Nagaraja2013,151_tostand_a,False,^ñ i ə ŋ$,default,5 i 3 N,3 5 N i
+904,PnarJaintia-151_tostand-1,,PnarJaintia,151_tostand,jeiɲ,jeiɲ,j e i ɲ,,Nagaraja2013,151_tostand_a,False,^j e i ɲ$,default,y e i 5,5 e i y
+905,WarLamin-151_tostand-1,,WarLamin,151_tostand,rәŋ,rәŋ,r ə ŋ,,Nagaraja2013,151_tostand_a,False,^r ә ŋ$,default,r 3 N,3 N r
+906,Palaung-151_tostand-1,,Palaung,151_tostand,ɟəŋ,ɟəŋ,ɟ ə ŋ,,Nagaraja2013,151_tostand_a,False,^ɟ ə ŋ$,default,T 3 N,3 N T
+907,Khmu-151_tostand-1,,Khmu,151_tostand,dɨn,dɨn,d ɨ n,,Nagaraja2013,151_tostand_b,False,^d ɨ n$,default,d 3 n,3 d n
+908,Khasi-152_star-1,,Khasi,152_star,kʰlur,kʰlur,kʰ l u r,,Nagaraja2013,152_star_a,False,^kʰ l u r$,default,kh~ l u r,kh~ l r u
+909,Lyngngam-152_star-1,,Lyngngam,152_star,kʰlor,kʰlor,kʰ l o r,,Nagaraja2013,152_star_a,False,^kʰ l o r$,default,kh~ l o r,kh~ l o r
+910,PnarJaintia-152_star-1,,PnarJaintia,152_star,kʰlor,kʰlor,kʰ l o r,,Nagaraja2013,152_star_a,False,^kʰ l o r$,default,kh~ l o r,kh~ l o r
+911,WarLamin-152_star-1,,WarLamin,152_star,khlʊə ʃmen,khlʊə ʃmen,kʰ l ʊ ə + ʃ m e n,,Nagaraja2013,152_star_b,False,^kh l ʊ ə + ʃ m e n$,default,kh~ l u 3  S m e n, 3 S e kh~ l m n u
+912,Palaung-152_star-1,,Palaung,152_star,səmiŋ,səmiŋ,s ə m i ŋ,,Nagaraja2013,152_star_b,False,^s ə m i ŋ$,default,s 3 m i N,3 N i m s
+913,Khmu-152_star-1,,Khmu,152_star,srmeɲ,srmeɲ,s r m e ɲ,,Nagaraja2013,152_star_b,False,^s r m e ɲ$,default,s r m e 5,5 e m r s
+914,Khasi-153_stickofwood-1,,Khasi,153_stickofwood,dieŋ,dieŋ,d i e ŋ,,Nagaraja2013,153_stickofwood_a,False,^d i e ŋ$,default,d i e N,N d e i
+915,Lyngngam-153_stickofwood-1,,Lyngngam,153_stickofwood,ədiəŋ,ədiəŋ,ə d i ə ŋ,,Nagaraja2013,153_stickofwood_a,False,^ə d i ə ŋ$,default,3 d i 3 N,3 N d i
+916,PnarJaintia-153_stickofwood-1,,PnarJaintia,153_stickofwood,deiñ,deiñ,d e i ɲ,,Nagaraja2013,153_stickofwood_b,False,^d e i ñ$,default,d e i 5,5 d e i
+917,WarLamin-153_stickofwood-1,,WarLamin,153_stickofwood,pərnɪa,pərnɪa,p ə r ɪ a,,Nagaraja2013,153_stickofwood_c,False,^p ə r n ɪ a$,default,p 3 r i a,3 a i p r
+918,Palaung-153_stickofwood-1,,Palaung,153_stickofwood,hviət,hviət,h v i ə t,,Nagaraja2013,153_stickofwood_d,False,^h v i ə t$,default,h v i 3 t,3 h i t v
+919,Khmu-153_stickofwood-1,,Khmu,153_stickofwood,lmpaːk,lmpaːk,l m p aː k,,Nagaraja2013,153_stickofwood_e,False,^l m p aː k$,default,l m p a k,a k l m p
+920,Khasi-154_stone-1,,Khasi,154_stone,maw,maw,m a w,,Nagaraja2013,154_stone_a,False,^m a w$,default,m a w,a m w
+921,Lyngngam-154_stone-1,,Lyngngam,154_stone,maw,maw,m a w,,Nagaraja2013,154_stone_a,False,^m a w$,default,m a w,a m w
+922,PnarJaintia-154_stone-1,,PnarJaintia,154_stone,mo,mo,m o,,Nagaraja2013,154_stone_a,False,^m o$,default,m o,m o
+923,WarLamin-154_stone-1,,WarLamin,154_stone,ʃmɪa,ʃmɪa,ʃ m ɪ a,,Nagaraja2013,154_stone_a,False,^ʃ m ɪ a$,default,S m i a,S a i m
+924,Palaung-154_stone-1,,Palaung,154_stone,mo,mo,m o,,Nagaraja2013,154_stone_a,False,^m o$,default,m o,m o
+925,Khmu-154_stone-1,,Khmu,154_stone,glaːŋ,glaːŋ,g l aː ŋ,,Nagaraja2013,154_stone_b,False,^g l aː ŋ$,default,g l a N,N a g l
+926,Khasi-155_straight-1,,Khasi,155_straight,biet,biet,b i e t,,Nagaraja2013,155_straight_a,False,^b i e t$,default,b i e t,b e i t
+927,Lyngngam-155_straight-1,,Lyngngam,155_straight,lɨmpʰar,lɨmpʰar,l ɨ m pʰ a r,,Nagaraja2013,155_straight_b,False,^l ɨ m pʰ a r$,default,l 3 m ph~ a r,3 a l m ph~ r
+928,PnarJaintia-155_straight-1,,PnarJaintia,155_straight,beit,beit,b e i t,,Nagaraja2013,155_straight_a,False,^b e i t$,default,b e i t,b e i t
+929,WarLamin-155_straight-1,,WarLamin,155_straight,bɪt,bɪt,b ɪ t,,Nagaraja2013,155_straight_a,False,^b ɪ t$,default,b i t,b i t
+930,Palaung-155_straight-1,,Palaung,155_straight,pʰiəŋ,pʰiəŋ,pʰ i ə ŋ,,Nagaraja2013,155_straight_c,False,^pʰ i ə ŋ$,default,ph~ i 3 N,3 N i ph~
+931,Khmu-155_straight-1,,Khmu,155_straight,teːr,teːr,t eː r,,Nagaraja2013,155_straight_d,False,^t eː r$,default,t e r,e r t
+932,Khasi-156_tosuck-1,,Khasi,156_tosuck,kɟit,kɟit,k ɟ i t,,Nagaraja2013,156_tosuck_a,False,^k ɟ i t$,default,k T i t,T i k t
+933,Lyngngam-156_tosuck-1,,Lyngngam,156_tosuck,kɨnɟok,kɨnɟok,k ɨ ɟ o k,,Nagaraja2013,156_tosuck_a,False,^k ɨ n ɟ o k$,default,k 3 T o k,3 T k o
+934,PnarJaintia-156_tosuck-1,,PnarJaintia,156_tosuck,bu,bu,b u,,Nagaraja2013,156_tosuck_b,False,^b u$,default,b u,b u
+935,WarLamin-156_tosuck-1,,WarLamin,156_tosuck,tjʊr,tjʊr,t j ʊ r,,Nagaraja2013,156_tosuck_c,False,^t j ʊ r$,default,t y u r,r t u y
+936,Palaung-156_tosuck-1,,Palaung,156_tosuck,"bu, but",bu,b u,,Nagaraja2013,156_tosuck_b,False,^b u$,default,b u,b u
+937,Palaung-156_tosuck-2,,Palaung,156_tosuck,"bu, but",but,b u t,,Nagaraja2013,156_tosuck_b,False,^b u t$,default,b u t,b t u
+938,Khmu-156_tosuck-1,,Khmu,156_tosuck,buʔ,buʔ,b u ʔ,,Nagaraja2013,156_tosuck_b,False,^b u ʔ$,default,b u 7,7 b u
+939,Khasi-157_sun-1,,Khasi,157_sun,sŋi,sŋi,s ŋ i,,Nagaraja2013,157_sun_a,False,^s ŋ i$,default,s N i,N i s
+940,Lyngngam-157_sun-1,,Lyngngam,157_sun,sŋej,sŋej,s ŋ ei̯,,Nagaraja2013,157_sun_a,False,^s ŋ ej $,default,s N ei,N ei s
+941,PnarJaintia-157_sun-1,,PnarJaintia,157_sun,sŋi,sŋi,s ŋ i,,Nagaraja2013,157_sun_a,False,^s ŋ i$,default,s N i,N i s
+942,WarLamin-157_sun-1,,WarLamin,157_sun,njʊŋa,njʊŋa,n j ʊ ŋ a,,Nagaraja2013,157_sun_a,False,^n j ʊ ŋ a$,default,n y u N a,N a n u y
+943,Palaung-157_sun-1,,Palaung,157_sun,səŋi,səŋi,s ə ŋ i,,Nagaraja2013,157_sun_a,False,^s ə ŋ i$,default,s 3 N i,3 N i s
+944,Khmu-157_sun-1,,Khmu,157_sun,mat briʔ,mat briʔ,m a t + b r i ʔ,,Nagaraja2013,157_sun_b,False,^m a t + b r i ʔ$,default,m a t  b r i 7, 7 a b i m r t
+945,Khasi-158_toswell-1,,Khasi,158_toswell,at,at,a t,,Nagaraja2013,158_toswell_a,False,^a t$,default,a t,a t
+946,Lyngngam-158_toswell-1,,Lyngngam,158_toswell,ɨnnat,ɨnnat,ɨ nː a t,,Nagaraja2013,158_toswell_a,False,^ɨ nn a t$,default,3 n a t,3 a n t
+947,PnarJaintia-158_toswell-1,,PnarJaintia,158_toswell,ad,ad,a d,,Nagaraja2013,158_toswell_a,False,^a d$,default,a d,a d
+948,WarLamin-158_toswell-1,,WarLamin,158_toswell,ʔat,ʔat,ʔ a t,,Nagaraja2013,158_toswell_a,False,^ʔ a t$,default,7 a t,7 a t
+949,Palaung-158_toswell-1,,Palaung,158_toswell,gɯ,gɯ,g ɯ,,Nagaraja2013,158_toswell_b,False,^g ɯ$,default,g u,g u
+950,Khmu-158_toswell-1,,Khmu,158_toswell,ʔɛh,ʔɛh,ʔ ɛ h,,Nagaraja2013,158_toswell_a,False,^ʔ ɛ h$,default,7 E h,7 E h
+951,Khasi-159_toswim-1,,Khasi,159_toswim,ɟŋi,ɟŋi,ɟ ŋ i,,Nagaraja2013,159_toswim_a,False,^ɟ ŋ i$,default,T N i,N T i
+952,Lyngngam-159_toswim-1,,Lyngngam,159_toswim,ɟɨnnaj,ɟɨnnaj,ɟ ɨ nː ai̯,,Nagaraja2013,159_toswim_a,False,^ɟ ɨ nn aj $,default,T 3 n ai,3 T ai n
+953,PnarJaintia-159_toswim-1,,PnarJaintia,159_toswim,jm̩pa,jm̩pa,j m̩ p a,,Nagaraja2013,159_toswim_b,False,^j m̩ p a$,default,y m p a,a m p y
+954,WarLamin-159_toswim-1,,WarLamin,159_toswim,rɪəŋ,rɪəŋ,r ɪ ə ŋ,,Nagaraja2013,159_toswim_a,False,^r ɪ ə ŋ$,default,r i 3 N,3 N i r
+955,Palaung-159_toswim-1,,Palaung,159_toswim,lɔj,lɔj,l ɔ j,,Nagaraja2013,159_toswim_c,False,^l ɔ j$,default,l o y,l o y
+956,Khmu-159_toswim-1,,Khmu,159_toswim,"cʰaːj, kljɔːŋ",cʰaːj,cʰ aːi̯,,Nagaraja2013,159_toswim_d,False,^cʰ aːj $,default,Th~ ai,Th~ ai
+957,Khmu-159_toswim-2,,Khmu,159_toswim,"cʰaːj, kljɔːŋ",kljɔːŋ,k l j ɔː ŋ,,Nagaraja2013,159_toswim_d,False,^k l j ɔː ŋ$,default,k l y o N,N k l o y
+958,Khasi-160_tail-1,,Khasi,160_tail,tdoŋ,tdoŋ,t d o ŋ,,Nagaraja2013,160_tail_a,False,^t d o ŋ$,default,t d o N,N d o t
+959,Lyngngam-160_tail-1,,Lyngngam,160_tail,kdoŋ,kdoŋ,k d o ŋ,,Nagaraja2013,160_tail_a,False,^k d o ŋ$,default,k d o N,N d k o
+960,PnarJaintia-160_tail-1,,PnarJaintia,160_tail,tdɔŋ,tdɔŋ,t d ɔ ŋ,,Nagaraja2013,160_tail_a,False,^t d ɔ ŋ$,default,t d o N,N d o t
+961,WarLamin-160_tail-1,,WarLamin,160_tail,tdɒŋ,tdɒŋ,t d ɒ ŋ,,Nagaraja2013,160_tail_a,False,^t d ɒ ŋ$,default,t d o N,N d o t
+962,Palaung-160_tail-1,,Palaung,160_tail,staʔ,staʔ,s t a ʔ,,Nagaraja2013,160_tail_b,False,^s t a ʔ$,default,s t a 7,7 a s t
+963,Khmu-160_tail-1,,Khmu,160_tail,hntaʔ,hntaʔ,h t a ʔ,,Nagaraja2013,160_tail_b,False,^h n t a ʔ$,default,h t a 7,7 a h t
+964,Khasi-161_that-1,,Khasi,161_that,-ta / -tej,-ta,t a,,Nagaraja2013,161_that_a,False,^- t a$,default,t a,a t
+965,Khasi-161_that-2,,Khasi,161_that,-ta / -tej,-tej,t ei̯,,Nagaraja2013,161_that_a,False,^- t ej $,default,t ei,ei t
+966,Lyngngam-161_that-1,,Lyngngam,161_that,ga-tej,ga-tej,g a + t ei̯,,Nagaraja2013,161_that_a,False,^g a - t ej $,default,g a  t ei, a ei g t
+967,PnarJaintia-161_that-1,,PnarJaintia,161_that,katai,katai,k a t a i,,Nagaraja2013,161_that_a,False,^k a t a i$,default,k a t a i,a i k t
+968,WarLamin-161_that-1,,WarLamin,161_that,ke/u tʊn,ke,k e,,Nagaraja2013,161_that_b,False,^k e$,default,k e,e k
+969,WarLamin-161_that-2,,WarLamin,161_that,ke/u tʊn,u tʊn,u + t ʊ n,,Nagaraja2013,161_that_b,False,^u + t ʊ n$,default,u  t u n, n t u
+970,Palaung-161_that-1,,Palaung,161_that,taj,taj,t ai̯,,Nagaraja2013,161_that_a,False,^t aj $,default,t ai,ai t
+971,Khmu-161_that-1,,Khmu,161_that,ʰnaːj,ʰnaːj,ʰn aːi̯,,Nagaraja2013,161_that_c,False,^ʰn aːj $,default,hn ai,ai hn
+972,Khasi-162_there-1,,Khasi,162_there,katʰie,katʰie,k a tʰ i e,,Nagaraja2013,162_there_a,False,^k a tʰ i e$,default,k a th~ i e,a e i k th~
+973,Lyngngam-162_there-1,,Lyngngam,162_there,gatʰoʔ,gatʰoʔ,g a tʰ o ʔ,,Nagaraja2013,162_there_a,False,^g a tʰ o ʔ$,default,g a th~ o 7,7 a g o th~
+974,PnarJaintia-162_there-1,,PnarJaintia,162_there,heitai,heitai,h e i t a i,,Nagaraja2013,162_there_b,False,^h e i t a i$,default,h e i t a i,a e h i t
+975,WarLamin-162_there-1,,WarLamin,162_there,tʊ tʊn,tʊ tʊn,t ʊ + t ʊ n,,Nagaraja2013,162_there_c,False,^t ʊ + t ʊ n$,default,t u  t u n, n t u
+976,Khmu-162_there-1,,Khmu,162_there,daʔ naːj,daʔ naːj,d a ʔ + aːi̯,,Nagaraja2013,162_there_d,False,^d a ʔ + n aːj $,default,d a 7  ai, 7 a ai d
+977,Khasi-163_they-1,,Khasi,163_they,ki,ki,k i,,Nagaraja2013,163_they_a,False,^k i$,default,k i,i k
+978,Lyngngam-163_they-1,,Lyngngam,163_they,gniʔ,gniʔ,g i ʔ,,Nagaraja2013,163_they_b,False,^g n i ʔ$,default,g i 7,7 g i
+979,PnarJaintia-163_they-1,,PnarJaintia,163_they,ki,ki,k i,,Nagaraja2013,163_they_a,False,^k i$,default,k i,i k
+980,WarLamin-163_they-1,,WarLamin,163_they,jə,jə,j ə,,Nagaraja2013,163_they_c,False,^j ə$,default,y 3,3 y
+981,Palaung-163_they-1,,Palaung,163_they,ge,ge,g e,,Nagaraja2013,163_they_a,False,^g e$,default,g e,e g
+982,Khmu-163_they-1,,Khmu,163_they,nɔː,nɔː,n ɔː,,Nagaraja2013,163_they_d,False,^n ɔː$,default,n o,n o
+983,Khasi-164_thick-1,,Khasi,164_thick,rben,rben,r b e n,,Nagaraja2013,164_thick_a,False,^r b e n$,default,r b e n,b e n r
+984,Lyngngam-164_thick-1,,Lyngngam,164_thick,rɨmbin,rɨmbin,r ɨ m b i n,,Nagaraja2013,164_thick_a,False,^r ɨ m b i n$,default,r 3 m b i n,3 b i m n r
+985,PnarJaintia-164_thick-1,,PnarJaintia,164_thick,rbɛn,rbɛn,r b ɛ n,,Nagaraja2013,164_thick_a,False,^r b ɛ n$,default,r b E n,E b n r
+986,WarLamin-164_thick-1,,WarLamin,164_thick,rben,rben,r b e n,,Nagaraja2013,164_thick_a,False,^r b e n$,default,r b e n,b e n r
+987,Palaung-164_thick-1,,Palaung,164_thick,hət,hət,h ə t,,Nagaraja2013,164_thick_b,False,^h ə t$,default,h 3 t,3 h t
+988,Khmu-164_thick-1,,Khmu,164_thick,hmbɨl,hmbɨl,h m b ɨ l,,Nagaraja2013,164_thick_a,False,^h m b ɨ l$,default,h m b 3 l,3 b h l m
+989,Khasi-165_thin-1,,Khasi,165_thin,staŋ,staŋ,s t a ŋ,,Nagaraja2013,165_thin_a,False,^s t a ŋ$,default,s t a N,N a s t
+990,Lyngngam-165_thin-1,,Lyngngam,165_thin,sɨntaŋ,sɨntaŋ,s ɨ t a ŋ,,Nagaraja2013,165_thin_a,False,^s ɨ n t a ŋ$,default,s 3 t a N,3 N a s t
+991,PnarJaintia-165_thin-1,,PnarJaintia,165_thin,staŋ,staŋ,s t a ŋ,,Nagaraja2013,165_thin_a,False,^s t a ŋ$,default,s t a N,N a s t
+992,WarLamin-165_thin-1,,WarLamin,165_thin,staŋ,staŋ,s t a ŋ,,Nagaraja2013,,True,^s t a ŋ$,default,s t a N,N a s t
+993,Palaung-165_thin-1,,Palaung,165_thin,hrer,hrer,h r e r,,Nagaraja2013,165_thin_b,False,^h r e r$,default,h r e r,e h r
+994,Khmu-165_thin-1,,Khmu,165_thin,hndaʔ,hndaʔ,h d a ʔ,,Nagaraja2013,165_thin_c,False,^h n d a ʔ$,default,h d a 7,7 a d h
+995,Khasi-166_think-1,,Khasi,166_think,pɨrkʰat,pɨrkʰat,p ɨ r kʰ a t,,Nagaraja2013,166_think_a,False,^p ɨ r kʰ a t$,default,p 3 r kh~ a t,3 a kh~ p r t
+996,Lyngngam-166_think-1,,Lyngngam,166_think,pɨrkʰat,pɨrkʰat,p ɨ r kʰ a t,,Nagaraja2013,,True,^p ɨ r kʰ a t$,default,p 3 r kh~ a t,3 a kh~ p r t
+997,PnarJaintia-166_think-1,,PnarJaintia,166_think,pr̩̩kʰat,pr̩̩kʰat,p r̩ kʰ a t,,Nagaraja2013,,True,^p r̩̩ kʰ a t$,default,p r kh~ a t,a kh~ p r t
+998,WarLamin-166_think-1,,WarLamin,166_think,pərkhat,pərkhat,p ə r kʰ a t,,Nagaraja2013,,True,^p ə r kh a t$,default,p 3 r kh~ a t,3 a kh~ p r t
+999,Palaung-166_think-1,,Palaung,166_think,tʰaŋ,tʰaŋ,tʰ a ŋ,,Nagaraja2013,166_think_b,False,^tʰ a ŋ$,default,th~ a N,N a th~
+1000,Khmu-166_think-1,,Khmu,166_think,trgət,trgət,t r g ə t,,Nagaraja2013,166_think_a,False,^t r g ə t$,default,t r g 3 t,3 g r t
+1001,Khasi-167_this-1,,Khasi,167_this,-ne,-ne,e,,Nagaraja2013,167_this_a,False,^- n e$,default,e,e
+1002,Lyngngam-167_this-1,,Lyngngam,167_this,ga-niʔ,ga-niʔ,g a + i ʔ,,Nagaraja2013,167_this_a,False,^g a - n i ʔ$,default,g a  i 7, 7 a g i
+1003,PnarJaintia-167_this-1,,PnarJaintia,167_this,kani,kani,k a i,,Nagaraja2013,167_this_a,False,^k a n i$,default,k a i,a i k
+1004,WarLamin-167_this-1,,WarLamin,167_this,ke/u ne,ke,k e,,Nagaraja2013,167_this_a,False,^k e$,default,k e,e k
+1005,WarLamin-167_this-2,,WarLamin,167_this,ke/u ne,u ne,u + e,,Nagaraja2013,167_this_a,False,^u + n e$,default,u  e, e u
+1006,Palaung-167_this-1,,Palaung,167_this,ʔɯ,ʔɯ,ʔ ɯ,,Nagaraja2013,167_this_b,False,^ʔ ɯ$,default,7 u,7 u
+1007,Khmu-167_this-1,,Khmu,167_this,giː,giː,g iː,,Nagaraja2013,167_this_c,False,^g iː$,default,g i,g i
+1008,Khasi-168_thou-1,,Khasi,168_thou,me / pʰa,me,m e,,Nagaraja2013,168_thou_a,False,^m e$,default,m e,e m
+1009,Khasi-168_thou-2,,Khasi,168_thou,me / pʰa,pʰa,pʰ a,,Nagaraja2013,168_thou_a,False,^pʰ a$,default,ph~ a,a ph~
+1010,Lyngngam-168_thou-1,,Lyngngam,168_thou,mi / pʰe,mi,m i,,Nagaraja2013,168_thou_a,False,^m i$,default,m i,i m
+1011,Lyngngam-168_thou-2,,Lyngngam,168_thou,mi / pʰe,pʰe,pʰ e,,Nagaraja2013,168_thou_a,False,^pʰ e$,default,ph~ e,e ph~
+1012,PnarJaintia-168_thou-1,,PnarJaintia,168_thou,me / pʰa,me,m e,,Nagaraja2013,168_thou_a,False,^m e$,default,m e,e m
+1013,PnarJaintia-168_thou-2,,PnarJaintia,168_thou,me / pʰa,pʰa,pʰ a,,Nagaraja2013,168_thou_a,False,^pʰ a$,default,ph~ a,a ph~
+1014,WarLamin-168_thou-1,,WarLamin,168_thou,ɪəm (m) / ɪəhe (f),ɪəm,ɪ ə m,,Nagaraja2013,168_thou_b,False,^ɪ ə m$,default,i 3 m,3 i m
+1015,WarLamin-168_thou-2,,WarLamin,168_thou,ɪəm (m) / ɪəhe (f),ɪəhe,ɪ ə h e,,Nagaraja2013,168_thou_b,False,^ɪ ə h e$,default,i 3 h e,3 e h i
+1016,Palaung-168_thou-1,,Palaung,168_thou,mi,mi,m i,,Nagaraja2013,168_thou_a,False,^m i$,default,m i,i m
+1017,Khmu-168_thou-1,,Khmu,168_thou,meː,meː,m eː,,Nagaraja2013,168_thou_a,False,^m eː$,default,m e,e m
+1018,Khasi-169_three-1,,Khasi,169_three,laj,laj,l ai̯,,Nagaraja2013,169_three_a,False,^l aj $,default,l ai,ai l
+1019,Lyngngam-169_three-1,,Lyngngam,169_three,laj,laj,l ai̯,,Nagaraja2013,169_three_a,False,^l aj $,default,l ai,ai l
+1020,PnarJaintia-169_three-1,,PnarJaintia,169_three,le,le,l e,,Nagaraja2013,169_three_a,False,^l e$,default,l e,e l
+1021,WarLamin-169_three-1,,WarLamin,169_three,la,la,l a,,Nagaraja2013,169_three_a,False,^l a$,default,l a,a l
+1022,Palaung-169_three-1,,Palaung,169_three,ʔuəj,ʔuəj,ʔ u ə j,,Nagaraja2013,169_three_b,False,^ʔ u ə j$,default,7 u 3 y,3 7 u y
+1023,Khmu-169_three-1,,Khmu,169_three,peʔ,peʔ,p e ʔ,,Nagaraja2013,169_three_c,False,^p e ʔ$,default,p e 7,7 e p
+1024,Khasi-170_tothrow-1,,Khasi,170_tothrow,kawaŋ,kawaŋ,k a w a ŋ,,Nagaraja2013,170_tothrow_a,False,^k a w a ŋ$,default,k a w a N,N a k w
+1025,Lyngngam-170_tothrow-1,,Lyngngam,170_tothrow,lɨntʰew,lɨntʰew,l ɨ tʰ e w,,Nagaraja2013,170_tothrow_b,False,^l ɨ n tʰ e w$,default,l 3 th~ e w,3 e l th~ w
+1026,PnarJaintia-170_tothrow-1,,PnarJaintia,170_tothrow,pakʰɔt,pakʰɔt,p a kʰ ɔ t,,Nagaraja2013,170_tothrow_c,False,^p a kʰ ɔ t$,default,p a kh~ o t,a kh~ o p t
+1027,WarLamin-170_tothrow-1,,WarLamin,170_tothrow,phədat,phədat,pʰ ə d a t,,Nagaraja2013,170_tothrow_d,False,^ph ə d a t$,default,ph~ 3 d a t,3 a d ph~ t
+1028,Palaung-170_tothrow-1,,Palaung,170_tothrow,rup,rup,r u p,,Nagaraja2013,170_tothrow_e,False,^r u p$,default,r u p,p r u
+1029,Khmu-170_tothrow-1,,Khmu,170_tothrow,pʰok,pʰok,pʰ o k,,Nagaraja2013,170_tothrow_f,False,^pʰ o k$,default,ph~ o k,k o ph~
+1030,Khasi-171_totie-1,,Khasi,171_totie,teʔ,teʔ,t e ʔ,,Nagaraja2013,171_totie_a,False,^t e ʔ$,default,t e 7,7 e t
+1031,Lyngngam-171_totie-1,,Lyngngam,171_totie,tɨnnak,tɨnnak,t ɨ nː a k,,Nagaraja2013,171_totie_a,False,^t ɨ nn a k$,default,t 3 n a k,3 a k n t
+1032,PnarJaintia-171_totie-1,,PnarJaintia,171_totie,kdɔʔ,kdɔʔ,k d ɔ ʔ,,Nagaraja2013,171_totie_b,False,^k d ɔ ʔ$,default,k d o 7,7 d k o
+1033,WarLamin-171_totie-1,,WarLamin,171_totie,kʊt,kʊt,k ʊ t,,Nagaraja2013,171_totie_c,False,^k ʊ t$,default,k u t,k t u
+1034,Palaung-171_totie-1,,Palaung,171_totie,toʔ,toʔ,t o ʔ,,Nagaraja2013,171_totie_a,False,^t o ʔ$,default,t o 7,7 o t
+1035,Khmu-171_totie-1,,Khmu,171_totie,tuk,tuk,t u k,,Nagaraja2013,171_totie_a,False,^t u k$,default,t u k,k t u
+1036,Khasi-172_tongue-1,,Khasi,172_tongue,tʰɨllieɟ,tʰɨllieɟ,tʰ ɨ lː i e ɟ,,Nagaraja2013,172_tongue_a,False,^tʰ ɨ ll i e ɟ$,default,th~ 3 l i e T,3 T e i l th~
+1037,Lyngngam-172_tongue-1,,Lyngngam,172_tongue,tʰɨlloʲt,tʰɨlloʲt,tʰ ɨ lː oi̯ t,,Nagaraja2013,172_tongue_a,False,^tʰ ɨ ll oʲ t$,default,th~ 3 l oi t,3 l oi t th~
+1038,PnarJaintia-172_tongue-1,,PnarJaintia,172_tongue,tʰl̩leiʔ,tʰl̩leiʔ,tʰ l̩ l e i ʔ,,Nagaraja2013,172_tongue_a,False,^tʰ l̩ l e i ʔ$,default,th~ l l e i 7,7 e i l th~
+1039,WarLamin-172_tongue-1,,WarLamin,172_tongue,khlit,khlit,kʰ l i t,,Nagaraja2013,172_tongue_a,False,^kh l i t$,default,kh~ l i t,i kh~ l t
+1040,Palaung-172_tongue-1,,Palaung,172_tongue,kərtaʔ,kərtaʔ,k ə r t a ʔ,,Nagaraja2013,172_tongue_b,False,^k ə r t a ʔ$,default,k 3 r t a 7,3 7 a k r t
+1041,Khmu-172_tongue-1,,Khmu,172_tongue,hntaːk,hntaːk,h t aː k,,Nagaraja2013,172_tongue_b,False,^h n t aː k$,default,h t a k,a h k t
+1042,Khasi-173_tooth-1,,Khasi,173_tooth,bniat,bniat,b i a t,,Nagaraja2013,173_tooth_a,False,^b n i a t$,default,b i a t,a b i t
+1043,Lyngngam-173_tooth-1,,Lyngngam,173_tooth,moʲɲ,moʲɲ,m oi̯ ɲ,,Nagaraja2013,173_tooth_b,False,^m oʲ ɲ$,default,m oi 5,5 m oi
+1044,PnarJaintia-173_tooth-1,,PnarJaintia,173_tooth,lʌmeiɲ,lʌmeiɲ,l ʌ m e i ɲ,,Nagaraja2013,173_tooth_b,False,^l ʌ m e i ɲ$,default,l o m e i 5,5 e i l m o
+1045,WarLamin-173_tooth-1,,WarLamin,173_tooth,ləmen,ləmen,l ə m e n,,Nagaraja2013,173_tooth_b,False,^l ə m e n$,default,l 3 m e n,3 e l m n
+1046,Palaung-173_tooth-1,,Palaung,173_tooth,hraŋ,hraŋ,h r a ŋ,,Nagaraja2013,173_tooth_c,False,^h r a ŋ$,default,h r a N,N a h r
+1047,Khmu-173_tooth-1,,Khmu,173_tooth,ʰraːŋ,ʰraːŋ,ʰr aː ŋ,,Nagaraja2013,173_tooth_c,False,^ʰr aː ŋ$,default,hr a N,N a hr
+1048,Khasi-174_tree-1,,Khasi,174_tree,dieŋ,dieŋ,d i e ŋ,,Nagaraja2013,174_tree_a,False,^d i e ŋ$,default,d i e N,N d e i
+1049,Lyngngam-174_tree-1,,Lyngngam,174_tree,diəŋ,diəŋ,d i ə ŋ,,Nagaraja2013,174_tree_a,False,^d i ə ŋ$,default,d i 3 N,3 N d i
+1050,PnarJaintia-174_tree-1,,PnarJaintia,174_tree,deiɲ,deiɲ,d e i ɲ,,Nagaraja2013,174_tree_a,False,^d e i ɲ$,default,d e i 5,5 d e i
+1051,WarLamin-174_tree-1,,WarLamin,174_tree,tvɪa,tvɪa,t v ɪ a,,Nagaraja2013,174_tree_b,False,^t v ɪ a$,default,t v i a,a i t v
+1052,Palaung-174_tree-1,,Palaung,174_tree,he,he,h e,,Nagaraja2013,174_tree_c,False,^h e$,default,h e,e h
+1053,Khmu-174_tree-1,,Khmu,174_tree,sʔɔːŋ,sʔɔːŋ,s ʔ ɔː ŋ,,Nagaraja2013,174_tree_d,False,^s ʔ ɔː ŋ$,default,s 7 o N,7 N o s
+1054,Khasi-175_toturn-1,,Khasi,175_toturn,kɨlla,kɨlla,k ɨ lː a,,Nagaraja2013,175_toturn_a,False,^k ɨ ll a$,default,k 3 l a,3 a k l
+1055,Lyngngam-175_toturn-1,,Lyngngam,175_toturn,kɨlla,kɨlla,k ɨ lː a,,Nagaraja2013,,True,^k ɨ ll a$,default,k 3 l a,3 a k l
+1056,PnarJaintia-175_toturn-1,,PnarJaintia,175_toturn,dɔŋ,dɔŋ,d ɔ ŋ,,Nagaraja2013,175_toturn_b,False,^d ɔ ŋ$,default,d o N,N d o
+1057,WarLamin-175_toturn-1,,WarLamin,175_toturn,khərvi,khərvi,kʰ ə r v i,,Nagaraja2013,175_toturn_c,False,^kh ə r v i$,default,kh~ 3 r v i,3 i kh~ r v
+1058,Palaung-175_toturn-1,,Palaung,175_toturn,pən,pən,p ə n,,Nagaraja2013,175_toturn_d,False,^p ə n$,default,p 3 n,3 n p
+1059,Khmu-175_toturn-1,,Khmu,175_toturn,wer,wer,w e r,,Nagaraja2013,175_toturn_c,False,^w e r$,default,w e r,e r w
+1060,Khasi-176_two-1,,Khasi,176_two,a:r,a:r,aː r,,Nagaraja2013,176_two_a,False,^a: r$,default,a r,a r
+1061,Lyngngam-176_two-1,,Lyngngam,176_two,ar,ar,a r,,Nagaraja2013,176_two_a,False,^a r$,default,a r,a r
+1062,PnarJaintia-176_two-1,,PnarJaintia,176_two,ar,ar,a r,,Nagaraja2013,176_two_a,False,^a r$,default,a r,a r
+1063,WarLamin-176_two-1,,WarLamin,176_two,ʔʊ͂ə,ʔʊ͂ə,ʔ ʊ̃ ə,,Nagaraja2013,176_two_a,False,^ʔ ʊ͂ ə$,default,7 u* 3,3 7 u*
+1064,Palaung-176_two-1,,Palaung,176_two,ʔar,ʔar,ʔ a r,,Nagaraja2013,176_two_a,False,^ʔ a r$,default,7 a r,7 a r
+1065,Khmu-176_two-1,,Khmu,176_two,baːr,baːr,b aː r,,Nagaraja2013,176_two_a,False,^b aː r$,default,b a r,a b r
+1066,Khasi-177_tovomit-1,,Khasi,177_tovomit,prei,prei,p r e i,,Nagaraja2013,177_tovomit_a,False,^p r e i$,default,p r e i,e i p r
+1067,Lyngngam-177_tovomit-1,,Lyngngam,177_tovomit,pɨrraw,pɨrraw,p ɨ rː a w,,Nagaraja2013,177_tovomit_a,False,^p ɨ rr a w$,default,p 3 r a w,3 a p r w
+1068,PnarJaintia-177_tovomit-1,,PnarJaintia,177_tovomit,prai,prai,p r a i,,Nagaraja2013,177_tovomit_a,False,^p r a i$,default,p r a i,a i p r
+1069,WarLamin-177_tovomit-1,,WarLamin,177_tovomit,hərɒʔ,hərɒʔ,h ə r ɒ ʔ,,Nagaraja2013,177_tovomit_b,False,^h ə r ɒ ʔ$,default,h 3 r o 7,3 7 h o r
+1070,Palaung-177_tovomit-1,,Palaung,177_tovomit,hɯr,hɯr,h ɯ r,,Nagaraja2013,177_tovomit_c,False,^h ɯ r$,default,h u r,h r u
+1071,Khmu-177_tovomit-1,,Khmu,177_tovomit,hɨəl,hɨəl,h ɨ ə l,,Nagaraja2013,177_tovomit_c,False,^h ɨ ə l$,default,h 3 3 l,3 h l
+1072,Khasi-178_towalk-1,,Khasi,178_towalk,jaːʲd,jaːʲd,j aːi̯ d,,Nagaraja2013,178_towalk_a,False,^j aːʲ d$,default,y ai d,ai d y
+1073,Lyngngam-178_towalk-1,,Lyngngam,178_towalk,dinniʔ,dinniʔ,d i nː i ʔ,,Nagaraja2013,178_towalk_b,False,^d i nn i ʔ$,default,d i n i 7,7 d i n
+1074,PnarJaintia-178_towalk-1,,PnarJaintia,178_towalk,lai kdʒat,lai kdʒat,l a i + k dʒ a t,,Nagaraja2013,178_towalk_c,False,^l a i + k dʒ a t$,default,l a i  k dZ a t, a dZ i k l t
+1075,WarLamin-178_towalk-1,,WarLamin,178_towalk,lɪa,lɪa,l ɪ a,,Nagaraja2013,178_towalk_d,False,^l ɪ a$,default,l i a,a i l
+1076,Palaung-178_towalk-1,,Palaung,178_towalk,pʰət,pʰət,pʰ ə t,,Nagaraja2013,,True,^pʰ ə t$,default,ph~ 3 t,3 ph~ t
+1077,Khmu-178_towalk-1,,Khmu,178_towalk,jɔh,jɔh,j ɔ h,,Nagaraja2013,178_towalk_e,False,^j ɔ h$,default,y o h,h o y
+1078,Khasi-179_warm-1,,Khasi,179_warm,sʔaːʲd,sʔaːʲd,s ʔ aːi̯ d,,Nagaraja2013,179_warm_a,False,^s ʔ aːʲ d$,default,s 7 ai d,7 ai d s
+1079,Lyngngam-179_warm-1,,Lyngngam,179_warm,ɨnʃit,ɨnʃit,ɨ n ʃ i t,,Nagaraja2013,179_warm_b,False,^ɨ nʃ i t$,default,3 n S i t,3 S i n t
+1080,PnarJaintia-179_warm-1,,PnarJaintia,179_warm,cit,cit,c i t,,Nagaraja2013,179_warm_b,False,^c i t$,default,T i t,T i t
+1081,WarLamin-179_warm-1,,WarLamin,179_warm,dɒt,dɒt,d ɒ t,,Nagaraja2013,179_warm_c,False,^d ɒ t$,default,d o t,d o t
+1082,Palaung-179_warm-1,,Palaung,179_warm,kəʔɯr,kəʔɯr,k ə ʔ ɯ r,,Nagaraja2013,179_warm_d,False,^k ə ʔ ɯ r$,default,k 3 7 u r,3 7 k r u
+1083,Khmu-179_warm-1,,Khmu,179_warm,hʔɨm,hʔɨm,h ʔ ɨ m,,Nagaraja2013,179_warm_e,False,^h ʔ ɨ m$,default,h 7 3 m,3 7 h m
+1084,Khasi-180_towash-1,,Khasi,180_towash,sait,sait,s a i t,,Nagaraja2013,180_towash_a,False,^s a i t$,default,s a i t,a i s t
+1085,Lyngngam-180_towash-1,,Lyngngam,180_towash,sait,sait,s a i t,,Nagaraja2013,,True,^s a i t$,default,s a i t,a i s t
+1086,PnarJaintia-180_towash-1,,PnarJaintia,180_towash,sait,sait,s a i t,,Nagaraja2013,180_towash_a,False,^s a i t$,default,s a i t,a i s t
+1087,WarLamin-180_towash-1,,WarLamin,180_towash,ksi,ksi,k s i,,Nagaraja2013,180_towash_a,False,^ks i$,default,k s i,i k s
+1088,Palaung-180_towash-1,,Palaung,180_towash,"kʰoj, kəta",kʰoj,kʰ oi̯,,Nagaraja2013,180_towash_b,False,^kʰ oj $,default,kh~ oi,kh~ oi
+1089,Palaung-180_towash-2,,Palaung,180_towash,"kʰoj, kəta",kəta,k ə t a,,Nagaraja2013,180_towash_b,False,^k ə t a$,default,k 3 t a,3 a k t
+1090,Khmu-180_towash-1,,Khmu,180_towash,raː,raː,r aː,,Nagaraja2013,180_towash_c,False,^r aː$,default,r a,a r
+1091,Khasi-181_water-1,,Khasi,181_water,um,um,u m,,Nagaraja2013,181_water_a,False,^u m$,default,u m,m u
+1092,Lyngngam-181_water-1,,Lyngngam,181_water,gum,gum,g u m,,Nagaraja2013,181_water_a,False,^g u m$,default,g u m,g m u
+1093,PnarJaintia-181_water-1,,PnarJaintia,181_water,um,um,u m,,Nagaraja2013,181_water_a,False,^u m$,default,u m,m u
+1094,WarLamin-181_water-1,,WarLamin,181_water,ʔam,ʔam,ʔ a m,,Nagaraja2013,181_water_a,False,^ʔ a m$,default,7 a m,7 a m
+1095,Palaung-181_water-1,,Palaung,181_water,ʔom,ʔom,ʔ o m,,Nagaraja2013,181_water_a,False,^ʔ o m$,default,7 o m,7 m o
+1096,Khmu-181_water-1,,Khmu,181_water,ʔom,ʔom,ʔ o m,,Nagaraja2013,,True,^ʔ o m$,default,7 o m,7 m o
+1097,Khasi-182_we-1,,Khasi,182_we,ŋi,ŋi,ŋ i,,Nagaraja2013,182_we_a,False,^ŋ i$,default,N i,N i
+1098,Lyngngam-182_we-1,,Lyngngam,182_we,jew,jew,j e w,,Nagaraja2013,182_we_b,False,^j e w$,default,y e w,e w y
+1099,PnarJaintia-182_we-1,,PnarJaintia,182_we,i,i,i,,Nagaraja2013,182_we_c,False,^i$,default,i,i
+1100,WarLamin-182_we-1,,WarLamin,182_we,ʔɪə,ʔɪə,ʔ ɪ ə,,Nagaraja2013,182_we_c,False,^ʔ ɪ ə$,default,7 i 3,3 7 i
+1101,Palaung-182_we-1,,Palaung,182_we,ʔɛ,ʔɛ,ʔ ɛ,,Nagaraja2013,182_we_c,False,^ʔ ɛ$,default,7 E,7 E
+1102,Khmu-182_we-1,,Khmu,182_we,ʔiʔ,ʔiʔ,ʔ i ʔ,,Nagaraja2013,182_we_c,False,^ʔ i ʔ$,default,7 i 7,7 i
+1103,Khasi-183_wet-1,,Khasi,183_wet,ɟʰieʔ,ɟʰieʔ,ɟʰ i e ʔ,,Nagaraja2013,183_wet_a,False,^ɟʰ i e ʔ$,default,Th~ i e 7,7 Th~ e i
+1104,Lyngngam-183_wet-1,,Lyngngam,183_wet,ɟimbaʲt,ɟimbaʲt,ɟ i m b ai̯ t,,Nagaraja2013,183_wet_b,False,^ɟ i m b aʲ t$,default,T i m b ai t,T ai b i m t
+1105,PnarJaintia-183_wet-1,,PnarJaintia,183_wet,dʒheiʔ,dʒheiʔ,dʒʰ e i ʔ,,Nagaraja2013,183_wet_a,False,^dʒh e i ʔ$,default,dZh~ e i 7,7 dZh~ e i
+1106,WarLamin-183_wet-1,,WarLamin,183_wet,tjəriəʔ,tjəriəʔ,t j ə r i ə ʔ,,Nagaraja2013,183_wet_a,False,^t j ə r i ə ʔ$,default,t y 3 r i 3 7,3 7 i r t y
+1107,Palaung-183_wet-1,,Palaung,183_wet,om pjo pjo,om pjo pjo,o m + p j o + p j o,,Nagaraja2013,183_wet_c,False,^o m + p j o + p j o$,default,o m  p y o  p y o, m o p y
+1108,Khmu-183_wet-1,,Khmu,183_wet,"dɛːc, skɔʔ",dɛːc,d ɛː c,,Nagaraja2013,183_wet_d,False,^d ɛː c$,default,d E T,E T d
+1109,Khmu-183_wet-2,,Khmu,183_wet,"dɛːc, skɔʔ",skɔʔ,s k ɔ ʔ,,Nagaraja2013,183_wet_d,False,^s k ɔ ʔ$,default,s k o 7,7 k o s
+1110,Khasi-184_what-1,,Khasi,184_what,-ej,-ej,ei̯,,Nagaraja2013,184_what_a,False,^- ej $,default,ei,ei
+1111,Lyngngam-184_what-1,,Lyngngam,184_what,umet,umet,u m e t,,Nagaraja2013,184_what_b,False,^u m e t$,default,u m e t,e m t u
+1112,PnarJaintia-184_what-1,,PnarJaintia,184_what,ilɛʔ,ilɛʔ,i l ɛ ʔ,,Nagaraja2013,184_what_c,False,^i l ɛ ʔ$,default,i l E 7,7 E i l
+1113,WarLamin-184_what-1,,WarLamin,184_what,i a,i a,i + a,,Nagaraja2013,184_what_a,False,^i + a$,default,i  a, a i
+1114,Palaung-184_what-1,,Palaung,184_what,mɔ,mɔ,m ɔ,,Nagaraja2013,184_what_d,False,^m ɔ$,default,m o,m o
+1115,Khmu-184_what-1,,Khmu,184_what,ʰməh,ʰməh,ʰm ə h,,Nagaraja2013,184_what_d,False,^ʰm ə h$,default,hm 3 h,3 h hm
+1116,Khasi-185_when-1,,Khasi,185_when,lano,lano,l a o,,Nagaraja2013,185_when_a,False,^l a n o$,default,l a o,a l o
+1117,Lyngngam-185_when-1,,Lyngngam,185_when,mɨnnet,mɨnnet,m ɨ nː e t,,Nagaraja2013,185_when_b,False,^m ɨ nn e t$,default,m 3 n e t,3 e m n t
+1118,PnarJaintia-185_when-1,,PnarJaintia,185_when,n̩nu,n̩nu,n̩ u,,Nagaraja2013,185_when_a,False,^n̩ n u$,default,n u,n u
+1119,WarLamin-185_when-1,,WarLamin,185_when,daŋ njaʔ,daŋ njaʔ,d a ŋ + j a ʔ,,Nagaraja2013,185_when_c,False,^d a ŋ + n j a ʔ$,default,d a N  y a 7, 7 N a d y
+1120,Palaung-185_when-1,,Palaung,185_when,jam,jam,j a m,,Nagaraja2013,,True,^j a m$,default,y a m,a m y
+1121,Khmu-185_when-1,,Khmu,185_when,ɲaːm məʔ,ɲaːm məʔ,ɲ aː m + m ə ʔ,,Nagaraja2013,,True,^ɲ aː m + m ə ʔ$,default,5 a m  m 3 7, 3 5 7 a m
+1122,Khasi-186_where-1,,Khasi,186_where,haej,haej,h a ei̯,,Nagaraja2013,186_where_a,False,^h a ej $,default,h a ei,a ei h
+1123,Lyngngam-186_where-1,,Lyngngam,186_where,hanet,hanet,h a e t,,Nagaraja2013,186_where_b,False,^h a n e t$,default,h a e t,a e h t
+1124,PnarJaintia-186_where-1,,PnarJaintia,186_where,tʃeiwʌn,tʃeiwʌn,tʃ e i w ʌ n,,Nagaraja2013,,True,^tʃ e i w ʌ n$,default,tS e i w o n,e i n o tS w
+1125,WarLamin-186_where-1,,WarLamin,186_where,ti njaʔ,ti njaʔ,t i + j a ʔ,,Nagaraja2013,186_where_c,False,^t i + n j a ʔ$,default,t i  y a 7, 7 a i t y
+1126,Palaung-186_where-1,,Palaung,186_where,mɔ,mɔ,m ɔ,,Nagaraja2013,186_where_d,False,^m ɔ$,default,m o,m o
+1127,Khmu-186_where-1,,Khmu,186_where,ʔar məʔ,ʔar məʔ,ʔ a r + m ə ʔ,,Nagaraja2013,186_where_e,False,^ʔ a r + m ə ʔ$,default,7 a r  m 3 7, 3 7 a m r
+1128,Khasi-187_white-1,,Khasi,187_white,lieʔ,lieʔ,l i e ʔ,,Nagaraja2013,187_white_a,False,^l i e ʔ$,default,l i e 7,7 e i l
+1129,Lyngngam-187_white-1,,Lyngngam,187_white,əlliʔ,əlliʔ,ə lː i ʔ,,Nagaraja2013,187_white_a,False,^ə ll i ʔ$,default,3 l i 7,3 7 i l
+1130,PnarJaintia-187_white-1,,PnarJaintia,187_white,leiʔ,leiʔ,l e i ʔ,,Nagaraja2013,187_white_a,False,^l e i ʔ$,default,l e i 7,7 e i l
+1131,WarLamin-187_white-1,,WarLamin,187_white,slaŋ,slaŋ,s l a ŋ,,Nagaraja2013,187_white_b,False,^s l a ŋ$,default,s l a N,N a l s
+1132,Palaung-187_white-1,,Palaung,187_white,blɔʔ,blɔʔ,b l ɔ ʔ,,Nagaraja2013,187_white_c,False,^b l ɔ ʔ$,default,b l o 7,7 b l o
+1133,Khmu-187_white-1,,Khmu,187_white,klɔːk,klɔːk,k l ɔː k,,Nagaraja2013,187_white_d,False,^k l ɔː k$,default,k l o k,k l o
+1134,Khasi-188_who-1,,Khasi,188_who,-no,-no,o,,Nagaraja2013,188_who_a,False,^- n o$,default,o,o
+1135,Lyngngam-188_who-1,,Lyngngam,188_who,jət,jət,j ə t,,Nagaraja2013,188_who_b,False,^j ə t$,default,y 3 t,3 t y
+1136,PnarJaintia-188_who-1,,PnarJaintia,188_who,u/ka ji,u,u,,Nagaraja2013,188_who_b,False,^u$,default,u,u
+1137,PnarJaintia-188_who-2,,PnarJaintia,188_who,u/ka ji,ka ji,k a + j i,,Nagaraja2013,188_who_b,False,^k a + j i$,default,k a  y i, a i k y
+1138,WarLamin-188_who-1,,WarLamin,188_who,u/ke ʔaː,u,u,,Nagaraja2013,188_who_c,False,^u$,default,u,u
+1139,WarLamin-188_who-2,,WarLamin,188_who,u/ke ʔaː,ke ʔaː,k e + ʔ aː,,Nagaraja2013,188_who_c,False,^k e + ʔ aː$,default,k e  7 a, 7 a e k
+1140,Palaung-188_who-1,,Palaung,188_who,paj,paj,p ai̯,,Nagaraja2013,188_who_d,False,^p aj $,default,p ai,ai p
+1141,Khmu-188_who-1,,Khmu,188_who,məʔ,məʔ,m ə ʔ,,Nagaraja2013,188_who_e,False,^m ə ʔ$,default,m 3 7,3 7 m
+1142,Khasi-189_wide-1,,Khasi,189_wide,jar,jar,j a r,,Nagaraja2013,189_wide_a,False,^j a r$,default,y a r,a r y
+1143,Lyngngam-189_wide-1,,Lyngngam,189_wide,ɨniər,ɨniər,ɨ i ə r,,Nagaraja2013,189_wide_a,False,^ɨ n i ə r$,default,3 i 3 r,3 i r
+1144,PnarJaintia-189_wide-1,,PnarJaintia,189_wide,jar,jar,j a r,,Nagaraja2013,189_wide_a,False,^j a r$,default,y a r,a r y
+1145,WarLamin-189_wide-1,,WarLamin,189_wide,hɪaŋ,hɪaŋ,h ɪ a ŋ,,Nagaraja2013,189_wide_b,False,^h ɪ a ŋ$,default,h i a N,N a h i
+1146,Palaung-189_wide-1,,Palaung,189_wide,vah,vah,v a h,,Nagaraja2013,189_wide_c,False,^v a h$,default,v a h,a h v
+1147,Khmu-189_wide-1,,Khmu,189_wide,wah,wah,w a h,,Nagaraja2013,189_wide_c,False,^w a h$,default,w a h,a h w
+1148,Khasi-190_wife-1,,Khasi,190_wife,tŋa,tŋa,t ŋ a,,Nagaraja2013,190_wife_a,False,^t ŋ a$,default,t N a,N a t
+1149,Lyngngam-190_wife-1,,Lyngngam,190_wife,kontʰaw,kontʰaw,k o tʰ a w,,Nagaraja2013,190_wife_b,False,^k o n tʰ a w$,default,k o th~ a w,a k o th~ w
+1150,PnarJaintia-190_wife-1,,PnarJaintia,190_wife,lɔk,lɔk,l ɔ k,,Nagaraja2013,190_wife_c,False,^l ɔ k$,default,l o k,k l o
+1151,WarLamin-190_wife-1,,WarLamin,190_wife,kə lɒk,kə lɒk,k ə + l ɒ k,,Nagaraja2013,190_wife_d,False,^k ə + l ɒ k$,default,k 3  l o k, 3 k l o
+1152,Palaung-190_wife-1,,Palaung,190_wife,pənle,pənle,p ə l e,,Nagaraja2013,190_wife_e,False,^p ə n l e$,default,p 3 l e,3 e l p
+1153,Khmu-190_wife-1,,Khmu,190_wife,kmbraʔ,kmbraʔ,k m b r a ʔ,,Nagaraja2013,190_wife_f,False,^k m b r a ʔ$,default,k m b r a 7,7 a b k m r
+1154,Khasi-191_wind-1,,Khasi,191_wind,lʔer,lʔer,l ʔ e r,,Nagaraja2013,191_wind_a,False,^l ʔ e r$,default,l 7 e r,7 e l r
+1155,Lyngngam-191_wind-1,,Lyngngam,191_wind,lʔier,lʔier,l ʔ i e r,,Nagaraja2013,191_wind_a,False,^l ʔ i e r$,default,l 7 i e r,7 e i l r
+1156,PnarJaintia-191_wind-1,,PnarJaintia,191_wind,lʔɛr,lʔɛr,l ʔ ɛ r,,Nagaraja2013,191_wind_a,False,^l ʔ ɛ r$,default,l 7 E r,7 E l r
+1157,WarLamin-191_wind-1,,WarLamin,191_wind,srʊə,srʊə,s r ʊ ə,,Nagaraja2013,191_wind_a,False,^s r ʊ ə$,default,s r u 3,3 r s u
+1158,Palaung-191_wind-1,,Palaung,191_wind,kur,kur,k u r,,Nagaraja2013,191_wind_b,False,^k u r$,default,k u r,k r u
+1159,Khmu-191_wind-1,,Khmu,191_wind,hndrəːj,hndrəːj,h d r əː j,,Nagaraja2013,191_wind_c,False,^h n d r əː j$,default,h d r 3 y,3 d h r y
+1160,Khasi-192_wing-1,,Khasi,192_wing,tʰapŋiaŋ,tʰapŋiaŋ,tʰ a p ŋ i a ŋ,,Nagaraja2013,192_wing_a,False,^tʰ a p ŋ i a ŋ$,default,th~ a p N i a N,N a i p th~
+1161,Lyngngam-192_wing-1,,Lyngngam,192_wing,tʰapnir,tʰapnir,tʰ a p i r,,Nagaraja2013,192_wing_a,False,^tʰ a p n i r$,default,th~ a p i r,a i p r th~
+1162,PnarJaintia-192_wing-1,,PnarJaintia,192_wing,tʰawanɛr,tʰawanɛr,tʰ a w a ɛ r,,Nagaraja2013,192_wing_a,False,^tʰ a w a n ɛ r$,default,th~ a w a E r,E a r th~ w
+1163,WarLamin-192_wing-1,,WarLamin,192_wing,θәbәnɪar,θәbәnɪar,θ ə b ə ɪ a r,,Nagaraja2013,192_wing_a,False,^θ ә b ә n ɪ a r$,default,8 3 b 3 i a r,3 8 a b i r
+1164,Palaung-192_wing-1,,Palaung,192_wing,peəŋ,peəŋ,p e ə ŋ,,Nagaraja2013,192_wing_b,False,^p e ə ŋ$,default,p e 3 N,3 N e p
+1165,Khmu-192_wing-1,,Khmu,192_wing,pnɨr,pnɨr,p ɨ r,,Nagaraja2013,192_wing_c,False,^p n ɨ r$,default,p 3 r,3 p r
+1166,Khasi-193_towipe-1,,Khasi,193_towipe,ŋiad,ŋiad,ŋ i a d,,Nagaraja2013,193_towipe_a,False,^ŋ i a d$,default,N i a d,N a d i
+1167,Lyngngam-193_towipe-1,,Lyngngam,193_towipe,innat,innat,i nː a t,,Nagaraja2013,193_towipe_b,False,^i nn a t$,default,i n a t,a i n t
+1168,PnarJaintia-193_towipe-1,,PnarJaintia,193_towipe,ɲiam,ɲiam,ɲ i a m,,Nagaraja2013,193_towipe_c,False,^ɲ i a m$,default,5 i a m,5 a i m
+1169,WarLamin-193_towipe-1,,WarLamin,193_towipe,ʃʔɪəʔ,ʃʔɪəʔ,ʃ ʔ ɪ ə ʔ,,Nagaraja2013,193_towipe_d,False,^ʃ ʔ ɪ ə ʔ$,default,S 7 i 3 7,3 7 S i
+1170,Palaung-193_towipe-1,,Palaung,193_towipe,"kʰut, kʰuit",kʰut,kʰ u t,,Nagaraja2013,193_towipe_e,False,^kʰ u t$,default,kh~ u t,kh~ t u
+1171,Palaung-193_towipe-2,,Palaung,193_towipe,"kʰut, kʰuit",kʰuit,kʰ u i t,,Nagaraja2013,193_towipe_e,False,^kʰ u i t$,default,kh~ u i t,i kh~ t u
+1172,Khmu-193_towipe-1,,Khmu,193_towipe,rmcɛh,rmcɛh,r m c ɛ h,,Nagaraja2013,193_towipe_f,False,^r m c ɛ h$,default,r m T E h,E T h m r
+1173,Khasi-194_with-1,,Khasi,194_with,bad,bad,b a d,,Nagaraja2013,194_with_a,False,^b a d$,default,b a d,a b d
+1174,Lyngngam-194_with-1,,Lyngngam,194_with,nam,nam,n a m,,Nagaraja2013,194_with_b,False,^n a m$,default,n a m,a m n
+1175,PnarJaintia-194_with-1,,PnarJaintia,194_with,wa,wa,w a,,Nagaraja2013,194_with_c,False,^w a$,default,w a,a w
+1176,WarLamin-194_with-1,,WarLamin,194_with,bəʔ,bəʔ,b ə ʔ,,Nagaraja2013,194_with_a,False,^b ə ʔ$,default,b 3 7,3 7 b
+1177,Khmu-194_with-1,,Khmu,194_with,paʔ,paʔ,p a ʔ,,Nagaraja2013,194_with_d,False,^p a ʔ$,default,p a 7,7 a p
+1178,Khasi-195_woman-1,,Khasi,195_woman,kɨntʰej,kɨntʰej,k ɨ tʰ ei̯,,Nagaraja2013,195_woman_a,False,^k ɨ n tʰ ej $,default,k 3 th~ ei,3 ei k th~
+1179,Lyngngam-195_woman-1,,Lyngngam,195_woman,rawkmaw,rawkmaw,r a w k m a w,,Nagaraja2013,195_woman_b,False,^r a w k m a w$,default,r a w k m a w,a k m r w
+1180,PnarJaintia-195_woman-1,,PnarJaintia,195_woman,kn̩tʰai,kn̩tʰai,k n̩ tʰ a i,,Nagaraja2013,195_woman_a,False,^k n̩ tʰ a i$,default,k n th~ a i,a i k n th~
+1181,WarLamin-195_woman-1,,WarLamin,195_woman,hənθa,hənθa,h ə θ a,,Nagaraja2013,195_woman_a,False,^h ə n θ a$,default,h 3 8 a,3 8 a h
+1182,Palaung-195_woman-1,,Palaung,195_woman,ipən,ipən,i p ə n,,Nagaraja2013,195_woman_c,False,^i p ə n$,default,i p 3 n,3 i n p
+1183,Khmu-195_woman-1,,Khmu,195_woman,cmkɨn,cmkɨn,c m k ɨ n,,Nagaraja2013,195_woman_d,False,^c m k ɨ n$,default,T m k 3 n,3 T k m n
+1184,Khasi-196_woodsforest-1,,Khasi,196_woodsforest,kʰlaw,kʰlaw,kʰ l a w,,Nagaraja2013,196_woodsforest_a,False,^kʰ l a w$,default,kh~ l a w,a kh~ l w
+1185,Lyngngam-196_woodsforest-1,,Lyngngam,196_woodsforest,ləwtəp,ləwtəp,l ə w t ə p,,Nagaraja2013,196_woodsforest_b,False,^l ə w t ə p$,default,l 3 w t 3 p,3 l p t w
+1186,PnarJaintia-196_woodsforest-1,,PnarJaintia,196_woodsforest,kʰlo,kʰlo,kʰ l o,,Nagaraja2013,196_woodsforest_a,False,^kʰ l o$,default,kh~ l o,kh~ l o
+1187,WarLamin-196_woodsforest-1,,WarLamin,196_woodsforest,kərmɪa,kərmɪa,k ə r m ɪ a,,Nagaraja2013,196_woodsforest_c,False,^k ə r m ɪ a$,default,k 3 r m i a,3 a i k m r
+1188,Palaung-196_woodsforest-1,,Palaung,196_woodsforest,bri,bri,b r i,,Nagaraja2013,196_woodsforest_d,False,^b r i$,default,b r i,b i r
+1189,Khmu-196_woodsforest-1,,Khmu,196_woodsforest,briʔ,briʔ,b r i ʔ,,Nagaraja2013,196_woodsforest_d,False,^b r i ʔ$,default,b r i 7,7 b i r
+1190,Khasi-197_worm-1,,Khasi,197_worm,wieʔ,wieʔ,w i e ʔ,,Nagaraja2013,197_worm_a,False,^w i e ʔ$,default,w i e 7,7 e i w
+1191,Lyngngam-197_worm-1,,Lyngngam,197_worm,wiak,wiak,w i a k,,Nagaraja2013,197_worm_a,False,^w i a k$,default,w i a k,a i k w
+1192,PnarJaintia-197_worm-1,,PnarJaintia,197_worm,weiʔ,weiʔ,w e i ʔ,,Nagaraja2013,197_worm_a,False,^w e i ʔ$,default,w e i 7,7 e i w
+1193,WarLamin-197_worm-1,,WarLamin,197_worm,khvi,khvi,kʰ v i,,Nagaraja2013,197_worm_a,False,^kh v i$,default,kh~ v i,i kh~ v
+1194,Palaung-197_worm-1,,Palaung,197_worm,riər,riər,r i ə r,,Nagaraja2013,197_worm_b,False,^r i ə r$,default,r i 3 r,3 i r
+1195,Khmu-197_worm-1,,Khmu,197_worm,hmbraːj,hmbraːj,h m b r aːi̯,,Nagaraja2013,197_worm_c,False,^h m b r aːj $,default,h m b r ai,ai b h m r
+1196,Khasi-198_yeyoupl-1,,Khasi,198_yeyoupl,pʰi,pʰi,pʰ i,,Nagaraja2013,198_yeyoupl_a,False,^pʰ i$,default,ph~ i,i ph~
+1197,Lyngngam-198_yeyoupl-1,,Lyngngam,198_yeyoupl, pʰjaw,pʰjaw,pʰ j a w,,Nagaraja2013,198_yeyoupl_a,False,^pʰ j a w$,default,ph~ y a w,a ph~ w y
+1198,PnarJaintia-198_yeyoupl-1,,PnarJaintia,198_yeyoupl,pʰi,pʰi,pʰ i,,Nagaraja2013,198_yeyoupl_a,False,^pʰ i$,default,ph~ i,i ph~
+1199,WarLamin-198_yeyoupl-1,,WarLamin,198_yeyoupl,hi,hi,h i,,Nagaraja2013,198_yeyoupl_a,False,^h i$,default,h i,h i
+1200,Palaung-198_yeyoupl-1,,Palaung,198_yeyoupl,pɛ,pɛ,p ɛ,,Nagaraja2013,198_yeyoupl_a,False,^p ɛ$,default,p E,E p
+1201,Khmu-198_yeyoupl-1,,Khmu,198_yeyoupl,bɔː,bɔː,b ɔː,,Nagaraja2013,198_yeyoupl_b,False,^b ɔː$,default,b o,b o
+1202,Khasi-199_year-1,,Khasi,199_year,snem,snem,s e m,,Nagaraja2013,199_year_a,False,^s n e m$,default,s e m,e m s
+1203,Lyngngam-199_year-1,,Lyngngam,199_year,snim,snim,s i m,,Nagaraja2013,199_year_a,False,^s n i m$,default,s i m,i m s
+1204,PnarJaintia-199_year-1,,PnarJaintia,199_year,snɛm,snɛm,s ɛ m,,Nagaraja2013,199_year_a,False,^s n ɛ m$,default,s E m,E m s
+1205,WarLamin-199_year-1,,WarLamin,199_year,snem,snem,s e m,,Nagaraja2013,199_year_a,False,^s n e m$,default,s e m,e m s
+1206,Palaung-199_year-1,,Palaung,199_year,sənəm,sənəm,s ə ə m,,Nagaraja2013,199_year_a,False,^s ə n ə m$,default,s 3 3 m,3 m s
+1207,Khmu-199_year-1,,Khmu,199_year,nɨm,nɨm,n ɨ m,,Nagaraja2013,199_year_a,False,^n ɨ m$,default,n 3 m,3 m n
+1208,Khasi-200_yellow-1,,Khasi,200_yellow,stem,stem,s t e m,,Nagaraja2013,200_yellow_a,False,^s t e m$,default,s t e m,e m s t
+1209,Lyngngam-200_yellow-1,,Lyngngam,200_yellow,sɨntim,sɨntim,s ɨ t i m,,Nagaraja2013,200_yellow_a,False,^s ɨ n t i m$,default,s 3 t i m,3 i m s t
+1210,PnarJaintia-200_yellow-1,,PnarJaintia,200_yellow,stɛm,stɛm,s t ɛ m,,Nagaraja2013,200_yellow_a,False,^s t ɛ m$,default,s t E m,E m s t
+1211,WarLamin-200_yellow-1,,WarLamin,200_yellow,tŋʊə,tŋʊə,t ŋ ʊ ə,,Nagaraja2013,200_yellow_b,False,^t ŋ ʊ ə$,default,t N u 3,3 N t u
+1212,Palaung-200_yellow-1,,Palaung,200_yellow,teŋ,teŋ,t e ŋ,,Nagaraja2013,200_yellow_c,False,^t e ŋ$,default,t e N,N e t
+1213,Khmu-200_yellow-1,,Khmu,200_yellow,cŋaːr,cŋaːr,c ŋ aː r,,Nagaraja2013,200_yellow_b,False,^c ŋ aː r$,default,T N a r,N T a r

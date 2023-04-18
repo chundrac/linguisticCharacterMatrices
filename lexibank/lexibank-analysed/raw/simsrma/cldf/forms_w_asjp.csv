@@ -1,0 +1,1056 @@
+,ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,asjp_forms,asjp_segs
+0,Taoping-253_year-1,,Taoping,253_year,pə³³,pə³³,p ə ³³,,Sims2020,,,^ p ə ³³ $,default,p 3 , 3 p
+1,Longxi-253_year-1,,Longxi,253_year,pù,pù,p ù/u,,Sims2020,,,^ p ù $,default,p u u,p u
+2,Mianchi-253_year-1,,Mianchi,253_year,pù,pù,p ù/u,,Sims2020,,,^ p ù $,default,p u u,p u
+3,Yonghe-135_oneyear-1,,Yonghe,135_oneyear,ə́-pù,ə́-pù,ə́/ə + p ù/u,,Sims2020,,,^ ə́ - p ù $,default,3 3  p u u, 3 p u
+4,Wadu-253_year-1,,Wadu,253_year,pʉ̀,pʉ̀,p ʉ̀/ʉ,,Sims2020,,,^ p ʉ̀ $,default,p 3 3,3 p
+5,Dayang-253_year-1,,Dayang,253_year,pɨ̀,pɨ̀,p ɨ̆/ɨ,,Sims2020,,,^ p ɨ̀ $,default,p 3 3,3 p
+6,Taoba-253_year-1,,Taoba,253_year,pu⁵³,pu⁵³,p u ⁵³,,Sims2020,,,^ p u ⁵³ $,default,p u , p u
+7,Qinghua-253_year-1,,Qinghua,253_year,pə¹³,pə¹³,p ə ¹³,,Sims2020,,,^ p ə ¹³ $,default,p 3 , 3 p
+8,Lanping-253_year-1,,Lanping,253_year,pə¹³,pə¹³,p ə ¹³,,Sims2020,,,^ p ə ¹³ $,default,p 3 , 3 p
+9,Jiulong-253_year-1,,Jiulong,253_year,pi⁵³,pi⁵³,p i ⁵³,,Sims2020,,,^ p i ⁵³ $,default,p i , i p
+10,Taoping-247_who-1,,Taoping,247_who,sɨ⁵⁵,sɨ⁵⁵,s ɨ ⁵⁵,,Sims2020,,,^ s ɨ ⁵⁵ $,default,s 3 , 3 s
+11,Longxi-247_who-1,,Longxi,247_who,sɨ́,sɨ́,s ɨ́/ɨ,,Sims2020,,,^ s ɨ́ $,default,s 3 3,3 s
+12,Mianchi-247_who-1,,Mianchi,247_who,ʂí lè,ʂí_lè,ʂ í/i + l è/e,,Sims2020,,,^ ʂ í _ l è $,default,S i i  l e e, S e i l
+13,Yonghe-247_who-1,,Yonghe,247_who,sɨ́,sɨ́,s ɨ́/ɨ,,Sims2020,,,^ s ɨ́ $,default,s 3 3,3 s
+14,Wadu-247_who-1,,Wadu,247_who,hĩ̂,hĩ̂,h ĩ̂/ĩ,,Sims2020,,,^ h ĩ̂ $,default,h i* i*,h i*
+15,Niuwozi-247_who-1,,Niuwozi,247_who,xɜᴴ,xɜᴴ,x ɜ ᴴ/⁵,,Sims2020,,,^ x ɜᴴ $,default,x 3 , 3 x
+16,Taoba-247_who-1,,Taoba,247_who,xɛ⁵⁵,xɛ⁵⁵,x ɛ ⁵⁵,,Sims2020,,,^ x ɛ ⁵⁵ $,default,x E , E x
+17,Qinghua-247_who-1,,Qinghua,247_who,xɛ⁵⁵,xɛ⁵⁵,x ɛ ⁵⁵,,Sims2020,,,^ x ɛ ⁵⁵ $,default,x E , E x
+18,Lanping-247_who-1,,Lanping,247_who,xɛ⁵⁵,xɛ⁵⁵,x ɛ ⁵⁵,,Sims2020,,,^ x ɛ ⁵⁵ $,default,x E , E x
+19,Taoping-246_white-1,,Taoping,246_white,pʐi⁵⁵,pʐi⁵⁵,p ʐ i ⁵⁵,,Sims2020,,,^ pʐ i ⁵⁵ $,default,p Z i , Z i p
+20,Longxi-246_white-1,,Longxi,246_white,pʰé,pʰé,pʰ é/e,,Sims2020,,,^ pʰ é $,default,ph~ e e,e ph~
+21,Mianchi-246_white-1,,Mianchi,246_white,pʂí,pʂí,p ʂ í/i,,Sims2020,,,^ pʂ í $,default,p S i i,S i p
+22,Yonghe-246_white-1,,Yonghe,246_white,pʰjí ~ pʰí,pʰjí,pʰ j í/i,,Sims2020,,,^ pʰ j í $,default,ph~ y i i,i ph~ y
+23,Wadu-246_white-1,,Wadu,246_white,ʈʰṍ,ʈʰṍ,ʈʰ ṍ/õ,,Sims2020,,,^ ʈʰ ṍ $,default,th~ o* o*,o* th~
+24,Niuwozi-246_white-1,,Niuwozi,246_white,pʰʴĩᴴ,pʰʴĩᴴ,pʰ ʴ/ɹ ĩ ᴴ/⁵,,Sims2020,,,^ pʰʴ ĩᴴ $,default,ph~ r i* , i* ph~ r
+25,Dayang-246_white-1,,Dayang,246_white,pʰʂẽ́,pʰʂẽ́,pʰ ʂ ẽ́/ẽ,,Sims2020,,,^ pʰʂ ẽ́ $,default,ph~ S e* e*,S e* ph~
+26,Taoba-246_white-1,,Taoba,246_white,pʰʐã⁵⁵ mə⁵³,pʰʐã⁵⁵_mə⁵³,pʰ ʐ ã ⁵⁵ + m ə ⁵³,,Sims2020,,,^ pʰʐ ã ⁵⁵ _ m ə ⁵³ $,default,ph~ Z a*   m 3 , 3 Z a* m ph~
+27,Qinghua-246_white-1,,Qinghua,246_white,pʰʐə̃⁵⁵,pʰʐə̃⁵⁵,pʰ ʐ ə̃ ⁵⁵,,Sims2020,,,^ pʰʐ ə̃ ⁵⁵ $,default,ph~ Z 3* , 3* Z ph~
+28,Lanping-246_white-1,,Lanping,246_white,pʰʂə̃⁵⁵,pʰʂə̃⁵⁵,pʰ ʂ ə̃ ⁵⁵,,Sims2020,,,^ pʰʂ ə̃ ⁵⁵ $,default,ph~ S 3* , 3* S ph~
+29,Jiulong-246_white-1,,Jiulong,246_white,pʰʐĩ⁵⁵ lø⁵⁵ lø¹¹,pʰʐĩ⁵⁵_lø⁵⁵_lø¹¹,pʰ ʐ ĩ ⁵⁵ + l ø ⁵⁵ + l ø ¹¹,,Sims2020,,,^ pʰʐ ĩ ⁵⁵ _ l ø ⁵⁵ _ l ø ¹¹ $,default,ph~ Z i*   l e   l e , Z e i* l ph~
+30,Taoping-242_weigh-1,,Taoping,242_weigh,tɕʰe⁵⁵,tɕʰe⁵⁵,tɕʰ e ⁵⁵,,Sims2020,,,^ tɕʰ e ⁵⁵ $,default,tSh~ e , e tSh~
+31,Longxi-245_weightgrain-1,,Longxi,245_weightgrain,tɕʰì tɕʰí,tɕʰì_tɕʰí,tɕʰ ì/i + tɕʰ í/i,,Sims2020,,,^ tɕʰ ì _ tɕʰ í $,default,tSh~ i i  tSh~ i i, i tSh~
+32,Mianchi-244_weighgrain-1,,Mianchi,244_weighgrain,tɕʰé,tɕʰé,tɕʰ é/e,,Sims2020,,,^ tɕʰ é $,default,tSh~ e e,e tSh~
+33,Taoba-242_weigh-1,,Taoba,242_weigh,tə⁵⁵ tɕɛ⁵³,tə⁵⁵_tɕɛ⁵³,t ə ⁵⁵ + tɕ ɛ ⁵³,,Sims2020,,,^ t ə ⁵⁵ _ tɕ ɛ ⁵³ $,default,t 3   tS E , 3 E t tS
+34,Lanping-243_weighfood-1,,Lanping,243_weighfood,tə⁵⁵ tɕi⁵⁵,tə⁵⁵_tɕi⁵⁵,t ə ⁵⁵ + tɕ i ⁵⁵,,Sims2020,,,^ t ə ⁵⁵ _ tɕ i ⁵⁵ $,default,t 3   tS i , 3 i t tS
+35,Jiulong-243_weighfood-1,,Jiulong,243_weighfood,tɯ⁵⁵ ke⁵⁵,tɯ⁵⁵_ke⁵⁵,t ɯ ⁵⁵ + k e ⁵⁵,,Sims2020,,,^ t ɯ ⁵⁵ _ k e ⁵⁵ $,default,t u   k e , e k t u
+36,Taoping-241_weep-1,,Taoping,241_weep,ŋə⁵⁵,ŋə⁵⁵,ŋ ə ⁵⁵,,Sims2020,,,^ ŋ ə ⁵⁵ $,default,N 3 , 3 N
+37,Longxi-241_weep-1,,Longxi,241_weep,ŋú,ŋú,ŋ ú/u,,Sims2020,,,^ ŋ ú $,default,N u u,N u
+38,Wadu-241_weep-1,,Wadu,241_weep,qwé,qwé,q w é/e,,Sims2020,,,^ qw é $,default,q w e e,e q w
+39,Niuwozi-241_weep-1,,Niuwozi,241_weep,kwɜjᴴ,kwɜjᴴ,k w ɜj/ɜi ᴴ/⁵,,Sims2020,,,^ kwɜjᴴ $,default,k w 3y 3i , 3i 3y k w
+40,Taoba-241_weep-1,,Taoba,241_weep,xue⁵⁵,xue⁵⁵,x u/w e ⁵⁵,,Sims2020,,,^ x ue ⁵⁵ $,default,x u w e , e u w x
+41,Qinghua-241_weep-1,,Qinghua,241_weep,squa⁵⁵,squa⁵⁵,s q u/w a ⁵⁵,,Sims2020,,,^ s q ua ⁵⁵ $,default,s q u w a , a q s u w
+42,Lanping-241_weep-1,,Lanping,241_weep,χquɑ⁵⁵,χquɑ⁵⁵,χ q u/w ɑ ⁵⁵,,Sims2020,,,^ χ q uɑ ⁵⁵ $,default,X q u w o , X o q u w
+43,Jiulong-241_weep-1,,Jiulong,241_weep,kuɛ⁵⁵,kuɛ⁵⁵,k u ɛ ⁵⁵,,Sims2020,,,^ k u ɛ ⁵⁵ $,default,k u E , E k u
+44,Taoping-240_weave-1,,Taoping,240_weave,tia³³,tia³³,t i/j a ³³,,Sims2020,,,^ t ia ³³ $,default,t i y a , a i t y
+45,Longxi-240_weave-1,,Longxi,240_weave,tɕà,tɕà,tɕ à/a,,Sims2020,,,^ tɕ à $,default,tS a a,a tS
+46,Mianchi-240_weave-1,,Mianchi,240_weave,tià,tià,t i/j à/a,,Sims2020,,,^ t ià $,default,t i y a a,a i t y
+47,Yonghe-240_weave-1,,Yonghe,240_weave,tæ̌,tæ̌,t æ̆/æ,,Sims2020,,,^ t æ̌ $,default,t E E,E t
+48,Wadu-240_weave-1,,Wadu,240_weave,tɕæ̌,tɕæ̌,tɕ æ̆/æ,,Sims2020,,,^ tɕ æ̌ $,default,tS E E,E tS
+49,Dayang-240_weave-1,,Dayang,240_weave,tʂɒ̌,tʂɒ̌,ʈʂ ɒ̆/ɒ,,Sims2020,,,^ tʂ ɒ̌ $,default,tS o o,o tS
+50,Taoba-240_weave-1,,Taoba,240_weave,nə³⁵ tɕɛ³⁵,nə³⁵_tɕɛ³⁵,n ə ³⁵ + tɕ ɛ ³⁵,,Sims2020,,,^ n ə ³⁵ _ tɕ ɛ ³⁵ $,default,n 3   tS E , 3 E n tS
+51,Lanping-240_weave-1,,Lanping,240_weave,tʃɑ¹³,tʃɑ¹³,tʃ ɑ ¹³,,Sims2020,,,^ tʃ ɑ ¹³ $,default,tS o , o tS
+52,Taoping-232_urine-1,,Taoping,232_urine,bie²⁴¹,bie²⁴¹,b i/j e ²⁴¹,,Sims2020,,,^ b ie ²⁴¹ $,default,b i y e , b e i y
+53,Longxi-232_urine-1,,Longxi,232_urine,bí,bí,b í/i,,Sims2020,,,^ b í $,default,b i i,b i
+54,Mianchi-232_urine-1,,Mianchi,232_urine,biě,biě,b i ĕ/e,,Sims2020,,,^ b i ě $,default,b i e e,b e i
+55,Yonghe-231_urinate-1,,Yonghe,231_urinate,bɨ́,bɨ́,b ɨ́/ɨ,,Sims2020,,,^ b ɨ́ $,default,b 3 3,3 b
+56,Wadu-232_urine-1,,Wadu,232_urine,bĩ̂,bĩ̂,b ĩ̂/ĩ,,Sims2020,,,^ b ĩ̂ $,default,b i* i*,b i*
+57,Niuwozi-232_urine-1,,Niuwozi,232_urine,biẽᶠ,biẽᶠ,b i/j ẽ ᶠ/⁵¹,,Sims2020,,,^ biẽᶠ $,default,b i y e* , b e* i y
+58,Dayang-232_urine-1,,Dayang,232_urine,βbĩ́,βbĩ́,β b ĩ́/ĩ,,Sims2020,,,^ β b ĩ́ $,default,b b i* i*,b i*
+59,Taoping-227_tree-1,,Taoping,227_tree,pʰo⁵⁵,pʰo⁵⁵,pʰ o ⁵⁵,,Sims2020,,,^ pʰ o ⁵⁵ $,default,ph~ o , o ph~
+60,Longxi-227_tree-1,,Longxi,227_tree,ɕì pʰù,ɕì_pʰù,ɕ ì/i + pʰ ù/u,,Sims2020,,,^ ɕ ì _ pʰ ù $,default,S i i  ph~ u u, S i ph~ u
+61,Mianchi-227_tree-1,,Mianchi,227_tree,pʰò ~ pʰó,pʰò,pʰ ò/o,,Sims2020,,,^ pʰ ò $,default,ph~ o o,o ph~
+62,Yonghe-227_tree-1,,Yonghe,227_tree,pʰú,pʰú,pʰ ú/u,,Sims2020,,,^ pʰ ú $,default,ph~ u u,ph~ u
+63,Wadu-227_tree-1,,Wadu,227_tree,bóŋ,bóŋ,b ó/o ŋ,,Sims2020,,,^ b ó ŋ $,default,b o o N,N b o
+64,Qinghua-227_tree-1,,Qinghua,227_tree,siɛ̃¹³ sbõ⁵⁵,siɛ̃¹³_sbõ⁵⁵,s i/j ɛ̃ ¹³ + s b õ ⁵⁵,,Sims2020,,,^ s iɛ̃ ¹³ _ s b õ ⁵⁵ $,default,s i y E*   s b o* , E* b i o* s y
+65,Lanping-227_tree-1,,Lanping,227_tree,siɛ̃¹³ vbõ⁵⁵,siɛ̃¹³_vbõ⁵⁵,s i/j ɛ̃ ¹³ + v b õ ⁵⁵,,Sims2020,,,^ s iɛ̃ ¹³ _ v b õ ⁵⁵ $,default,s i y E*   v b o* , E* b i o* s v y
+66,Jiulong-227_tree-1,,Jiulong,227_tree,sẽ¹¹ bũ⁵⁵,sẽ¹¹_bũ⁵⁵,s ẽ ¹¹ + b ũ ⁵⁵,,Sims2020,,,^ s ẽ ¹¹ _ b ũ ⁵⁵ $,default,s e*   b u* , b e* s u*
+67,Taoping-226_tread-1,,Taoping,226_tread,tɕʰya³¹,tɕʰya³¹,tɕʰ y a ³¹,,Sims2020,,,^ tɕʰ y a ³¹ $,default,tSh~ i a , a i tSh~
+68,Longxi-226_tread-1,,Longxi,226_tread,tɕʰuà ȵí,tɕʰuà_ȵí,tɕʰ u/w à/a + ȵ í/i,,Sims2020,,,^ tɕʰ uà _ ȵ í $,default,tSh~ u w a a  i i, a i tSh~ u w
+69,Mianchi-226_tread-1,,Mianchi,226_tread,tɕʰyà,tɕʰyà,tɕʰ y/ɥ à/a,,Sims2020,,,^ tɕʰ yà $,default,tSh~ i y a a,a i tSh~ y
+70,Yonghe-226_tread-1,,Yonghe,226_tread,tsʰwæ̀ ȵwí,tsʰwæ̀_ȵwí,tsʰ w æ̀/æ + ȵ w í/i,,Sims2020,,,^ tsʰw æ̀ _ ȵw í $,default,tsh~ w E E  w i i, E i tsh~ w
+71,Taoba-226_tread-1,,Taoba,226_tread,nə³⁵ tɕʰo⁵⁵,nə³⁵_tɕʰo⁵⁵,n ə ³⁵ + tɕʰ o ⁵⁵,,Sims2020,,,^ n ə ³⁵ _ tɕʰ o ⁵⁵ $,default,n 3   tSh~ o , 3 n o tSh~
+72,Qinghua-226_tread-1,,Qinghua,226_tread,nə¹³ tʂʰɯ¹³,nə¹³_tʂʰɯ¹³,n ə ¹³ + ʈʂʰ ɯ ¹³,,Sims2020,,,^ n ə ¹³ _ tʂʰ ɯ ¹³ $,default,n 3   tSh~ u , 3 n tSh~ u
+73,Lanping-226_tread-1,,Lanping,226_tread,nə¹³ tʂʰɯ¹³,nə¹³_tʂʰɯ¹³,n ə ¹³ + ʈʂʰ ɯ ¹³,,Sims2020,,,^ n ə ¹³ _ tʂʰ ɯ ¹³ $,default,n 3   tSh~ u , 3 n tSh~ u
+74,Taoping-225_tooth-1,,Taoping,225_tooth,suə⁵⁵,suə⁵⁵,s u/w ə ⁵⁵,,Sims2020,,,^ s uə ⁵⁵ $,default,s u w 3 , 3 s u w
+75,Longxi-225_tooth-1,,Longxi,225_tooth,sù,sù,s ù/u,,Sims2020,,,^ s ù $,default,s u u,s u
+76,Mianchi-82_gums-1,,Mianchi,82_gums,sú-nə̀,sú-nə̀,s ú/u + n ə̀/ə,,Sims2020,,,^ s ú - n ə̀ $,default,s u u  n 3 3, 3 n s u
+77,Yonghe-225_tooth-1,,Yonghe,225_tooth,ɕwí,ɕwí,ɕ w í/i,,Sims2020,,,^ ɕw í $,default,S w i i,S i w
+78,Wadu-225_tooth-1,,Wadu,225_tooth,ɻ̥ʉ́,ɻ̥ʉ́,ɻ̥ ʉ́/ʉ,,Sims2020,,,^ ɻ̥ ʉ́ $,default,r 3 3,3 r
+79,Niuwozi-225_tooth-1,,Niuwozi,225_tooth,ɹ̥ʉᶠ,ɹ̥ʉᶠ,ɹ̥ ʉ ᶠ/⁵¹,,Sims2020,,,^ ɹ̥ ʉᶠ $,default,r 3 , 3 r
+80,Dayang-225_tooth-1,,Dayang,225_tooth,ʂóu,ʂóu,ʂ óu/ou,,Sims2020,,,^ ʂ óu $,default,S ou ou,S ou
+81,Taoba-225_tooth-1,,Taoba,225_tooth,ʂu⁵³,ʂu⁵³,ʂ u ⁵³,,Sims2020,,,^ ʂ u ⁵³ $,default,S u , S u
+82,Qinghua-225_tooth-1,,Qinghua,225_tooth,ʂy⁵⁵,ʂy⁵⁵,ʂ y ⁵⁵,,Sims2020,,,^ ʂ y ⁵⁵ $,default,S i , S i
+83,Lanping-225_tooth-1,,Lanping,225_tooth,ʂy⁵⁵,ʂy⁵⁵,ʂ y ⁵⁵,,Sims2020,,,^ ʂ y ⁵⁵ $,default,S i , S i
+84,Jiulong-225_tooth-1,,Jiulong,225_tooth,xui⁵⁵,xui⁵⁵,x ui ⁵⁵,,Sims2020,,,^ x ui ⁵⁵ $,default,x ui , ui x
+85,Taoping-224_tongue-1,,Taoping,224_tongue,zɿ³¹ qə⁵⁵,zɿ³¹_qə⁵⁵,z ɿ ³¹ + q ə ⁵⁵,,Sims2020,,,^ z ɿ ³¹ _ q ə ⁵⁵ $,default,z   q 3 , 3 q z
+86,Longxi-224_tongue-1,,Longxi,224_tongue,zə̀ qə̀,zə̀_qə̀,z ə̀/ə + q ə̀/ə,,Sims2020,,,^ z ə̀ _ q ə̀ $,default,z 3 3  q 3 3, 3 q z
+87,Mianchi-224_tongue-1,,Mianchi,224_tongue,zɨ̀ qé,zɨ̀_qé,z ɨ̆/ɨ + q é/e,,Sims2020,,,^ z ɨ̀ _ q é $,default,z 3 3  q e e, 3 e q z
+88,Yonghe-224_tongue-1,,Yonghe,224_tongue,zɨ̌ qə̀,zɨ̌_qə̀,z ɨ̆/ɨ + q ə̀/ə,,Sims2020,,,^ z ɨ̌ _ q ə̀ $,default,z 3 3  q 3 3, 3 q z
+89,Niuwozi-224_tongue-1,,Niuwozi,224_tongue,l̥eᴴ,l̥eᴴ,l̥ e ᴴ/⁵,,Sims2020,,,^ l̥ eᴴ $,default,l e , e l
+90,Taoba-224_tongue-1,,Taoba,224_tongue,ɬiɛ⁵³,ɬiɛ⁵³,ɬ i/j ɛ ⁵³,,Sims2020,,,^ ɬ iɛ ⁵³ $,default,L i y E , E L i y
+91,Qinghua-224_tongue-1,,Qinghua,224_tongue,ɬie⁵⁵ qʰo⁵⁵,ɬie⁵⁵_qʰo⁵⁵,ɬ i/j e ⁵⁵ + qʰ o ⁵⁵,,Sims2020,,,^ ɬ ie ⁵⁵ _ qʰ o ⁵⁵ $,default,L i y e   qh~ o , L e i o qh~ y
+92,Lanping-224_tongue-1,,Lanping,224_tongue,ɬie⁵⁵ qʰo⁵⁵,ɬie⁵⁵_qʰo⁵⁵,ɬ i/j e ⁵⁵ + qʰ o ⁵⁵,,Sims2020,,,^ ɬ ie ⁵⁵ _ qʰ o ⁵⁵ $,default,L i y e   qh~ o , L e i o qh~ y
+93,Jiulong-224_tongue-1,,Jiulong,224_tongue,ɬə⁵⁵,ɬə⁵⁵,ɬ ə ⁵⁵,,Sims2020,,,^ ɬ ə ⁵⁵ $,default,L 3 , 3 L
+94,Taoping-222_toexist-1,,Taoping,222_toexist,ʒɿ³³,ʒɿ³³,ʒ ɿ ³³,,Sims2020,,,^ ʒ ɿ ³³ $,default,Z , Z
+95,Longxi-222_toexist-1,,Longxi,222_toexist,jì,jì,j ì/i,,Sims2020,,,^ j ì $,default,y i i,i y
+96,Mianchi-222_toexist-1,,Mianchi,222_toexist,ʑì,ʑì,ʑ ì/i,,Sims2020,,,^ ʑ ì $,default,Z i i,Z i
+97,Wadu-222_toexist-1,,Wadu,222_toexist,ʑǐ,ʑǐ,ʑ ĭ/i,,Sims2020,,,^ ʑ ǐ $,default,Z i i,Z i
+98,Taoba-222_toexist-1,,Taoba,222_toexist,ʑɛ³⁵,ʑɛ³⁵,ʑ ɛ ³⁵,,Sims2020,,,^ ʑ ɛ ³⁵ $,default,Z E , E Z
+99,Qinghua-222_toexist-1,,Qinghua,222_toexist,ʒø¹³,ʒø¹³,ʒ ø ¹³,,Sims2020,,,^ ʒ ø ¹³ $,default,Z e , Z e
+100,Lanping-222_toexist-1,,Lanping,222_toexist,ʒø¹³,ʒø¹³,ʒ ø ¹³,,Sims2020,,,^ ʒ ø ¹³ $,default,Z e , Z e
+101,Jiulong-222_toexist-1,,Jiulong,222_toexist,ʑe³⁵,ʑe³⁵,ʑ e ³⁵,,Sims2020,,,^ ʑ e ³⁵ $,default,Z e , Z e
+102,Taoping-217_thick-1,,Taoping,217_thick,lie³³,lie³³,l i/j e ³³,,Sims2020,,,^ l ie ³³ $,default,l i y e , e i l y
+103,Longxi-217_thick-1,,Longxi,217_thick,lià,lià,l i/j à/a,,Sims2020,,,^ l ià $,default,l i y a a,a i l y
+104,Mianchi-217_thick-1,,Mianchi,217_thick,lià,lià,l i/j à/a,,Sims2020,,,^ l ià $,default,l i y a a,a i l y
+105,Yonghe-217_thick-1,,Yonghe,217_thick,læ̌,læ̌,l æ̆/æ,,Sims2020,,,^ l æ̌ $,default,l E E,E l
+106,Wadu-217_thick-1,,Wadu,217_thick,ɦɑ̌,ɦɑ̌,ɦ ɑ̆/ɑ,,Sims2020,,,^ ɦ ɑ̌ $,default,h o o,h o
+107,Niuwozi-217_thick-1,,Niuwozi,217_thick,ɣɑᴿ,ɣɑᴿ,ɣ ɑ ᴿ/¹⁵,,Sims2020,,,^ ɣ ɑᴿ $,default,x o , o x
+108,Dayang-217_thick-1,,Dayang,217_thick,ɣɑ̌ ~ ɦɑ̌,ɣɑ̌,ɣ ɑ̆/ɑ,,Sims2020,,,^ ɣ ɑ̌ $,default,x o o,o x
+109,Taoba-217_thick-1,,Taoba,217_thick,ɣa¹³,ɣa¹³,ɣ a ¹³,,Sims2020,,,^ ɣ a ¹³ $,default,x a , a x
+110,Qinghua-217_thick-1,,Qinghua,217_thick,ɣa¹³,ɣa¹³,ɣ a ¹³,,Sims2020,,,^ ɣ a ¹³ $,default,x a , a x
+111,Jiulong-217_thick-1,,Jiulong,217_thick,lɑ³⁵,lɑ³⁵,l ɑ ³⁵,,Sims2020,,,^ l ɑ ³⁵ $,default,l o , l o
+112,Taoping-212_sweat-1,,Taoping,212_sweat,χtʂuə⁵⁵,χtʂuə⁵⁵,χ ʈʂ u/w ə ⁵⁵,,Sims2020,,,^ χ tʂ uə ⁵⁵ $,default,X tS u w 3 , 3 X tS u w
+113,Mianchi-212_sweat-1,,Mianchi,212_sweat,tʂʰù,tʂʰù,ʈʂʰ ù/u,,Sims2020,,,^ tʂʰ ù $,default,tSh~ u u,tSh~ u
+114,Yonghe-212_sweat-1,,Yonghe,212_sweat,tɕʰwí,tɕʰwí,tɕʰ w í/i,,Sims2020,,,^ tɕʰw í $,default,tSh~ w i i,i tSh~ w
+115,Dayang-212_sweat-1,,Dayang,212_sweat,ʃtʃʰí,ʃtʃʰí,ʃ tʃʰ í/i,,Sims2020,,,^ ʃ tʃʰ í $,default,S tSh~ i i,S i tSh~
+116,Qinghua-212_sweat-1,,Qinghua,212_sweat,skʰi⁵⁵,skʰi⁵⁵,s kʰ i ⁵⁵,,Sims2020,,,^ s kʰ i ⁵⁵ $,default,s kh~ i , i kh~ s
+117,Lanping-212_sweat-1,,Lanping,212_sweat,skʰi⁵⁵,skʰi⁵⁵,s kʰ i ⁵⁵,,Sims2020,,,^ s kʰ i ⁵⁵ $,default,s kh~ i , i kh~ s
+118,Taoping-210_stretch-1,,Taoping,210_stretch,sɿ³¹ tʂʰi⁵⁵,sɿ³¹_tʂʰi⁵⁵,s ɿ ³¹ + ʈʂʰ i ⁵⁵,,Sims2020,,,^ s ɿ ³¹ _ tʂʰ i ⁵⁵ $,default,s   tSh~ i , i s tSh~
+119,Longxi-210_stretch-1,,Longxi,210_stretch,tsʰí,tsʰí,tsʰ í/i,,Sims2020,,,^ tsʰ í $,default,tsh~ i i,i tsh~
+120,Mianchi-210_stretch-1,,Mianchi,210_stretch,tʂʰɨ̀ ~ tʂʰɨ́,tʂʰɨ̀,ʈʂʰ ɨ̆/ɨ,,Sims2020,,,^ tʂʰ ɨ̀ $,default,tSh~ 3 3,3 tSh~
+121,Yonghe-210_stretch-1,,Yonghe,210_stretch,hə̀-tʂʰə́,hə̀-tʂʰə́,h ə̀/ə + ʈʂʰ ə́/ə,,Sims2020,,,^ h ə̀ - tʂʰ ə́ $,default,h 3 3  tSh~ 3 3, 3 h tSh~
+122,Qinghua-210_stretch-1,,Qinghua,210_stretch,kʰə¹³ stʃõ⁵⁵,kʰə¹³_stʃõ⁵⁵,kʰ ə ¹³ + s tʃ õ ⁵⁵,,Sims2020,,,^ kʰ ə ¹³ _ s tʃ õ ⁵⁵ $,default,kh~ 3   s tS o* , 3 kh~ o* s tS
+123,Lanping-210_stretch-1,,Lanping,210_stretch,kʰə¹³ ʃtʃõ⁵⁵,kʰə¹³_ʃtʃõ⁵⁵,kʰ ə ¹³ + ʃ tʃ õ ⁵⁵,,Sims2020,,,^ kʰ ə ¹³ _ ʃ tʃ õ ⁵⁵ $,default,kh~ 3   S tS o* , 3 S kh~ o* tS
+124,Jiulong-210_stretch-1,,Jiulong,210_stretch,kʰɯ¹¹ ʂã⁵⁵ la¹¹,kʰɯ¹¹_ʂã⁵⁵_la¹¹,kʰ ɯ ¹¹ + ʂ ã ⁵⁵ + l a ¹¹,,Sims2020,,,^ kʰ ɯ ¹¹ _ ʂ ã ⁵⁵ _ l a ¹¹ $,default,kh~ u   S a*   l a , S a a* kh~ l u
+125,Taoping-209_strength-1,,Taoping,209_strength,dʐɿ²⁴¹,dʐɿ²⁴¹,ɖʐ ɿ ²⁴¹,,Sims2020,,,^ dʐ ɿ ²⁴¹ $,default,dZ , dZ
+126,Longxi-209_strength-1,,Longxi,209_strength,qú,qú,q ú/u,,Sims2020,,,^ q ú $,default,q u u,q u
+127,Mianchi-209_strength-1,,Mianchi,209_strength,dʐà qà,dʐà_qà,ɖʐ à/a + q à/a,,Sims2020,,,^ dʐ à _ q à $,default,dZ a a  q a a, a dZ q
+128,Yonghe-209_strength-1,,Yonghe,209_strength,qǔ ~ kǔ,qǔ,q ŭ/u,,Sims2020,,,^ q ǔ $,default,q u u,q u
+129,Wadu-209_strength-1,,Wadu,209_strength,qɐ̌,qɐ̌,q ɐ̆/ɐ,,Sims2020,,,^ q ɐ̌ $,default,q a a,a q
+130,Taoba-209_strength-1,,Taoba,209_strength,ka³⁵,ka³⁵,k a ³⁵,,Sims2020,,,^ k a ³⁵ $,default,k a , a k
+131,Qinghua-209_strength-1,,Qinghua,209_strength,qa¹³,qa¹³,q a ¹³,,Sims2020,,,^ q a ¹³ $,default,q a , a q
+132,Lanping-209_strength-1,,Lanping,209_strength,qa¹³,qa¹³,q a ¹³,,Sims2020,,,^ q a ¹³ $,default,q a , a q
+133,Taoping-207_straight-1,,Taoping,207_straight,χtə⁵⁵,χtə⁵⁵,χ t ə ⁵⁵,,Sims2020,,,^ χ t ə ⁵⁵ $,default,X t 3 , 3 X t
+134,Longxi-207_straight-1,,Longxi,207_straight,tí,tí,t í/i,,Sims2020,,,^ t í $,default,t i i,i t
+135,Mianchi-208_straighterect-1,,Mianchi,208_straighterect,tí,tí,t í/i,,Sims2020,,,^ t í $,default,t i i,i t
+136,Taoba-207_straight-1,,Taoba,207_straight,tu⁵⁵ mə⁵³,tu⁵⁵_mə⁵³,t u ⁵⁵ + m ə ⁵³,,Sims2020,,,^ t u ⁵⁵ _ m ə ⁵³ $,default,t u   m 3 , 3 m t u
+137,Qinghua-207_straight-1,,Qinghua,207_straight,stu⁵⁵,stu⁵⁵,s t u ⁵⁵,,Sims2020,,,^ s t u ⁵⁵ $,default,s t u , s t u
+138,Lanping-207_straight-1,,Lanping,207_straight,stu⁵⁵,stu⁵⁵,s t u ⁵⁵,,Sims2020,,,^ s t u ⁵⁵ $,default,s t u , s t u
+139,Jiulong-207_straight-1,,Jiulong,207_straight,tə¹¹ tu⁵⁵,tə¹¹_tu⁵⁵,t ə ¹¹ + t u ⁵⁵,,Sims2020,,,^ t ə ¹¹ _ t u ⁵⁵ $,default,t 3   t u , 3 t u
+140,Taoping-203_star-1,,Taoping,203_star,χdʐe³³ pe⁵⁵,χdʐe³³_pe⁵⁵,χ ɖʐ e ³³ + p e ⁵⁵,,Sims2020,,,^ χ dʐ e ³³ _ p e ⁵⁵ $,default,X dZ e   p e , X dZ e p
+141,Longxi-203_star-1,,Longxi,203_star,zɨ̀ bà,zɨ̀_bà,z ɨ̆/ɨ + b à/a,,Sims2020,,,^ z ɨ̀ _ b à $,default,z 3 3  b a a, 3 a b z
+142,Mianchi-203_star-1,,Mianchi,203_star,dʐɛ̀,dʐɛ̀,ɖʐ ɛ̀/ɛ,,Sims2020,,,^ dʐ ɛ̀ $,default,dZ E E,E dZ
+143,Yonghe-203_star-1,,Yonghe,203_star,dʐɨ́,dʐɨ́,ɖʐ ɨ́/ɨ,,Sims2020,,,^ dʐ ɨ́ $,default,dZ 3 3,3 dZ
+144,Wadu-203_star-1,,Wadu,203_star,ɖə̌,ɖə̌,ɖ ə̆/ə,,Sims2020,,,^ ɖ ə̌ $,default,d 3 3,3 d
+145,Niuwozi-203_star-1,,Niuwozi,203_star,gʴəᴿ,gʴəᴿ,g ʴ/ɹ ə ᴿ/¹⁵,,Sims2020,,,^ gʴ əᴿ $,default,g r 3 , 3 g r
+146,Dayang-203_star-1,,Dayang,203_star,ɖɨ̌,ɖɨ̌,ɖ ɨ̆/ɨ,,Sims2020,,,^ ɖ ɨ̌ $,default,d 3 3,3 d
+147,Taoba-203_star-1,,Taoba,203_star,dʐə³⁵,dʐə³⁵,ɖʐ ə ³⁵,,Sims2020,,,^ dʐ ə ³⁵ $,default,dZ 3 , 3 dZ
+148,Qinghua-203_star-1,,Qinghua,203_star,dʐə¹³,dʐə¹³,ɖʐ ə ¹³,,Sims2020,,,^ dʐ ə ¹³ $,default,dZ 3 , 3 dZ
+149,Lanping-203_star-1,,Lanping,203_star,dʐə¹³,dʐə¹³,ɖʐ ə ¹³,,Sims2020,,,^ dʐ ə ¹³ $,default,dZ 3 , 3 dZ
+150,Jiulong-203_star-1,,Jiulong,203_star,dʐɿ³⁵,dʐɿ³⁵,ɖʐ ɿ ³⁵,,Sims2020,,,^ dʐ ɿ ³⁵ $,default,dZ , dZ
+151,Taoping-198_spitv-1,,Taoping,198_spitv,pʰe³³,pʰe³³,pʰ e ³³,,Sims2020,,,^ pʰ e ³³ $,default,ph~ e , e ph~
+152,Yonghe-198_spitv-1,,Yonghe,198_spitv,sə́-pʰɛ̀,sə́-pʰɛ̀,s ə́/ə + pʰ ɛ̀/ɛ,,Sims2020,,,^ s ə́ - pʰ ɛ̀ $,default,s 3 3  ph~ E E, 3 E ph~ s
+153,Wadu-198_spitv-1,,Wadu,198_spitv,pʰɐ̀,pʰɐ̀,pʰ ɐ̀/ɐ,,Sims2020,,,^ pʰ ɐ̀ $,default,ph~ a a,a ph~
+154,Niuwozi-197_spew-1,,Niuwozi,197_spew,pʰeᴿ,pʰeᴿ,pʰ e ᴿ/¹⁵,,Sims2020,,,^ pʰ eᴿ $,default,ph~ e , e ph~
+155,Taoba-198_spitv-1,,Taoba,198_spitv,pʰø³⁵,pʰø³⁵,pʰ ø ³⁵,,Sims2020,,,^ pʰ ø ³⁵ $,default,ph~ e , e ph~
+156,Qinghua-198_spitv-1,,Qinghua,198_spitv,tə⁵⁵ spʰɛ¹³,tə⁵⁵_spʰɛ¹³,t ə ⁵⁵ + s pʰ ɛ ¹³,,Sims2020,,,^ t ə ⁵⁵ _ s pʰ ɛ ¹³ $,default,t 3   s ph~ E , 3 E ph~ s t
+157,Lanping-198_spitv-1,,Lanping,198_spitv,tə⁵⁵ fpʰɛ¹³,tə⁵⁵_fpʰɛ¹³,t ə ⁵⁵ + f pʰ ɛ ¹³,,Sims2020,,,^ t ə ⁵⁵ _ f pʰ ɛ ¹³ $,default,t 3   f ph~ E , 3 E f ph~ t
+158,Jiulong-198_spitv-1,,Jiulong,198_spitv,tɯ⁵⁵ pʰə⁵⁵,tɯ⁵⁵_pʰə⁵⁵,t ɯ ⁵⁵ + pʰ ə ⁵⁵,,Sims2020,,,^ t ɯ ⁵⁵ _ pʰ ə ⁵⁵ $,default,t u   ph~ 3 , 3 ph~ t u
+159,Taoping-193_soldier-1,,Taoping,193_soldier,dʐue²⁴¹,dʐue²⁴¹,ɖʐ u/w e ²⁴¹,,Sims2020,,,^ dʐ ue ²⁴¹ $,default,dZ u w e , dZ e u w
+160,Longxi-193_soldier-1,,Longxi,193_soldier,guà,guà,g u/w à/a,,Sims2020,,,^ g uà $,default,g u w a a,a g u w
+161,Mianchi-193_soldier-1,,Mianchi,193_soldier,dʑyè,dʑyè,dʑ y/ɥ è/e,,Sims2020,,,^ dʑ yè $,default,dZ i y e e,dZ e i y
+162,Taoping-191_snow-1,,Taoping,191_snow,χpɑ³¹ tʰu³³,χpɑ³¹_tʰu³³,χ p ɑ ³¹ + tʰ u ³³,,Sims2020,,,^ χ p ɑ ³¹ _ tʰ u ³³ $,default,X p o   th~ u , X o p th~ u
+163,Longxi-191_snow-1,,Longxi,191_snow,mù pà,mù_pà,m ù/u + p à/a,,Sims2020,,,^ m ù _ p à $,default,m u u  p a a, a m p u
+164,Mianchi-191_snow-1,,Mianchi,191_snow,peì,peì,p e ì/i,,Sims2020,,,^ p e ì $,default,p e i i,e i p
+165,Yonghe-191_snow-1,,Yonghe,191_snow,pɔ̌,pɔ̌,p ɔ̆/ɔ,,Sims2020,,,^ p ɔ̌ $,default,p o o,o p
+166,Wadu-191_snow-1,,Wadu,191_snow,pʉ,pʉ,p ʉ,,Sims2020,,,^ p ʉ $,default,p 3,3 p
+167,Niuwozi-191_snow-1,,Niuwozi,191_snow,pʉᶠ,pʉᶠ,p ʉ ᶠ/⁵¹,,Sims2020,,,^ p ʉᶠ $,default,p 3 , 3 p
+168,Taoba-191_snow-1,,Taoba,191_snow,pu̵⁵³,pu̵⁵³,p ʉ ⁵³,,Sims2020,,,^ p u̵ ⁵³ $,default,p 3 , 3 p
+169,Qinghua-191_snow-1,,Qinghua,191_snow,spy⁵⁵,spy⁵⁵,s p y ⁵⁵,,Sims2020,,,^ s p y ⁵⁵ $,default,s p i , i p s
+170,Lanping-191_snow-1,,Lanping,191_snow,fpy⁵⁵,fpy⁵⁵,f p y ⁵⁵,,Sims2020,,,^ f p y ⁵⁵ $,default,f p i , f i p
+171,Jiulong-191_snow-1,,Jiulong,191_snow,py⁵⁵,py⁵⁵,p y ⁵⁵,,Sims2020,,,^ p y ⁵⁵ $,default,p i , i p
+172,Taoping-184_skin-1,,Taoping,184_skin,tʃʰɿ³¹ pa³³,tʃʰɿ³¹_pa³³,tʃʰ ɿ ³¹ + p a ³³,,Sims2020,,,^ tʃʰ ɿ ³¹ _ p a ³³ $,default,tSh~   p a , a p tSh~
+173,Longxi-184_skin-1,,Longxi,184_skin,ɹà pià,ɹà_pià,ɹ à/a + p i/j à/a,,Sims2020,,,^ ɹ à _ p ià $,default,r a a  p i y a a, a i p r y
+174,Mianchi-184_skin-1,,Mianchi,184_skin,ʐà piá,ʐà_piá,ʐ à/a + p i/j á/a,,Sims2020,,,^ ʐ à _ p iá $,default,Z a a  p i y a a, Z a i p y
+175,Yonghe-184_skin-1,,Yonghe,184_skin,ɦæ̀ pǽ,ɦæ̀_pǽ,ɦ æ̀/æ + p ǽ/æ,,Sims2020,,,^ ɦ æ̀ _ p ǽ $,default,h E E  p E E, E h p
+176,Niuwozi-184_skin-1,,Niuwozi,184_skin,ɹəᶠ,ɹəᶠ,ɹ ə ᶠ/⁵¹,,Sims2020,,,^ ɹ əᶠ $,default,r 3 , 3 r
+177,Dayang-184_skin-1,,Dayang,184_skin,rə̀ ʃtʃɨ̌,rə̀_ʃtʃɨ̌,r ə̀/ə + ʃ tʃ ɨ̆/ɨ,,Sims2020,,,^ r ə̀ _ ʃ tʃ ɨ̌ $,default,r 3 3  S tS 3 3, 3 S r tS
+178,Taoba-184_skin-1,,Taoba,184_skin,rə⁵³,rə⁵³,r ə ⁵³,,Sims2020,,,^ r ə ⁵³ $,default,r 3 , 3 r
+179,Qinghua-184_skin-1,,Qinghua,184_skin,ʐɤ¹³,ʐɤ¹³,ʐ ɤ ¹³,,Sims2020,,,^ ʐ ɤ ¹³ $,default,Z o , Z o
+180,Jiulong-184_skin-1,,Jiulong,184_skin,ʐɿ³⁵,ʐɿ³⁵,ʐ ɿ ³⁵,,Sims2020,,,^ ʐ ɿ ³⁵ $,default,Z , Z
+181,Taoping-183_sitonhatchegg-1,,Taoping,183_sitonhatchegg,χne⁵⁵,χne⁵⁵,χ n e ⁵⁵,,Sims2020,,,^ χ n e ⁵⁵ $,default,X n e , X e n
+182,Mianchi-89_hatchbrood-1,,Mianchi,89_hatchbrood,né,né,n é/e,,Sims2020,,,^ n é $,default,n e e,e n
+183,Taoba-183_sitonhatchegg-1,,Taoba,183_sitonhatchegg,tə⁵⁵ ȵi⁵³,tə⁵⁵_ȵi⁵³,t ə ⁵⁵ + ȵ i ⁵³,,Sims2020,,,^ t ə ⁵⁵ _ ȵ i ⁵³ $,default,t 3   i , 3 i t
+184,Qinghua-104_layegg-1,,Qinghua,104_layegg,tə⁵⁵ ȵi⁵⁵,tə⁵⁵_ȵi⁵⁵,t ə ⁵⁵ + ȵ i ⁵⁵,,Sims2020,,,^ t ə ⁵⁵ _ ȵ i ⁵⁵ $,default,t 3   i , 3 i t
+185,Taoping-182_sitdown-1,,Taoping,182_sitdown,dzo³³,dzo³³,dz o ³³,,Sims2020,,,^ dz o ³³ $,default,dz o , dz o
+186,Longxi-182_sitdown-1,,Longxi,182_sitdown,ɦà zú,ɦà_zú,ɦ à/a + z ú/u,,Sims2020,,,^ ɦ à _ z ú $,default,h a a  z u u, a h u z
+187,Mianchi-182_sitdown-1,,Mianchi,182_sitdown,dzó,dzó,dz ó/o,,Sims2020,,,^ dz ó $,default,dz o o,dz o
+188,Wadu-182_sitdown-1,,Wadu,182_sitdown,nə̀ dzṍ,nə̀_dzṍ,n ə̀/ə + dz ṍ/õ,,Sims2020,,,^ n ə̀ _ dz ṍ $,default,n 3 3  dz o* o*, 3 dz n o*
+189,Niuwozi-182_sitdown-1,,Niuwozi,182_sitdown,dzõᴴ,dzõᴴ,dz õ ᴴ/⁵,,Sims2020,,,^ dz õᴴ $,default,dz o* , dz o*
+190,Taoba-182_sitdown-1,,Taoba,182_sitdown,nə³⁵ dziã⁵⁵,nə³⁵_dziã⁵⁵,n ə ³⁵ + dz i/j ã ⁵⁵,,Sims2020,,,^ n ə ³⁵ _ dz iã ⁵⁵ $,default,n 3   dz i y a* , 3 a* dz i n y
+191,Qinghua-182_sitdown-1,,Qinghua,182_sitdown,nə¹³ dziɛ̃⁵⁵,nə¹³_dziɛ̃⁵⁵,n ə ¹³ + dz i/j ɛ̃ ⁵⁵,,Sims2020,,,^ n ə ¹³ _ dz iɛ̃ ⁵⁵ $,default,n 3   dz i y E* , 3 E* dz i n y
+192,Lanping-182_sitdown-1,,Lanping,182_sitdown,nə¹³ dziɛ̃⁵⁵,nə¹³_dziɛ̃⁵⁵,n ə ¹³ + dz i/j ɛ̃ ⁵⁵,,Sims2020,,,^ n ə ¹³ _ dz iɛ̃ ⁵⁵ $,default,n 3   dz i y E* , 3 E* dz i n y
+193,Jiulong-182_sitdown-1,,Jiulong,182_sitdown,nə⁵⁵ dzə̃⁵⁵,nə⁵⁵_dzə̃⁵⁵,n ə ⁵⁵ + dz ə̃ ⁵⁵,,Sims2020,,,^ n ə ⁵⁵ _ dz ə̃ ⁵⁵ $,default,n 3   dz 3* , 3 3* dz n
+194,Taoping-181_sinew-1,,Taoping,181_sinew,dʐʅ²⁴¹,dʐʅ²⁴¹,ɖʐ ʅ ²⁴¹,,Sims2020,,,^ dʐ ʅ ²⁴¹ $,default,dZ , dZ
+195,Longxi-181_sinew-1,,Longxi,181_sinew,dzɨ̀,dzɨ̀,dz ɨ̆/ɨ,,Sims2020,,,^ dz ɨ̀ $,default,dz 3 3,3 dz
+196,Mianchi-181_sinew-1,,Mianchi,181_sinew,dʑɛ̀,dʑɛ̀,dʑ ɛ̀/ɛ,,Sims2020,,,^ dʑ ɛ̀ $,default,dZ E E,E dZ
+197,Yonghe-181_sinew-1,,Yonghe,181_sinew,dʐí,dʐí,ɖʐ í/i,,Sims2020,,,^ dʐ í $,default,dZ i i,dZ i
+198,Taoba-181_sinew-1,,Taoba,181_sinew,dʐu⁵³,dʐu⁵³,ɖʐ u ⁵³,,Sims2020,,,^ dʐ u ⁵³ $,default,dZ u , dZ u
+199,Taoping-180_silver-1,,Taoping,180_silver,χŋu⁵⁵,χŋu⁵⁵,χ ŋ u ⁵⁵,,Sims2020,,,^ χ ŋ u ⁵⁵ $,default,X N u , N X u
+200,Longxi-180_silver-1,,Longxi,180_silver,ŋú,ŋú,ŋ ú/u,,Sims2020,,,^ ŋ ú $,default,N u u,N u
+201,Mianchi-180_silver-1,,Mianchi,180_silver,ŋó,ŋó,ŋ ó/o,,Sims2020,,,^ ŋ ó $,default,N o o,N o
+202,Yonghe-180_silver-1,,Yonghe,180_silver,wú,wú,w ú/u,,Sims2020,,,^ w ú $,default,w u u,u w
+203,Wadu-180_silver-1,,Wadu,180_silver,ŋṍ,ŋṍ,ŋ ṍ/õ,,Sims2020,,,^ ŋ ṍ $,default,N o* o*,N o*
+204,Niuwozi-180_silver-1,,Niuwozi,180_silver,jõᴴ,jõᴴ,j õ ᴴ/⁵,,Sims2020,,,^ j õᴴ $,default,y o* , o* y
+205,Dayang-180_silver-1,,Dayang,180_silver,ŋoṹ,ŋoṹ,ŋ o ṹ/ũ,,Sims2020,,,^ ŋ o ṹ $,default,N o u* u*,N o u*
+206,Taoba-180_silver-1,,Taoba,180_silver,ȵõ⁵⁵,ȵõ⁵⁵,ȵ õ ⁵⁵,,Sims2020,,,^ ȵ õ ⁵⁵ $,default,o* , o*
+207,Qinghua-180_silver-1,,Qinghua,180_silver,ŋɑ̃u⁵⁵,ŋɑ̃u⁵⁵,ŋ ɑ̃ u ⁵⁵,,Sims2020,,,^ ŋ ɑ̃ u ⁵⁵ $,default,N o* u , N o* u
+208,Lanping-180_silver-1,,Lanping,180_silver,ŋɑ̃u⁵⁵,ŋɑ̃u⁵⁵,ŋ ɑ̃ u ⁵⁵,,Sims2020,,,^ ŋ ɑ̃ u ⁵⁵ $,default,N o* u , N o* u
+209,Jiulong-180_silver-1,,Jiulong,180_silver,ŋɯ̃³⁵,ŋɯ̃³⁵,ŋ ɯ̃ ³⁵,,Sims2020,,,^ ŋ ɯ̃ ³⁵ $,default,N u* , N u*
+210,Taoping-178_shoulder-1,,Taoping,178_shoulder,lɑ³¹ χɑ⁵⁵ pi³³,lɑ³¹_χɑ⁵⁵_pi³³,l ɑ ³¹ + χ ɑ ⁵⁵ + p i ³³,,Sims2020,,,^ l ɑ ³¹ _ χ ɑ ⁵⁵ _ p i ³³ $,default,l o   X o   p i , X i l o p
+211,Taoping-177_shootv-1,,Taoping,177_shootv,qʰa³³,qʰa³³,qʰ a ³³,,Sims2020,,,^ qʰ a ³³ $,default,qh~ a , a qh~
+212,Longxi-177_shootv-1,,Longxi,177_shootv,qʰò,qʰò,qʰ ò/o,,Sims2020,,,^ qʰ ò $,default,qh~ o o,o qh~
+213,Mianchi-177_shootv-1,,Mianchi,177_shootv,tʂʰà,tʂʰà,ʈʂʰ à/a,,Sims2020,,,^ tʂʰ à $,default,tSh~ a a,a tSh~
+214,Wadu-177_shootv-1,,Wadu,177_shootv,ʈʰæ̌,ʈʰæ̌,ʈʰ æ̆/æ,,Sims2020,,,^ ʈʰ æ̌ $,default,th~ E E,E th~
+215,Niuwozi-177_shootv-1,,Niuwozi,177_shootv,kʰʴɑ̌,kʰʴɑ̌,kʰ ʴ/³⁵ ɑ̆/ɑ,,Sims2020,,,^ kʰʴ ɑ̌ $,default,kh~  o o, kh~ o
+216,Taoba-177_shootv-1,,Taoba,177_shootv,kʰə³⁵ tʂʰa³⁵,kʰə³⁵_tʂʰa³⁵,kʰ ə ³⁵ + ʈʂʰ a ³⁵,,Sims2020,,,^ kʰ ə ³⁵ _ tʂʰ a ³⁵ $,default,kh~ 3   tSh~ a , 3 a kh~ tSh~
+217,Qinghua-177_shootv-1,,Qinghua,177_shootv,kʰə¹³ tʂʰɑ⁵⁵,kʰə¹³_tʂʰɑ⁵⁵,kʰ ə ¹³ + ʈʂʰ ɑ ⁵⁵,,Sims2020,,,^ kʰ ə ¹³ _ tʂʰ ɑ ⁵⁵ $,default,kh~ 3   tSh~ o , 3 kh~ o tSh~
+218,Lanping-177_shootv-1,,Lanping,177_shootv,kʰə¹³ tʂʰɑ⁵⁵,kʰə¹³_tʂʰɑ⁵⁵,kʰ ə ¹³ + ʈʂʰ ɑ ⁵⁵,,Sims2020,,,^ kʰ ə ¹³ _ tʂʰ ɑ ⁵⁵ $,default,kh~ 3   tSh~ o , 3 kh~ o tSh~
+219,Taoping-175_shit-1,,Taoping,175_shit,tʃʰɿ⁵⁵,tʃʰɿ⁵⁵,tʃʰ ɿ ⁵⁵,,Sims2020,,,^ tʃʰ ɿ ⁵⁵ $,default,tSh~ , tSh~
+220,Longxi-175_shit-1,,Longxi,175_shit,tsʰə̀,tsʰə̀,tsʰ ə̀/ə,,Sims2020,,,^ tsʰ ə̀ $,default,tsh~ 3 3,3 tsh~
+221,Mianchi-175_shit-1,,Mianchi,175_shit,tɕʰɛ́,tɕʰɛ́,tɕʰ ɛ́/ɛ,,Sims2020,,,^ tɕʰ ɛ́ $,default,tSh~ E E,E tSh~
+222,Yonghe-175_shit-1,,Yonghe,175_shit,ʂɨ́,ʂɨ́,ʂ ɨ́/ɨ,,Sims2020,,,^ ʂ ɨ́ $,default,S 3 3,3 S
+223,Niuwozi-175_shit-1,,Niuwozi,175_shit,kɜjᶠ,kɜjᶠ,k ɜj/ɜi ᶠ/⁵¹,,Sims2020,,,^ k ɜjᶠ $,default,k 3y 3i , 3i 3y k
+224,Dayang-175_shit-1,,Dayang,175_shit,χqá,χqá,χ q á/a,,Sims2020,,,^ χ q á $,default,X q a a,X a q
+225,Taoba-175_shit-1,,Taoba,175_shit,xe⁵³,xe⁵³,x e ⁵³,,Sims2020,,,^ x e ⁵³ $,default,x e , e x
+226,Qinghua-175_shit-1,,Qinghua,175_shit,sqa⁵⁵,sqa⁵⁵,s q a ⁵⁵,,Sims2020,,,^ s q a ⁵⁵ $,default,s q a , a q s
+227,Lanping-175_shit-1,,Lanping,175_shit,xqa⁵⁵,xqa⁵⁵,x q a ⁵⁵,,Sims2020,,,^ x q a ⁵⁵ $,default,x q a , a q x
+228,Jiulong-175_shit-1,,Jiulong,175_shit,qɛi⁵⁵,qɛi⁵⁵,q ɛi ⁵⁵,,Sims2020,,,^ q ɛi ⁵⁵ $,default,q Ei , Ei q
+229,Taoping-171_sharpengrind-1,,Taoping,171_sharpengrind,suə⁵⁵,suə⁵⁵,s u/w ə ⁵⁵,,Sims2020,,,^ s uə ⁵⁵ $,default,s u w 3 , 3 s u w
+230,Longxi-171_sharpengrind-1,,Longxi,171_sharpengrind,sù,sù,s ù/u,,Sims2020,,,^ s ù $,default,s u u,s u
+231,Mianchi-171_sharpengrind-1,,Mianchi,171_sharpengrind,sù,sù,s ù/u,,Sims2020,,,^ s ù $,default,s u u,s u
+232,Niuwozi-171_sharpengrind-1,,Niuwozi,171_sharpengrind,suᴿ,suᴿ,s u ᴿ/¹⁵,,Sims2020,,,^ s uᴿ $,default,s u , s u
+233,Taoba-171_sharpengrind-1,,Taoba,171_sharpengrind,kʰə³⁵ sui³⁵,kʰə³⁵_sui³⁵,kʰ ə ³⁵ + s ui ³⁵,,Sims2020,,,^ kʰ ə ³⁵ _ s ui ³⁵ $,default,kh~ 3   s ui , 3 kh~ s ui
+234,Qinghua-171_sharpengrind-1,,Qinghua,171_sharpengrind,kʰə¹³ syi¹³,kʰə¹³_syi¹³,kʰ ə ¹³ + s yi ¹³,,Sims2020,,,^ kʰ ə ¹³ _ s yi ¹³ $,default,kh~ 3   s ii , 3 ii kh~ s
+235,Taoping-170_sew-1,,Taoping,170_sew,ʐi³¹ ʐi³¹,ʐi³¹_ʐi³¹,ʐ i ³¹ + ʐ i ³¹,,Sims2020,,,^ ʐ i ³¹ _ ʐ i ³¹ $,default,Z i   Z i , Z i
+236,Longxi-170_sew-1,,Longxi,170_sew,ɹà í,ɹà_í,ɹ à/a + í/i,,Sims2020,,,^ ɹ à _ í $,default,r a a  i i, a i r
+237,Mianchi-170_sew-1,,Mianchi,170_sew,ʐì,ʐì,ʐ ì/i,,Sims2020,,,^ ʐ ì $,default,Z i i,Z i
+238,Yonghe-170_sew-1,,Yonghe,170_sew,zɨ̀ jí,zɨ̀_jí,z ɨ̆/ɨ + j í/i,,Sims2020,,,^ z ɨ̀ _ j í $,default,z 3 3  y i i, 3 i y z
+239,Wadu-170_sew-1,,Wadu,170_sew,dʐǐ,dʐǐ,ɖʐ ĭ/i,,Sims2020,,,^ dʐ ǐ $,default,dZ i i,dZ i
+240,Niuwozi-170_sew-1,,Niuwozi,170_sew,dʐiᴿ,dʐiᴿ,ɖʐ i ᴿ/¹⁵,,Sims2020,,,^ dʐ iᴿ $,default,dZ i , dZ i
+241,Lanping-170_sew-1,,Lanping,170_sew,dʐi¹³,dʐi¹³,ɖʐ i ¹³,,Sims2020,,,^ dʐ i ¹³ $,default,dZ i , dZ i
+242,Taoping-167_seed-1,,Taoping,167_seed,zuə³¹ zɑ²⁴¹,zuə³¹_zɑ²⁴¹,z u/w ə ³¹ + z ɑ ²⁴¹,,Sims2020,,,^ z uə ³¹ _ z ɑ ²⁴¹ $,default,z u w 3   z o , 3 o u w z
+243,Longxi-167_seed-1,,Longxi,167_seed,dzueì,dzueì,dz u/w e ì/i,,Sims2020,,,^ dz ue ì $,default,dz u w e i i,dz e i u w
+244,Mianchi-149_pitstonebullet-1,,Mianchi,149_pitstonebullet,zuì,zuì,z u ì/i,,Sims2020,,,^ z u ì $,default,z u i i,i u z
+245,Taoping-166_rope-1,,Taoping,166_rope,bʐe³³,bʐe³³,b ʐ e ³³,,Sims2020,,,^ bʐ e ³³ $,default,b Z e , Z b e
+246,Mianchi-166_rope-1,,Mianchi,166_rope,bʐè,bʐè,b ʐ è/e,,Sims2020,,,^ bʐ è $,default,b Z e e,Z b e
+247,Wadu-166_rope-1,,Wadu,166_rope,dʐwẽ̌,dʐwẽ̌,ɖʐ w ẽ̌/ẽ,,Sims2020,,,^ dʐw ẽ̌ $,default,dZ w e* e*,dZ e* w
+248,Niuwozi-166_rope-1,,Niuwozi,166_rope,bʴjẽᴿ,bʴjẽᴿ,b ʴ/ɹ j ẽ ᴿ/¹⁵,,Sims2020,,,^ bʴ j ẽᴿ $,default,b r y e* , b e* r y
+249,Dayang-166_rope-1,,Dayang,166_rope,bʐẽ̌,bʐẽ̌,b ʐ ẽ̌/ẽ,,Sims2020,,,^ bʐ ẽ̌ $,default,b Z e* e*,Z b e*
+250,Taoba-166_rope-1,,Taoba,166_rope,bʐẽ³⁵,bʐẽ³⁵,b ʐ ẽ ³⁵,,Sims2020,,,^ bʐ ẽ ³⁵ $,default,b Z e* , Z b e*
+251,Qinghua-166_rope-1,,Qinghua,166_rope,bʐə̃¹³,bʐə̃¹³,b ʐ ə̃ ¹³,,Sims2020,,,^ bʐ ə̃ ¹³ $,default,b Z 3* , 3* Z b
+252,Lanping-166_rope-1,,Lanping,166_rope,bʐə̃¹³,bʐə̃¹³,b ʐ ə̃ ¹³,,Sims2020,,,^ bʐ ə̃ ¹³ $,default,b Z 3* , 3* Z b
+253,Taoping-159_red-1,,Taoping,159_red,χȵi³¹ ȵi³³,χȵi³¹_ȵi³³,χ ȵ i ³¹ + ȵ i ³³,,Sims2020,,,^ χ ȵ i ³¹ _ ȵ i ³³ $,default,X i   i , X i
+254,Longxi-159_red-1,,Longxi,159_red,ɕí,ɕí,ɕ í/i,,Sims2020,,,^ ɕ í $,default,S i i,S i
+255,Mianchi-159_red-1,,Mianchi,159_red,nə́,nə́,n ə́/ə,,Sims2020,,,^ n ə́ $,default,n 3 3,3 n
+256,Yonghe-159_red-1,,Yonghe,159_red,xí,xí,x í/i,,Sims2020,,,^ x í $,default,x i i,i x
+257,Niuwozi-159_red-1,,Niuwozi,159_red,neᴴ,neᴴ,n e ᴴ/⁵,,Sims2020,,,^ n eᴴ $,default,n e , e n
+258,Dayang-159_red-1,,Dayang,159_red,ȵé,ȵé,ȵ é/e,,Sims2020,,,^ ȵ é $,default,e e,e
+259,Taoba-159_red-1,,Taoba,159_red,ȵɛ⁵⁵ mə⁵³,ȵɛ⁵⁵_mə⁵³,ȵ ɛ ⁵⁵ + m ə ⁵³,,Sims2020,,,^ ȵ ɛ ⁵⁵ _ m ə ⁵³ $,default,E   m 3 , 3 E m
+260,Qinghua-159_red-1,,Qinghua,159_red,ȵø⁵⁵,ȵø⁵⁵,ȵ ø ⁵⁵,,Sims2020,,,^ ȵ ø ⁵⁵ $,default,e , e
+261,Lanping-159_red-1,,Lanping,159_red,ȵø⁵⁵,ȵø⁵⁵,ȵ ø ⁵⁵,,Sims2020,,,^ ȵ ø ⁵⁵ $,default,e , e
+262,Jiulong-34_copperredpurecopper-1,,Jiulong,34_copperredpurecopper,ȵẽ⁵⁵,ȵẽ⁵⁵,ȵ ẽ ⁵⁵,,Sims2020,,,^ ȵ ẽ ⁵⁵ $,default,e* , e*
+263,Taoping-158_raw-1,,Taoping,158_raw,ʂe⁵⁵,ʂe⁵⁵,ʂ e ⁵⁵,,Sims2020,,,^ ʂ e ⁵⁵ $,default,S e , S e
+264,Taoba-158_raw-1,,Taoba,158_raw,sə⁵⁵ sə⁵⁵ mə⁵³,sə⁵⁵_sə⁵⁵_mə⁵³,s ə ⁵⁵ + s ə ⁵⁵ + m ə ⁵³,,Sims2020,,,^ s ə ⁵⁵ _ s ə ⁵⁵ _ m ə ⁵³ $,default,s 3   s 3   m 3 , 3 m s
+265,Qinghua-158_raw-1,,Qinghua,158_raw,sə⁵⁵ sə⁵⁵,sə⁵⁵_sə⁵⁵,s ə ⁵⁵ + s ə ⁵⁵,,Sims2020,,,^ s ə ⁵⁵ _ s ə ⁵⁵ $,default,s 3   s 3 , 3 s
+266,Lanping-158_raw-1,,Lanping,158_raw,sə⁵⁵ sə⁵⁵,sə⁵⁵_sə⁵⁵,s ə ⁵⁵ + s ə ⁵⁵,,Sims2020,,,^ s ə ⁵⁵ _ s ə ⁵⁵ $,default,s 3   s 3 , 3 s
+267,Taoping-155_price-1,,Taoping,155_price,pʰə³³,pʰə³³,pʰ ə ³³,,Sims2020,,,^ pʰ ə ³³ $,default,ph~ 3 , 3 ph~
+268,Longxi-155_price-1,,Longxi,155_price,pʰù,pʰù,pʰ ù/u,,Sims2020,,,^ pʰ ù $,default,ph~ u u,ph~ u
+269,Mianchi-155_price-1,,Mianchi,155_price,pʰɛ̀,pʰɛ̀,pʰ ɛ̀/ɛ,,Sims2020,,,^ pʰ ɛ̀ $,default,ph~ E E,E ph~
+270,Wadu-155_price-1,,Wadu,155_price,pʰʉ̌,pʰʉ̌,pʰ ʉ̆/ʉ,,Sims2020,,,^ pʰ ʉ̌ $,default,ph~ 3 3,3 ph~
+271,Niuwozi-155_price-1,,Niuwozi,155_price,pʰʴʉᴿ,pʰʴʉᴿ,pʰ ʴ/ɹ ʉ ᴿ/¹⁵,,Sims2020,,,^ pʰʴ ʉᴿ $,default,ph~ r 3 , 3 ph~ r
+272,Dayang-155_price-1,,Dayang,155_price,pʰǔ,pʰǔ,pʰ ŭ/u,,Sims2020,,,^ pʰ ǔ $,default,ph~ u u,ph~ u
+273,Taoba-155_price-1,,Taoba,155_price,pʰu³⁵,pʰu³⁵,pʰ u ³⁵,,Sims2020,,,^ pʰ u ³⁵ $,default,ph~ u , ph~ u
+274,Qinghua-155_price-1,,Qinghua,155_price,pʰu¹³,pʰu¹³,pʰ u ¹³,,Sims2020,,,^ pʰ u ¹³ $,default,ph~ u , ph~ u
+275,Jiulong-155_price-1,,Jiulong,155_price,pʰy⁵⁵ qo⁵⁵,pʰy⁵⁵_qo⁵⁵,pʰ y ⁵⁵ + q o ⁵⁵,,Sims2020,,,^ pʰ y ⁵⁵ _ q o ⁵⁵ $,default,ph~ i   q o , i o ph~ q
+276,Taoping-150_platedish-1,,Taoping,150_platedish,be³³,be³³,b e ³³,,Sims2020,,,^ b e ³³ $,default,b e , b e
+277,Taoping-148_pig-1,,Taoping,148_pig,pa³³,pa³³,p a ³³,,Sims2020,,,^ p a ³³ $,default,p a , a p
+278,Longxi-148_pig-1,,Longxi,148_pig,pià,pià,p i/j à/a,,Sims2020,,,^ p ià $,default,p i y a a,a i p y
+279,Mianchi-148_pig-1,,Mianchi,148_pig,pià,pià,p i/j à/a,,Sims2020,,,^ p ià $,default,p i y a a,a i p y
+280,Yonghe-148_pig-1,,Yonghe,148_pig,pæ̌,pæ̌,p æ̆/æ,,Sims2020,,,^ p æ̌ $,default,p E E,E p
+281,Wadu-148_pig-1,,Wadu,148_pig,tɕʰwæ̌,tɕʰwæ̌,tɕʰ w æ̆/æ,,Sims2020,,,^ tɕʰw æ̌ $,default,tSh~ w E E,E tSh~ w
+282,Niuwozi-148_pig-1,,Niuwozi,148_pig,tʃʰɥǎᴿ,tʃʰɥǎᴿ,tʃʰ ɥ ǎ/a ᴿ/¹⁵,,Sims2020,,,^ tʃʰ ɥ ǎᴿ $,default,tSh~ y a a , a tSh~ y
+283,Dayang-148_pig-1,,Dayang,148_pig,tʃʰɥǎ,tʃʰɥǎ,tʃʰ ɥ ă/a,,Sims2020,,,^ tʃʰ ɥ ǎ $,default,tSh~ y a a,a tSh~ y
+284,Taoba-148_pig-1,,Taoba,148_pig,tɕyɛ³⁵,tɕyɛ³⁵,tɕ y ɛ ³⁵,,Sims2020,,,^ tɕ y ɛ ³⁵ $,default,tS i E , E i tS
+285,Qinghua-148_pig-1,,Qinghua,148_pig,pʰʒɑ¹³,pʰʒɑ¹³,pʰ ʒ ɑ ¹³,,Sims2020,,,^ pʰʒ ɑ ¹³ $,default,ph~ Z o , Z o ph~
+286,Lanping-148_pig-1,,Lanping,148_pig,pʰʃɑ¹³,pʰʃɑ¹³,pʰ ʃ ɑ ¹³,,Sims2020,,,^ pʰʃ ɑ ¹³ $,default,ph~ S o , S o ph~
+287,Jiulong-148_pig-1,,Jiulong,148_pig,tɕyə³⁵,tɕyə³⁵,tɕ y ə ³⁵,,Sims2020,,,^ tɕ y ə ³⁵ $,default,tS i 3 , 3 i tS
+288,Taoping-146_peopleclan-1,,Taoping,146_peopleclan,χma³³,χma³³,χ m a ³³,,Sims2020,,,^ χ m a ³³ $,default,X m a , X a m
+289,Longxi-146_peopleclan-1,,Longxi,146_peopleclan,mà,mà,m à/a,,Sims2020,,,^ m à $,default,m a a,a m
+290,Mianchi-146_peopleclan-1,,Mianchi,146_peopleclan,mà,mà,m à/a,,Sims2020,,,^ m à $,default,m a a,a m
+291,Yonghe-146_peopleclan-1,,Yonghe,146_peopleclan,mə̌ʴ,mə̌ʴ,m ə̌/ə ʴ/ɹ,,Sims2020,,,^ m ə̌ʴ $,default,m 3 3 r,3 m r
+292,Taoping-144_patchv-1,,Taoping,144_patchv,χpe³³,χpe³³,χ p e ³³,,Sims2020,,,^ χ p e ³³ $,default,X p e , X e p
+293,Longxi-143_patchn-1,,Longxi,143_patchn,pà qó,pà_qó,p à/a + q ó/o,,Sims2020,,,^ p à _ q ó $,default,p a a  q o o, a o p q
+294,Mianchi-142_patchn-1,,Mianchi,142_patchn,pɛ ̀tʂʰì,pɛ_tʂʰì,p ɛ + ʈʂʰ ì/i,,Sims2020,,,^ p ɛ _ tʂʰ ì $,default,p E  tSh~ i i, E i p tSh~
+295,Niuwozi-144_patchv-1,,Niuwozi,144_patchv,pʰeᴿ,pʰeᴿ,pʰ e ᴿ/¹⁵,,Sims2020,,,^ pʰ eᴿ $,default,ph~ e , e ph~
+296,Dayang-144_patchv-1,,Dayang,144_patchv,ɸpʰyě,ɸpʰyě,ɸ pʰ y ĕ/e,,Sims2020,,,^ ɸ pʰ y ě $,default,p ph~ i e e,e i p ph~
+297,Taoba-144_patchv-1,,Taoba,144_patchv,xə³⁵ pʰiɛ³⁵,xə³⁵_pʰiɛ³⁵,x ə ³⁵ + pʰ i/j ɛ ³⁵,,Sims2020,,,^ x ə ³⁵ _ pʰ iɛ ³⁵ $,default,x 3   ph~ i y E , 3 E i ph~ x y
+298,Qinghua-144_patchv-1,,Qinghua,144_patchv,xə¹³ fpʰɛ¹³,xə¹³_fpʰɛ¹³,x ə ¹³ + f pʰ ɛ ¹³,,Sims2020,,,^ x ə ¹³ _ f pʰ ɛ ¹³ $,default,x 3   f ph~ E , 3 E f ph~ x
+299,Lanping-144_patchv-1,,Lanping,144_patchv,xə¹³ spʰɛ¹³,xə¹³_spʰɛ¹³,x ə ¹³ + s pʰ ɛ ¹³,,Sims2020,,,^ x ə ¹³ _ s pʰ ɛ ¹³ $,default,x 3   s ph~ E , 3 E ph~ s x
+300,Jiulong-144_patchv-1,,Jiulong,144_patchv,pʰa¹¹ la¹¹ de³⁵,pʰa¹¹_la¹¹_de³⁵,pʰ a ¹¹ + l a ¹¹ + d e ³⁵,,Sims2020,,,^ pʰ a ¹¹ _ l a ¹¹ _ d e ³⁵ $,default,ph~ a   l a   d e , a d e l ph~
+301,Taoping-141_pantstrousers-1,,Taoping,141_pantstrousers,iɑ³¹ ʃɿ³³,iɑ³¹_ʃɿ³³,i ɑ ³¹ + ʃ ɿ ³³,,Sims2020,,,^ i ɑ ³¹ _ ʃ ɿ ³³ $,default,i o   S , S i o
+302,Wadu-141_pantstrousers-1,,Wadu,141_pantstrousers,ʑə̌,ʑə̌,ʑ ə̆/ə,,Sims2020,,,^ ʑ ə̌ $,default,Z 3 3,3 Z
+303,Taoba-141_pantstrousers-1,,Taoba,141_pantstrousers,ʑɨ³⁵,ʑɨ³⁵,ʑ ɨ ³⁵,,Sims2020,,,^ ʑ ɨ ³⁵ $,default,Z 3 , 3 Z
+304,Taoping-138_overflow-1,,Taoping,138_overflow,bə³³,bə³³,b ə ³³,,Sims2020,,,^ b ə ³³ $,default,b 3 , 3 b
+305,Taoping-136_open-1,,Taoping,136_open,pʰʐa⁵⁵,pʰʐa⁵⁵,pʰ ʐ a ⁵⁵,,Sims2020,,,^ pʰʐ a ⁵⁵ $,default,ph~ Z a , Z a ph~
+306,Longxi-137_openeye-1,,Longxi,137_openeye,tə̀ pʰé,tə̀_pʰé,t ə̀/ə + pʰ é/e,,Sims2020,,,^ t ə̀ _ pʰ é $,default,t 3 3  ph~ e e, 3 e ph~ t
+307,Mianchi-136_open-1,,Mianchi,136_open,pʰɚ́,pʰɚ́,pʰ ə́˞/ɚ,,Sims2020,,,^ pʰ ɚ́ $,default,ph~ 3 3,3 ph~
+308,Taoba-136_open-1,,Taoba,136_open,kʰə³⁵ pʰa⁵³,kʰə³⁵_pʰa⁵³,kʰ ə ³⁵ + pʰ a ⁵³,,Sims2020,,,^ kʰ ə ³⁵ _ pʰ a ⁵³ $,default,kh~ 3   ph~ a , 3 a kh~ ph~
+309,Lanping-200_splitopenrend-1,,Lanping,200_splitopenrend,tʰə¹³ pʃɑ⁵⁵,tʰə¹³_pʃɑ⁵⁵,tʰ ə ¹³ + p ʃ ɑ ⁵⁵,,Sims2020,,,^ tʰ ə ¹³ _ pʃ ɑ ⁵⁵ $,default,th~ 3   p S o , 3 S o p th~
+310,Jiulong-136_open-1,,Jiulong,136_open,kʰɯ¹¹ pʰo⁵⁵,kʰɯ¹¹_pʰo⁵⁵,kʰ ɯ ¹¹ + pʰ o ⁵⁵,,Sims2020,,,^ kʰ ɯ ¹¹ _ pʰ o ⁵⁵ $,default,kh~ u   ph~ o , kh~ o ph~ u
+311,Taoping-132_nose-1,,Taoping,132_nose,χȵi³¹ qo⁵⁵ pə³³,χȵi³¹_qo⁵⁵_pə³³,χ ȵ i ³¹ + q o ⁵⁵ + p ə ³³,,Sims2020,,,^ χ ȵ i ³¹ _ q o ⁵⁵ _ p ə ³³ $,default,X i   q o   p 3 , 3 X i o p q
+312,Longxi-132_nose-1,,Longxi,132_nose,tì bá-qə̀,tì_bá-qə̀,t ì/i + b á/a + q ə̀/ə,,Sims2020,,,^ t ì _ b á - q ə̀ $,default,t i i  b a a  q 3 3, 3 a b i q t
+313,Mianchi-132_nose-1,,Mianchi,132_nose,nə̀ qɛ́ pì,nə̀_qɛ́_pì,n ə̀/ə + q ɛ́/ɛ + p ì/i,,Sims2020,,,^ n ə̀ _ q ɛ́ _ p ì $,default,n 3 3  q E E  p i i, 3 E i n p q
+314,Yonghe-132_nose-1,,Yonghe,132_nose,tə̀ qɑ́ pù,tə̀_qɑ́_pù,t ə̀/ə + q ɑ́/ɑ + p ù/u,,Sims2020,,,^ t ə̀ _ q ɑ́ _ p ù $,default,t 3 3  q o o  p u u, 3 o p q t u
+315,Niuwozi-132_nose-1,,Niuwozi,132_nose,n̥iᴸ dʒjõᴴ,n̥iᴸ_dʒjõᴴ,n̥ i ᴸ/¹ + dʒ j õ ᴴ/⁵,,Sims2020,,,^ n̥ iᴸ _ dʒ j õᴴ $,default,n i   dZ y o* , dZ i n o* y
+316,Taoba-132_nose-1,,Taoba,132_nose,n̥ə³⁵ ɣiã⁵³,n̥ə³⁵_ɣiã⁵³,n̥ ə ³⁵ + ɣ i/j ã ⁵³,,Sims2020,,,^ n̥ ə ³⁵ _ ɣ iã ⁵³ $,default,n 3   x i y a* , 3 a* i n x y
+317,Qinghua-132_nose-1,,Qinghua,132_nose,xiɛ̃¹³ dʒõ⁵⁵,xiɛ̃¹³_dʒõ⁵⁵,x i/j ɛ̃ ¹³ + dʒ õ ⁵⁵,,Sims2020,,,^ x iɛ̃ ¹³ _ dʒ õ ⁵⁵ $,default,x i y E*   dZ o* , E* dZ i o* x y
+318,Lanping-132_nose-1,,Lanping,132_nose,xiɛ̃¹³ dʒõ⁵⁵,xiɛ̃¹³_dʒõ⁵⁵,x i/j ɛ̃ ¹³ + dʒ õ ⁵⁵,,Sims2020,,,^ x iɛ̃ ¹³ _ dʒ õ ⁵⁵ $,default,x i y E*   dZ o* , E* dZ i o* x y
+319,Jiulong-132_nose-1,,Jiulong,132_nose,ȵ̥ĩ¹¹ gõ³⁵,ȵ̥ĩ¹¹_gõ³⁵,ȵ̊ ĩ ¹¹ + g õ ³⁵,,Sims2020,,,^ ȵ̥ ĩ ¹¹ _ g õ ³⁵ $,default,i*   g o* , g i* o*
+320,Taoping-130_new-1,,Taoping,130_new,tsʰi⁵⁵,tsʰi⁵⁵,tsʰ i ⁵⁵,,Sims2020,,,^ tsʰ i ⁵⁵ $,default,tsh~ i , i tsh~
+321,Longxi-130_new-1,,Longxi,130_new,tɕʰí,tɕʰí,tɕʰ í/i,,Sims2020,,,^ tɕʰ í $,default,tSh~ i i,i tSh~
+322,Mianchi-130_new-1,,Mianchi,130_new,sí,sí,s í/i,,Sims2020,,,^ s í $,default,s i i,i s
+323,Yonghe-130_new-1,,Yonghe,130_new,sɨ́,sɨ́,s ɨ́/ɨ,,Sims2020,,,^ s ɨ́ $,default,s 3 3,3 s
+324,Niuwozi-130_new-1,,Niuwozi,130_new,ʃiᴿ,ʃiᴿ,ʃ i ᴿ/¹⁵,,Sims2020,,,^ ʃ iᴿ $,default,S i , S i
+325,Taoba-130_new-1,,Taoba,130_new,ɕi⁵⁵ ɕi⁵⁵ mə⁵³,ɕi⁵⁵_ɕi⁵⁵_mə⁵³,ɕ i ⁵⁵ + ɕ i ⁵⁵ + m ə ⁵³,,Sims2020,,,^ ɕ i ⁵⁵ _ ɕ i ⁵⁵ _ m ə ⁵³ $,default,S i   S i   m 3 , 3 S i m
+326,Qinghua-130_new-1,,Qinghua,130_new,ʂi¹³ ʂi¹³,ʂi¹³_ʂi¹³,ʂ i ¹³ + ʂ i ¹³,,Sims2020,,,^ ʂ i ¹³ _ ʂ i ¹³ $,default,S i   S i , S i
+327,Lanping-130_new-1,,Lanping,130_new,ʂi¹³ ʂi¹³,ʂi¹³_ʂi¹³,ʂ i ¹³ + ʂ i ¹³,,Sims2020,,,^ ʂ i ¹³ _ ʂ i ¹³ $,default,S i   S i , S i
+328,Jiulong-130_new-1,,Jiulong,130_new,sə⁵⁵ pa⁵⁵,sə⁵⁵_pa⁵⁵,s ə ⁵⁵ + p a ⁵⁵,,Sims2020,,,^ s ə ⁵⁵ _ p a ⁵⁵ $,default,s 3   p a , 3 a p s
+329,Taoping-128_nephew-1,,Taoping,128_nephew,dʑi³¹,dʑi³¹,dʑ i ³¹,,Sims2020,,,^ dʑ i ³¹ $,default,dZ i , dZ i
+330,Longxi-128_nephew-1,,Longxi,128_nephew,dʑì qʰuá,dʑì_qʰuá,dʑ ì/i + qʰ u á/a,,Sims2020,,,^ dʑ ì _ qʰ u á $,default,dZ i i  qh~ u a a, a dZ i qh~ u
+331,Mianchi-128_nephew-1,,Mianchi,128_nephew,dʑì,dʑì,dʑ ì/i,,Sims2020,,,^ dʑ ì $,default,dZ i i,dZ i
+332,Niuwozi-129_nephewpaternal-1,,Niuwozi,129_nephewpaternal,djuᴿ,djuᴿ,d j u ᴿ/¹⁵,,Sims2020,,,^ d j uᴿ $,default,d y u , d u y
+333,Dayang-128_nephew-1,,Dayang,128_nephew,dyǔ,dyǔ,d y ŭ/u,,Sims2020,,,^ d y ǔ $,default,d i u u,d i u
+334,Taoba-128_nephew-1,,Taoba,128_nephew,diu³⁵,diu³⁵,d i u ³⁵,,Sims2020,,,^ d i u ³⁵ $,default,d i u , d i u
+335,Qinghua-128_nephew-1,,Qinghua,128_nephew,diu¹³,diu¹³,d i u ¹³,,Sims2020,,,^ d i u ¹³ $,default,d i u , d i u
+336,Lanping-128_nephew-1,,Lanping,128_nephew,diu¹³,diu¹³,d i u ¹³,,Sims2020,,,^ d i u ¹³ $,default,d i u , d i u
+337,Taoping-127_needle-1,,Taoping,127_needle,χe³³,χe³³,χ e ³³,,Sims2020,,,^ χ e ³³ $,default,X e , X e
+338,Longxi-127_needle-1,,Longxi,127_needle,χèi,χèi,χ è/e i,,Sims2020,,,^ χ è i $,default,X e e i,X e i
+339,Mianchi-127_needle-1,,Mianchi,127_needle,χɛ̀,χɛ̀,χ ɛ̀/ɛ,,Sims2020,,,^ χ ɛ̀ $,default,X E E,E X
+340,Yonghe-127_needle-1,,Yonghe,127_needle,χə̌,χə̌,χ ə̆/ə,,Sims2020,,,^ χ ə̌ $,default,X 3 3,3 X
+341,Wadu-127_needle-1,,Wadu,127_needle,qʰǔ,qʰǔ,qʰ ŭ/u,,Sims2020,,,^ qʰ ǔ $,default,qh~ u u,qh~ u
+342,Niuwozi-127_needle-1,,Niuwozi,127_needle,kʰoᴿ,kʰoᴿ,kʰ o ᴿ/¹⁵,,Sims2020,,,^ kʰ oᴿ $,default,kh~ o , kh~ o
+343,Dayang-127_needle-1,,Dayang,127_needle,qʰǒ,qʰǒ,qʰ ŏ/o,,Sims2020,,,^ qʰ ǒ $,default,qh~ o o,o qh~
+344,Taoba-127_needle-1,,Taoba,127_needle,qʰo³⁵,qʰo³⁵,qʰ o ³⁵,,Sims2020,,,^ qʰ o ³⁵ $,default,qh~ o , o qh~
+345,Qinghua-127_needle-1,,Qinghua,127_needle,qʰo⁵⁵,qʰo⁵⁵,qʰ o ⁵⁵,,Sims2020,,,^ qʰ o ⁵⁵ $,default,qh~ o , o qh~
+346,Lanping-127_needle-1,,Lanping,127_needle,qʰo⁵⁵,qʰo⁵⁵,qʰ o ⁵⁵,,Sims2020,,,^ qʰ o ⁵⁵ $,default,qh~ o , o qh~
+347,Jiulong-127_needle-1,,Jiulong,127_needle,qʰo⁵⁵,qʰo⁵⁵,qʰ o ⁵⁵,,Sims2020,,,^ qʰ o ⁵⁵ $,default,qh~ o , o qh~
+348,Taoping-126_narrow-1,,Taoping,126_narrow,tɕʰe³³,tɕʰe³³,tɕʰ e ³³,,Sims2020,,,^ tɕʰ e ³³ $,default,tSh~ e , e tSh~
+349,Longxi-126_narrow-1,,Longxi,126_narrow,tɕʰá,tɕʰá,tɕʰ á/a,,Sims2020,,,^ tɕʰ á $,default,tSh~ a a,a tSh~
+350,Taoba-126_narrow-1,,Taoba,126_narrow,ʂə⁵⁵ mə⁵³,ʂə⁵⁵_mə⁵³,ʂ ə ⁵⁵ + m ə ⁵³,,Sims2020,,,^ ʂ ə ⁵⁵ _ m ə ⁵³ $,default,S 3   m 3 , 3 S m
+351,Qinghua-126_narrow-1,,Qinghua,126_narrow,stʃə⁵⁵,stʃə⁵⁵,s tʃ ə ⁵⁵,,Sims2020,,,^ s tʃ ə ⁵⁵ $,default,s tS 3 , 3 s tS
+352,Lanping-126_narrow-1,,Lanping,126_narrow,ʃtʃə⁵⁵,ʃtʃə⁵⁵,ʃ tʃ ə ⁵⁵,,Sims2020,,,^ ʃ tʃ ə ⁵⁵ $,default,S tS 3 , 3 S tS
+353,Jiulong-126_narrow-1,,Jiulong,126_narrow,tɕʰy¹¹ tɕʰy⁵⁵,tɕʰy¹¹_tɕʰy⁵⁵,tɕʰ y ¹¹ + tɕʰ y ⁵⁵,,Sims2020,,,^ tɕʰ y ¹¹ _ tɕʰ y ⁵⁵ $,default,tSh~ i   tSh~ i , i tSh~
+354,Taoping-125_name-1,,Taoping,125_name,χmə⁵⁵,χmə⁵⁵,χ m ə ⁵⁵,,Sims2020,,,^ χ m ə ⁵⁵ $,default,X m 3 , 3 X m
+355,Longxi-125_name-1,,Longxi,125_name,zə̀ mú,zə̀_mú,z ə̀/ə + m ú/u,,Sims2020,,,^ z ə̀ _ m ú $,default,z 3 3  m u u, 3 m u z
+356,Yonghe-125_name-1,,Yonghe,125_name,mə́ʴ,mə́ʴ,m ə́/ə ʴ/ɹ,,Sims2020,,,^ m ə́ʴ $,default,m 3 3 r,3 m r
+357,Wadu-125_name-1,,Wadu,125_name,mǽ̃,mǽ̃,m ǽ̃/æ̃,,Sims2020,,,^ m ǽ̃ $,default,m E* E*,E* m
+358,Niuwozi-125_name-1,,Niuwozi,125_name,mɑ̃ᴴ,mɑ̃ᴴ,m ɑ̃ ᴴ/⁵,,Sims2020,,,^ m ɑ̃ᴴ $,default,m o* , m o*
+359,Dayang-125_name-1,,Dayang,125_name,mɑ̃́,mɑ̃́,m ɑ̃́/ɑ̃,,Sims2020,,,^ m ɑ̃́ $,default,m o* o*,m o*
+360,Taoba-125_name-1,,Taoba,125_name,mɛ̃⁵⁵,mɛ̃⁵⁵,m ɛ̃ ⁵⁵,,Sims2020,,,^ m ɛ̃ ⁵⁵ $,default,m E* , E* m
+361,Qinghua-125_name-1,,Qinghua,125_name,ma⁵⁵,ma⁵⁵,m a ⁵⁵,,Sims2020,,,^ m a ⁵⁵ $,default,m a , a m
+362,Lanping-125_name-1,,Lanping,125_name,ma⁵⁵,ma⁵⁵,m a ⁵⁵,,Sims2020,,,^ m a ⁵⁵ $,default,m a , a m
+363,Jiulong-125_name-1,,Jiulong,125_name,mã³⁵,mã³⁵,m ã ³⁵,,Sims2020,,,^ m ã ³⁵ $,default,m a* , a* m
+364,Longxi-13_bloom-1,,Longxi,13_bloom,tə̀ pá,tə̀_pá,t ə̀/ə + p á/a,,Sims2020,,,^ t ə̀ _ p á $,default,t 3 3  p a a, 3 a p t
+365,Mianchi-13_bloom-1,,Mianchi,13_bloom,pɛ̀,pɛ̀,p ɛ̀/ɛ,,Sims2020,,,^ p ɛ̀ $,default,p E E,E p
+366,Yonghe-13_bloom-1,,Yonghe,13_bloom,tə̀ pá,tə̀_pá,t ə̀/ə + p á/a,,Sims2020,,,^ t ə̀ _ p á $,default,t 3 3  p a a, 3 a p t
+367,Qinghua-13_bloom-1,,Qinghua,13_bloom,tə⁵⁵ pɐ⁵⁵,tə⁵⁵_pɐ⁵⁵,t ə ⁵⁵ + p ɐ ⁵⁵,,Sims2020,,,^ t ə ⁵⁵ _ p ɐ ⁵⁵ $,default,t 3   p a , 3 a p t
+368,Taoping-124_mushroom-1,,Taoping,124_mushroom,mɑ³¹ ʐu³³,mɑ³¹_ʐu³³,m ɑ ³¹ + ʐ u ³³,,Sims2020,,,^ m ɑ ³¹ _ ʐ u ³³ $,default,m o   Z u , Z m o u
+369,Longxi-124_mushroom-1,,Longxi,124_mushroom,mə̀ ɚ̀,mə̀_ɚ̀,m ə̀/ə + ə̀˞/ə˞,,Sims2020,,,^ m ə̀ _ ɚ̀ $,default,m 3 3  3 3, 3 m
+370,Mianchi-124_mushroom-1,,Mianchi,124_mushroom,mò tsú ~ mɛ̀ ʐú,mò_tsú,m ò/o + ts ú/u,,Sims2020,,,^ m ò _ ts ú $,default,m o o  ts u u, m o ts u
+371,Yonghe-124_mushroom-1,,Yonghe,124_mushroom,mù xí,mù_xí,m ù/u + x í/i,,Sims2020,,,^ m ù _ x í $,default,m u u  x i i, i m u x
+372,Wadu-124_mushroom-1,,Wadu,124_mushroom,mǐ,mǐ,m ĭ/i,,Sims2020,,,^ m ǐ $,default,m i i,i m
+373,Dayang-124_mushroom-1,,Dayang,124_mushroom,mrẽ̌,mrẽ̌,m r ẽ̌/ẽ,,Sims2020,,,^ m r ẽ̌ $,default,m r e* e*,e* m r
+374,Taoba-124_mushroom-1,,Taoba,124_mushroom,mi³⁵,mi³⁵,m i ³⁵,,Sims2020,,,^ m i ³⁵ $,default,m i , i m
+375,Qinghua-124_mushroom-1,,Qinghua,124_mushroom,mʐi¹³,mʐi¹³,m ʐ i ¹³,,Sims2020,,,^ mʐ i ¹³ $,default,m Z i , Z i m
+376,Lanping-124_mushroom-1,,Lanping,124_mushroom,mʐi¹³,mʐi¹³,m ʐ i ¹³,,Sims2020,,,^ mʐ i ¹³ $,default,m Z i , Z i m
+377,Jiulong-124_mushroom-1,,Jiulong,124_mushroom,mỹ³⁵,mỹ³⁵,m ỹ ³⁵,,Sims2020,,,^ m ỹ ³⁵ $,default,m i* , i* m
+378,Taoping-122_moon-1,,Taoping,122_moon,ɕy³³ ɕya⁵⁵,ɕy³³_ɕya⁵⁵,ɕ y ³³ + ɕ y a ⁵⁵,,Sims2020,,,^ ɕ y ³³ _ ɕ y a ⁵⁵ $,default,S i   S i a , S a i
+379,Longxi-122_moon-1,,Longxi,122_moon,lə̀,lə̀,l ə̀/ə,,Sims2020,,,^ l ə̀ $,default,l 3 3,3 l
+380,Mianchi-122_moon-1,,Mianchi,122_moon,ɬə̀,ɬə̀,ɬ ə̀/ə,,Sims2020,,,^ ɬ ə̀ $,default,L 3 3,3 L
+381,Yonghe-122_moon-1,,Yonghe,122_moon,ɬì ɕʷǽ,ɬì_ɕʷǽ,ɬ ì/i + ɕʷ ǽ/æ,,Sims2020,,,^ ɬ ì _ ɕʷ ǽ $,default,L i i  Sw~ E E, E L Sw~ i
+382,Niuwozi-122_moon-1,,Niuwozi,122_moon,l̥iᴴ,l̥iᴴ,l̥ i ᴴ/⁵,,Sims2020,,,^ l̥ iᴴ $,default,l i , i l
+383,Taoba-122_moon-1,,Taoba,122_moon,ɬi⁵⁵,ɬi⁵⁵,ɬ i ⁵⁵,,Sims2020,,,^ ɬ i ⁵⁵ $,default,L i , L i
+384,Qinghua-122_moon-1,,Qinghua,122_moon,ɬi⁵⁵,ɬi⁵⁵,ɬ i ⁵⁵,,Sims2020,,,^ ɬ i ⁵⁵ $,default,L i , L i
+385,Lanping-122_moon-1,,Lanping,122_moon,ɬi⁵⁵,ɬi⁵⁵,ɬ i ⁵⁵,,Sims2020,,,^ ɬ i ⁵⁵ $,default,L i , L i
+386,Jiulong-122_moon-1,,Jiulong,122_moon,ɬi⁵⁵ ŋɯ⁵⁵,ɬi⁵⁵_ŋɯ⁵⁵,ɬ i ⁵⁵ + ŋ ɯ ⁵⁵,,Sims2020,,,^ ɬ i ⁵⁵ _ ŋ ɯ ⁵⁵ $,default,L i   N u , L N i u
+387,Taoping-120_meatflesh-1,,Taoping,120_meatflesh,tʃʰɿ⁵⁵,tʃʰɿ⁵⁵,tʃʰ ɿ ⁵⁵,,Sims2020,,,^ tʃʰ ɿ ⁵⁵ $,default,tSh~ , tSh~
+388,Niuwozi-120_meatflesh-1,,Niuwozi,120_meatflesh,ʂɨᶠ,ʂɨᶠ,ʂ ɨ ᶠ/⁵¹,,Sims2020,,,^ ʂ ɨᶠ $,default,S 3 , 3 S
+389,Dayang-120_meatflesh-1,,Dayang,120_meatflesh,ʃtʃɨ̌,ʃtʃɨ̌,ʃ tʃ ɨ̆/ɨ,,Sims2020,,,^ ʃ tʃ ɨ̌ $,default,S tS 3 3,3 S tS
+390,Taoba-120_meatflesh-1,,Taoba,120_meatflesh,ʂə⁵³,ʂə⁵³,ʂ ə ⁵³,,Sims2020,,,^ ʂ ə ⁵³ $,default,S 3 , 3 S
+391,Qinghua-120_meatflesh-1,,Qinghua,120_meatflesh,ʃɤ⁵⁵,ʃɤ⁵⁵,ʃ ɤ ⁵⁵,,Sims2020,,,^ ʃ ɤ ⁵⁵ $,default,S o , S o
+392,Lanping-120_meatflesh-1,,Lanping,120_meatflesh,ʃɤ⁵⁵,ʃɤ⁵⁵,ʃ ɤ ⁵⁵,,Sims2020,,,^ ʃ ɤ ⁵⁵ $,default,S o , S o
+393,Jiulong-120_meatflesh-1,,Jiulong,120_meatflesh,ʃi⁵⁵,ʃi⁵⁵,ʃ i ⁵⁵,,Sims2020,,,^ ʃ i ⁵⁵ $,default,S i , S i
+394,Taoping-118_lung-1,,Taoping,118_lung,tsʰu⁵⁵,tsʰu⁵⁵,tsʰ u ⁵⁵,,Sims2020,,,^ tsʰ u ⁵⁵ $,default,tsh~ u , tsh~ u
+395,Longxi-118_lung-1,,Longxi,118_lung,tsʰù,tsʰù,tsʰ ù/u,,Sims2020,,,^ tsʰ ù $,default,tsh~ u u,tsh~ u
+396,Mianchi-118_lung-1,,Mianchi,118_lung,tsʰoù,tsʰoù,tsʰ o ù/u,,Sims2020,,,^ tsʰ o ù $,default,tsh~ o u u,o tsh~ u
+397,Yonghe-118_lung-1,,Yonghe,118_lung,tsʰù-pʰɑ́,tsʰù-pʰɑ́,tsʰ ù/u + pʰ ɑ́/ɑ,,Sims2020,,,^ tsʰ ù - pʰ ɑ́ $,default,tsh~ u u  ph~ o o, o ph~ tsh~ u
+398,Wadu-118_lung-1,,Wadu,118_lung,tsʰʉ̌,tsʰʉ̌,tsʰ ʉ̆/ʉ,,Sims2020,,,^ tsʰ ʉ̌ $,default,tsh~ 3 3,3 tsh~
+399,Niuwozi-118_lung-1,,Niuwozi,118_lung,tsʰʉᴿ,tsʰʉᴿ,tsʰ ʉ ᴿ/¹⁵,,Sims2020,,,^ tsʰ ʉᴿ $,default,tsh~ 3 , 3 tsh~
+400,Dayang-118_lung-1,,Dayang,118_lung,tsʰʉ̌,tsʰʉ̌,tsʰ ʉ̆/ʉ,,Sims2020,,,^ tsʰ ʉ̌ $,default,tsh~ 3 3,3 tsh~
+401,Taoba-118_lung-1,,Taoba,118_lung,tsʰø¹³,tsʰø¹³,tsʰ ø ¹³,,Sims2020,,,^ tsʰ ø ¹³ $,default,tsh~ e , e tsh~
+402,Qinghua-118_lung-1,,Qinghua,118_lung,tsʰy¹³,tsʰy¹³,tsʰ y ¹³,,Sims2020,,,^ tsʰ y ¹³ $,default,tsh~ i , i tsh~
+403,Lanping-118_lung-1,,Lanping,118_lung,tsʰy¹³,tsʰy¹³,tsʰ y ¹³,,Sims2020,,,^ tsʰ y ¹³ $,default,tsh~ i , i tsh~
+404,Jiulong-118_lung-1,,Jiulong,118_lung,tsʰu⁵⁵,tsʰu⁵⁵,tsʰ u ⁵⁵,,Sims2020,,,^ tsʰ u ⁵⁵ $,default,tsh~ u , tsh~ u
+405,Taoping-116_lock-1,,Taoping,116_lock,qɑ⁵⁵ suɑ³¹,qɑ⁵⁵_suɑ³¹,q ɑ ⁵⁵ + s u/w ɑ ³¹,,Sims2020,,,^ q ɑ ⁵⁵ _ s uɑ ³¹ $,default,q o   s u w o , o q s u w
+406,Mianchi-116_lock-1,,Mianchi,116_lock,ʂuà,ʂuà,ʂ u/w à/a,,Sims2020,,,^ ʂ uà $,default,S u w a a,S a u w
+407,Qinghua-116_lock-1,,Qinghua,116_lock,sɑ¹³,sɑ¹³,s ɑ ¹³,,Sims2020,,,^ s ɑ ¹³ $,default,s o , o s
+408,Lanping-116_lock-1,,Lanping,116_lock,sɑ¹³,sɑ¹³,s ɑ ¹³,,Sims2020,,,^ s ɑ ¹³ $,default,s o , o s
+409,Taoping-115_liver-1,,Taoping,115_liver,sie⁵⁵,sie⁵⁵,s i/j e ⁵⁵,,Sims2020,,,^ s ie ⁵⁵ $,default,s i y e , e i s y
+410,Longxi-115_liver-1,,Longxi,115_liver,ɕí ɹá,ɕí_ɹá,ɕ í/i + ɹ á/a,,Sims2020,,,^ ɕ í _ ɹ á $,default,S i i  r a a, S a i r
+411,Mianchi-115_liver-1,,Mianchi,115_liver,sè,sè,s è/e,,Sims2020,,,^ s è $,default,s e e,e s
+412,Wadu-115_liver-1,,Wadu,115_liver,tswẽ́,tswẽ́,ts w ẽ́/ẽ,,Sims2020,,,^ tsw ẽ́ $,default,ts w e* e*,e* ts w
+413,Niuwozi-115_liver-1,,Niuwozi,115_liver,tsɥɛ̃ᶠ,tsɥɛ̃ᶠ,ts ɥ ɛ̃ ᶠ/⁵¹,,Sims2020,,,^ ts ɥ ɛ̃ᶠ $,default,ts y E* , E* ts y
+414,Dayang-115_liver-1,,Dayang,115_liver,tswǐ,tswǐ,ts w ĭ/i,,Sims2020,,,^ tsw ǐ $,default,ts w i i,i ts w
+415,Taoba-115_liver-1,,Taoba,115_liver,tsuẽ⁵³,tsuẽ⁵³,ts u ẽ ⁵³,,Sims2020,,,^ ts u ẽ ⁵³ $,default,ts u e* , e* ts u
+416,Qinghua-115_liver-1,,Qinghua,115_liver,tsyɛ̃⁵⁵,tsyɛ̃⁵⁵,ts y ɛ̃ ⁵⁵,,Sims2020,,,^ ts y ɛ̃ ⁵⁵ $,default,ts i E* , E* i ts
+417,Lanping-115_liver-1,,Lanping,115_liver,tsyɛ̃⁵⁵,tsyɛ̃⁵⁵,ts y ɛ̃ ⁵⁵,,Sims2020,,,^ ts y ɛ̃ ⁵⁵ $,default,ts i E* , E* i ts
+418,Jiulong-115_liver-1,,Jiulong,115_liver,tsu³⁵,tsu³⁵,ts u ³⁵,,Sims2020,,,^ ts u ³⁵ $,default,ts u , ts u
+419,Taoping-109_left-1,,Taoping,109_left,χgy³³,χgy³³,χ g y ³³,,Sims2020,,,^ χ g y ³³ $,default,X g i , X g i
+420,Mianchi-110_lefthand-1,,Mianchi,110_lefthand,guì,guì,g u ì/i,,Sims2020,,,^ g u ì $,default,g u i i,g i u
+421,Yonghe-111_leftside-1,,Yonghe,111_leftside,wàʴ-tɕʰá,wàʴ-tɕʰá,w à/a ʴ/³⁵ + tɕʰ á/a,,Sims2020,,,^ w àʴ - tɕʰ á $,default,w a a   tSh~ a a, a tSh~ w
+422,Wadu-109_left-1,,Wadu,109_left,wɛ̌j,wɛ̌j,w ɛ̌j/ɛi,,Sims2020,,,^ w ɛ̌j $,default,w Ey Ei,Ei Ey w
+423,Qinghua-109_left-1,,Qinghua,109_left,uɑ¹³,uɑ¹³,u/w ɑ ¹³,,Sims2020,,,^ uɑ ¹³ $,default,u w o , o u w
+424,Lanping-109_left-1,,Lanping,109_left,uɑ¹³,uɑ¹³,u/w ɑ ¹³,,Sims2020,,,^ uɑ ¹³ $,default,u w o , o u w
+425,Jiulong-109_left-1,,Jiulong,109_left,we³⁵,we³⁵,w e ³⁵,,Sims2020,,,^ w e ³⁵ $,default,w e , e w
+426,Taoping-108_learnteach-1,,Taoping,108_learnteach,tə¹³-sy⁵⁵,tə¹³-sy⁵⁵,t ə ¹³ + s y ⁵⁵,,Sims2020,,,^ t ə ¹³ - s y ⁵⁵ $,default,t 3   s i , 3 i s t
+427,Longxi-108_learnteach-1,,Longxi,108_learnteach,só,só,s ó/o,,Sims2020,,,^ s ó $,default,s o o,o s
+428,Mianchi-108_learnteach-1,,Mianchi,108_learnteach,soú,soú,s o ú/u,,Sims2020,,,^ s o ú $,default,s o u u,o s u
+429,Yonghe-214_teach-1,,Yonghe,214_teach,ɕwí,ɕwí,ɕ w í/i,,Sims2020,,,^ ɕw í $,default,S w i i,S i w
+430,Wadu-108_learnteach-1,,Wadu,108_learnteach,swẽ́,swẽ́,s w ẽ́/ẽ,,Sims2020,,,^ sw ẽ́ $,default,s w e* e*,e* s w
+431,Niuwozi-214_teach-1,,Niuwozi,214_teach,sʉᴴ sɥɛ̃ᴸ,sʉᴴ_sɥɛ̃ᴸ,s ʉ ᴴ/⁵ + s ɥ ɛ̃ ᴸ/¹,,Sims2020,,,^ s ʉᴴ _ s ɥ ɛ̃ᴸ $,default,s 3   s y E* , 3 E* s y
+432,Dayang-214_teach-1,,Dayang,214_teach,swĩ́,swĩ́,s w ĩ́/ĩ,,Sims2020,,,^ sw ĩ́ $,default,s w i* i*,i* s w
+433,Taoba-107_learnteach-1,,Taoba,107_learnteach,xə³⁵ suẽ⁵³,xə³⁵_suẽ⁵³,x ə ³⁵ + s u ẽ ⁵³,,Sims2020,,,^ x ə ³⁵ _ s u ẽ ⁵³ $,default,x 3   s u e* , 3 e* s u x
+434,Qinghua-107_learnteach-1,,Qinghua,107_learnteach,xə¹³ syẽ⁵⁵,xə¹³_syẽ⁵⁵,x ə ¹³ + s y ẽ ⁵⁵,,Sims2020,,,^ x ə ¹³ _ s y ẽ ⁵⁵ $,default,x 3   s i e* , 3 e* i s x
+435,Lanping-107_learnteach-1,,Lanping,107_learnteach,sy⁵⁵ syɛ̃¹³,sy⁵⁵_syɛ̃¹³,s y ⁵⁵ + s y ɛ̃ ¹³,,Sims2020,,,^ s y ⁵⁵ _ s y ɛ̃ ¹³ $,default,s i   s i E* , E* i s
+436,Jiulong-107_learnteach-1,,Jiulong,107_learnteach,suɛ̃⁵⁵,suɛ̃⁵⁵,s u ɛ̃ ⁵⁵,,Sims2020,,,^ s u ɛ̃ ⁵⁵ $,default,s u E* , E* s u
+437,Taoping-106_leanofmeat-1,,Taoping,106_leanofmeat,dʐo²⁴¹,dʐo²⁴¹,ɖʐ o ²⁴¹,,Sims2020,,,^ dʐ o ²⁴¹ $,default,dZ o , dZ o
+438,Taoba-106_leanofmeat-1,,Taoba,106_leanofmeat,dʐɐ³⁵ mə⁵³,dʐɐ³⁵_mə⁵³,ɖʐ ɐ ³⁵ + m ə ⁵³,,Sims2020,,,^ dʐ ɐ ³⁵ _ m ə ⁵³ $,default,dZ a   m 3 , 3 a dZ m
+439,Qinghua-106_leanofmeat-1,,Qinghua,106_leanofmeat,dʐə¹³ ti⁵⁵,dʐə¹³_ti⁵⁵,ɖʐ ə ¹³ + t i ⁵⁵,,Sims2020,,,^ dʐ ə ¹³ _ t i ⁵⁵ $,default,dZ 3   t i , 3 dZ i t
+440,Taoping-103_laugh-1,,Taoping,103_laugh,dʐa³³,dʐa³³,ɖʐ a ³³,,Sims2020,,,^ dʐ a ³³ $,default,dZ a , a dZ
+441,Longxi-103_laugh-1,,Longxi,103_laugh,dzà ~ zà,dzà,dz à/a,,Sims2020,,,^ dz à $,default,dz a a,a dz
+442,Mianchi-103_laugh-1,,Mianchi,103_laugh,dʐà,dʐà,ɖʐ à/a,,Sims2020,,,^ dʐ à $,default,dZ a a,a dZ
+443,Yonghe-103_laugh-1,,Yonghe,103_laugh,dʐɑ̌,dʐɑ̌,ɖʐ ɑ̆/ɑ,,Sims2020,,,^ dʐ ɑ̌ $,default,dZ o o,dZ o
+444,Wadu-103_laugh-1,,Wadu,103_laugh,nɐ-ɻ̥æ̃̌,nɐ-ɻ̥æ̃̌,n ɐ + ɻ̥ æ̆̃/æ̃,,Sims2020,,,^ n ɐ - ɻ̥ æ̃̌ $,default,n a  r E* E*, E* a n r
+445,Niuwozi-103_laugh-1,,Niuwozi,103_laugh,ʴ̥aR,ʴ̥aR,ʴ̥/ɹ̥ a R/ɹ,,Sims2020,,,^ʴ̥aR $,default,r a r,a r
+446,Dayang-103_laugh-1,,Dayang,103_laugh,ʂɑ̌,ʂɑ̌,ʂ ɑ̆/ɑ,,Sims2020,,,^ ʂ ɑ̌ $,default,S o o,S o
+447,Taoba-103_laugh-1,,Taoba,103_laugh,ʂa³⁵,ʂa³⁵,ʂ a ³⁵,,Sims2020,,,^ ʂ a ³⁵ $,default,S a , S a
+448,Qinghua-103_laugh-1,,Qinghua,103_laugh,ʃɑ¹³,ʃɑ¹³,ʃ ɑ ¹³,,Sims2020,,,^ ʃ ɑ ¹³ $,default,S o , S o
+449,Lanping-103_laugh-1,,Lanping,103_laugh,ʃɑ¹³,ʃɑ¹³,ʃ ɑ ¹³,,Sims2020,,,^ ʃ ɑ ¹³ $,default,S o , S o
+450,Jiulong-103_laugh-1,,Jiulong,103_laugh,ʂɑ¹¹ ʂɑ⁵⁵,ʂɑ¹¹_ʂɑ⁵⁵,ʂ ɑ ¹¹ + ʂ ɑ ⁵⁵,,Sims2020,,,^ ʂ ɑ ¹¹ _ ʂ ɑ ⁵⁵ $,default,S o   S o , S o
+451,Taoping-100_house-1,,Taoping,100_house,tɕi⁵⁵ ko³³,tɕi⁵⁵_ko³³,tɕ i ⁵⁵ + k o ³³,,Sims2020,,,^ tɕ i ⁵⁵ _ k o ³³ $,default,tS i   k o , i k o tS
+452,Longxi-100_house-1,,Longxi,100_house,tɕé kù,tɕé_kù,tɕ é/e + k ù/u,,Sims2020,,,^ tɕ é _ k ù $,default,tS e e  k u u, e k tS u
+453,Mianchi-100_house-1,,Mianchi,100_house,tɕí,tɕí,tɕ í/i,,Sims2020,,,^ tɕ í $,default,tS i i,i tS
+454,Yonghe-100_house-1,,Yonghe,100_house,tɕí,tɕí,tɕ í/i,,Sims2020,,,^ tɕ í $,default,tS i i,i tS
+455,Wadu-100_house-1,,Wadu,100_house,tʃṍ,tʃṍ,tʃ ṍ/õ,,Sims2020,,,^ tʃ ṍ $,default,tS o* o*,o* tS
+456,Niuwozi-100_house-1,,Niuwozi,100_house,tʃĩᴴ,tʃĩᴴ,tʃ ĩ ᴴ/⁵,,Sims2020,,,^ tʃ ĩᴴ $,default,tS i* , i* tS
+457,Taoba-100_house-1,,Taoba,100_house,tɕø̃⁵⁵,tɕø̃⁵⁵,tɕ ø̃ ⁵⁵,,Sims2020,,,^ tɕ ø̃ ⁵⁵ $,default,tS e* , e* tS
+458,Qinghua-100_house-1,,Qinghua,100_house,tʃə̃⁵⁵,tʃə̃⁵⁵,tʃ ə̃ ⁵⁵,,Sims2020,,,^ tʃ ə̃ ⁵⁵ $,default,tS 3* , 3* tS
+459,Lanping-100_house-1,,Lanping,100_house,tʃə̃⁵⁵,tʃə̃⁵⁵,tʃ ə̃ ⁵⁵,,Sims2020,,,^ tʃ ə̃ ⁵⁵ $,default,tS 3* , 3* tS
+460,Jiulong-100_house-1,,Jiulong,100_house,tɕĩ³⁵,tɕĩ³⁵,tɕ ĩ ³⁵,,Sims2020,,,^ tɕ ĩ ³⁵ $,default,tS i* , i* tS
+461,Taoping-99_horse-1,,Taoping,99_horse,ʐu⁵⁵,ʐu⁵⁵,ʐ u ⁵⁵,,Sims2020,,,^ ʐ u ⁵⁵ $,default,Z u , Z u
+462,Longxi-99_horse-1,,Longxi,99_horse,ʐoù,ʐoù,ʐ o ù/u,,Sims2020,,,^ ʐ o ù $,default,Z o u u,Z o u
+463,Mianchi-99_horse-1,,Mianchi,99_horse,ʁò,ʁò,ʁ ò/o,,Sims2020,,,^ ʁ ò $,default,X o o,X o
+464,Yonghe-99_horse-1,,Yonghe,99_horse,wǐ ~ wí,wǐ,w ĭ/i,,Sims2020,,,^ w ǐ $,default,w i i,i w
+465,Wadu-99_horse-1,,Wadu,99_horse,gwĩ̌,gwĩ̌,g w ĩ̌/ĩ,,Sims2020,,,^ gw ĩ̌ $,default,g w i* i*,g i* w
+466,Niuwozi-99_horse-1,,Niuwozi,99_horse,gɥɛ̃ᴸ,gɥɛ̃ᴸ,g ɥ ɛ̃ ᴸ/¹,,Sims2020,,,^ g ɥ ɛ̃ᴸ $,default,g y E* , E* g y
+467,Dayang-99_horse-1,,Dayang,99_horse,ʒdʒĩ̌,ʒdʒĩ̌,ʒ dʒ ĩ̌/ĩ,,Sims2020,,,^ ʒ dʒ ĩ̌ $,default,Z dZ i* i*,Z dZ i*
+468,Taoba-99_horse-1,,Taoba,99_horse,ɣuẽ³⁵,ɣuẽ³⁵,ɣ u ẽ ³⁵,,Sims2020,,,^ ɣ u ẽ ³⁵ $,default,x u e* , e* u x
+469,Qinghua-99_horse-1,,Qinghua,99_horse,sgyɛ̃¹³,sgyɛ̃¹³,s g y ɛ̃ ¹³,,Sims2020,,,^ s g y ɛ̃ ¹³ $,default,s g i E* , E* g i s
+470,Lanping-99_horse-1,,Lanping,99_horse,zgyɛ̃¹³,zgyɛ̃¹³,z g y ɛ̃ ¹³,,Sims2020,,,^ z g y ɛ̃ ¹³ $,default,z g i E* , E* g i z
+471,Jiulong-99_horse-1,,Jiulong,99_horse,ʐuẽ³⁵,ʐuẽ³⁵,ʐ u ẽ ³⁵,,Sims2020,,,^ ʐ u ẽ ³⁵ $,default,Z u e* , Z e* u
+472,Taoping-96_holdbabyinarms-1,,Taoping,96_holdbabyinarms,χtu³³,χtu³³,χ t u ³³,,Sims2020,,,^ χ t u ³³ $,default,X t u , X t u
+473,Longxi-97_holdinarms-1,,Longxi,97_holdinarms,toù,toù,t o ù/u,,Sims2020,,,^ t o ù $,default,t o u u,o t u
+474,Mianchi-98_holdclosely-1,,Mianchi,98_holdclosely,ɦà tòu,ɦà_tòu,ɦ à/a + t ò/o u,,Sims2020,,,^ ɦ à _ t ò u $,default,h a a  t o o u, a h o t u
+475,Taoping-95_hoe-1,,Taoping,95_hoe,kua³³,kua³³,k u/w a ³³,,Sims2020,,,^ k ua ³³ $,default,k u w a , a k u w
+476,Longxi-95_hoe-1,,Longxi,95_hoe,tɕuà,tɕuà,tɕ u/w à/a,,Sims2020,,,^ tɕ uà $,default,tS u w a a,a tS u w
+477,Mianchi-95_hoe-1,,Mianchi,95_hoe,kuà,kuà,k u/w à/a,,Sims2020,,,^ k uà $,default,k u w a a,a k u w
+478,Yonghe-95_hoe-1,,Yonghe,95_hoe,kwæ̌,kwæ̌,k w æ̆/æ,,Sims2020,,,^ kw æ̌ $,default,k w E E,E k w
+479,Taoba-95_hoe-1,,Taoba,95_hoe,tɕya³⁵ dzə⁵⁵,tɕya³⁵_dzə⁵⁵,tɕ y a ³⁵ + dz ə ⁵⁵,,Sims2020,,,^ tɕ y a ³⁵ _ dz ə ⁵⁵ $,default,tS i a   dz 3 , 3 a dz i tS
+480,Jiulong-95_hoe-1,,Jiulong,95_hoe,tʂu³⁵ mɑ⁵⁵,tʂu³⁵_mɑ⁵⁵,ʈʂ u ³⁵ + m ɑ ⁵⁵,,Sims2020,,,^ tʂ u ³⁵ _ m ɑ ⁵⁵ $,default,tS u   m o , m o tS u
+481,Taoping-91_heart-1,,Taoping,91_heart,χtie⁵⁵ mə⁵⁵,χtie⁵⁵_mə⁵⁵,χ t i/j e ⁵⁵ + m ə ⁵⁵,,Sims2020,,,^ χ t ie ⁵⁵ _ m ə ⁵⁵ $,default,X t i y e   m 3 , 3 X e i m t y
+482,Longxi-91_heart-1,,Longxi,91_heart,ɕì mì,ɕì_mì,ɕ ì/i + m ì/i,,Sims2020,,,^ ɕ ì _ m ì $,default,S i i  m i i, S i m
+483,Mianchi-91_heart-1,,Mianchi,91_heart,tiè,tiè,t i è/e,,Sims2020,,,^ t i è $,default,t i e e,e i t
+484,Yonghe-91_heart-1,,Yonghe,91_heart,tì mí ~ tʰì mí,tì_mí,t ì/i + m í/i,,Sims2020,,,^ t ì _ m í $,default,t i i  m i i, i m t
+485,Taoping-85_hair-1,,Taoping,85_hair,χmə³³,χmə³³,χ m ə ³³,,Sims2020,,,^ χ m ə ³³ $,default,X m 3 , 3 X m
+486,Longxi-85_hair-1,,Longxi,85_hair,χù,χù,χ ù/u,,Sims2020,,,^ χ ù $,default,X u u,X u
+487,Mianchi-85_hair-1,,Mianchi,85_hair,mù,mù,m ù/u,,Sims2020,,,^ m ù $,default,m u u,m u
+488,Yonghe-85_hair-1,,Yonghe,85_hair,hǔʴ,hǔʴ,h ŭ/u ʴ/ɹ,,Sims2020,,,^ h ǔʴ $,default,h u u r,h r u
+489,Wadu-85_hair-1,,Wadu,85_hair,qhʉ́ m̥æ̀,qhʉ́_m̥æ̀,qʰ ʉ́/ʉ + m̥ æ̀/æ,,Sims2020,,,^ qh ʉ́ _ m̥ æ̀ $,default,qh~ 3 3  m E E, 3 E m qh~
+490,Niuwozi-85_hair-1,,Niuwozi,85_hair,khʉᴴ mãᴸ,khʉᴴ_mãᴸ,kʰ ʉ ᴴ/⁵ + m ã ᴸ/¹,,Sims2020,,,^ kh ʉᴴ _ m ãᴸ $,default,kh~ 3   m a* , 3 a* kh~ m
+491,Taoba-85_hair-1,,Taoba,85_hair,ma⁵⁵,ma⁵⁵,m a ⁵⁵,,Sims2020,,,^ m a ⁵⁵ $,default,m a , a m
+492,Qinghua-85_hair-1,,Qinghua,85_hair,ma⁵⁵,ma⁵⁵,m a ⁵⁵,,Sims2020,,,^ m a ⁵⁵ $,default,m a , a m
+493,Lanping-85_hair-1,,Lanping,85_hair,ma⁵⁵,ma⁵⁵,m a ⁵⁵,,Sims2020,,,^ m a ⁵⁵ $,default,m a , a m
+494,Jiulong-90_headhair-1,,Jiulong,90_headhair,"mã³⁵, mɛ̃i³⁵, qʰuo¹¹ mɛi³⁵",mã³⁵,m ã ³⁵,,Sims2020,,,^ m ã ³⁵ $,default,m a* , a* m
+495,Taoping-78_gnaw-1,,Taoping,78_gnaw,χɢɑ²⁴¹,χɢɑ²⁴¹,χ ɢ ɑ ²⁴¹,,Sims2020,,,^ χ ɢ ɑ ²⁴¹ $,default,X G o , G X o
+496,Longxi-78_gnaw-1,,Longxi,78_gnaw,ʁà ɕà,ʁà_ɕà,ʁ à/a + ɕ à/a,,Sims2020,,,^ ʁ à _ ɕ à $,default,X a a  S a a, S X a
+497,Yonghe-78_gnaw-1,,Yonghe,78_gnaw,gɑ̀ʴ ɬɛ́,gɑ̀ʴ_ɬɛ́,g ɑ̀/ɑ ʴ/ɹ + ɬ ɛ́/ɛ,,Sims2020,,,^ g ɑ̀ʴ _ ɬ ɛ́ $,default,g o o r  L E E, E L g o r
+498,Wadu-78_gnaw-1,,Wadu,78_gnaw,qǎ,qǎ,q ă/a,,Sims2020,,,^ q ǎ $,default,q a a,a q
+499,Dayang-8_bite-1,,Dayang,8_bite,χqɑ̌,χqɑ̌,χ q ɑ̆/ɑ,,Sims2020,,,^ χ q ɑ̌ $,default,X q o o,X o q
+500,Qinghua-78_gnaw-1,,Qinghua,78_gnaw,xə¹³ qɑ¹³,xə¹³_qɑ¹³,x ə ¹³ + q ɑ ¹³,,Sims2020,,,^ x ə ¹³ _ q ɑ ¹³ $,default,x 3   q o , 3 o q x
+501,Taoping-76_gall-1,,Taoping,76_gall,χtʂə⁵⁵,χtʂə⁵⁵,χ ʈʂ ə ⁵⁵,,Sims2020,,,^ χ tʂ ə ⁵⁵ $,default,X tS 3 , 3 X tS
+502,Longxi-76_gall-1,,Longxi,76_gall,tsɨ́,tsɨ́,ts ɨ́/ɨ,,Sims2020,,,^ ts ɨ́ $,default,ts 3 3,3 ts
+503,Mianchi-76_gall-1,,Mianchi,76_gall,tɕɨ́,tɕɨ́,tɕ ɨ́/ɨ,,Sims2020,,,^ tɕ ɨ́ $,default,tS 3 3,3 tS
+504,Wadu-76_gall-1,,Wadu,76_gall,ʈə́,ʈə́,ʈ ə́/ə,,Sims2020,,,^ ʈ ə́ $,default,t 3 3,3 t
+505,Niuwozi-76_gall-1,,Niuwozi,76_gall,kʴəᴴ,kʴəᴴ,k ʴ/ɹ ə ᴴ/⁵,,Sims2020,,,^ kʴ əᴴ $,default,k r 3 , 3 k r
+506,Taoba-76_gall-1,,Taoba,76_gall,tʂə⁵⁵,tʂə⁵⁵,ʈʂ ə ⁵⁵,,Sims2020,,,^ tʂ ə ⁵⁵ $,default,tS 3 , 3 tS
+507,Qinghua-76_gall-1,,Qinghua,76_gall,tʂə⁵⁵,tʂə⁵⁵,ʈʂ ə ⁵⁵,,Sims2020,,,^ tʂ ə ⁵⁵ $,default,tS 3 , 3 tS
+508,Lanping-76_gall-1,,Lanping,76_gall,tʂə⁵⁵,tʂə⁵⁵,ʈʂ ə ⁵⁵,,Sims2020,,,^ tʂ ə ⁵⁵ $,default,tS 3 , 3 tS
+509,Jiulong-76_gall-1,,Jiulong,76_gall,tʂɿ³⁵,tʂɿ³⁵,ʈʂ ɿ ³⁵,,Sims2020,,,^ tʂ ɿ ³⁵ $,default,tS , tS
+510,Taoping-75_front-1,,Taoping,75_front,qə³¹ əʴ⁵⁵,qə³¹_əʴ⁵⁵,q ə ³¹ + ə ʴ/ɹ ⁵⁵,,Sims2020,,,^ q ə ³¹ _ əʴ ⁵⁵ $,default,q 3   3 r , 3 q r
+511,Yonghe-75_front-1,,Yonghe,75_front,kəʴ̌ ~ qə̌ʴ,kəʴ̌,k ə̆/ə ʴ/ɹ,,Sims2020,,,^ k əʴ̌ $,default,k 3 3 r,3 k r
+512,Wadu-75_front-1,,Wadu,75_front,ɹə́,ɹə́,ɹ ə́/ə,,Sims2020,,,^ ɹ ə́ $,default,r 3 3,3 r
+513,Niuwozi-75_front-1,,Niuwozi,75_front,ɹəᶠ,ɹəᶠ,ɹ ə ᶠ/⁵¹,,Sims2020,,,^ ɹ əᶠ $,default,r 3 , 3 r
+514,Qinghua-75_front-1,,Qinghua,75_front,ʐə⁵⁵,ʐə⁵⁵,ʐ ə ⁵⁵,,Sims2020,,,^ ʐ ə ⁵⁵ $,default,Z 3 , 3 Z
+515,Lanping-75_front-1,,Lanping,75_front,ʐə⁵⁵,ʐə⁵⁵,ʐ ə ⁵⁵,,Sims2020,,,^ ʐ ə ⁵⁵ $,default,Z 3 , 3 Z
+516,Taoping-74_frog-1,,Taoping,74_frog,dzuɑ³¹ pu⁵⁵ mɑ³³,dzuɑ³¹_pu⁵⁵_mɑ³³,dz u/w ɑ ³¹ + p u ⁵⁵ + m ɑ ³³,,Sims2020,,,^ dz uɑ ³¹ _ p u ⁵⁵ _ m ɑ ³³ $,default,dz u w o   p u   m o , dz m o p u w
+517,Longxi-74_frog-1,,Longxi,74_frog,zò-piá,zò-piá,z ò/o + p i/j á/a,,Sims2020,,,^ z ò - p iá $,default,z o o  p i y a a, a i o p y z
+518,Mianchi-74_frog-1,,Mianchi,74_frog,dzò-piá,dzò-piá,dz ò/o + p i/j á/a,,Sims2020,,,^ dz ò - p iá $,default,dz o o  p i y a a, a dz i o p y
+519,Yonghe-74_frog-1,,Yonghe,74_frog,dzù pǽ,dzù_pǽ,dz ù/u + p ǽ/æ,,Sims2020,,,^ dz ù _ p ǽ $,default,dz u u  p E E, E dz p u
+520,Niuwozi-74_frog-1,,Niuwozi,74_frog,pɜᴴ diᴴ,pɜᴴ_diᴴ,p ɜ ᴴ/⁵ + d i ᴴ/⁵,,Sims2020,,,^ p ɜᴴ _ d iᴴ $,default,p 3   d i , 3 d i p
+521,Dayang-74_frog-1,,Dayang,74_frog,ɸpɒ́,ɸpɒ́,ɸ p ɒ́/ɒ,,Sims2020,,,^ ɸ p ɒ́ $,default,p p o o,o p
+522,Qinghua-74_frog-1,,Qinghua,74_frog,spɑ⁵⁵,spɑ⁵⁵,s p ɑ ⁵⁵,,Sims2020,,,^ s p ɑ ⁵⁵ $,default,s p o , o p s
+523,Lanping-74_frog-1,,Lanping,74_frog,fpɑ⁵⁵,fpɑ⁵⁵,f p ɑ ⁵⁵,,Sims2020,,,^ f p ɑ ⁵⁵ $,default,f p o , f o p
+524,Jiulong-74_frog-1,,Jiulong,74_frog,pɐ⁵⁵ de⁵⁵,pɐ⁵⁵_de⁵⁵,p ɐ ⁵⁵ + d e ⁵⁵,,Sims2020,,,^ p ɐ ⁵⁵ _ d e ⁵⁵ $,default,p a   d e , a d e p
+525,Taoping-73_fox-1,,Taoping,73_fox,qʰɑ³³ χguə³³,qʰɑ³³_χguə³³,qʰ ɑ ³³ + χ g u/w ə ³³,,Sims2020,,,^ qʰ ɑ ³³ _ χ g uə ³³ $,default,qh~ o   X g u w 3 , 3 X g o qh~ u w
+526,Longxi-73_fox-1,,Longxi,73_fox,qʰà guà,qʰà_guà,qʰ à/a + g u/w à/a,,Sims2020,,,^ qʰ à _ g uà $,default,qh~ a a  g u w a a, a g qh~ u w
+527,Mianchi-73_fox-1,,Mianchi,73_fox,qʰá guɚ̀,qʰá_guɚ̀,qʰ á/a + g u ə̀˞/ə˞,,Sims2020,,,^ qʰ á _ g u ɚ̀ $,default,qh~ a a  g u 3 3, 3 a g qh~ u
+528,Yonghe-73_fox-1,,Yonghe,73_fox,wæ̌,wæ̌,w æ̆/æ,,Sims2020,,,^ w æ̌ $,default,w E E,E w
+529,Niuwozi-73_fox-1,,Niuwozi,73_fox,gɥɛᶠ,gɥɛᶠ,g ɥ ɛ ᶠ/⁵¹,,Sims2020,,,^ g ɥ ɛᶠ $,default,g y E , E g y
+530,Taoba-73_fox-1,,Taoba,73_fox,guə⁵³,guə⁵³,g u/w ə ⁵³,,Sims2020,,,^ g uə ⁵³ $,default,g u w 3 , 3 g u w
+531,Qinghua-73_fox-1,,Qinghua,73_fox,sgyɛ¹³,sgyɛ¹³,s g y ɛ ¹³,,Sims2020,,,^ s g y ɛ ¹³ $,default,s g i E , E g i s
+532,Lanping-73_fox-1,,Lanping,73_fox,guɐ¹³ po⁵⁵,guɐ¹³_po⁵⁵,g u ɐ ¹³ + p o ⁵⁵,,Sims2020,,,^ g u ɐ ¹³ _ p o ⁵⁵ $,default,g u a   p o , a g o p u
+533,Jiulong-73_fox-1,,Jiulong,73_fox,ʐyə³⁵,ʐyə³⁵,ʐ y ə ³⁵,,Sims2020,,,^ ʐ y ə ³⁵ $,default,Z i 3 , 3 Z i
+534,Taoping-71_footmeasure-1,,Taoping,71_footmeasure,tʂʰə⁵⁵,tʂʰə⁵⁵,ʈʂʰ ə ⁵⁵,,Sims2020,,,^ tʂʰ ə ⁵⁵ $,default,tSh~ 3 , 3 tSh~
+535,Wadu-70_foot-1,,Wadu,70_foot,ʈʰə́,ʈʰə́,ʈʰ ə́/ə,,Sims2020,,,^ ʈʰ ə́ $,default,th~ 3 3,3 th~
+536,Niuwozi-70_foot-1,,Niuwozi,70_foot,kʰʴəᴴ,kʰʴəᴴ,kʰ ʴ/³⁵ ə ᴴ/⁵,,Sims2020,,,^ kʰʴ əᴴ $,default,kh~  3 , 3 kh~
+537,Dayang-70_foot-1,,Dayang,70_foot,ʈʰɨ́,ʈʰɨ́,ʈʰ ɨ́/ɨ,,Sims2020,,,^ ʈʰ ɨ́ $,default,th~ 3 3,3 th~
+538,Taoba-70_foot-1,,Taoba,70_foot,tʂʰə⁵³,tʂʰə⁵³,ʈʂʰ ə ⁵³,,Sims2020,,,^ tʂʰ ə ⁵³ $,default,tSh~ 3 , 3 tSh~
+539,Qinghua-70_foot-1,,Qinghua,70_foot,tʂʰə⁵⁵,tʂʰə⁵⁵,ʈʂʰ ə ⁵⁵,,Sims2020,,,^ tʂʰ ə ⁵⁵ $,default,tSh~ 3 , 3 tSh~
+540,Lanping-70_foot-1,,Lanping,70_foot,tʂʰə⁵³,tʂʰə⁵³,ʈʂʰ ə ⁵³,,Sims2020,,,^ tʂʰ ə ⁵³ $,default,tSh~ 3 , 3 tSh~
+541,Jiulong-70_foot-1,,Jiulong,70_foot,tʂʰɿ⁵⁵,tʂʰɿ⁵⁵,ʈʂʰ ɿ ⁵⁵,,Sims2020,,,^ tʂʰ ɿ ⁵⁵ $,default,tSh~ , tSh~
+542,Taoping-68_flee-1,,Taoping,68_flee,pʰu⁵⁵,pʰu⁵⁵,pʰ u ⁵⁵,,Sims2020,,,^ pʰ u ⁵⁵ $,default,ph~ u , ph~ u
+543,Longxi-68_flee-1,,Longxi,68_flee,dà pʰó,dà_pʰó,d à/a + pʰ ó/o,,Sims2020,,,^ d à _ pʰ ó $,default,d a a  ph~ o o, a d o ph~
+544,Yonghe-68_flee-1,,Yonghe,68_flee,dò pʰú,dò_pʰú,d ò/o + pʰ ú/u,,Sims2020,,,^ d ò _ pʰ ú $,default,d o o  ph~ u u, d o ph~ u
+545,Wadu-68_flee-1,,Wadu,68_flee,pʰĩ̀,pʰĩ̀,pʰ ĩ̀/ĩ,,Sims2020,,,^ pʰ ĩ̀ $,default,ph~ i* i*,i* ph~
+546,Niuwozi-68_flee-1,,Niuwozi,68_flee,pʰjɛ̃ᴿ,pʰjɛ̃ᴿ,pʰ j ɛ̃ ᴿ/¹⁵,,Sims2020,,,^ pʰ j ɛ̃ᴿ $,default,ph~ y E* , E* ph~ y
+547,Dayang-68_flee-1,,Dayang,68_flee,ptʃʰĩ̌,ptʃʰĩ̌,p tʃʰ ĩ̌/ĩ,,Sims2020,,,^ p tʃʰ ĩ̌ $,default,p tSh~ i* i*,i* p tSh~
+548,Qinghua-68_flee-1,,Qinghua,68_flee,pʰʒã⁵⁵,pʰʒã⁵⁵,pʰ ʒ ã ⁵⁵,,Sims2020,,,^ pʰʒ ã ⁵⁵ $,default,ph~ Z a* , Z a* ph~
+549,Lanping-68_flee-1,,Lanping,68_flee,kʰə¹³ pʰʃã⁵⁵,kʰə¹³_pʰʃã⁵⁵,kʰ ə ¹³ + pʰ ʃ ã ⁵⁵,,Sims2020,,,^ kʰ ə ¹³ _ pʰʃ ã ⁵⁵ $,default,kh~ 3   ph~ S a* , 3 S a* kh~ ph~
+550,Jiulong-68_flee-1,,Jiulong,68_flee,pʰã⁵⁵,pʰã⁵⁵,pʰ ã ⁵⁵,,Sims2020,,,^ pʰ ã ⁵⁵ $,default,ph~ a* , a* ph~
+551,Taoping-67_flea-1,,Taoping,67_flea,tsu⁵⁵ lu⁵⁵,tsu⁵⁵_lu⁵⁵,ts u ⁵⁵ + l u ⁵⁵,,Sims2020,,,^ ts u ⁵⁵ _ l u ⁵⁵ $,default,ts u   l u , l ts u
+552,Wadu-67_flea-1,,Wadu,67_flea,l̥ɛj́,l̥ɛj́,l̥ ɛj́/ɛi,,Sims2020,,,^ l̥ ɛj́ $,default,l Ey Ei,Ei Ey l
+553,Niuwozi-67_flea-1,,Niuwozi,67_flea,l̥ɜjᶠ,l̥ɜjᶠ,l̥ ɜj/ɜi ᶠ/⁵¹,,Sims2020,,,^ l̥ ɜjᶠ $,default,l 3y 3i , 3i 3y l
+554,Taoba-67_flea-1,,Taoba,67_flea,ɬe⁵³,ɬe⁵³,ɬ e ⁵³,,Sims2020,,,^ ɬ e ⁵³ $,default,L e , L e
+555,Qinghua-67_flea-1,,Qinghua,67_flea,ɬa⁵⁵,ɬa⁵⁵,ɬ a ⁵⁵,,Sims2020,,,^ ɬ a ⁵⁵ $,default,L a , L a
+556,Lanping-67_flea-1,,Lanping,67_flea,ɬa⁵⁵,ɬa⁵⁵,ɬ a ⁵⁵,,Sims2020,,,^ ɬ a ⁵⁵ $,default,L a , L a
+557,Jiulong-67_flea-1,,Jiulong,67_flea,ɬɛi⁵⁵,ɬɛi⁵⁵,ɬ ɛi ⁵⁵,,Sims2020,,,^ ɬ ɛi ⁵⁵ $,default,L Ei , Ei L
+558,Taoping-66_firewood-1,,Taoping,66_firewood,sie³³,sie³³,s i/j e ³³,,Sims2020,,,^ s ie ³³ $,default,s i y e , e i s y
+559,Longxi-66_firewood-1,,Longxi,66_firewood,ɕì,ɕì,ɕ ì/i,,Sims2020,,,^ ɕ ì $,default,S i i,S i
+560,Mianchi-66_firewood-1,,Mianchi,66_firewood,sè,sè,s è/e,,Sims2020,,,^ s è $,default,s e e,e s
+561,Yonghe-66_firewood-1,,Yonghe,66_firewood,sɛ́,sɛ́,s ɛ́/ɛ,,Sims2020,,,^ s ɛ́ $,default,s E E,E s
+562,Wadu-66_firewood-1,,Wadu,66_firewood,sěŋ,sěŋ,s ĕ/e ŋ,,Sims2020,,,^ s ě ŋ $,default,s e e N,N e s
+563,Niuwozi-66_firewood-1,,Niuwozi,66_firewood,sjẽᴿ,sjẽᴿ,s j ẽ ᴿ/¹⁵,,Sims2020,,,^ s j ẽᴿ $,default,s y e* , e* s y
+564,Taoba-66_firewood-1,,Taoba,66_firewood,sẽ³⁵,sẽ³⁵,s ẽ ³⁵,,Sims2020,,,^ s ẽ ³⁵ $,default,s e* , e* s
+565,Qinghua-66_firewood-1,,Qinghua,66_firewood,siɛ̃¹³,siɛ̃¹³,s i/j ɛ̃ ¹³,,Sims2020,,,^ s iɛ̃ ¹³ $,default,s i y E* , E* i s y
+566,Lanping-66_firewood-1,,Lanping,66_firewood,siɛ̃¹³,siɛ̃¹³,s i/j ɛ̃ ¹³,,Sims2020,,,^ s iɛ̃ ¹³ $,default,s i y E* , E* i s y
+567,Jiulong-66_firewood-1,,Jiulong,66_firewood,sẽ⁵⁵,sẽ⁵⁵,s ẽ ⁵⁵,,Sims2020,,,^ s ẽ ⁵⁵ $,default,s e* , e* s
+568,Taoping-62_fearbeafraid-1,,Taoping,62_fearbeafraid,qu³³,qu³³,q u ³³,,Sims2020,,,^ q u ³³ $,default,q u , q u
+569,Longxi-60_feardifficulty-1,,Longxi,60_feardifficulty,qò,qò,q ò/o,,Sims2020,,,^ q ò $,default,q o o,o q
+570,Mianchi-59_fear-1,,Mianchi,59_fear,kòu,kòu,k ò/o u,,Sims2020,,,^ k ò u $,default,k o o u,k o u
+571,Wadu-62_fearbeafraid-1,,Wadu,62_fearbeafraid,kɐ̌,kɐ̌,k ɐ̆/ɐ,,Sims2020,,,^ k ɐ̌ $,default,k a a,a k
+572,Niuwozi-62_fearbeafraid-1,,Niuwozi,62_fearbeafraid,kjɜ̌,kjɜ̌,k j ɜ̆/ɜ,,Sims2020,,,^ k j ɜ̌ $,default,k y 3 3,3 k y
+573,Taoba-62_fearbeafraid-1,,Taoba,62_fearbeafraid,xiɐ³⁵,xiɐ³⁵,x i ɐ ³⁵,,Sims2020,,,^ x i ɐ ³⁵ $,default,x i a , a i x
+574,Qinghua-62_fearbeafraid-1,,Qinghua,62_fearbeafraid,skiɛ¹³,skiɛ¹³,s k i/j ɛ ¹³,,Sims2020,,,^ s k iɛ ¹³ $,default,s k i y E , E i k s y
+575,Taoping-56_eye-1,,Taoping,56_eye,mi⁵⁵,mi⁵⁵,m i ⁵⁵,,Sims2020,,,^ m i ⁵⁵ $,default,m i , i m
+576,Longxi-56_eye-1,,Longxi,56_eye,ȵí má toù,ȵí_má_toù,ȵ í/i + m á/a + t o ù/u,,Sims2020,,,^ ȵ í _ m á _ t o ù $,default,i i  m a a  t o u u, a i m o t u
+577,Mianchi-56_eye-1,,Mianchi,56_eye,mù tié,mù_tié,m ù/u + t i é/e,,Sims2020,,,^ m ù _ t i é $,default,m u u  t i e e, e i m t u
+578,Yonghe-56_eye-1,,Yonghe,56_eye,mí kjæ̀,mí_kjæ̀,m í/i + k j æ̀/æ,,Sims2020,,,^ m í _ k j æ̀ $,default,m i i  k y E E, E i k m y
+579,Wadu-56_eye-1,,Wadu,56_eye,njæ HL,njæ_HL,n j æ HL/⁵¹,,Sims2020,,,^ n j æ _HL $,default,n y E , E n y
+580,Niuwozi-56_eye-1,,Niuwozi,56_eye,mjaᶠ,mjaᶠ,m j a ᶠ/⁵¹,,Sims2020,,,^ m j aᶠ $,default,m y a , a m y
+581,Dayang-56_eye-1,,Dayang,56_eye,myɑ́N,myɑ́N,m y/ɥ ɑ́/ɑ N/⁰,,Sims2020,,,^ myɑ́N $,default,m i y o o , i m o y
+582,Taoba-56_eye-1,,Taoba,56_eye,ȵiɛ⁵³,ȵiɛ⁵³,ȵ i/j ɛ ⁵³,,Sims2020,,,^ ȵ iɛ ⁵³ $,default,i y E , E i y
+583,Qinghua-56_eye-1,,Qinghua,56_eye,miɑ⁵⁵,miɑ⁵⁵,m i ɑ ⁵⁵,,Sims2020,,,^ m i ɑ ⁵⁵ $,default,m i o , i m o
+584,Lanping-56_eye-1,,Lanping,56_eye,miɑ⁵⁵,miɑ⁵⁵,m i ɑ ⁵⁵,,Sims2020,,,^ m i ɑ ⁵⁵ $,default,m i o , i m o
+585,Jiulong-56_eye-1,,Jiulong,56_eye,ȵə³⁵,ȵə³⁵,ȵ ə ³⁵,,Sims2020,,,^ ȵ ə ³⁵ $,default,3 , 3
+586,Taoping-53_elbow-1,,Taoping,53_elbow,i³³ kye³³ kye³³,i³³_kye³³_kye³³,i ³³ + k y/ɥ e ³³ + k y/ɥ e ³³,,Sims2020,,,^ i ³³ _ k ye ³³ _ k ye ³³ $,default,i   k i y e   k i y e , e i k y
+587,Taoba-53_elbow-1,,Taoba,53_elbow,ʑɛ³⁵ ku³⁵,ʑɛ³⁵_ku³⁵,ʑ ɛ ³⁵ + k u ³⁵,,Sims2020,,,^ ʑ ɛ ³⁵ _ k u ³⁵ $,default,Z E   k u , E Z k u
+588,Qinghua-53_elbow-1,,Qinghua,53_elbow,ʒɛ¹³ kʰu⁵⁵,ʒɛ¹³_kʰu⁵⁵,ʒ ɛ ¹³ + kʰ u ⁵⁵,,Sims2020,,,^ ʒ ɛ ¹³ _ kʰ u ⁵⁵ $,default,Z E   kh~ u , E Z kh~ u
+589,Lanping-53_elbow-1,,Lanping,53_elbow,ʒɛ⁵⁵ xqo¹³,ʒɛ⁵⁵_xqo¹³,ʒ ɛ ⁵⁵ + x q o ¹³,,Sims2020,,,^ ʒ ɛ ⁵⁵ _ x q o ¹³ $,default,Z E   x q o , E Z o q x
+590,Taoping-52_easy-1,,Taoping,52_easy,zie³¹,zie³¹,z i/j e ³¹,,Sims2020,,,^ z ie ³¹ $,default,z i y e , e i y z
+591,Mianchi-52_easy-1,,Mianchi,52_easy,(pù) zɛ̀,_zɛ̀,z ɛ̀/ɛ,,Sims2020,,,^_ z ɛ̀ $,default,z E E,E z
+592,Yonghe-52_easy-1,,Yonghe,52_easy,zə̌,zə̌,z ə̆/ə,,Sims2020,,,^ z ə̌ $,default,z 3 3,3 z
+593,Taoba-52_easy-1,,Taoba,52_easy,ʑe³⁵ ʑe⁵⁵ mə⁵³,ʑe³⁵_ʑe⁵⁵_mə⁵³,ʑ e ³⁵ + ʑ e ⁵⁵ + m ə ⁵³,,Sims2020,,,^ ʑ e ³⁵ _ ʑ e ⁵⁵ _ m ə ⁵³ $,default,Z e   Z e   m 3 , 3 Z e m
+594,Qinghua-52_easy-1,,Qinghua,52_easy,stʃɛ¹³ stʃɛ¹³,stʃɛ¹³_stʃɛ¹³,s tʃ ɛ ¹³ + s tʃ ɛ ¹³,,Sims2020,,,^ s tʃ ɛ ¹³ _ s tʃ ɛ ¹³ $,default,s tS E   s tS E , E s tS
+595,Lanping-52_easy-1,,Lanping,52_easy,ʃtʃɛ¹³ ʃtʃɛ⁵⁵,ʃtʃɛ¹³_ʃtʃɛ⁵⁵,ʃ tʃ ɛ ¹³ + ʃ tʃ ɛ ⁵⁵,,Sims2020,,,^ ʃ tʃ ɛ ¹³ _ ʃ tʃ ɛ ⁵⁵ $,default,S tS E   S tS E , E S tS
+596,Jiulong-52_easy-1,,Jiulong,52_easy,dʑə³⁵ dʑə³⁵,dʑə³⁵_dʑə³⁵,dʑ ə ³⁵ + dʑ ə ³⁵,,Sims2020,,,^ dʑ ə ³⁵ _ dʑ ə ³⁵ $,default,dZ 3   dZ 3 , 3 dZ
+597,Taoping-50_drum-1,,Taoping,50_drum,χbu³³,χbu³³,χ b u ³³,,Sims2020,,,^ χ b u ³³ $,default,X b u , X b u
+598,Longxi-50_drum-1,,Longxi,50_drum,bù,bù,b ù/u,,Sims2020,,,^ b ù $,default,b u u,b u
+599,Mianchi-50_drum-1,,Mianchi,50_drum,bù,bù,b ù/u,,Sims2020,,,^ b ù $,default,b u u,b u
+600,Taoping-46_dragon-1,,Taoping,46_dragon,χbə²⁴¹,χbə²⁴¹,χ b ə ²⁴¹,,Sims2020,,,^ χ b ə ²⁴¹ $,default,X b 3 , 3 X b
+601,Longxi-46_dragon-1,,Longxi,46_dragon,bú,bú,b ú/u,,Sims2020,,,^ b ú $,default,b u u,b u
+602,Mianchi-46_dragon-1,,Mianchi,46_dragon,bú,bú,b ú/u,,Sims2020,,,^ b ú $,default,b u u,b u
+603,Taoba-46_dragon-1,,Taoba,46_dragon,bʐo⁵⁵,bʐo⁵⁵,b ʐ o ⁵⁵,,Sims2020,,,^ bʐ o ⁵⁵ $,default,b Z o , Z b o
+604,Taoping-43_deity-1,,Taoping,43_deity,tsʰie³³,tsʰie³³,tsʰ i/j e ³³,,Sims2020,,,^ tsʰ ie ³³ $,default,tsh~ i y e , e i tsh~ y
+605,Longxi-43_deity-1,,Longxi,43_deity,tɕʰí,tɕʰí,tɕʰ í/i,,Sims2020,,,^ tɕʰ í $,default,tSh~ i i,i tSh~
+606,Mianchi-43_deity-1,,Mianchi,43_deity,sé,sé,s é/e,,Sims2020,,,^ s é $,default,s e e,e s
+607,Yonghe-43_deity-1,,Yonghe,43_deity,sɨ́,sɨ́,s ɨ́/ɨ,,Sims2020,,,^ s ɨ́ $,default,s 3 3,3 s
+608,Wadu-43_deity-1,,Wadu,43_deity,hí,hí,h í/i,,Sims2020,,,^ h í $,default,h i i,h i
+609,Niuwozi-43_deity-1,,Niuwozi,43_deity,xeᴴ,xeᴴ,x e ᴴ/⁵,,Sims2020,,,^ x eᴴ $,default,x e , e x
+610,Dayang-43_deity-1,,Dayang,43_deity,ɕé,ɕé,ɕ é/e,,Sims2020,,,^ ɕ é $,default,S e e,S e
+611,Qinghua-215_temple-1,,Qinghua,215_temple,ɕe⁵⁵ tʃə̃⁵⁵,ɕe⁵⁵_tʃə̃⁵⁵,ɕ e ⁵⁵ + tʃ ə̃ ⁵⁵,,Sims2020,,,^ ɕ e ⁵⁵ _ tʃ ə̃ ⁵⁵ $,default,S e   tS 3* , 3* S e tS
+612,Lanping-215_temple-1,,Lanping,215_temple,ɕe⁵⁵ tʃə̃⁵⁵,ɕe⁵⁵_tʃə̃⁵⁵,ɕ e ⁵⁵ + tʃ ə̃ ⁵⁵,,Sims2020,,,^ ɕ e ⁵⁵ _ tʃ ə̃ ⁵⁵ $,default,S e   tS 3* , 3* S e tS
+613,Taoping-42_deaf-1,,Taoping,42_deaf,ȵi³¹ kie³³ bu²⁴¹,ȵi³¹_kie³³_bu²⁴¹,ȵ i ³¹ + k i/j e ³³ + b u ²⁴¹,,Sims2020,,,^ ȵ i ³¹ _ k ie ³³ _ b u ²⁴¹ $,default,i   k i y e   b u , b e i k u y
+614,Longxi-42_deaf-1,,Longxi,42_deaf,ȵì bò,ȵì_bò,ȵ ì/i + b ò/o,,Sims2020,,,^ ȵ ì _ b ò $,default,i i  b o o, b i o
+615,Mianchi-42_deaf-1,,Mianchi,42_deaf,bù,bù,b ù/u,,Sims2020,,,^ b ù $,default,b u u,b u
+616,Yonghe-42_deaf-1,,Yonghe,42_deaf,ȵí kwì bù,ȵí_kwì_bù,ȵ í/i + k w ì/i + b ù/u,,Sims2020,,,^ ȵ í _ kw ì _ b ù $,default,i i  k w i i  b u u, b i k u w
+617,Wadu-42_deaf-1,,Wadu,42_deaf,da bõ̌,da_bõ̌,d a + b õ̌/õ,,Sims2020,,,^ d a _ b õ̌ $,default,d a  b o* o*, a b d o*
+618,Niuwozi-42_deaf-1,,Niuwozi,42_deaf,bõᴿ,bõᴿ,b õ ᴿ/¹⁵,,Sims2020,,,^ b õᴿ $,default,b o* , b o*
+619,Taoba-42_deaf-1,,Taoba,42_deaf,zɐ³⁵ bõ³⁵,zɐ³⁵_bõ³⁵,z ɐ ³⁵ + b õ ³⁵,,Sims2020,,,^ z ɐ ³⁵ _ b õ ³⁵ $,default,z a   b o* , a b o* z
+620,Qinghua-42_deaf-1,,Qinghua,42_deaf,sdə¹³ bõ¹³,sdə¹³_bõ¹³,s d ə ¹³ + b õ ¹³,,Sims2020,,,^ s d ə ¹³ _ b õ ¹³ $,default,s d 3   b o* , 3 b d o* s
+621,Lanping-42_deaf-1,,Lanping,42_deaf,zdə¹³ bõ¹³,zdə¹³_bõ¹³,z d ə ¹³ + b õ ¹³,,Sims2020,,,^ z d ə ¹³ _ b õ ¹³ $,default,z d 3   b o* , 3 b d o* z
+622,Jiulong-42_deaf-1,,Jiulong,42_deaf,zɑ¹¹ bũ⁵⁵,zɑ¹¹_bũ⁵⁵,z ɑ ¹¹ + b ũ ⁵⁵,,Sims2020,,,^ z ɑ ¹¹ _ b ũ ⁵⁵ $,default,z o   b u* , b o u* z
+623,Taoping-39_dark-1,,Taoping,39_dark,mu³³,mu³³,m u ³³,,Sims2020,,,^ m u ³³ $,default,m u , m u
+624,Longxi-39_dark-1,,Longxi,39_dark,ɦà-mù,ɦà-mù,ɦ à/a + m ù/u,,Sims2020,,,^ ɦ à - m ù $,default,h a a  m u u, a h m u
+625,Mianchi-39_dark-1,,Mianchi,39_dark,mò,mò,m ò/o,,Sims2020,,,^ m ò $,default,m o o,m o
+626,Taoping-38_dancejump-1,,Taoping,38_dancejump,tsʰu⁵⁵ ta⁵⁵,tsʰu⁵⁵_ta⁵⁵,tsʰ u ⁵⁵ + t a ⁵⁵,,Sims2020,,,^ tsʰ u ⁵⁵ _ t a ⁵⁵ $,default,tsh~ u   t a , a t tsh~ u
+627,Longxi-38_dancejump-1,,Longxi,38_dancejump,tsʰó tà,tsʰó_tà,tsʰ ó/o + t à/a,,Sims2020,,,^ tsʰ ó _ t à $,default,tsh~ o o  t a a, a o t tsh~
+628,Mianchi-38_dancejump-1,,Mianchi,38_dancejump,soú,soú,s o ú/u,,Sims2020,,,^ s o ú $,default,s o u u,o s u
+629,Yonghe-38_dancejump-1,,Yonghe,38_dancejump,sú tɛ̀,sú_tɛ̀,s ú/u + t ɛ̀/ɛ,,Sims2020,,,^ s ú _ t ɛ̀ $,default,s u u  t E E, E s t u
+630,Wadu-38_dancejump-1,,Wadu,38_dancejump,tsʰú,tsʰú,tsʰ ú/u,,Sims2020,,,^ tsʰ ú $,default,tsh~ u u,tsh~ u
+631,Niuwozi-38_dancejump-1,,Niuwozi,38_dancejump,tsʰoᶠ,tsʰoᶠ,tsʰ o ᶠ/⁵¹,,Sims2020,,,^ tsʰ oᶠ $,default,tsh~ o , o tsh~
+632,Taoba-38_dancejump-1,,Taoba,38_dancejump,dʑɛ³⁵ tsʰo³⁵,dʑɛ³⁵_tsʰo³⁵,dʑ ɛ ³⁵ + tsʰ o ³⁵,,Sims2020,,,^ dʑ ɛ ³⁵ _ tsʰ o ³⁵ $,default,dZ E   tsh~ o , E dZ o tsh~
+633,Qinghua-38_dancejump-1,,Qinghua,38_dancejump,tsʰa⁵⁵ tsʰo⁵⁵,tsʰa⁵⁵_tsʰo⁵⁵,tsʰ a ⁵⁵ + tsʰ o ⁵⁵,,Sims2020,,,^ tsʰ a ⁵⁵ _ tsʰ o ⁵⁵ $,default,tsh~ a   tsh~ o , a o tsh~
+634,Lanping-38_dancejump-1,,Lanping,38_dancejump,xə¹³ tsʰo⁵⁵,xə¹³_tsʰo⁵⁵,x ə ¹³ + tsʰ o ⁵⁵,,Sims2020,,,^ x ə ¹³ _ tsʰ o ⁵⁵ $,default,x 3   tsh~ o , 3 o tsh~ x
+635,Jiulong-38_dancejump-1,,Jiulong,38_dancejump,tɕɯ⁵⁵ tsʰə⁵⁵,tɕɯ⁵⁵_tsʰə⁵⁵,tɕ ɯ ⁵⁵ + tsʰ ə ⁵⁵,,Sims2020,,,^ tɕ ɯ ⁵⁵ _ tsʰ ə ⁵⁵ $,default,tS u   tsh~ 3 , 3 tS tsh~ u
+636,Taoping-33_come-1,,Taoping,33_come,ly³³,ly³³,l y ³³,,Sims2020,,,^ l y ³³ $,default,l i , i l
+637,Longxi-33_come-1,,Longxi,33_come,lò,lò,l ò/o,,Sims2020,,,^ l ò $,default,l o o,l o
+638,Mianchi-33_come-1,,Mianchi,33_come,ȵù,ȵù,ȵ ù/u,,Sims2020,,,^ ȵ ù $,default,u u,u
+639,Wadu-33_come-1,,Wadu,33_come,ʑə̌,ʑə̌,ʑ ə̆/ə,,Sims2020,,,^ ʑ ə̌ $,default,Z 3 3,3 Z
+640,Niuwozi-33_come-1,,Niuwozi,33_come,ʒɨᴿ,ʒɨᴿ,ʒ ɨ ᴿ/¹⁵,,Sims2020,,,^ ʒ ɨᴿ $,default,Z 3 , 3 Z
+641,Taoba-33_come-1,,Taoba,33_come,ju³⁵,ju³⁵,j u ³⁵,,Sims2020,,,^ j u ³⁵ $,default,y u , u y
+642,Qinghua-33_come-1,,Qinghua,33_come,i¹³,i¹³,i ¹³,,Sims2020,,,^ i ¹³ $,default,i , i
+643,Lanping-33_come-1,,Lanping,33_come,ʒə³⁵,ʒə³⁵,ʒ ə ³⁵,,Sims2020,,,^ ʒ ə ³⁵ $,default,Z 3 , 3 Z
+644,Jiulong-33_come-1,,Jiulong,33_come,li³⁵,li³⁵,l i ³⁵,,Sims2020,,,^ l i ³⁵ $,default,l i , i l
+645,Taoping-32_cloud-1,,Taoping,32_cloud,χde³³,χde³³,χ d e ³³,,Sims2020,,,^ χ d e ³³ $,default,X d e , X d e
+646,Longxi-32_cloud-1,,Longxi,32_cloud,dá mù,dá_mù,d á/a + m ù/u,,Sims2020,,,^ d á _ m ù $,default,d a a  m u u, a d m u
+647,Mianchi-32_cloud-1,,Mianchi,32_cloud,dá mò,dá_mò,d á/a + m ò/o,,Sims2020,,,^ d á _ m ò $,default,d a a  m o o, a d m o
+648,Yonghe-32_cloud-1,,Yonghe,32_cloud,dá,dá,d á/a,,Sims2020,,,^ d á $,default,d a a,a d
+649,Niuwozi-32_cloud-1,,Niuwozi,32_cloud,dĩᴴ,dĩᴴ,d ĩ ᴴ/⁵,,Sims2020,,,^ d ĩᴴ $,default,d i* , d i*
+650,Dayang-32_cloud-1,,Dayang,32_cloud,zdĩ́,zdĩ́,z d ĩ́/ĩ,,Sims2020,,,^ z d ĩ́ $,default,z d i* i*,d i* z
+651,Qinghua-32_cloud-1,,Qinghua,32_cloud,sdĩ⁵⁵,sdĩ⁵⁵,s d ĩ ⁵⁵,,Sims2020,,,^ s d ĩ ⁵⁵ $,default,s d i* , d i* s
+652,Lanping-32_cloud-1,,Lanping,32_cloud,zdĩ⁵⁵,zdĩ⁵⁵,z d ĩ ⁵⁵,,Sims2020,,,^ z d ĩ ⁵⁵ $,default,z d i* , d i* z
+653,Jiulong-32_cloud-1,,Jiulong,32_cloud,dẽ³⁵,dẽ³⁵,d ẽ ³⁵,,Sims2020,,,^ d ẽ ³⁵ $,default,d e* , d e*
+654,Taoping-29_clearofwater-1,,Taoping,29_clearofwater,dʐe³³,dʐe³³,ɖʐ e ³³,,Sims2020,,,^ dʐ e ³³ $,default,dZ e , dZ e
+655,Lanping-29_clearofwater-1,,Lanping,29_clearofwater,dʐuɛ̃¹³ si⁵⁵,dʐuɛ̃¹³_si⁵⁵,ɖʐ u ɛ̃ ¹³ + s i ⁵⁵,,Sims2020,,,^ dʐ u ɛ̃ ¹³ _ s i ⁵⁵ $,default,dZ u E*   s i , E* dZ i s u
+656,Taoping-27_chop-1,,Taoping,27_chop,tsʰuɑ⁵⁵,tsʰuɑ⁵⁵,tsʰ u/w ɑ ⁵⁵,,Sims2020,,,^ tsʰ uɑ ⁵⁵ $,default,tsh~ u w o , o tsh~ u w
+657,Longxi-27_chop-1,,Longxi,27_chop,tsʰuá dà,tsʰuá_dà,tsʰ u á/a + d à/a,,Sims2020,,,^ tsʰ u á _ d à $,default,tsh~ u a a  d a a, a d tsh~ u
+658,Mianchi-27_chop-1,,Mianchi,27_chop,tsʰoú tià,tsʰoú_tià,tsʰ o ú/u + t i/j à/a,,Sims2020,,,^ tsʰ o ú _ t ià $,default,tsh~ o u u  t i y a a, a i o t tsh~ u y
+659,Yonghe-27_chop-1,,Yonghe,27_chop,tsʰwɑ́ tɛ̀,tsʰwɑ́_tɛ̀,tsʰ w ɑ́/ɑ + t ɛ̀/ɛ,,Sims2020,,,^ tsʰw ɑ́ _ t ɛ̀ $,default,tsh~ w o o  t E E, E o t tsh~ w
+660,Qinghua-27_chop-1,,Qinghua,27_chop,tʰə¹³ stʃɑ⁵⁵,tʰə¹³_stʃɑ⁵⁵,tʰ ə ¹³ + s tʃ ɑ ⁵⁵,,Sims2020,,,^ tʰ ə ¹³ _ s tʃ ɑ ⁵⁵ $,default,th~ 3   s tS o , 3 o s tS th~
+661,Lanping-27_chop-1,,Lanping,27_chop,tʰə¹³ ʃtʃɑ⁵⁵,tʰə¹³_ʃtʃɑ⁵⁵,tʰ ə ¹³ + ʃ tʃ ɑ ⁵⁵,,Sims2020,,,^ tʰ ə ¹³ _ ʃ tʃ ɑ ⁵⁵ $,default,th~ 3   S tS o , 3 S o tS th~
+662,Taoping-25_cavemountain-1,,Taoping,25_cavemountain,ʐɑ³³ pu³³,ʐɑ³³_pu³³,ʐ ɑ ³³ + p u ³³,,Sims2020,,,^ ʐ ɑ ³³ _ p u ³³ $,default,Z o   p u , Z o p u
+663,Yonghe-24_cave-1,,Yonghe,24_cave,ɦɑ̀ pú,ɦɑ̀_pú,ɦ ɑ̀/ɑ + p ú/u,,Sims2020,,,^ ɦ ɑ̀ _ p ú $,default,h o o  p u u, h o p u
+664,Jiulong-24_cave-1,,Jiulong,24_cave,ʐə¹¹ pu⁵⁵,ʐə¹¹_pu⁵⁵,ʐ ə ¹¹ + p u ⁵⁵,,Sims2020,,,^ ʐ ə ¹¹ _ p u ⁵⁵ $,default,Z 3   p u , 3 Z p u
+665,Taoping-23_cat-1,,Taoping,23_cat,ma³¹ ȵy⁵⁵,ma³¹_ȵy⁵⁵,m a ³¹ + ȵ y ⁵⁵,,Sims2020,,,^ m a ³¹ _ ȵ y ⁵⁵ $,default,m a   i , a i m
+666,Longxi-23_cat-1,,Longxi,23_cat,má{ȵú} mé{ȵòu},máȵú,m á/a ȵ ú/u,,Sims2020,,,^ m á ȵ ú $,default,m a a u u,a m u
+667,Yonghe-23_cat-1,,Yonghe,23_cat,mæ̀ ȵwí,mæ̀_ȵwí,m æ̀/æ + ȵ w í/i,,Sims2020,,,^ m æ̀ _ ȵw í $,default,m E E  w i i, E i m w
+668,Niuwozi-23_cat-1,,Niuwozi,23_cat,mɜᴸ tsɨᴿ,mɜᴸ_tsɨᴿ,m ɜ ᴸ/¹ + ts ɨ ᴿ/¹⁵,,Sims2020,,,^ m ɜᴸ _ ts ɨᴿ $,default,m 3   ts 3 , 3 m ts
+669,Taoba-23_cat-1,,Taoba,23_cat,mɐ³⁵ tsə⁵⁵,mɐ³⁵_tsə⁵⁵,m ɐ ³⁵ + ts ə ⁵⁵,,Sims2020,,,^ m ɐ ³⁵ _ ts ə ⁵⁵ $,default,m a   ts 3 , 3 a m ts
+670,Qinghua-23_cat-1,,Qinghua,23_cat,mɐ¹³ tsə⁵⁵,mɐ¹³_tsə⁵⁵,m ɐ ¹³ + ts ə ⁵⁵,,Sims2020,,,^ m ɐ ¹³ _ ts ə ⁵⁵ $,default,m a   ts 3 , 3 a m ts
+671,Jiulong-23_cat-1,,Jiulong,23_cat,mu¹¹ ȵi⁵⁵,mu¹¹_ȵi⁵⁵,m u ¹¹ + ȵ i ⁵⁵,,Sims2020,,,^ m u ¹¹ _ ȵ i ⁵⁵ $,default,m u   i , i m u
+672,Taoping-22_buttocks-1,,Taoping,22_buttocks,tʰɑ³¹ bɑ³³,tʰɑ³¹_bɑ³³,tʰ ɑ ³¹ + b ɑ ³³,,Sims2020,,,^ tʰ ɑ ³¹ _ b ɑ ³³ $,default,th~ o   b o , b o th~
+673,Longxi-236_vulva-1,,Longxi,236_vulva,tʰà bá,tʰà_bá,tʰ à/a + b á/a,,Sims2020,,,^ tʰ à _ b á $,default,th~ a a  b a a, a b th~
+674,Taoping-17_breakviofrope-1,,Taoping,17_breakviofrope,bʐe³³,bʐe³³,b ʐ e ³³,,Sims2020,,,^ bʐ e ³³ $,default,b Z e , Z b e
+675,Longxi-17_breakviofrope-1,,Longxi,17_breakviofrope,bà,bà,b à/a,,Sims2020,,,^ b à $,default,b a a,a b
+676,Mianchi-17_breakviofrope-1,,Mianchi,17_breakviofrope,pʰɚ̌,pʰɚ̌,pʰ ɚ̆/ə˞,,Sims2020,,,^ pʰ ɚ̌ $,default,ph~ 3 3,3 ph~
+677,Dayang-188_snapvi-1,,Dayang,188_snapvi,bʐɛ̌,bʐɛ̌,b ʐ ɛ̆/ɛ,,Sims2020,,,^ bʐ ɛ̌ $,default,b Z E E,E Z b
+678,Taoba-17_breakviofrope-1,,Taoba,17_breakviofrope,tə³⁵ bʐɛ³⁵,tə³⁵_bʐɛ³⁵,t ə ³⁵ + b ʐ ɛ ³⁵,,Sims2020,,,^ t ə ³⁵ _ bʐ ɛ ³⁵ $,default,t 3   b Z E , 3 E Z b t
+679,Qinghua-17_breakviofrope-1,,Qinghua,17_breakviofrope,tʰə¹³ pʐɛ¹³,tʰə¹³_pʐɛ¹³,tʰ ə ¹³ + p ʐ ɛ ¹³,,Sims2020,,,^ tʰ ə ¹³ _ pʐ ɛ ¹³ $,default,th~ 3   p Z E , 3 E Z p th~
+680,Taoping-15_bone-1,,Taoping,15_bone,ʐɑ³¹ kie³³,ʐɑ³¹_kie³³,ʐ ɑ ³¹ + k i/j e ³³,,Sims2020,,,^ ʐ ɑ ³¹ _ k ie ³³ $,default,Z o   k i y e , Z e i k o y
+681,Longxi-15_bone-1,,Longxi,15_bone,ɹà ká,ɹà_ká,ɹ à/a + k á/a,,Sims2020,,,^ ɹ à _ k á $,default,r a a  k a a, a k r
+682,Mianchi-15_bone-1,,Mianchi,15_bone,ʐæ̀ ʁoù,ʐæ̀_ʁoù,ʐ æ̀/æ + ʁ o ù/u,,Sims2020,,,^ ʐ æ̀ _ ʁ o ù $,default,Z E E  X o u u, E X Z o u
+683,Yonghe-15_bone-1,,Yonghe,15_bone,ɦàʴ kjɛ́,ɦàʴ_kjɛ́,ɦ à/a ʴ/³⁵ + k j ɛ́/ɛ,,Sims2020,,,^ ɦ àʴ _ k j ɛ́ $,default,h a a   k y E E, E a h k y
+684,Wadu-15_bone-1,,Wadu,15_bone,ɹà qá,ɹà_qá,ɹ à/a + q á/a,,Sims2020,,,^ ɹ à _ q á $,default,r a a  q a a, a q r
+685,Niuwozi-15_bone-1,,Niuwozi,15_bone,ɹɜᴸ kɑᴴ,ɹɜᴸ_kɑᴴ,ɹ ɜ ᴸ/¹ + k ɑ ᴴ/⁵,,Sims2020,,,^ ɹ ɜᴸ _ k ɑᴴ $,default,r 3   k o , 3 k o r
+686,Dayang-15_bone-1,,Dayang,15_bone,rɑ́ qɑ̌,rɑ́_qɑ̌,r ɑ́/ɑ + q ɑ̆/ɑ,,Sims2020,,,^ r ɑ́ _ q ɑ̌ $,default,r o o  q o o, o q r
+687,Taoba-15_bone-1,,Taoba,15_bone,rɛ³⁵ ka⁵³,rɛ³⁵_ka⁵³,r ɛ ³⁵ + k a ⁵³,,Sims2020,,,^ r ɛ ³⁵ _ k a ⁵³ $,default,r E   k a , E a k r
+688,Qinghua-15_bone-1,,Qinghua,15_bone,ʐɑ⁵⁵ qɑ¹³,ʐɑ⁵⁵_qɑ¹³,ʐ ɑ ⁵⁵ + q ɑ ¹³,,Sims2020,,,^ ʐ ɑ ⁵⁵ _ q ɑ ¹³ $,default,Z o   q o , Z o q
+689,Lanping-15_bone-1,,Lanping,15_bone,ʐɑ⁵⁵ qɑ¹³,ʐɑ⁵⁵_qɑ¹³,ʐ ɑ ⁵⁵ + q ɑ ¹³,,Sims2020,,,^ ʐ ɑ ⁵⁵ _ q ɑ ¹³ $,default,Z o   q o , Z o q
+690,Jiulong-15_bone-1,,Jiulong,15_bone,ʐɑ¹¹ qɑ⁵⁵,ʐɑ¹¹_qɑ⁵⁵,ʐ ɑ ¹¹ + q ɑ ⁵⁵,,Sims2020,,,^ ʐ ɑ ¹¹ _ q ɑ ⁵⁵ $,default,Z o   q o , Z o q
+691,Taoping-14_blow-1,,Taoping,14_blow,pʰə³³,pʰə³³,pʰ ə ³³,,Sims2020,,,^ pʰ ə ³³ $,default,ph~ 3 , 3 ph~
+692,Longxi-14_blow-1,,Longxi,14_blow,phú,phú,pʰ ú/u,,Sims2020,,,^ ph ú $,default,ph~ u u,ph~ u
+693,Lanping-14_blow-1,,Lanping,14_blow,pʰu⁵⁵ py⁵⁵,pʰu⁵⁵_py⁵⁵,pʰ u ⁵⁵ + p y ⁵⁵,,Sims2020,,,^ pʰ u ⁵⁵ _ p y ⁵⁵ $,default,ph~ u   p i , i p ph~ u
+694,Taoping-12_blood-1,,Taoping,12_blood,sa³³,sa³³,s a ³³,,Sims2020,,,^ s a ³³ $,default,s a , a s
+695,Longxi-12_blood-1,,Longxi,12_blood,sà,sà,s à/a,,Sims2020,,,^ s à $,default,s a a,a s
+696,Mianchi-12_blood-1,,Mianchi,12_blood,sà,sà,s à/a,,Sims2020,,,^ s à $,default,s a a,a s
+697,Yonghe-12_blood-1,,Yonghe,12_blood,sɑ̌,sɑ̌,s ɑ̆/ɑ,,Sims2020,,,^ s ɑ̌ $,default,s o o,o s
+698,Wadu-12_blood-1,,Wadu,12_blood,sɛ̌j,sɛ̌j,s ɛ̌j/ɛi,,Sims2020,,,^ s ɛ̌j $,default,s Ey Ei,Ei Ey s
+699,Niuwozi-12_blood-1,,Niuwozi,12_blood,sɜjᴿ,sɜjᴿ,s ɜj/ɜi ᴿ/¹⁵,,Sims2020,,,^ s ɜjᴿ $,default,s 3y 3i , 3i 3y s
+700,Dayang-12_blood-1,,Dayang,12_blood,sǎ,sǎ,s ă/a,,Sims2020,,,^ s ǎ $,default,s a a,a s
+701,Taoba-12_blood-1,,Taoba,12_blood,se³⁵,se³⁵,s e ³⁵,,Sims2020,,,^ s e ³⁵ $,default,s e , e s
+702,Qinghua-12_blood-1,,Qinghua,12_blood,sa¹³,sa¹³,s a ¹³,,Sims2020,,,^ s a ¹³ $,default,s a , a s
+703,Lanping-12_blood-1,,Lanping,12_blood,sa¹³,sa¹³,s a ¹³,,Sims2020,,,^ s a ¹³ $,default,s a , a s
+704,Jiulong-12_blood-1,,Jiulong,12_blood,sɛi³⁵,sɛi³⁵,s ɛi ³⁵,,Sims2020,,,^ s ɛi ³⁵ $,default,s Ei , Ei s
+705,Taoping-10_black-1,,Taoping,10_black,ȵi⁵⁵ ȵi³¹,ȵi⁵⁵_ȵi³¹,ȵ i ⁵⁵ + ȵ i ³¹,,Sims2020,,,^ ȵ i ⁵⁵ _ ȵ i ³¹ $,default,i   i , i
+706,Longxi-10_black-1,,Longxi,10_black,ȵí ~ ȵì,ȵí,ȵ í/i,,Sims2020,,,^ ȵ í $,default,i i,i
+707,Mianchi-10_black-1,,Mianchi,10_black,nə̀,nə̀,n ə̀/ə,,Sims2020,,,^ n ə̀ $,default,n 3 3,3 n
+708,Yonghe-10_black-1,,Yonghe,10_black,ȵǐ,ȵǐ,ȵ ĭ/i,,Sims2020,,,^ ȵ ǐ $,default,i i,i
+709,Wadu-10_black-1,,Wadu,10_black,njæ̌,njæ̌,n j æ̆/æ,,Sims2020,,,^ n j æ̌ $,default,n y E E,E n y
+710,Niuwozi-10_black-1,,Niuwozi,10_black,njɑᴿ,njɑᴿ,n j ɑ ᴿ/¹⁵,,Sims2020,,,^ n j ɑᴿ $,default,n y o , n o y
+711,Dayang-10_black-1,,Dayang,10_black,ȵɑ̌N,ȵɑ̌N,ȵ ɑ̆/ɑ N/⁰,,Sims2020,,,^ ȵ ɑ̌ N $,default,o o , o
+712,Taoba-10_black-1,,Taoba,10_black,ȵɛ³⁵ mə⁵³,ȵɛ³⁵_mə⁵³,ȵ ɛ ³⁵ + m ə ⁵³,,Sims2020,,,^ ȵ ɛ ³⁵ _ m ə ⁵³ $,default,E   m 3 , 3 E m
+713,Qinghua-10_black-1,,Qinghua,10_black,ȵɑ³⁵,ȵɑ³⁵,ȵ ɑ ³⁵,,Sims2020,,,^ ȵ ɑ ³⁵ $,default,o , o
+714,Lanping-10_black-1,,Lanping,10_black,ȵɑ³⁵,ȵɑ³⁵,ȵ ɑ ³⁵,,Sims2020,,,^ ȵ ɑ ³⁵ $,default,o , o
+715,Taoping-9_bitter-1,,Taoping,9_bitter,qʰa⁵⁵,qʰa⁵⁵,qʰ a ⁵⁵,,Sims2020,,,^ qʰ a ⁵⁵ $,default,qh~ a , a qh~
+716,Longxi-9_bitter-1,,Longxi,9_bitter,qʰà,qʰà,qʰ à/a,,Sims2020,,,^ qʰ à $,default,qh~ a a,a qh~
+717,Mianchi-9_bitter-1,,Mianchi,9_bitter,qʰà,qʰà,qʰ à/a,,Sims2020,,,^ qʰ à $,default,qh~ a a,a qh~
+718,Yonghe-9_bitter-1,,Yonghe,9_bitter,kʰɑ́ ~ qʰɑ́,kʰɑ́,kʰ ɑ́/ɑ,,Sims2020,,,^ kʰ ɑ́ $,default,kh~ o o,kh~ o
+719,Wadu-9_bitter-1,,Wadu,9_bitter,qʰæ̌,qʰæ̌,qʰ æ̆/æ,,Sims2020,,,^ qʰ æ̌ $,default,qh~ E E,E qh~
+720,Niuwozi-9_bitter-1,,Niuwozi,9_bitter,kʰaᴿ,kʰaᴿ,kʰ a ᴿ/¹⁵,,Sims2020,,,^ kʰ aᴿ $,default,kh~ a , a kh~
+721,Dayang-9_bitter-1,,Dayang,9_bitter,qʰɑ̌,qʰɑ̌,qʰ ɑ̆/ɑ,,Sims2020,,,^ qʰ ɑ̌ $,default,qh~ o o,o qh~
+722,Taoba-9_bitter-1,,Taoba,9_bitter,kʰa³⁵ mə⁵³,kʰa³⁵_mə⁵³,kʰ a ³⁵ + m ə ⁵³,,Sims2020,,,^ kʰ a ³⁵ _ m ə ⁵³ $,default,kh~ a   m 3 , 3 a kh~ m
+723,Qinghua-9_bitter-1,,Qinghua,9_bitter,qʰɑ¹³,qʰɑ¹³,qʰ ɑ ¹³,,Sims2020,,,^ qʰ ɑ ¹³ $,default,qh~ o , o qh~
+724,Lanping-9_bitter-1,,Lanping,9_bitter,qʰɑ¹³,qʰɑ¹³,qʰ ɑ ¹³,,Sims2020,,,^ qʰ ɑ ¹³ $,default,qh~ o , o qh~
+725,Jiulong-9_bitter-1,,Jiulong,9_bitter,qʰɑ⁵⁵,qʰɑ⁵⁵,qʰ ɑ ⁵⁵,,Sims2020,,,^ qʰ ɑ ⁵⁵ $,default,qh~ o , o qh~
+726,Taoping-7_bee-1,,Taoping,7_bee,bə³¹ dʑy³³,bə³¹_dʑy³³,b ə ³¹ + dʑ y ³³,,Sims2020,,,^ b ə ³¹ _ dʑ y ³³ $,default,b 3   dZ i , 3 b dZ i
+727,Longxi-7_bee-1,,Longxi,7_bee,bù-iù,bù-iù,b ù/u + i ù/u,,Sims2020,,,^ b ù - i ù $,default,b u u  i u u, b i u
+728,Mianchi-7_bee-1,,Mianchi,7_bee,bù-ʑoú,bù-ʑoú,b ù/u + ʑ o ú/u,,Sims2020,,,^ b ù - ʑ o ú $,default,b u u  Z o u u, Z b o u
+729,Yonghe-7_bee-1,,Yonghe,7_bee,bù ʐú,bù_ʐú,b ù/u + ʐ ú/u,,Sims2020,,,^ b ù _ ʐ ú $,default,b u u  Z u u, Z b u
+730,Wadu-7_bee-1,,Wadu,7_bee,bʉ HL,bʉ_HL,b ʉ HL/⁵¹,,Sims2020,,,^ b ʉ _HL $,default,b 3 , 3 b
+731,Niuwozi-7_bee-1,,Niuwozi,7_bee,bɨᶠ,bɨᶠ,b ɨ ᶠ/⁵¹,,Sims2020,,,^ b ɨᶠ $,default,b 3 , 3 b
+732,Dayang-7_bee-1,,Dayang,7_bee,bɨ́,bɨ́,b ɨ́/ɨ,,Sims2020,,,^ b ɨ́ $,default,b 3 3,3 b
+733,Lanping-7_bee-1,,Lanping,7_bee,bʒɛ¹³ tʃə⁵⁵,bʒɛ¹³_tʃə⁵⁵,b ʒ ɛ ¹³ + tʃ ə ⁵⁵,,Sims2020,,,^ bʒ ɛ ¹³ _ tʃ ə ⁵⁵ $,default,b Z E   tS 3 , 3 E Z b tS
+734,Jiulong-7_bee-1,,Jiulong,7_bee,bi³⁵ lĩ⁵⁵,bi³⁵_lĩ⁵⁵,b i ³⁵ + l ĩ ⁵⁵,,Sims2020,,,^ b i ³⁵ _ l ĩ ⁵⁵ $,default,b i   l i* , b i i* l
+735,Taoping-6_beard-1,,Taoping,6_beard,tsʰuə⁵⁵ χmə³³,tsʰuə⁵⁵_χmə³³,tsʰ u/w ə ⁵⁵ + χ m ə ³³,,Sims2020,,,^ tsʰ uə ⁵⁵ _ χ m ə ³³ $,default,tsh~ u w 3   X m 3 , 3 X m tsh~ u w
+736,Yonghe-6_beard-1,,Yonghe,6_beard,tsʰə́ mù,tsʰə́_mù,tsʰ ə́/ə + m ù/u,,Sims2020,,,^ tsʰ ə́ _ m ù $,default,tsh~ 3 3  m u u, 3 m tsh~ u
+737,Taoba-6_beard-1,,Taoba,6_beard,a³⁵ sõ⁵³,a³⁵_sõ⁵³,a ³⁵ + s õ ⁵³,,Sims2020,,,^ a ³⁵ _ s õ ⁵³ $,default,a   s o* , a o* s
+738,Qinghua-6_beard-1,,Qinghua,6_beard,a¹³ stiɑ̃u⁵⁵,a¹³_stiɑ̃u⁵⁵,a ¹³ + s t i ɑ̃ u ⁵⁵,,Sims2020,,,^ a ¹³ _ s t i ɑ̃ u ⁵⁵ $,default,a   s t i o* u , a i o* s t u
+739,Jiulong-6_beard-1,,Jiulong,6_beard,a³³ sũ⁵⁵,a³³_sũ⁵⁵,a ³³ + s ũ ⁵⁵,,Sims2020,,,^ a ³³ _ s ũ ⁵⁵ $,default,a   s u* , a s u*
+740,Taoping-5_bethirsty-1,,Taoping,5_bethirsty,χpa⁵⁵,χpa⁵⁵,χ p a ⁵⁵,,Sims2020,,,^ χ p a ⁵⁵ $,default,X p a , X a p
+741,Longxi-239_waterdirectionalthirst-1,,Longxi,239_waterdirectionalthirst,tsù tə̀-pià,tsù_tə̀-pià,ts ù/u + t ə̀/ə + p i/j à/a,,Sims2020,,,^ ts ù _ t ə̀ - p ià $,default,ts u u  t 3 3  p i y a a, 3 a i p t ts u y
+742,Mianchi-5_bethirsty-1,,Mianchi,5_bethirsty,pià,pià,p i/j à/a,,Sims2020,,,^ p ià $,default,p i y a a,a i p y
+743,Yonghe-5_bethirsty-1,,Yonghe,5_bethirsty,tə̀-pǽ ~ tə̀-ɸǽ,tə̀-pǽ,t ə̀/ə + p ǽ/æ,,Sims2020,,,^ t ə̀ - p ǽ $,default,t 3 3  p E E, 3 E p t
+744,Taoping-3_belong-1,,Taoping,3_belong,dʐe³³,dʐe³³,ɖʐ e ³³,,Sims2020,,,^ dʐ e ³³ $,default,dZ e , dZ e
+745,Longxi-3_belong-1,,Longxi,3_belong,dʐé,dʐé,ɖʐ é/e,,Sims2020,,,^ dʐ é $,default,dZ e e,dZ e
+746,Mianchi-3_belong-1,,Mianchi,3_belong,dʐé,dʐé,ɖʐ é/e,,Sims2020,,,^ dʐ é $,default,dZ e e,dZ e
+747,Yonghe-3_belong-1,,Yonghe,3_belong,dʐí,dʐí,ɖʐ í/i,,Sims2020,,,^ dʐ í $,default,dZ i i,dZ i
+748,Wadu-3_belong-1,,Wadu,3_belong,ɻǽŋ,ɻǽŋ,ɻ ǽ/æ ŋ,,Sims2020,,,^ ɻ ǽ ŋ $,default,r E E N,E N r
+749,Dayang-3_belong-1,,Dayang,3_belong,ʂã́,ʂã́,ʂ ã́/ã,,Sims2020,,,^ ʂ ã́ $,default,S a* a*,S a*
+750,Taoba-3_belong-1,,Taoba,3_belong,ʂã⁵⁵ mə⁵³,ʂã⁵⁵_mə⁵³,ʂ ã ⁵⁵ + m ə ⁵³,,Sims2020,,,^ ʂ ã ⁵⁵ _ m ə ⁵³ $,default,S a*   m 3 , 3 S a* m
+751,Qinghua-3_belong-1,,Qinghua,3_belong,ʂã⁵⁵,ʂã⁵⁵,ʂ ã ⁵⁵,,Sims2020,,,^ ʂ ã ⁵⁵ $,default,S a* , S a*
+752,Lanping-3_belong-1,,Lanping,3_belong,ʂã⁵⁵,ʂã⁵⁵,ʂ ã ⁵⁵,,Sims2020,,,^ ʂ ã ⁵⁵ $,default,S a* , S a*
+753,Jiulong-3_belong-1,,Jiulong,3_belong,ʂã⁵⁵,ʂã⁵⁵,ʂ ã ⁵⁵,,Sims2020,,,^ ʂ ã ⁵⁵ $,default,S a* , S a*
+754,Taoping-1_answerreplyv-1,,Taoping,1_answerreplyv,χgye³³,χgye³³,χ g y/ɥ e ³³,,Sims2020,,,^ χ g ye ³³ $,default,X g i y e , X e g i y
+755,Longxi-1_answerreplyv-1,,Longxi,1_answerreplyv,guà,guà,g u/w à/a,,Sims2020,,,^ g uà $,default,g u w a a,a g u w
+756,Lanping-1_answerreplyv-1,,Lanping,1_answerreplyv,tə¹³ gui³⁵ ski⁵⁵,tə¹³_gui³⁵_ski⁵⁵,t ə ¹³ + g ui ³⁵ + s k i ⁵⁵,,Sims2020,,,^ t ə ¹³ _ g ui ³⁵ _ s k i ⁵⁵ $,default,t 3   g ui   s k i , 3 g i k s t ui
+757,Mianchi-88_harvestreap-1,,Mianchi,88_harvestreap,kú~kù,kú,k ú/u,,Sims2020,,,^ k ú $,default,k u u,k u
+758,Yonghe-88_harvestreap-1,,Yonghe,88_harvestreap,ɦɛ̀ kwɛ́,ɦɛ̀_kwɛ́,ɦ ɛ̀/ɛ + k w ɛ́/ɛ,,Sims2020,,,^ ɦ ɛ̀ _ kw ɛ́ $,default,h E E  k w E E, E h k w
+759,Lanping-88_harvestreap-1,,Lanping,88_harvestreap,xə¹³ kɯ⁵⁵,xə¹³_kɯ⁵⁵,x ə ¹³ + k ɯ ⁵⁵,,Sims2020,,,^ x ə ¹³ _ k ɯ ⁵⁵ $,default,x 3   k u , 3 k u x
+760,Jiulong-88_harvestreap-1,,Jiulong,88_harvestreap,kɯ⁵⁵ ʐe⁵⁵,kɯ⁵⁵_ʐe⁵⁵,k ɯ ⁵⁵ + ʐ e ⁵⁵,,Sims2020,,,^ k ɯ ⁵⁵ _ ʐ e ⁵⁵ $,default,k u   Z e , Z e k u
+761,Longxi-65_fightgotowar-1,,Longxi,65_fightgotowar,qù quá,qù_quá,q ù/u + q u á/a,,Sims2020,,,^ q ù _ q u á $,default,q u u  q u a a, a q u
+762,Mianchi-65_fightgotowar-1,,Mianchi,65_fightgotowar,dʐuɛ̀ quá,dʐuɛ̀_quá,ɖʐ u ɛ̀/ɛ + q u á/a,,Sims2020,,,^ dʐ u ɛ̀ _ q u á $,default,dZ u E E  q u a a, E a dZ q u
+763,Lanping-65_fightgotowar-1,,Lanping,65_fightgotowar,qo⁵⁵ qua⁵⁵,qo⁵⁵_qua⁵⁵,q o ⁵⁵ + q u/w a ⁵⁵,,Sims2020,,,^ q o ⁵⁵ _ q ua ⁵⁵ $,default,q o   q u w a , a o q u w
+764,Longxi-112_life-1,,Longxi,112_life,tsɨ́,tsɨ́,ts ɨ́/ɨ,,Sims2020,,,^ ts ɨ́ $,default,ts 3 3,3 ts
+765,Lanping-113_lifespan-1,,Lanping,113_lifespan,tsi⁵⁵,tsi⁵⁵,ts i ⁵⁵,,Sims2020,,,^ ts i ⁵⁵ $,default,ts i , i ts
+766,Jiulong-112_life-1,,Jiulong,112_life,tsi³⁵,tsi³⁵,ts i ³⁵,,Sims2020,,,^ ts i ³⁵ $,default,ts i , i ts
+767,Longxi-201_stab-1,,Longxi,201_stab,tɕʰí,tɕʰí,tɕʰ í/i,,Sims2020,,,^ tɕʰ í $,default,tSh~ i i,i tSh~
+768,Mianchi-201_stab-1,,Mianchi,201_stab,tsʰoú,tsʰoú,tsʰ o ú/u,,Sims2020,,,^ tsʰ o ú $,default,tsh~ o u u,o tsh~ u
+769,Lanping-201_stab-1,,Lanping,201_stab,tsʰu⁵⁵~xə¹³ tɕʰu⁵⁵,tsʰu⁵⁵,tsʰ u ⁵⁵,,Sims2020,,,^ tsʰ u ⁵⁵ $,default,tsh~ u , tsh~ u
+770,Mianchi-165_rinseflush-1,,Mianchi,165_rinseflush,tʂʰuá,tʂʰuá,ʈʂʰ u á/a,,Sims2020,,,^ tʂʰ u á $,default,tSh~ u a a,a tSh~ u
+771,Lanping-165_rinseflush-1,,Lanping,165_rinseflush,tʃʰõ⁵⁵,tʃʰõ⁵⁵,tʃʰ õ ⁵⁵,,Sims2020,,,^ tʃʰ õ ⁵⁵ $,default,tSh~ o* , o* tSh~
+772,Yonghe-45_direction-1,,Yonghe,45_direction,dʑí,dʑí,dʑ í/i,,Sims2020,,,^ dʑ í $,default,dZ i i,dZ i
+773,Wadu-45_direction-1,,Wadu,45_direction,dʑí,dʑí,dʑ í/i,,Sims2020,,,^ dʑ í $,default,dZ i i,dZ i
+774,Longxi-31_clearclean-1,,Longxi,31_clearclean,ɕó,ɕó,ɕ ó/o,,Sims2020,,,^ ɕ ó $,default,S o o,S o
+775,Mianchi-31_clearclean-1,,Mianchi,31_clearclean,ɕó té,ɕó_té,ɕ ó/o + t é/e,,Sims2020,,,^ ɕ ó _ t é $,default,S o o  t e e, S e o t
+776,Wadu-31_clearclean-1,,Wadu,31_clearclean,ʂṍ,ʂṍ,ʂ ṍ/õ,,Sims2020,,,^ ʂ ṍ $,default,S o* o*,S o*
+777,Niuwozi-31_clearclean-1,,Niuwozi,31_clearclean,ʂõᴴ,ʂõᴴ,ʂ õ ᴴ/⁵,,Sims2020,,,^ ʂ õᴴ $,default,S o* , S o*
+778,Taoba-31_clearclean-1,,Taoba,31_clearclean,ʂã⁵⁵ n̥iɛ⁵⁵ mə⁵³,ʂã⁵⁵_n̥iɛ⁵⁵_mə⁵³,ʂ ã ⁵⁵ + n̥ i/j ɛ ⁵⁵ + m ə ⁵³,,Sims2020,,,^ ʂ ã ⁵⁵ _ n̥ iɛ ⁵⁵ _ m ə ⁵³ $,default,S a*   n i y E   m 3 , 3 E S a* i m n y
+779,Qinghua-31_clearclean-1,,Qinghua,31_clearclean,ʂõ⁵⁵ ne⁵⁵,ʂõ⁵⁵_ne⁵⁵,ʂ õ ⁵⁵ + n e ⁵⁵,,Sims2020,,,^ ʂ õ ⁵⁵ _ n e ⁵⁵ $,default,S o*   n e , S e n o*
+780,Jiulong-31_clearclean-1,,Jiulong,31_clearclean,ʂã⁵⁵,ʂã⁵⁵,ʂ ã ⁵⁵,,Sims2020,,,^ ʂ ã ⁵⁵ $,default,S a* , S a*
+781,Yonghe-133_obstruct-1,,Yonghe,133_obstruct,ɦæ̀ -ʑwǽ,ɦæ̀-ʑwǽ,ɦ æ̀/æ + ʑ w ǽ/æ,,Sims2020,,,^ ɦ æ̀ - ʑw ǽ $,default,h E E  Z w E E, E Z h w
+782,Wadu-133_obstruct-1,,Wadu,133_obstruct,ɐ̀ - ʐwĩ́,ɐ̀-ʐwĩ́,ɐ̀/ɐ + ʐ w ĩ́/ĩ,,Sims2020,,,^ ɐ̀ - ʐw ĩ́ $,default,a a  Z w i* i*, Z a i* w
+783,Lanping-133_obstruct-1,,Lanping,133_obstruct,kʰə¹³ ʐa⁵⁵,kʰə¹³_ʐa⁵⁵,kʰ ə ¹³ + ʐ a ⁵⁵,,Sims2020,,,^ kʰ ə ¹³ _ ʐ a ⁵⁵ $,default,kh~ 3   Z a , 3 Z a kh~
+784,Jiulong-133_obstruct-1,,Jiulong,133_obstruct,xa¹¹ ʐo⁵⁵,xa¹¹_ʐo⁵⁵,x a ¹¹ + ʐ o ⁵⁵,,Sims2020,,,^ x a ¹¹ _ ʐ o ⁵⁵ $,default,x a   Z o , Z a o x
+785,Mianchi-44_delicious-1,,Mianchi,44_delicious,ʑé,ʑé,ʑ é/e,,Sims2020,,,^ ʑ é $,default,Z e e,Z e
+786,Yonghe-44_delicious-1,,Yonghe,44_delicious,ʑí,ʑí,ʑ í/i,,Sims2020,,,^ ʑ í $,default,Z i i,Z i
+787,Wadu-44_delicious-1,,Wadu,44_delicious,ʐṍ,ʐṍ,ʐ ṍ/õ,,Sims2020,,,^ ʐ ṍ $,default,Z o* o*,Z o*
+788,Taoba-44_delicious-1,,Taoba,44_delicious,ʐẽ⁵⁵ mə⁵³,ʐẽ⁵⁵_mə⁵³,ʐ ẽ ⁵⁵ + m ə ⁵³,,Sims2020,,,^ ʐ ẽ ⁵⁵ _ m ə ⁵³ $,default,Z e*   m 3 , 3 Z e* m
+789,Qinghua-44_delicious-1,,Qinghua,44_delicious,ʐə̃⁵⁵ ti¹³,ʐə̃⁵⁵_ti¹³,ʐ ə̃ ⁵⁵ + t i ¹³,,Sims2020,,,^ ʐ ə̃ ⁵⁵ _ t i ¹³ $,default,Z 3*   t i , 3* Z i t
+790,Lanping-44_delicious-1,,Lanping,44_delicious,ʒẽ⁵⁵ ti⁵⁵,ʒẽ⁵⁵_ti⁵⁵,ʒ ẽ ⁵⁵ + t i ⁵⁵,,Sims2020,,,^ ʒ ẽ ⁵⁵ _ t i ⁵⁵ $,default,Z e*   t i , Z e* i t
+791,Jiulong-44_delicious-1,,Jiulong,44_delicious,ʑĩ³⁵,ʑĩ³⁵,ʑ ĩ ³⁵,,Sims2020,,,^ ʑ ĩ ³⁵ $,default,Z i* , Z i*
+792,Mianchi-196_soup-1,,Mianchi,196_soup,ʐɛ́,ʐɛ́,ʐ ɛ́/ɛ,,Sims2020,,,^ ʐ ɛ́ $,default,Z E E,E Z
+793,Dayang-196_soup-1,,Dayang,196_soup,rã̌,rã̌,r ã̌/ã,,Sims2020,,,^ r ã̌ $,default,r a* a*,a* r
+794,Taoba-196_soup-1,,Taoba,196_soup,rɛ̃⁵⁵,rɛ̃⁵⁵,r ɛ̃ ⁵⁵,,Sims2020,,,^ r ɛ̃ ⁵⁵ $,default,r E* , E* r
+795,Qinghua-196_soup-1,,Qinghua,196_soup,ʂɑ¹³ ʐã⁵⁵,ʂɑ¹³_ʐã⁵⁵,ʂ ɑ ¹³ + ʐ ã ⁵⁵,,Sims2020,,,^ ʂ ɑ ¹³ _ ʐ ã ⁵⁵ $,default,S o   Z a* , S Z a* o
+796,Lanping-196_soup-1,,Lanping,196_soup,ʂɑ¹³ ʐã⁵⁵,ʂɑ¹³_ʐã⁵⁵,ʂ ɑ ¹³ + ʐ ã ⁵⁵,,Sims2020,,,^ ʂ ɑ ¹³ _ ʐ ã ⁵⁵ $,default,S o   Z a* , S Z a* o
+797,Longxi-238_warmselfbyfire-1,,Longxi,238_warmselfbyfire,mù lé,mù_lé,m ù/u + l é/e,,Sims2020,,,^ m ù _ l é $,default,m u u  l e e, e l m u
+798,Taoba-238_warmselfbyfire-1,,Taoba,238_warmselfbyfire,ma³⁵ liã⁵⁵,ma³⁵_liã⁵⁵,m a ³⁵ + l i/j ã ⁵⁵,,Sims2020,,,^ m a ³⁵ _ l iã ⁵⁵ $,default,m a   l i y a* , a a* i l m y
+799,Qinghua-238_warmselfbyfire-1,,Qinghua,238_warmselfbyfire,mɐ¹³ lɛ̃⁵⁵,mɐ¹³_lɛ̃⁵⁵,m ɐ ¹³ + l ɛ̃ ⁵⁵,,Sims2020,,,^ m ɐ ¹³ _ l ɛ̃ ⁵⁵ $,default,m a   l E* , E* a l m
+800,Lanping-238_warmselfbyfire-1,,Lanping,238_warmselfbyfire,mɐ¹³ lɛ̃⁵⁵,mɐ¹³_lɛ̃⁵⁵,m ɐ ¹³ + l ɛ̃ ⁵⁵,,Sims2020,,,^ m ɐ ¹³ _ l ɛ̃ ⁵⁵ $,default,m a   l E* , E* a l m
+801,Jiulong-238_warmselfbyfire-1,,Jiulong,238_warmselfbyfire,ma³⁵ ɬə̃⁵⁵,ma³⁵_ɬə̃⁵⁵,m a ³⁵ + ɬ ə̃ ⁵⁵,,Sims2020,,,^ m a ³⁵ _ ɬ ə̃ ⁵⁵ $,default,m a   L 3* , 3* L a m
+802,Longxi-151_plown-1,,Longxi,151_plown,tò,tò,t ò/o,,Sims2020,,,^ t ò $,default,t o o,o t
+803,Mianchi-151_plown-1,,Mianchi,151_plown,tò kè,tò_kè,t ò/o + k è/e,,Sims2020,,,^ t ò _ k è $,default,t o o  k e e, e k o t
+804,Yonghe-151_plown-1,,Yonghe,151_plown,tù kwǽ,tù_kwǽ,t ù/u + k w ǽ/æ,,Sims2020,,,^ t ù _ kw ǽ $,default,t u u  k w E E, E k t u w
+805,Lanping-151_plown-1,,Lanping,151_plown,tɑ̃u⁵⁵,tɑ̃u⁵⁵,t ɑ̃ u ⁵⁵,,Sims2020,,,^ t ɑ̃ u ⁵⁵ $,default,t o* u , o* t u
+806,Jiulong-151_plown-1,,Jiulong,151_plown,tũ³⁵,tũ³⁵,t ũ ³⁵,,Sims2020,,,^ t ũ ³⁵ $,default,t u* , t u*
+807,Longxi-139_owl-1,,Longxi,139_owl,ỳ kʰù,ỳ_kʰù,ỳ/y + kʰ ù/u,,Sims2020,,,^ ỳ _ kʰ ù $,default,i i  kh~ u u, i kh~ u
+808,Mianchi-139_owl-1,,Mianchi,139_owl,kuì tòŋ kʰò,kuì_tòŋ_kʰò,k u ì/i + t ò/o ŋ + kʰ ò/o,,Sims2020,,,^ k u ì _ t ò ŋ _ kʰ ò $,default,k u i i  t o o N  kh~ o o, N i k kh~ o t u
+809,Yonghe-139_owl-1,,Yonghe,139_owl,mǽ kʰwì,mǽ_kʰwì,m ǽ/æ + kʰ w ì/i,,Sims2020,,,^ m ǽ _ kʰw ì $,default,m E E  kh~ w i i, E i kh~ m w
+810,Longxi-206_stone-1,,Longxi,206_stone,gò,gò,g ò/o,,Sims2020,,,^ g ò $,default,g o o,g o
+811,Wadu-206_stone-1,,Wadu,206_stone,gʉ̀ ɖóŋ,gʉ̀_ɖóŋ,g ʉ̀/ʉ + ɖ ó/o ŋ,,Sims2020,,,^ g ʉ̀ _ ɖ ó ŋ $,default,g 3 3  d o o N, 3 N d g o
+812,Niuwozi-206_stone-1,,Niuwozi,206_stone,gʉᴸ bõᴴ,gʉᴸ_bõᴴ,g ʉ ᴸ/¹ + b õ ᴴ/⁵,,Sims2020,,,^ g ʉᴸ _ b õᴴ $,default,g 3   b o* , 3 b g o*
+813,Qinghua-206_stone-1,,Qinghua,206_stone,sgø¹³,sgø¹³,s g ø ¹³,,Sims2020,,,^ s g ø ¹³ $,default,s g e , e g s
+814,Lanping-206_stone-1,,Lanping,206_stone,zgø¹³,zgø¹³,z g ø ¹³,,Sims2020,,,^ z g ø ¹³ $,default,z g e , e g z
+815,Jiulong-206_stone-1,,Jiulong,206_stone,guo¹¹ lũ⁵⁵,guo¹¹_lũ⁵⁵,g u o ¹¹ + l ũ ⁵⁵,,Sims2020,,,^ g u o ¹¹ _ l ũ ⁵⁵ $,default,g u o   l u* , g l o u u*
+816,Longxi-20_bundle-1,,Longxi,20_bundle,què,què,q u è/e,,Sims2020,,,^ q u è $,default,q u e e,e q u
+817,Mianchi-20_bundle-1,,Mianchi,20_bundle,quà,quà,q u/w à/a,,Sims2020,,,^ q uà $,default,q u w a a,a q u w
+818,Jiulong-19_bunchbundle-1,,Jiulong,19_bunchbundle,(tə⁵⁵) qã¹¹,_qã¹¹,q ã ¹¹,,Sims2020,,,^_ q ã ¹¹ $,default,q a* , a* q
+819,Longxi-77_givebirth-1,,Longxi,77_givebirth,ì,ì,ì/i,,Sims2020,,,^ ì $,default,i i,i
+820,Mianchi-77_givebirth-1,,Mianchi,77_givebirth,ʑì,ʑì,ʑ ì/i,,Sims2020,,,^ ʑ ì $,default,Z i i,Z i
+821,Wadu-77_givebirth-1,,Wadu,77_givebirth,ʑì,ʑì,ʑ ì/i,,Sims2020,,,^ ʑ ì $,default,Z i i,Z i
+822,Longxi-192_snowhailv-1,,Longxi,192_snowhailv,dà zì,dà_zì,d à/a + z ì/i,,Sims2020,,,^ d à _ z ì $,default,d a a  z i i, a d i z
+823,Yonghe-83_haillitsnowhailround-1,,Yonghe,83_haillitsnowhailround,pɔ̌-ʐɨ̀ lwìlwí,pɔ̌-ʐɨ̀_lwìlwí,p ɔ̆/ɔ + ʐ ɨ̆/ɨ + l w ì/i l w í/i,,Sims2020,,,^ p ɔ̌ - ʐ ɨ̀ _ lw ì lw í $,default,p o o  Z 3 3  l w i i l w i i, 3 Z i l o p w
+824,Taoba-84_hailn-1,,Taoba,84_hailn,ʑẽ³⁵,ʑẽ³⁵,ʑ ẽ ³⁵,,Sims2020,,,^ ʑ ẽ ³⁵ $,default,Z e* , Z e*
+825,Jiulong-84_hailn-1,,Jiulong,84_hailn,zẽ³⁵,zẽ³⁵,z ẽ ³⁵,,Sims2020,,,^ z ẽ ³⁵ $,default,z e* , e* z
+826,Longxi-252_yawn-1,,Longxi,252_yawn,hà há pù,hà_há_pù,h à/a + h á/a + p ù/u,,Sims2020,,,^ h à _ h á _ p ù $,default,h a a  h a a  p u u, a h p u
+827,Mianchi-252_yawn-1,,Mianchi,252_yawn,χà pú,χà_pú,χ à/a + p ú/u,,Sims2020,,,^ χ à _ p ú $,default,X a a  p u u, X a p u
+828,Wadu-252_yawn-1,,Wadu,252_yawn,hɑ̀ ɕə̀,hɑ̀_ɕə̀,h ɑ̀/ɑ + ɕ ə̀/ə,,Sims2020,,,^ h ɑ̀ _ ɕ ə̀ $,default,h o o  S 3 3, 3 S h o
+829,Jiulong-252_yawn-1,,Jiulong,252_yawn,xɑ¹¹ xe¹¹,xɑ¹¹_xe¹¹,x ɑ ¹¹ + x e ¹¹,,Sims2020,,,^ x ɑ ¹¹ _ x e ¹¹ $,default,x o   x e , e o x
+830,Longxi-156_priest-1,,Longxi,156_priest,sɨ̀ pí,sɨ̀_pí,s ɨ̆/ɨ + p í/i,,Sims2020,,,^ s ɨ̀ _ p í $,default,s 3 3  p i i, 3 i p s
+831,Mianchi-156_priest-1,,Mianchi,156_priest,pí,pí,p í/i,,Sims2020,,,^ p í $,default,p i i,i p
+832,Yonghe-164_riceraw-1,,Yonghe,164_riceraw,kʰəʴ́~qʰə́ʴ,kʰəʴ́,kʰ ə ʴ́/ɹ,,Sims2020,,,^ kʰ əʴ́ $,default,kh~ 3 r,3 kh~ r
+833,Longxi-36_cough-1,,Longxi,36_cough,tsʰú tá,tsʰú_tá,tsʰ ú/u + t á/a,,Sims2020,,,^ tsʰ ú _ t á $,default,tsh~ u u  t a a, a t tsh~ u
+834,Yonghe-36_cough-1,,Yonghe,36_cough,tə̀-tsʰú,tə̀-tsʰú,t ə̀/ə + tsʰ ú/u,,Sims2020,,,^ t ə̀ - tsʰ ú $,default,t 3 3  tsh~ u u, 3 t tsh~ u
+835,Longxi-55_enclosesheep-1,,Longxi,55_enclosesheep,tɕʰý,tɕʰý,tɕʰ ý/y,,Sims2020,,,^ tɕʰ ý $,default,tSh~ i i,i tSh~
+836,Mianchi-55_enclosesheep-1,,Mianchi,55_enclosesheep,kʰuí,kʰuí,kʰ u í/i,,Sims2020,,,^ kʰ u í $,default,kh~ u i i,i kh~ u
+837,Yonghe-54_enclose-1,,Yonghe,54_enclose,tɕʰwí,tɕʰwí,tɕʰ w í/i,,Sims2020,,,^ tɕʰw í $,default,tSh~ w i i,i tSh~ w
+838,Longxi-114_live-1,,Longxi,114_live,sú,sú,s ú/u,,Sims2020,,,^ s ú $,default,s u u,s u
+839,Yonghe-139_owl-2,,Yonghe,139_owl,mǽ kʰwì,mǽ_kʰwì,m ǽ/æ + kʰ w ì/i,,Sims2020,,,^ m ǽ _ kʰw ì $,default,m E E  kh~ w i i, E i kh~ m w
+840,Longxi-64_feedraise-1,,Longxi,64_feedraise,mì,mì,m ì/i,,Sims2020,,,^ m ì $,default,m i i,i m
+841,Mianchi-64_feedraise-1,,Mianchi,64_feedraise,mù,mù,m ù/u,,Sims2020,,,^ m ù $,default,m u u,m u
+842,Yonghe-64_feedraise-1,,Yonghe,64_feedraise,mǐ,mǐ,m ĭ/i,,Sims2020,,,^ m ǐ $,default,m i i,i m
+843,Longxi-249_woundn-1,,Longxi,249_woundn,qò mì,qò_mì,q ò/o + m ì/i,,Sims2020,,,^ q ò _ m ì $,default,q o o  m i i, i m o q
+844,Longxi-194_soliddurable-1,,Longxi,194_soliddurable,gù,gù,g ù/u,,Sims2020,,,^ g ù $,default,g u u,g u
+845,Longxi-213_tail-1,,Longxi,213_tail,suà kà,suà_kà,s u/w à/a + k à/a,,Sims2020,,,^ s uà _ k à $,default,s u w a a  k a a, a k s u w
+846,Mianchi-213_tail-1,,Mianchi,213_tail,suà kè,suà_kè,s u/w à/a + k è/e,,Sims2020,,,^ s uà _ k è $,default,s u w a a  k e e, a e k s u w
+847,Yonghe-213_tail-1,,Yonghe,213_tail,sù kjɛ́,sù_kjɛ́,s ù/u + k j ɛ́/ɛ,,Sims2020,,,^ s ù _ k j ɛ́ $,default,s u u  k y E E, E k s u y
+848,Longxi-234_vapor-1,,Longxi,234_vapor,lə̀,lə̀,l ə̀/ə,,Sims2020,,,^ l ə̀ $,default,l 3 3,3 l
+849,Mianchi-234_vapor-1,,Mianchi,234_vapor,lè,lè,l è/e,,Sims2020,,,^ l è $,default,l e e,e l
+850,Wadu-248_widebroad-1,,Wadu,248_widebroad,pú H,pú_H,p ú/u H/⁵,,Sims2020,,,^ p ú _H $,default,p u u , p u
+851,Dayang-248_widebroad-1,,Dayang,248_widebroad,ɸpə́w,ɸpə́w,ɸ p ə́/ə w,,Sims2020,,,^ ɸ p ə́ w $,default,p p 3 3 w,3 p w
+852,Taoba-248_widebroad-1,,Taoba,248_widebroad,po⁵⁵ mə⁵³,po⁵⁵_mə⁵³,p o ⁵⁵ + m ə ⁵³,,Sims2020,,,^ p o ⁵⁵ _ m ə ⁵³ $,default,p o   m 3 , 3 m o p
+853,Qinghua-248_widebroad-1,,Qinghua,248_widebroad,spo⁵⁵,spo⁵⁵,s p o ⁵⁵,,Sims2020,,,^ s p o ⁵⁵ $,default,s p o , o p s
+854,Lanping-248_widebroad-1,,Lanping,248_widebroad,fpo⁵⁵,fpo⁵⁵,f p o ⁵⁵,,Sims2020,,,^ f p o ⁵⁵ $,default,f p o , f o p
+855,Jiulong-248_widebroad-1,,Jiulong,248_widebroad,po⁵⁵,po⁵⁵,p o ⁵⁵,,Sims2020,,,^ p o ⁵⁵ $,default,p o , o p
+856,Wadu-105_leaf-1,,Wadu,105_leaf,pɑ̌,pɑ̌,p ɑ̆/ɑ,,Sims2020,,,^ p ɑ̌ $,default,p o o,o p
+857,Niuwozi-105_leaf-1,,Niuwozi,105_leaf,sɜᴸ pɑᴴ,sɜᴸ_pɑᴴ,s ɜ ᴸ/¹ + p ɑ ᴴ/⁵,,Sims2020,,,^ s ɜᴸ _ p ɑᴴ $,default,s 3   p o , 3 o p s
+858,Taoba-105_leaf-1,,Taoba,105_leaf,pa³⁵,pa³⁵,p a ³⁵,,Sims2020,,,^ p a ³⁵ $,default,p a , a p
+859,Qinghua-105_leaf-1,,Qinghua,105_leaf,sɐ¹³ fpɑ⁵⁵,sɐ¹³_fpɑ⁵⁵,s ɐ ¹³ + f p ɑ ⁵⁵,,Sims2020,,,^ s ɐ ¹³ _ f p ɑ ⁵⁵ $,default,s a   f p o , a f o p s
+860,Lanping-105_leaf-1,,Lanping,105_leaf,sɐ¹³,sɐ¹³,s ɐ ¹³,,Sims2020,,,^ s ɐ ¹³ $,default,s a , a s
+861,Jiulong-105_leaf-1,,Jiulong,105_leaf,pɑ⁵⁵,pɑ⁵⁵,p ɑ ⁵⁵,,Sims2020,,,^ p ɑ ⁵⁵ $,default,p o , o p
+862,Niuwozi-229_untie-1,,Niuwozi,229_untie,pʰʴəᴴ,pʰʴəᴴ,pʰ ʴ/ɹ ə ᴴ/⁵,,Sims2020,,,^ pʰʴ əᴴ $,default,ph~ r 3 , 3 ph~ r
+863,Jiulong-219_throwout-1,,Jiulong,219_throwout,"nə¹¹ pʰə⁵⁵, nɑ¹¹ pʰɑ⁵⁵",nə¹¹_pʰə⁵⁵,n ə ¹¹ + pʰ ə ⁵⁵,,Sims2020,,,^ n ə ¹¹ _ pʰ ə ⁵⁵ $,default,n 3   ph~ 3 , 3 n ph~
+864,Wadu-211_sun-1,,Wadu,211_sun,bʉ́,bʉ́,b ʉ́/ʉ,,Sims2020,,,^ b ʉ́ $,default,b 3 3,3 b
+865,Niuwozi-211_sun-1,,Niuwozi,211_sun,bɨᴴ,bɨᴴ,b ɨ ᴴ/⁵,,Sims2020,,,^ b ɨᴴ $,default,b 3 , 3 b
+866,Taoba-211_sun-1,,Taoba,211_sun,bʉ⁵³,bʉ⁵³,b ʉ ⁵³,,Sims2020,,,^ b ʉ ⁵³ $,default,b 3 , 3 b
+867,Qinghua-211_sun-1,,Qinghua,211_sun,by⁵⁵,by⁵⁵,b y ⁵⁵,,Sims2020,,,^ b y ⁵⁵ $,default,b i , b i
+868,Lanping-211_sun-1,,Lanping,211_sun,by⁵⁵,by⁵⁵,b y ⁵⁵,,Sims2020,,,^ b y ⁵⁵ $,default,b i , b i
+869,Jiulong-211_sun-1,,Jiulong,211_sun,bi³⁵,bi³⁵,b i ³⁵,,Sims2020,,,^ b i ³⁵ $,default,b i , b i
+870,Wadu-51_duck-1,,Wadu,51_duck,bǽ,bǽ,b ǽ/æ,,Sims2020,,,^ b ǽ $,default,b E E,E b
+871,Niuwozi-51_duck-1,,Niuwozi,51_duck,baᴴ,baᴴ,b a ᴴ/⁵,,Sims2020,,,^ b aᴴ $,default,b a , a b
+872,Taoba-51_duck-1,,Taoba,51_duck,ba³⁵,ba³⁵,b a ³⁵,,Sims2020,,,^ b a ³⁵ $,default,b a , a b
+873,Niuwozi-173_sheepmaleram-1,,Niuwozi,173_sheepmaleram,tʰuᴴ,tʰuᴴ,tʰ u ᴴ/⁵,,Sims2020,,,^ tʰ uᴴ $,default,th~ u , th~ u
+874,Wadu-11_blind-1,,Wadu,11_blind,qǔ,qǔ,q ŭ/u,,Sims2020,,,^ q ǔ $,default,q u u,q u
+875,Niuwozi-11_blind-1,,Niuwozi,11_blind,kuᴴ,kuᴴ,k u ᴴ/⁵,,Sims2020,,,^ k uᴴ $,default,k u , k u
+876,Wadu-160_redunripegreenblue-1,,Wadu,160_redunripegreenblue,ní,ní,n í/i,,Sims2020,,,^ n í $,default,n i i,i n
+877,Niuwozi-80_greenblue-1,,Niuwozi,80_greenblue,niᴴ,niᴴ,n i ᴴ/⁵,,Sims2020,,,^ n iᴴ $,default,n i , i n
+878,Taoba-80_greenblue-1,,Taoba,80_greenblue,ȵi⁵⁵ na⁵⁵ mə⁵³,ȵi⁵⁵_na⁵⁵_mə⁵³,ȵ i ⁵⁵ + n a ⁵⁵ + m ə ⁵³,,Sims2020,,,^ ȵ i ⁵⁵ _ n a ⁵⁵ _ m ə ⁵³ $,default,i   n a   m 3 , 3 a i m n
+879,Lanping-102_lambkid-1,,Lanping,102_lambkid,ʒɑ̃u⁵⁵ li⁵⁵,ʒɑ̃u⁵⁵_li⁵⁵,ʒ ɑ̃ u ⁵⁵ + l i ⁵⁵,,Sims2020,,,^ ʒ ɑ̃ u ⁵⁵ _ l i ⁵⁵ $,default,Z o* u   l i , Z i l o* u
+880,Jiulong-102_lambkid-1,,Jiulong,102_lambkid,ji⁵⁵ tsɿ⁵⁵,ji⁵⁵_tsɿ⁵⁵,j i ⁵⁵ + ts ɿ ⁵⁵,,Sims2020,,,^ j i ⁵⁵ _ ts ɿ ⁵⁵ $,default,y i   ts , i ts y
+881,Wadu-86_half-1,,Wadu,86_half,pʰɑ̌,pʰɑ̌,pʰ ɑ̆/ɑ,,Sims2020,,,^ pʰ ɑ̌ $,default,ph~ o o,o ph~
+882,Niuwozi-86_half-1,,Niuwozi,86_half,pʰɑᴿ,pʰɑᴿ,pʰ ɑ ᴿ/¹⁵,,Sims2020,,,^ pʰ ɑᴿ $,default,ph~ o , o ph~
+883,Taoba-86_half-1,,Taoba,86_half,pʰa³⁵,pʰa³⁵,pʰ a ³⁵,,Sims2020,,,^ pʰ a ³⁵ $,default,ph~ a , a ph~
+884,Lanping-86_half-1,,Lanping,86_half,pʰa⁵⁵ tɕi¹³,pʰa⁵⁵_tɕi¹³,pʰ a ⁵⁵ + tɕ i ¹³,,Sims2020,,,^ pʰ a ⁵⁵ _ tɕ i ¹³ $,default,ph~ a   tS i , a i ph~ tS
+885,Lanping-21_butterfly-1,,Lanping,21_butterfly,pʰɑ¹³ lɑ⁵⁵,pʰɑ¹³_lɑ⁵⁵,pʰ ɑ ¹³ + l ɑ ⁵⁵,,Sims2020,,,^ pʰ ɑ ¹³ _ l ɑ ⁵⁵ $,default,ph~ o   l o , l o ph~
+886,Wadu-69_fly-1,,Wadu,69_fly,bǐŋ,bǐŋ,b ĭ/i ŋ,,Sims2020,,,^ b ǐ ŋ $,default,b i i N,N b i
+887,Niuwozi-69_fly-1,,Niuwozi,69_fly,bjɛ̃ᴿ,bjɛ̃ᴿ,b j ɛ̃ ᴿ/¹⁵,,Sims2020,,,^ b j ɛ̃ᴿ $,default,b y E* , E* b y
+888,Wadu-14_blow-1,,Wadu,14_blow,m̥ə̀,m̥ə̀,m̥ ə̀/ə,,Sims2020,,,^ m̥ ə̀ $,default,m 3 3,3 m
+889,Niuwozi-14_blow-1,,Niuwozi,14_blow,m̥uᴿ,m̥uᴿ,m̥ u ᴿ/¹⁵,,Sims2020,,,^ m̥ uᴿ $,default,m u , m u
+890,Dayang-14_blow-1,,Dayang,14_blow,m̥ə̃̌,m̥ə̃̌,m̥ ə̃̌/ə̃,,Sims2020,,,^ m̥ ə̃̌ $,default,m 3* 3*,3* m
+891,Taoba-14_blow-1,,Taoba,14_blow,xə³⁵ m̥ə³⁵,xə³⁵_m̥ə³⁵,x ə ³⁵ + m̥ ə ³⁵,,Sims2020,,,^ x ə ³⁵ _ m̥ ə ³⁵ $,default,x 3   m 3 , 3 m x
+892,Lanping-14_blow-2,,Lanping,14_blow,kʰə¹³ m̥ə¹³,kʰə¹³_m̥ə¹³,kʰ ə ¹³ + m̥ ə ¹³,,Sims2020,,,^ kʰ ə ¹³ _ m̥ ə ¹³ $,default,kh~ 3   m 3 , 3 kh~ m
+893,Jiulong-14_blow-1,,Jiulong,14_blow,to³⁵,to³⁵,t o ³⁵,,Sims2020,,,^ t o ³⁵ $,default,t o , o t
+894,Dayang-213_tail-1,,Dayang,213_tail,{mə́} ɬyé,mə́_ɬyé,m ə́/ə + ɬ y/ɥ é/e,,Sims2020,,,^ m ə́ _ ɬ yé $,default,m 3 3  L i y e e, 3 L e i m y
+895,Taoba-213_tail-1,,Taoba,213_tail,mɐ̃³⁵ ɬio⁵³,mɐ̃³⁵_ɬio⁵³,m ɐ̃ ³⁵ + ɬ i o ⁵³,,Sims2020,,,^ m ɐ̃ ³⁵ _ ɬ i o ⁵³ $,default,m a*   L i o , L a* i m o
+896,Qinghua-213_tail-1,,Qinghua,213_tail,mɐ¹³ ɬiɛ⁵⁵,mɐ¹³_ɬiɛ⁵⁵,m ɐ ¹³ + ɬ i/j ɛ ⁵⁵,,Sims2020,,,^ m ɐ ¹³ _ ɬ iɛ ⁵⁵ $,default,m a   L i y E , E L a i m y
+897,Lanping-213_tail-1,,Lanping,213_tail,mɐ¹³ ɬiɛ⁵⁵,mɐ¹³_ɬiɛ⁵⁵,m ɐ ¹³ + ɬ i/j ɛ ⁵⁵,,Sims2020,,,^ m ɐ ¹³ _ ɬ iɛ ⁵⁵ $,default,m a   L i y E , E L a i m y
+898,Jiulong-213_tail-1,,Jiulong,213_tail,mã³⁵,mã³⁵,m ã ³⁵,,Sims2020,,,^ m ã ³⁵ $,default,m a* , a* m
+899,Taoba-26_choke-1,,Taoba,26_choke,xə³⁵ tui³⁵,xə³⁵_tui³⁵,x ə ³⁵ + t ui ³⁵,,Sims2020,,,^ x ə ³⁵ _ t ui ³⁵ $,default,x 3   t ui , 3 t ui x
+900,Taoba-176_shoe-1,,Taoba,176_shoe,tɕyi³⁵,tɕyi³⁵,tɕ yi ³⁵,,Sims2020,,,^ tɕ yi ³⁵ $,default,tS ii , ii tS
+901,Qinghua-176_shoe-1,,Qinghua,176_shoe,tsyi¹³,tsyi¹³,ts yi ¹³,,Sims2020,,,^ ts yi ¹³ $,default,ts ii , ii ts
+902,Lanping-176_shoe-1,,Lanping,176_shoe,tsyi¹³,tsyi¹³,ts yi ¹³,,Sims2020,,,^ ts yi ¹³ $,default,ts ii , ii ts
+903,Jiulong-176_shoe-1,,Jiulong,176_shoe,tsui³⁵,tsui³⁵,ts ui ³⁵,,Sims2020,,,^ ts ui ³⁵ $,default,ts ui , ts ui
+904,Dayang-101_joint-1,,Dayang,101_joint,tɐ-tsɛ̌j / tsǎ,tɐ-tsɛ̌j,t ɐ + ts ɛ̌j/ɛi,,Sims2020,,,^ t ɐ - ts ɛ̌j $,default,t a  ts Ey Ei, Ei Ey a t ts
+905,Lanping-101_joint-1,,Lanping,101_joint,tsi⁵⁵,tsi⁵⁵,ts i ⁵⁵,,Sims2020,,,^ ts i ⁵⁵ $,default,ts i , i ts
+906,Jiulong-101_joint-1,,Jiulong,101_joint,tsɛi³⁵,tsɛi³⁵,ts ɛi ³⁵,,Sims2020,,,^ ts ɛi ³⁵ $,default,ts Ei , Ei ts
+907,Niuwozi-63_feed-1,,Niuwozi,63_feed,ʈʂʰeᴿ,ʈʂʰeᴿ,ʈʂʰ e ᴿ/¹⁵,,Sims2020,,,^ ʈʂʰ eᴿ $,default,tSh~ e , e tSh~
+908,Lanping-63_feed-1,,Lanping,63_feed,tʰə¹³ stʃʰɛ¹³,tʰə¹³_stʃʰɛ¹³,tʰ ə ¹³ + s tʃʰ ɛ ¹³,,Sims2020,,,^ tʰ ə ¹³ _ s tʃʰ ɛ ¹³ $,default,th~ 3   s tSh~ E , 3 E s tSh~ th~
+909,Niuwozi-18_bridge-1,,Niuwozi,18_bridge,dzõᴿ,dzõᴿ,dz õ ᴿ/¹⁵,,Sims2020,,,^ dz õᴿ $,default,dz o* , dz o*
+910,Taoba-18_bridge-1,,Taoba,18_bridge,dzã³⁵,dzã³⁵,dz ã ³⁵,,Sims2020,,,^ dz ã ³⁵ $,default,dz a* , a* dz
+911,Qinghua-18_bridge-1,,Qinghua,18_bridge,dziɑ̃u¹³,dziɑ̃u¹³,dz i ɑ̃ u ¹³,,Sims2020,,,^ dz i ɑ̃ u ¹³ $,default,dz i o* u , dz i o* u
+912,Lanping-18_bridge-1,,Lanping,18_bridge,dziɑ̃u¹³,dziɑ̃u¹³,dz i ɑ̃ u ¹³,,Sims2020,,,^ dz i ɑ̃ u ¹³ $,default,dz i o* u , dz i o* u
+913,Jiulong-18_bridge-1,,Jiulong,18_bridge,dzã³⁵,dzã³⁵,dz ã ³⁵,,Sims2020,,,^ dz ã ³⁵ $,default,dz a* , a* dz
+914,Wadu-92_heavy-1,,Wadu,92_heavy,lɛ̀j,lɛ̀j,l ɛ̀/ɛ j,,Sims2020,,,^ l ɛ̀ j $,default,l E E y,E l y
+915,Wadu-167_seed-1,,Wadu,167_seed,lɛ̌j,lɛ̌j,l ɛ̌j/ɛi,,Sims2020,,,^ l ɛ̌j $,default,l Ey Ei,Ei Ey l
+916,Taoba-167_seed-1,,Taoba,167_seed,le³⁵,le³⁵,l e ³⁵,,Sims2020,,,^ l e ³⁵ $,default,l e , e l
+917,Qinghua-167_seed-1,,Qinghua,167_seed,la⁵⁵,la⁵⁵,l a ⁵⁵,,Sims2020,,,^ l a ⁵⁵ $,default,l a , a l
+918,Lanping-167_seed-1,,Lanping,167_seed,la⁵⁵,la⁵⁵,l a ⁵⁵,,Sims2020,,,^ l a ⁵⁵ $,default,l a , a l
+919,Jiulong-167_seed-1,,Jiulong,167_seed,lɛi³⁵,lɛi³⁵,l ɛi ³⁵,,Sims2020,,,^ l ɛi ³⁵ $,default,l Ei , Ei l
+920,Niuwozi-72_forehead-1,,Niuwozi,72_forehead,l̥oᴿ,l̥oᴿ,l̥ o ᴿ/¹⁵,,Sims2020,,,^ l̥ oᴿ $,default,l o , l o
+921,Dayang-72_forehead-1,,Dayang,72_forehead,ɬǒ,ɬǒ,ɬ ŏ/o,,Sims2020,,,^ ɬ ǒ $,default,L o o,L o
+922,Taoba-72_forehead-1,,Taoba,72_forehead,ɬo³⁵,ɬo³⁵,ɬ o ³⁵,,Sims2020,,,^ ɬ o ³⁵ $,default,L o , L o
+923,Qinghua-72_forehead-1,,Qinghua,72_forehead,ɬo¹³,ɬo¹³,ɬ o ¹³,,Sims2020,,,^ ɬ o ¹³ $,default,L o , L o
+924,Lanping-72_forehead-1,,Lanping,72_forehead,ɬo¹³,ɬo¹³,ɬ o ¹³,,Sims2020,,,^ ɬ o ¹³ $,default,L o , L o
+925,Niuwozi-174_shepherdv-1,,Niuwozi,174_shepherdv,l̥iᴿ,l̥iᴿ,l̥ i ᴿ/¹⁵,,Sims2020,,,^ l̥ iᴿ $,default,l i , i l
+926,Taoba-79_grazevt-1,,Taoba,79_grazevt,ɬi³⁵,ɬi³⁵,ɬ i ³⁵,,Sims2020,,,^ ɬ i ³⁵ $,default,L i , L i
+927,Wadu-134_obtain-1,,Wadu,134_obtain,ɻǐ,ɻǐ,ɻ ĭ/i,,Sims2020,,,^ ɻ ǐ $,default,r i i,i r
+928,Niuwozi-134_obtain-1,,Niuwozi,134_obtain,riᴿ,riᴿ,r i ᴿ/¹⁵,,Sims2020,,,^ r iᴿ $,default,r i , i r
+929,Wadu-16_bowl-1,,Wadu,16_bowl,qʰwɑ̌,qʰwɑ̌,qʰ w ɑ̆/ɑ,,Sims2020,,,^ qʰw ɑ̌ $,default,qh~ w o o,o qh~ w
+930,Niuwozi-16_bowl-1,,Niuwozi,16_bowl,kʰwɑᴿ,kʰwɑᴿ,kʰ w ɑ ᴿ/¹⁵,,Sims2020,,,^ kʰw ɑᴿ $,default,kh~ w o , kh~ o w
+931,Taoba-16_bowl-1,,Taoba,16_bowl,kʰua³⁵,kʰua³⁵,kʰ u/w a ³⁵,,Sims2020,,,^ kʰ ua ³⁵ $,default,kh~ u w a , a kh~ u w
+932,Qinghua-16_bowl-1,,Qinghua,16_bowl,kʰuɑ¹³,kʰuɑ¹³,kʰ u/w ɑ ¹³,,Sims2020,,,^ kʰ uɑ ¹³ $,default,kh~ u w o , kh~ o u w
+933,Lanping-16_bowl-1,,Lanping,16_bowl,kʰuɑ¹³,kʰuɑ¹³,kʰ u/w ɑ ¹³,,Sims2020,,,^ kʰ uɑ ¹³ $,default,kh~ u w o , kh~ o u w
+934,Mianchi-154_pretendfeign-1,,Mianchi,154_pretendfeign,pá pù,pá_pù,p á/a + p ù/u,,Sims2020,,,^ p á _ p ù $,default,p a a  p u u, a p u
+935,Yonghe-153_pretend-1,,Yonghe,153_pretend,ɸɑʴ́ ~ fɑ́ʴ,ɸɑʴ́,ɸ ɑʴ́/ɑ ʴ/ɹ,,Sims2020,,,^ ɸ ɑʴ́ $,default,p o o r,o p r
+936,Wadu-221_todo-1,,Wadu,221_todo,pʉ́,pʉ́,p ʉ́/ʉ,,Sims2020,,,^ p ʉ́ $,default,p 3 3,3 p
+937,Niuwozi-221_todo-1,,Niuwozi,221_todo,pɑᶠ,pɑᶠ,p ɑ ᶠ/⁵¹,,Sims2020,,,^ p ɑᶠ $,default,p o , o p
+938,Longxi-169_separatesever-1,,Longxi,169_separatesever,qá tsʰé,qá_tsʰé,q á/a + tsʰ é/e,,Sims2020,,,^ q á _ tsʰ é $,default,q a a  tsh~ e e, a e q tsh~
+939,Mianchi-169_separatesever-1,,Mianchi,169_separatesever,kiè ká,kiè_ká,k i è/e + k á/a,,Sims2020,,,^ k i è _ k á $,default,k i e e  k a a, a e i k
+940,Lanping-168_separatev-1,,Lanping,168_separatev,xə¹³ kʰe⁵⁵,xə¹³_kʰe⁵⁵,x ə ¹³ + kʰ e ⁵⁵,,Sims2020,,,^ x ə ¹³ _ kʰ e ⁵⁵ $,default,x 3   kh~ e , 3 e kh~ x
+941,Jiulong-168_separatev-1,,Jiulong,168_separatev,kʰə¹¹ kʰe⁵⁵ nə¹¹ ʃi¹¹,kʰə¹¹_kʰe⁵⁵_nə¹¹_ʃi¹¹,kʰ ə ¹¹ + kʰ e ⁵⁵ + n ə ¹¹ + ʃ i ¹¹,,Sims2020,,,^ kʰ ə ¹¹ _ kʰ e ⁵⁵ _ n ə ¹¹ _ ʃ i ¹¹ $,default,kh~ 3   kh~ e   n 3   S i , 3 S e i kh~ n
+942,Longxi-37_cuckoo-1,,Longxi,37_cuckoo,qí pù,qí_pù,q í/i + p ù/u,,Sims2020,,,^ q í _ p ù $,default,q i i  p u u, i p q u
+943,Mianchi-37_cuckoo-1,,Mianchi,37_cuckoo,koú pù,koú_pù,k o ú/u + p ù/u,,Sims2020,,,^ k o ú _ p ù $,default,k o u u  p u u, k o p u
+944,Wadu-37_cuckoo-1,,Wadu,37_cuckoo,qí pù,qí_pù,q í/i + p ù/u,,Sims2020,,,^ q í _ p ù $,default,q i i  p u u, i p q u
+945,Lanping-37_cuckoo-1,,Lanping,37_cuckoo,qei⁵⁵ pu¹³,qei⁵⁵_pu¹³,q e i ⁵⁵ + p u ¹³,,Sims2020,,,^ q e i ⁵⁵ _ p u ¹³ $,default,q e i   p u , e i p q u
+946,Jiulong-37_cuckoo-1,,Jiulong,37_cuckoo,kɯ¹¹ pu⁵⁵,kɯ¹¹_pu⁵⁵,k ɯ ¹¹ + p u ⁵⁵,,Sims2020,,,^ k ɯ ¹¹ _ p u ⁵⁵ $,default,k u   p u , k p u
+947,Yonghe-4_besour-1,,Yonghe,4_besour,tswɛ́,tswɛ́,ts w ɛ́/ɛ,,Sims2020,,,^ tsw ɛ́ $,default,ts w E E,E ts w
+948,Wadu-4_besour-1,,Wadu,4_besour,ʈʂú,ʈʂú,ʈʂ ú/u,,Sims2020,,,^ ʈʂ ú $,default,tS u u,tS u
+949,Niuwozi-4_besour-1,,Niuwozi,4_besour,ʈʂuᴴ,ʈʂuᴴ,ʈʂ u ᴴ/⁵,,Sims2020,,,^ ʈʂ uᴴ $,default,tS u , tS u
+950,Dayang-4_besour-1,,Dayang,4_besour,tʃú,tʃú,tʃ ú/u,,Sims2020,,,^ tʃ ú $,default,tS u u,tS u
+951,Yonghe-237_wait-1,,Yonghe,237_wait,ʑì lwí,ʑì_lwí,ʑ ì/i + l w í/i,,Sims2020,,,^ ʑ ì _ lw í $,default,Z i i  l w i i, Z i l w
+952,Lanping-237_wait-1,,Lanping,237_wait,xə¹³ liõ⁵⁵ ku⁵⁵,xə¹³_liõ⁵⁵_ku⁵⁵,x ə ¹³ + l i õ ⁵⁵ + k u ⁵⁵,,Sims2020,,,^ x ə ¹³ _ l i õ ⁵⁵ _ k u ⁵⁵ $,default,x 3   l i o*   k u , 3 i k l o* u x
+953,Mianchi-187_snake-1,,Mianchi,187_snake,bʐě,bʐě,b ʐ ĕ/e,,Sims2020,,,^ bʐ ě $,default,b Z e e,Z b e
+954,Wadu-187_snake-1,,Wadu,187_snake,bʉ ɻɛȷ́,bʉ_ɻɛȷ́,b ʉ + ɻ ɛȷ́/ɛi,,Sims2020,,,^ b ʉ _ ɻɛȷ́ $,default,b 3  r Ei, 3 Ei b r
+955,Taoba-187_snake-1,,Taoba,187_snake,bɐ³⁵,bɐ³⁵,b ɐ ³⁵,,Sims2020,,,^ b ɐ ³⁵ $,default,b a , a b
+956,Qinghua-187_snake-1,,Qinghua,187_snake,bɐ¹³ ʐɑ⁵⁵,bɐ¹³_ʐɑ⁵⁵,b ɐ ¹³ + ʐ ɑ ⁵⁵,,Sims2020,,,^ b ɐ ¹³ _ ʐ ɑ ⁵⁵ $,default,b a   Z o , Z a b o
+957,Lanping-187_snake-1,,Lanping,187_snake,bɐ¹³ ʐɑ⁵⁵,bɐ¹³_ʐɑ⁵⁵,b ɐ ¹³ + ʐ ɑ ⁵⁵,,Sims2020,,,^ b ɐ ¹³ _ ʐ ɑ ⁵⁵ $,default,b a   Z o , Z a b o
+958,Jiulong-187_snake-1,,Jiulong,187_snake,bu¹¹ ʐɛi⁵⁵,bu¹¹_ʐɛi⁵⁵,b u ¹¹ + ʐ ɛi ⁵⁵,,Sims2020,,,^ b u ¹¹ _ ʐ ɛi ⁵⁵ $,default,b u   Z Ei , Ei Z b u
+959,Longxi-172_sheep-1,,Longxi,172_sheep,ió,ió,i ó/o,,Sims2020,,,^ i ó $,default,i o o,i o
+960,Mianchi-172_sheep-1,,Mianchi,172_sheep,ioú,ioú,i o ú/u,,Sims2020,,,^ i o ú $,default,i o u u,i o u
+961,Wadu-172_sheep-1,,Wadu,172_sheep,ʐṍ,ʐṍ,ʐ ṍ/õ,,Sims2020,,,^ ʐ ṍ $,default,Z o* o*,Z o*
+962,Niuwozi-172_sheep-1,,Niuwozi,172_sheep,ʐõᴴ,ʐõᴴ,ʐ õ ᴴ/⁵,,Sims2020,,,^ ʐ õᴴ $,default,Z o* , Z o*
+963,Dayang-172_sheep-1,,Dayang,172_sheep,zʒoṹ,zʒoṹ,z ʒ o ṹ/ũ,,Sims2020,,,^ zʒ o ṹ $,default,z Z o u* u*,Z o u* z
+964,Taoba-172_sheep-1,,Taoba,172_sheep,ʐã⁵⁵,ʐã⁵⁵,ʐ ã ⁵⁵,,Sims2020,,,^ ʐ ã ⁵⁵ $,default,Z a* , Z a*
+965,Qinghua-172_sheep-1,,Qinghua,172_sheep,ʒɑ̃u⁵⁵,ʒɑ̃u⁵⁵,ʒ ɑ̃ u ⁵⁵,,Sims2020,,,^ ʒ ɑ̃ u ⁵⁵ $,default,Z o* u , Z o* u
+966,Lanping-172_sheep-1,,Lanping,172_sheep,ʒɑ̃u⁵⁵,ʒɑ̃u⁵⁵,ʒ ɑ̃ u ⁵⁵,,Sims2020,,,^ ʒ ɑ̃ u ⁵⁵ $,default,Z o* u , Z o* u
+967,Jiulong-172_sheep-1,,Jiulong,172_sheep,ʒõ³⁵,ʒõ³⁵,ʒ õ ³⁵,,Sims2020,,,^ ʒ õ ³⁵ $,default,Z o* , Z o*
+968,Longxi-157_pus-1,,Longxi,157_pus,pù,pù,p ù/u,,Sims2020,,,^ p ù $,default,p u u,p u
+969,Mianchi-157_pus-1,,Mianchi,157_pus,pù,pù,p ù/u,,Sims2020,,,^ p ù $,default,p u u,p u
+970,Dayang-157_pus-1,,Dayang,157_pus,ɸpɨ̌,ɸpɨ̌,ɸ p ɨ̆/ɨ,,Sims2020,,,^ ɸ p ɨ̌ $,default,p p 3 3,3 p
+971,Qinghua-157_pus-1,,Qinghua,157_pus,spy¹³,spy¹³,s p y ¹³,,Sims2020,,,^ s p y ¹³ $,default,s p i , i p s
+972,Lanping-157_pus-1,,Lanping,157_pus,fpy¹³,fpy¹³,f p y ¹³,,Sims2020,,,^ f p y ¹³ $,default,f p i , f i p
+973,Jiulong-157_pus-1,,Jiulong,157_pus,pu⁵⁵,pu⁵⁵,p u ⁵⁵,,Sims2020,,,^ p u ⁵⁵ $,default,p u , p u
+974,Longxi-199_splashsprinkle-1,,Longxi,199_splashsprinkle,pʰà,pʰà,pʰ à/a,,Sims2020,,,^ pʰ à $,default,ph~ a a,a ph~
+975,Mianchi-199_splashsprinkle-1,,Mianchi,199_splashsprinkle,(tsuɛ̀) pʰɛ̀,_pʰɛ̀,pʰ ɛ̀/ɛ,,Sims2020,,,^_ pʰ ɛ̀ $,default,ph~ E E,E ph~
+976,Lanping-199_splashsprinkle-1,,Lanping,199_splashsprinkle,pʂɛ¹³,pʂɛ¹³,p ʂ ɛ ¹³,,Sims2020,,,^ pʂ ɛ ¹³ $,default,p S E , E S p
+977,Jiulong-199_splashsprinkle-1,,Jiulong,199_splashsprinkle,pʐɛ̃⁵⁵,pʐɛ̃⁵⁵,p ʐ ɛ̃ ⁵⁵,,Sims2020,,,^ pʐ ɛ̃ ⁵⁵ $,default,p Z E* , E* Z p
+978,Longxi-87_hammern-1,,Longxi,87_hammern,tuà liò,tuà_liò,t u/w à/a + l i ò/o,,Sims2020,,,^ t uà _ l i ò $,default,t u w a a  l i o o, a i l o t u w
+979,Mianchi-87_hammern-1,,Mianchi,87_hammern,tuà liò,tuà_liò,t u/w à/a + l i ò/o,,Sims2020,,,^ t uà _ l i ò $,default,t u w a a  l i o o, a i l o t u w
+980,Wadu-223_tohammer-1,,Wadu,223_tohammer,tɑ̌,tɑ̌,t ɑ̆/ɑ,,Sims2020,,,^ t ɑ̌ $,default,t o o,o t
+981,Taoba-223_tohammer-1,,Taoba,223_tohammer,xə³⁵ ta³⁵,xə³⁵_ta³⁵,x ə ³⁵ + t a ³⁵,,Sims2020,,,^ x ə ³⁵ _ t a ³⁵ $,default,x 3   t a , 3 a t x
+982,Qinghua-223_tohammer-1,,Qinghua,223_tohammer,xə¹³ stɑ¹³,xə¹³_stɑ¹³,x ə ¹³ + s t ɑ ¹³,,Sims2020,,,^ x ə ¹³ _ s t ɑ ¹³ $,default,x 3   s t o , 3 o s t x
+983,Longxi-48_drillauger-1,,Longxi,48_drillauger,ȵò,ȵò,ȵ ò/o,,Sims2020,,,^ ȵ ò $,default,o o,o
+984,Jiulong-47_drillv-1,,Jiulong,47_drillv,ȵ̩ĩ¹¹ by³⁵,ȵ̩ĩ¹¹_by³⁵,ȵ̩/ȵ ĩ ¹¹ + b y ³⁵,,Sims2020,,,^ ȵ̩ ĩ ¹¹ _ b y ³⁵ $,default,i*   b i , b i i*
+985,Longxi-228_triphammerforhullingrice-1,,Longxi,228_triphammerforhullingrice,tʰiò,tʰiò,tʰ i ò/o,,Sims2020,,,^ tʰ i ò $,default,th~ i o o,i o th~
+986,Dayang-228_triphammerforhullingrice-1,,Dayang,228_triphammerforhullingrice,ʃtʃǐ,ʃtʃǐ,ʃ tʃ ĭ/i,,Sims2020,,,^ ʃ tʃ ǐ $,default,S tS i i,S i tS
+987,Lanping-228_triphammerforhullingrice-1,,Lanping,228_triphammerforhullingrice,ʃtʃi¹³,ʃtʃi¹³,ʃ tʃ i ¹³,,Sims2020,,,^ ʃ tʃ i ¹³ $,default,S tS i , S i tS
+988,Longxi-186_small-1,,Longxi,186_small,tsù,tsù,ts ù/u,,Sims2020,,,^ ts ù $,default,ts u u,ts u
+989,Mianchi-186_small-1,,Mianchi,186_small,tsù ~ tsú,tsù,ts ù/u,,Sims2020,,,^ ts ù $,default,ts u u,ts u
+990,Yonghe-186_small-1,,Yonghe,186_small,tsə̌,tsə̌,ts ə̆/ə,,Sims2020,,,^ ts ə̌ $,default,ts 3 3,3 ts
+991,Wadu-186_small-1,,Wadu,186_small,qʰɐ tsɛ̌j,qʰɐ_tsɛ̌j,qʰ ɐ + ts ɛ̌j/ɛi,,Sims2020,,,^ qʰ ɐ _ ts ɛ̌j $,default,qh~ a  ts Ey Ei, Ei Ey a qh~ ts
+992,Niuwozi-186_small-1,,Niuwozi,186_small,kɜᴸ tsɜjᴿ,kɜᴸ_tsɜjᴿ,k ɜ ᴸ/¹ + ts ɜj/ɜi ᴿ/¹⁵,,Sims2020,,,^ k ɜᴸ _ ts ɜjᴿ $,default,k 3   ts 3y 3i , 3 3i 3y k ts
+993,Taoba-186_small-1,,Taoba,186_small,ka³⁵ tse³⁵ mə⁵³,ka³⁵_tse³⁵_mə⁵³,k a ³⁵ + ts e ³⁵ + m ə ⁵³,,Sims2020,,,^ k a ³⁵ _ ts e ³⁵ _ m ə ⁵³ $,default,k a   ts e   m 3 , 3 a e k m ts
+994,Qinghua-186_small-1,,Qinghua,186_small,qa¹³ tsɛ³⁵,qa¹³_tsɛ³⁵,q a ¹³ + ts ɛ ³⁵,,Sims2020,,,^ q a ¹³ _ ts ɛ ³⁵ $,default,q a   ts E , E a q ts
+995,Lanping-186_small-1,,Lanping,186_small,qa¹³ tsɛ¹³,qa¹³_tsɛ¹³,q a ¹³ + ts ɛ ¹³,,Sims2020,,,^ q a ¹³ _ ts ɛ ¹³ $,default,q a   ts E , E a q ts
+996,Longxi-58_fatofhumans-1,,Longxi,58_fatofhumans,tsʰɨ̀,tsʰɨ̀,tsʰ ɨ̆/ɨ,,Sims2020,,,^ tsʰ ɨ̀ $,default,tsh~ 3 3,3 tsh~
+997,Wadu-57_fat-1,,Wadu,57_fat,tsʰə̀,tsʰə̀,tsʰ ə̀/ə,,Sims2020,,,^ tsʰ ə̀ $,default,tsh~ 3 3,3 tsh~
+998,Taoba-57_fat-1,,Taoba,57_fat,tsʰə³⁵,tsʰə³⁵,tsʰ ə ³⁵,,Sims2020,,,^ tsʰ ə ³⁵ $,default,tsh~ 3 , 3 tsh~
+999,Qinghua-57_fat-1,,Qinghua,57_fat,tsʰɤ¹³,tsʰɤ¹³,tsʰ ɤ ¹³,,Sims2020,,,^ tsʰ ɤ ¹³ $,default,tsh~ o , o tsh~
+1000,Lanping-57_fat-1,,Lanping,57_fat,tsʰɤ¹³,tsʰɤ¹³,tsʰ ɤ ¹³,,Sims2020,,,^ tsʰ ɤ ¹³ $,default,tsh~ o , o tsh~
+1001,Jiulong-57_fat-1,,Jiulong,57_fat,tsʰɿ³⁵,tsʰɿ³⁵,tsʰ ɿ ³⁵,,Sims2020,,,^ tsʰ ɿ ³⁵ $,default,tsh~ , tsh~
+1002,Longxi-93_hemp-1,,Longxi,93_hemp,"sò,","sò,",s ò/o,,Sims2020,,,"^ sò, $",default,s o o,o s
+1003,Yonghe-93_hemp-1,,Yonghe,93_hemp,sǔ,sǔ,s ŭ/u,,Sims2020,,,^ s ǔ $,default,s u u,s u
+1004,Wadu-93_hemp-1,,Wadu,93_hemp,sǔ,sǔ,s ŭ/u,,Sims2020,,,^ s ǔ $,default,s u u,s u
+1005,Dayang-93_hemp-1,,Dayang,93_hemp,sɑ̌w,sɑ̌w,s ɑ̆/ɑ w,,Sims2020,,,^ s ɑ̌ w $,default,s o o w,o s w
+1006,Lanping-93_hemp-1,,Lanping,93_hemp,sɑu¹³,sɑu¹³,s ɑ u ¹³,,Sims2020,,,^ s ɑ u ¹³ $,default,s o u , o s u
+1007,Jiulong-93_hemp-1,,Jiulong,93_hemp,so³⁵,so³⁵,s o ³⁵,,Sims2020,,,^ s o ³⁵ $,default,s o , o s
+1008,Mianchi-189_snivel-1,,Mianchi,189_snivel,nə̀,nə̀,n ə̀/ə,,Sims2020,,,^ n ə̀ $,default,n 3 3,3 n
+1009,Niuwozi-189_snivel-1,,Niuwozi,189_snivel,n̥̥ɑ̃ᴿ,n̥̥ɑ̃ᴿ,n̥ ɑ̃ ᴿ/¹⁵,,Sims2020,,,^ n̥̥ ɑ̃ᴿ $,default,n o* , n o*
+1010,Dayang-190_snot-1,,Dayang,190_snot,n̥æ̃̌,n̥æ̃̌,n̥ æ̆̃/æ̃,,Sims2020,,,^ n̥ æ̃̌ $,default,n E* E*,E* n
+1011,Longxi-251_write-1,,Longxi,251_write,"ɹà,","ɹà,",ɹ à/a,,Sims2020,,,"^ ɹà, $",default,r a a,a r
+1012,Mianchi-251_write-1,,Mianchi,251_write,ɕà,ɕà,ɕ à/a,,Sims2020,,,^ ɕ à $,default,S a a,S a
+1013,Wadu-251_write-1,,Wadu,251_write,ɖʉ̌,ɖʉ̌,ɖ ʉ̆/ʉ,,Sims2020,,,^ ɖ ʉ̌ $,default,d 3 3,3 d
+1014,Niuwozi-251_write-1,,Niuwozi,251_write,dʐʉᴿ,dʐʉᴿ,ɖʐ ʉ ᴿ/¹⁵,,Sims2020,,,^ dʐ ʉᴿ $,default,dZ 3 , 3 dZ
+1015,Longxi-28_circle-1,,Longxi,28_circle,zɨ̀ ʑé,zɨ̀_ʑé,z ɨ̆/ɨ + ʑ é/e,,Sims2020,,,^ z ɨ̀ _ ʑ é $,default,z 3 3  Z e e, 3 Z e z
+1016,Taoba-28_circle-1,,Taoba,28_circle,rua⁵⁵ mə⁵³,rua⁵⁵_mə⁵³,r u/w a ⁵⁵ + m ə ⁵³,,Sims2020,,,^ r ua ⁵⁵ _ m ə ⁵³ $,default,r u w a   m 3 , 3 a m r u w
+1017,Qinghua-28_circle-1,,Qinghua,28_circle,ʐuɐ¹³ ʐuɐ¹³,ʐuɐ¹³_ʐuɐ¹³,ʐ u ɐ ¹³ + ʐ u ɐ ¹³,,Sims2020,,,^ ʐ u ɐ ¹³ _ ʐ u ɐ ¹³ $,default,Z u a   Z u a , Z a u
+1018,Lanping-28_circle-1,,Lanping,28_circle,ʐuɐ¹³ ʐuɐ¹³,ʐuɐ¹³_ʐuɐ¹³,ʐ u ɐ ¹³ + ʐ u ɐ ¹³,,Sims2020,,,^ ʐ u ɐ ¹³ _ ʐ u ɐ ¹³ $,default,Z u a   Z u a , Z a u
+1019,Jiulong-28_circle-1,,Jiulong,28_circle,ʐu¹¹ ʐuə⁵⁵,ʐu¹¹_ʐuə⁵⁵,ʐ u ¹¹ + ʐ u/w ə ⁵⁵,,Sims2020,,,^ ʐ u ¹¹ _ ʐ uə ⁵⁵ $,default,Z u   Z u w 3 , 3 Z u w
+1020,Longxi-204_sticky-1,,Longxi,204_sticky,zà,zà,z à/a,,Sims2020,,,^ z à $,default,z a a,a z
+1021,Mianchi-204_sticky-1,,Mianchi,204_sticky,pià dzà,pià_dzà,p i/j à/a + dz à/a,,Sims2020,,,^ p ià _ dz à $,default,p i y a a  dz a a, a dz i p y
+1022,Taoba-218_thicksticky-1,,Taoba,218_thicksticky,dzu³⁵ mə⁵³,dzu³⁵_mə⁵³,dz u ³⁵ + m ə ⁵³,,Sims2020,,,^ dz u ³⁵ _ m ə ⁵³ $,default,dz u   m 3 , 3 dz m u
+1023,Qinghua-218_thicksticky-1,,Qinghua,218_thicksticky,dzy¹³,dzy¹³,dz y ¹³,,Sims2020,,,^ dz y ¹³ $,default,dz i , dz i
+1024,Lanping-205_stickyglutinous-1,,Lanping,205_stickyglutinous,dʑa¹³ ti⁵⁵,dʑa¹³_ti⁵⁵,dʑ a ¹³ + t i ⁵⁵,,Sims2020,,,^ dʑ a ¹³ _ t i ⁵⁵ $,default,dZ a   t i , a dZ i t
+1025,Jiulong-218_thicksticky-1,,Jiulong,218_thicksticky,dzu³⁵,dzu³⁵,dz u ³⁵,,Sims2020,,,^ dz u ³⁵ $,default,dz u , dz u
+1026,Yonghe-121_melt-1,,Yonghe,121_melt,dʐə̌,dʐə̌,ɖʐ ə̆/ə,,Sims2020,,,^ dʐ ə̌ $,default,dZ 3 3,3 dZ
+1027,Wadu-121_melt-1,,Wadu,121_melt,ɖʐæ̌,ɖʐæ̌,ɖʐ æ̆/æ,,Sims2020,,,^ ɖʐ æ̌ $,default,dZ E E,E dZ
+1028,Longxi-145_penis-1,,Longxi,145_penis,lià qə̀,lià_qə̀,l i/j à/a + q ə̀/ə,,Sims2020,,,^ l ià _ q ə̀ $,default,l i y a a  q 3 3, 3 a i l q y
+1029,Mianchi-145_penis-1,,Mianchi,145_penis,lià qɛ̀,lià_qɛ̀,l i/j à/a + q ɛ̀/ɛ,,Sims2020,,,^ l ià _ q ɛ̀ $,default,l i y a a  q E E, E a i l q y
+1030,Yonghe-145_penis-1,,Yonghe,145_penis,lǐ,lǐ,l ĭ/i,,Sims2020,,,^ l ǐ $,default,l i i,i l
+1031,Dayang-216_testicle-1,,Dayang,216_testicle,lɒ̀ dɒ̌,lɒ̀_dɒ̌,l ɒ̀/ɒ + d ɒ̆/ɒ,,Sims2020,,,^ l ɒ̀ _ d ɒ̌ $,default,l o o  d o o, d l o
+1032,Longxi-162_returntoaplace-1,,Longxi,162_returntoaplace,lò,lò,l ò/o,,Sims2020,,,^ l ò $,default,l o o,l o
+1033,Lanping-161_return-1,,Lanping,161_return,xə¹³ lo¹³,xə¹³_lo¹³,x ə ¹³ + l o ¹³,,Sims2020,,,^ x ə ¹³ _ l o ¹³ $,default,x 3   l o , 3 l o x
+1034,Longxi-35_corpse-1,,Longxi,35_corpse,mó,mó,m ó/o,,Sims2020,,,^ m ó $,default,m o o,m o
+1035,Mianchi-35_corpse-1,,Mianchi,35_corpse,mó,mó,m ó/o,,Sims2020,,,^ m ó $,default,m o o,m o
+1036,Yonghe-35_corpse-1,,Yonghe,35_corpse,mì múʴ,mì_múʴ,m ì/i + m ú/u ʴ/ɹ,,Sims2020,,,^ m ì _ m úʴ $,default,m i i  m u u r, i m r u
+1037,Wadu-35_corpse-1,,Wadu,35_corpse,mǔ,mǔ,m ŭ/u,,Sims2020,,,^ m ǔ $,default,m u u,m u
+1038,Niuwozi-35_corpse-1,,Niuwozi,35_corpse,muᴿ,muᴿ,m u ᴿ/¹⁵,,Sims2020,,,^ m uᴿ $,default,m u , m u
+1039,Lanping-35_corpse-1,,Lanping,35_corpse,ȵi⁵⁵ mu⁵⁵,ȵi⁵⁵_mu⁵⁵,ȵ i ⁵⁵ + m u ⁵⁵,,Sims2020,,,^ ȵ i ⁵⁵ _ m u ⁵⁵ $,default,i   m u , i m u
+1040,Jiulong-35_corpse-1,,Jiulong,35_corpse,mi³⁵ mũ⁵⁵,mi³⁵_mũ⁵⁵,m i ³⁵ + m ũ ⁵⁵,,Sims2020,,,^ m i ³⁵ _ m ũ ⁵⁵ $,default,m i   m u* , i m u*
+1041,Longxi-185_sleep-1,,Longxi,185_sleep,(ɦà) mà zè,_mà_zè,m à/a + z è/e,,Sims2020,,,^_ m à _ z è $,default,m a a  z e e, a e m z
+1042,Mianchi-131_nodoff-1,,Mianchi,131_nodoff,mɛ̀ ʑɛ̀ -qɛ̀ tuá,mɛ̀_ʑɛ̀-qɛ̀_tuá,m ɛ̀/ɛ + ʑ ɛ̀/ɛ + q ɛ̀/ɛ + t u á/a,,Sims2020,,,^ m ɛ̀ _ ʑ ɛ̀ - q ɛ̀ _ t u á $,default,m E E  Z E E  q E E  t u a a, E Z a m q t u
+1043,Wadu-185_sleep-1,,Wadu,185_sleep,ʑə̌,ʑə̌,ʑ ə̆/ə,,Sims2020,,,^ ʑ ə̌ $,default,Z 3 3,3 Z
+1044,Taoba-185_sleep-1,,Taoba,185_sleep,kʰə³⁵ ʑi³⁵,kʰə³⁵_ʑi³⁵,kʰ ə ³⁵ + ʑ i ³⁵,,Sims2020,,,^ kʰ ə ³⁵ _ ʑ i ³⁵ $,default,kh~ 3   Z i , 3 Z i kh~
+1045,Qinghua-185_sleep-1,,Qinghua,185_sleep,nə¹³ ʒə¹³,nə¹³_ʒə¹³,n ə ¹³ + ʒ ə ¹³,,Sims2020,,,^ n ə ¹³ _ ʒ ə ¹³ $,default,n 3   Z 3 , 3 Z n
+1046,Lanping-185_sleep-1,,Lanping,185_sleep,nə¹³ ʒə¹³,nə¹³_ʒə¹³,n ə ¹³ + ʒ ə ¹³,,Sims2020,,,^ n ə ¹³ _ ʒ ə ¹³ $,default,n 3   Z 3 , 3 Z n
+1047,Jiulong-185_sleep-1,,Jiulong,185_sleep,kʰɯ¹¹ ʑɯ⁵⁵,kʰɯ¹¹_ʑɯ⁵⁵,kʰ ɯ ¹¹ + ʑ ɯ ⁵⁵,,Sims2020,,,^ kʰ ɯ ¹¹ _ ʑ ɯ ⁵⁵ $,default,kh~ u   Z u , Z kh~ u
+1048,Longxi-94_hideself-1,,Longxi,94_hideself,pià,pià,p i/j à/a,,Sims2020,,,^ p ià $,default,p i y a a,a i p y
+1049,Niuwozi-2_axe-1,,Niuwozi,2_axe,pɨᶠ,pɨᶠ,p ɨ ᶠ/⁵¹,,Sims2020,,,^ p ɨᶠ $,default,p 3 , 3 p
+1050,Dayang-2_axe-1,,Dayang,2_axe,ɸpɨ́,ɸpɨ́,ɸ p ɨ́/ɨ,,Sims2020,,,^ ɸ p ɨ́ $,default,p p 3 3,3 p
+1051,Lanping-2_axe-1,,Lanping,2_axe,fpy⁵⁵,fpy⁵⁵,f p y ⁵⁵,,Sims2020,,,^ f p y ⁵⁵ $,default,f p i , f i p
+1052,Jiulong-2_axe-1,,Jiulong,2_axe,pi⁵⁵,pi⁵⁵,p i ⁵⁵,,Sims2020,,,^ p i ⁵⁵ $,default,p i , i p
+1053,Longxi-117_lowerseatnothonored-1,,Longxi,117_lowerseatnothonored,ɹà lì,ɹà_lì,ɹ à/a + l ì/i,,Sims2020,,,^ ɹ à _ l ì $,default,r a a  l i i, a i l r
+1054,Mianchi-117_lowerseatnothonored-1,,Mianchi,117_lowerseatnothonored,ʐí lè,ʐí_lè,ʐ í/i + l è/e,,Sims2020,,,^ ʐ í _ l è $,default,Z i i  l e e, Z e i l

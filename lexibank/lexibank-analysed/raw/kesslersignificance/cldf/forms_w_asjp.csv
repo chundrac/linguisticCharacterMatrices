@@ -1,0 +1,1601 @@
+,ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,asjp_forms,asjp_segs
+0,Albanian-1_all-1,,Albanian,1_all,gjithë,ɟ.i.θ,ɟ i θ,,Kessler2001,,False,^ ɟ . i . θ $,default,T i 8,8 T i
+1,English-1_all-1,,English,1_all,all,ɔ.l,ɔ l,,Kessler2001,,False,^ ɔ . l $,default,o l,l o
+2,French-1_all-1,,French,1_all,tous,t.u.t,t u t,,Kessler2001,,False,^ t . u . t $,default,t u t,t u
+3,German-1_all-1,,German,1_all,alle,a.l,a l,,Kessler2001,,False,^ a . l $,default,a l,a l
+4,Hawaiian-1_all-1,,Hawaiian,1_all,apau,a.p.a.u,a p a u,,Kessler2001,,False,^ a . p . a . u $,default,a p a u,a p u
+5,Latin-1_all-1,,Latin,1_all,omnes,o.m.n.i,o m n i,,Kessler2001,,False,^ o . m . n . i $,default,o m n i,i m n o
+6,Navajo-1_all-1,,Navajo,1_all,t'áá 'áƚtso,ʔ.ay.ɬ.ʦ.o,ʔ ay ɬ ts o,,Kessler2001,,False,^ ʔ . ay . ɬ . ʦ . o $,default,7 ai L ts o,7 L ai o ts
+7,Turkish-1_all-1,,Turkish,1_all,bütün,b.y.t.y.n,b y t y n,,Kessler2001,,False,^ b . y . t . y . n $,default,b i t i n,b i n t
+8,Albanian-2_and-1,,Albanian,2_and,e,e,e,,Kessler2001,,True,^ e $,default,e,e
+9,English-2_and-1,,English,2_and,and,a.n.d,a n d,,Kessler2001,,False,^ a . n . d $,default,a n d,a d n
+10,French-2_and-1,,French,2_and,et,e,e,,Kessler2001,,False,^ e $,default,e,e
+11,German-2_and-1,,German,2_and,und,u.n.t,u n t,,Kessler2001,,False,^ u . n . t $,default,u n t,n t u
+12,Hawaiian-2_and-1,,Hawaiian,2_and,ā,aː,aː,,Kessler2001,,False,^ aː $,default,a,a
+13,Latin-2_and-1,,Latin,2_and,et,e.t,e t,,Kessler2001,,False,^ e . t $,default,e t,e t
+14,Navajo-2_and-1,,Navajo,2_and,dóó,d.oː,d oː,,Kessler2001,,False,^ d . oː $,default,d o,d o
+15,Turkish-2_and-1,,Turkish,2_and,ve,v.e,v e,,Kessler2001,,True,^ v . e $,default,v e,e v
+16,Albanian-3_animal-1,,Albanian,3_animal,kafshë,k.a.f.ʃ,k a f ʃ,,Kessler2001,,True,^ k . a . f . ʃ $,default,k a f S,S a f k
+17,English-3_animal-1,,English,3_animal,animal,a.n.ə.m.ə.l,a n ə m ə l,,Kessler2001,,True,^ a . n . ə . m . ə . l $,default,a n 3 m 3 l,3 a l m n
+18,French-3_animal-1,,French,3_animal,animal,a.n.i.m.a.l,a n i m a l,,Kessler2001,,True,^ a . n . i . m . a . l $,default,a n i m a l,a i l m n
+19,German-3_animal-1,,German,3_animal,Tier,t.iː.r,t iː r,,Kessler2001,,False,^ t . iː . r $,default,t i r,i r t
+20,Hawaiian-3_animal-1,,Hawaiian,3_animal,holoholona,h.o.l.o.h.o.l.o.n.a,h o l o h o l o n a,,Kessler2001,,False,^ h . o . l . o . h . o . l . o . n . a $,default,h o l o h o l o n a,a h l n o
+21,Latin-3_animal-1,,Latin,3_animal,animal,a.n.i.m.aː.l,a n i m aː l,,Kessler2001,,False,^ a . n . i . m . aː . l $,default,a n i m a l,a i l m n
+22,Navajo-3_animal-1,,Navajo,3_animal,naaldeehii,n.aː.l.d.eː.h.iː,n aː l d eː h iː,,Kessler2001,,False,^ n . aː . l . d . eː . h . iː $,default,n a l d e h i,a d e h i l n
+23,Turkish-3_animal-1,,Turkish,3_animal,hayvan,h.a.j.v.a.n,h a j v a n,,Kessler2001,,True,^ h . a . j . v . a . n $,default,h a y v a n,a h n v y
+24,Albanian-4_ashes-1,,Albanian,4_ashes,hi,h.i.r,h i r,,Kessler2001,,False,^ h . i . r $,default,h i r,h i r
+25,English-4_ashes-1,,English,4_ashes,ashes,a.ʃ,a ʃ,,Kessler2001,,False,^ a . ʃ $,default,a S,S a
+26,French-4_ashes-1,,French,4_ashes,cendre,s.ɑ̃.d.r,s ɑ̃ d r,,Kessler2001,,False,^ s . ɑ̃ . d . r $,default,s o* d r,d o* r s
+27,German-4_ashes-1,,German,4_ashes,Asche,a.ʃ.ə,a ʃ ə,,Kessler2001,,False,^ a . ʃ . ə $,default,a S 3,3 S a
+28,Hawaiian-4_ashes-1,,Hawaiian,4_ashes,lehu,l.e.h.u,l e h u,,Kessler2001,,False,^ l . e . h . u $,default,l e h u,e h l u
+29,Latin-4_ashes-1,,Latin,4_ashes,cinis,k.i.n.e.r,k i n e r,,Kessler2001,,False,^ k . i . n . e . r $,default,k i n e r,e i k n r
+30,Navajo-4_ashes-1,,Navajo,4_ashes,ƚeeshch'ih,ɬ.eː.ʃ.ʧˀ.i.h,ɬ eː ʃ tʃˀ i h,,Kessler2001,,False,^ ɬ . eː . ʃ . ʧˀ . i . h $,default,L e S tS i h,L S e h i tS
+31,Turkish-4_ashes-1,,Turkish,4_ashes,kül,k.y.l,k y l,,Kessler2001,,False,^ k . y . l $,default,k i l,i k l
+32,Albanian-5_at-1,,Albanian,5_at,në,n.ə,n ə,,Kessler2001,,False,^ n . ə $,default,n 3,3 n
+33,English-5_at-1,,English,5_at,at,a.t,a t,,Kessler2001,,False,^ a . t $,default,a t,a t
+34,French-5_at-1,,French,5_at,à,a,a,,Kessler2001,,False,^ a $,default,a,a
+35,German-5_at-1,,German,5_at,an,a.n,a n,,Kessler2001,,False,^ a . n $,default,a n,a n
+36,Hawaiian-5_at-1,,Hawaiian,5_at,ma,m.a,m a,,Kessler2001,,False,^ m . a $,default,m a,a m
+37,Latin-5_at-1,,Latin,5_at,ad,a.d,a d,,Kessler2001,,False,^ a . d $,default,a d,a d
+38,Navajo-5_at-1,,Navajo,5_at,-di,d.i,d i,,Kessler2001,,False,^ d . i $,default,d i,d i
+39,Turkish-5_at-1,,Turkish,5_at,-de,d.e,d e,,Kessler2001,,False,^ d . e $,default,d e,d e
+40,Albanian-6_back-1,,Albanian,6_back,shpinë,ʃ.p.i.n,ʃ p i n,,Kessler2001,,True,^ ʃ . p . i . n $,default,S p i n,S i n p
+41,English-6_back-1,,English,6_back,back,b.a.k,b a k,,Kessler2001,,False,^ b . a . k $,default,b a k,a b k
+42,French-6_back-1,,French,6_back,dos,d.o,d o,,Kessler2001,,False,^ d . o $,default,d o,d o
+43,German-6_back-1,,German,6_back,Rücken,r.y.k.ə.n,r y k ə n,,Kessler2001,,False,^ r . y . k . ə . n $,default,r i k 3 n,3 i k n r
+44,Hawaiian-6_back-1,,Hawaiian,6_back,kua,k.u.a,k u a,,Kessler2001,,False,^ k . u . a $,default,k u a,a k u
+45,Latin-6_back-1,,Latin,6_back,tergum,t.e.r.g.o,t e r g o,,Kessler2001,,False,^ t . e . r . g . o $,default,t e r g o,e g o r t
+46,Navajo-6_back-1,,Navajo,6_back,'anághah,n.ay.ɣ.a.h,n ay ɣ a h,,Kessler2001,,False,^ n . ay . ɣ . a . h $,default,n ai x a h,a ai h n x
+47,Turkish-6_back-1,,Turkish,6_back,arka,a.r.k.a,a r k a,,Kessler2001,,False,^ a . r . k . a $,default,a r k a,a k r
+48,Albanian-7_bad-1,,Albanian,7_bad,keq,k.e.c,k e c,,Kessler2001,,True,^ k . e . c $,default,k e T,T e k
+49,English-7_bad-1,,English,7_bad,bad,b.a.d,b a d,,Kessler2001,,False,^ b . a . d $,default,b a d,a b d
+50,French-7_bad-1,,French,7_bad,mauvais,m.ɔ.v.ɛ.z,m ɔ v ɛ z,,Kessler2001,,False,^ m . ɔ . v . ɛ . z $,default,m o v E z,E m o v z
+51,German-7_bad-1,,German,7_bad,schlecht,ʃ.l.e.x.t,ʃ l e x t,,Kessler2001,,False,^ ʃ . l . e . x . t $,default,S l e x t,S e l t x
+52,Hawaiian-7_bad-1,,Hawaiian,7_bad,`ino,ʔ.i.n.o,ʔ i n o,,Kessler2001,,False,^ ʔ . i . n . o $,default,7 i n o,7 i n o
+53,Latin-7_bad-1,,Latin,7_bad,malus,m.a.l.o,m a l o,,Kessler2001,,False,^ m . a . l . o $,default,m a l o,a l m o
+54,Navajo-7_bad-1,,Navajo,7_bad,doo yá'áshǫ́ǫ da,j.ay.ʔ.ay.ʃ.õ.õ,j ay ʔ ay ʃ õ õ,,Kessler2001,,False,^ j . ay . ʔ . ay . ʃ . õ . õ $,default,y ai 7 ai S o* o*,7 S ai o* y
+55,Turkish-7_bad-1,,Turkish,7_bad,kötü,k.ø.t.y,k ø t y,,Kessler2001,,True,^ k . ø . t . y $,default,k e t i,e i k t
+56,Albanian-8_bark-1,,Albanian,8_bark,shkëlbozë,ʃ.k.ə.l.b.o.z,ʃ k ə l b o z,,Kessler2001,,False,^ ʃ . k . ə . l . b . o . z $,default,S k 3 l b o z,3 S b k l o z
+57,English-8_bark-1,,English,8_bark,bark,b.ɑ.r.k,b ɑ r k,,Kessler2001,,True,^ b . ɑ . r . k $,default,b o r k,b k o r
+58,French-8_bark-1,,French,8_bark,écorce,e.k.ɔ.r.s,e k ɔ r s,,Kessler2001,,False,^ e . k . ɔ . r . s $,default,e k o r s,e k o r s
+59,German-8_bark-1,,German,8_bark,Rinde,r.i.n.d.ə,r i n d ə,,Kessler2001,,False,^ r . i . n . d . ə $,default,r i n d 3,3 d i n r
+60,Hawaiian-8_bark-1,,Hawaiian,8_bark,`ili,ʔ.i.l.i,ʔ i l i,,Kessler2001,,False,^ ʔ . i . l . i $,default,7 i l i,7 i l
+61,Latin-8_bark-1,,Latin,8_bark,cortex,k.o.r.t.i.k,k o r t i k,,Kessler2001,,False,^ k . o . r . t . i . k $,default,k o r t i k,i k o r t
+62,Navajo-8_bark-1,,Navajo,8_bark,'akásht'óózh,k.ay.ʃ.tˀ.oː.ʒ,k ay ʃ tˀ oː ʒ,,Kessler2001,,False,^ k . ay . ʃ . tˀ . oː . ʒ $,default,k ai S t o Z,S Z ai k o t
+63,Turkish-8_bark-1,,Turkish,8_bark,kabuk,k.a.b.u.k,k a b u k,,Kessler2001,,False,^ k . a . b . u . k $,default,k a b u k,a b k u
+64,Albanian-9_because-1,,Albanian,9_because,sepse,s.e.p.s.e,s e p s e,,Kessler2001,,False,^ s . e . p . s . e $,default,s e p s e,e p s
+65,English-9_because-1,,English,9_because,because,b.ə.k.ɔ.z,b ə k ɔ z,,Kessler2001,,True,^ b . ə . k . ɔ . z $,default,b 3 k o z,3 b k o z
+66,French-9_because-1,,French,9_because,parce que,p.a.r.s,p a r s,,Kessler2001,,False,^ p . a . r . s $,default,p a r s,a p r s
+67,German-9_because-1,,German,9_because,weil,v.ai.l,v ai l,,Kessler2001,,False,^ v . ai . l $,default,v ai l,ai l v
+68,Hawaiian-9_because-1,,Hawaiian,9_because,ā mea,aː.m.e.a,aː m e a,,Kessler2001,,False,^ aː . m . e . a $,default,a m e a,a e m
+69,Latin-9_because-1,,Latin,9_because,quod,kw.o.d,kʷ o d,,Kessler2001,,False,^ kw . o . d $,default,kw~ o d,d kw~ o
+70,Navajo-9_because-1,,Navajo,9_because,háálá,h.aː.l.ay,h aː l ay,,Kessler2001,,False,^ h . aː . l . ay $,default,h a l ai,a ai h l
+71,Turkish-9_because-1,,Turkish,9_because,çünkü,ʧ.y.n.k.y,tʃ y n k y,,Kessler2001,,False,^ ʧ . y . n . k . y $,default,tS i n k i,i k n tS
+72,Albanian-10_belly-1,,Albanian,10_belly,bark,b.a.r.k,b a r k,,Kessler2001,,False,^ b . a . r . k $,default,b a r k,a b k r
+73,English-10_belly-1,,English,10_belly,belly,b.ɛ.l.i,b ɛ l i,,Kessler2001,,False,^ b . ɛ . l . i $,default,b E l i,E b i l
+74,French-10_belly-1,,French,10_belly,ventre,v.ɑ̃.t.r,v ɑ̃ t r,,Kessler2001,,False,^ v . ɑ̃ . t . r $,default,v o* t r,o* r t v
+75,German-10_belly-1,,German,10_belly,Bauch,b.au.x,b au x,,Kessler2001,,False,^ b . au . x $,default,b au x,au b x
+76,Hawaiian-10_belly-1,,Hawaiian,10_belly,`ōpū,ʔ.oː.p.uː,ʔ oː p uː,,Kessler2001,,False,^ ʔ . oː . p . uː $,default,7 o p u,7 o p u
+77,Latin-10_belly-1,,Latin,10_belly,venter,w.e.n.t.r,w e n t r,,Kessler2001,,False,^ w . e . n . t . r $,default,w e n t r,e n r t w
+78,Navajo-10_belly-1,,Navajo,10_belly,'abid,b.i.d,b i d,,Kessler2001,,False,^ b . i . d $,default,b i d,b d i
+79,Turkish-10_belly-1,,Turkish,10_belly,karın,k.a.r.n,k a r n,,Kessler2001,,False,^ k . a . r . n $,default,k a r n,a k n r
+80,Albanian-11_big-1,,Albanian,11_big,madh,m.a.ð,m a ð,,Kessler2001,,False,^ m . a . ð $,default,m a 8,8 a m
+81,English-11_big-1,,English,11_big,big,b.ɪ.g,b ɪ g,,Kessler2001,,False,^ b . ɪ . g $,default,b i g,b g i
+82,French-11_big-1,,French,11_big,grand,g.r.ɑ̃.d,g r ɑ̃ d,,Kessler2001,,False,^ g . r . ɑ̃ . d $,default,g r o* d,d g o* r
+83,German-11_big-1,,German,11_big,groß,g.r.oː.s,g r oː s,,Kessler2001,,False,^ g . r . oː . s $,default,g r o s,g o r s
+84,Hawaiian-11_big-1,,Hawaiian,11_big,nui,n.u.i,n u i,,Kessler2001,,False,^ n . u . i $,default,n u i,i n u
+85,Latin-11_big-1,,Latin,11_big,magnus,m.a.g.n.o,m a g n o,,Kessler2001,,False,^ m . a . g . n . o $,default,m a g n o,a g m n o
+86,Navajo-11_big-1,,Navajo,11_big,'áníƚtso,ʔ.ay.n.i.ɬ.ʦ.o,ʔ ay n i ɬ ts o,,Kessler2001,,False,^ ʔ . ay . n . i . ɬ . ʦ . o $,default,7 ai n i L ts o,7 L ai i n o ts
+87,Turkish-11_big-1,,Turkish,11_big,büyük,b.y.j.y.k,b y j y k,,Kessler2001,,False,^ b . y . j . y . k $,default,b i y i k,b i k y
+88,Albanian-12_bird-1,,Albanian,12_bird,zog,z.o.g,z o g,,Kessler2001,,True,^ z . o . g $,default,z o g,g o z
+89,English-12_bird-1,,English,12_bird,bird,b.ə.r.d,b ə r d,,Kessler2001,,False,^ b . ə . r . d $,default,b 3 r d,3 b d r
+90,French-12_bird-1,,French,12_bird,oiseau,w.a.z.o,w a z o,,Kessler2001,,False,^ w . a . z . o $,default,w a z o,a o w z
+91,German-12_bird-1,,German,12_bird,Vogel,f.oː.g.ə.l,f oː g ə l,,Kessler2001,,False,^ f . oː . g . ə . l $,default,f o g 3 l,3 f g l o
+92,Hawaiian-12_bird-1,,Hawaiian,12_bird,manu,m.a.n.u,m a n u,,Kessler2001,,False,^ m . a . n . u $,default,m a n u,a m n u
+93,Latin-12_bird-1,,Latin,12_bird,avis,a.w.i,a w i,,Kessler2001,,False,^ a . w . i $,default,a w i,a i w
+94,Navajo-12_bird-1,,Navajo,12_bird,tsídii,ʦ.i.d.iː,ts i d iː,,Kessler2001,,False,^ ʦ . i . d . iː $,default,ts i d i,d i ts
+95,Turkish-12_bird-1,,Turkish,12_bird,kuş,k.u.ʃ,k u ʃ,,Kessler2001,,False,^ k . u . ʃ $,default,k u S,S k u
+96,Albanian-13_bite-1,,Albanian,13_bite,kafshon,k.a.f.ʃ.o,k a f ʃ o,,Kessler2001,,False,^ k . a . f . ʃ . o $,default,k a f S o,S a f k o
+97,English-13_bite-1,,English,13_bite,bites,b.ai.t,b ai t,,Kessler2001,,False,^ b . ai . t $,default,b ai t,ai b t
+98,French-13_bite-1,,French,13_bite,mord,m.ɔ.r,m ɔ r,,Kessler2001,,False,^ m . ɔ . r $,default,m o r,m o r
+99,German-13_bite-1,,German,13_bite,beißt,b.ai.s,b ai s,,Kessler2001,,False,^ b . ai . s $,default,b ai s,ai b s
+100,Hawaiian-13_bite-1,,Hawaiian,13_bite,nahu,n.a.h.u,n a h u,,Kessler2001,,False,^ n . a . h . u $,default,n a h u,a h n u
+101,Latin-13_bite-1,,Latin,13_bite,mordet,m.o.r.d.eː,m o r d eː,,Kessler2001,,False,^ m . o . r . d . eː $,default,m o r d e,d e m o r
+102,Navajo-13_bite-1,,Navajo,13_bite,'aháshháásh,ʔ.a.h.ay.ɬ.h.aː.ʃ,ʔ a h ay ɬ h aː ʃ,,Kessler2001,,False,^ ʔ . a . h . ay . ɬ . h . aː . ʃ $,default,7 a h ai L h a S,7 L S a ai h
+103,Turkish-13_bite-1,,Turkish,13_bite,ısırıyor,ɯ.s.ɯ.r,ɯ s ɯ r,,Kessler2001,,False,^ ɯ . s . ɯ . r $,default,u s u r,r s u
+104,Albanian-14_black-1,,Albanian,14_black,zi,z.e.z,z e z,,Kessler2001,,False,^ z . e . z $,default,z e z,e z
+105,English-14_black-1,,English,14_black,black,b.l.a.k,b l a k,,Kessler2001,,False,^ b . l . a . k $,default,b l a k,a b k l
+106,French-14_black-1,,French,14_black,noir,n.w.a.r,n w a r,,Kessler2001,,False,^ n . w . a . r $,default,n w a r,a n r w
+107,German-14_black-1,,German,14_black,schwarz,ʃ.v.a.r.ʦ,ʃ v a r ts,,Kessler2001,,False,^ ʃ . v . a . r . ʦ $,default,S v a r ts,S a r ts v
+108,Hawaiian-14_black-1,,Hawaiian,14_black,`ele`ele,ʔ.e.l.e.ʔ.e.l.e,ʔ e l e ʔ e l e,,Kessler2001,,False,^ ʔ . e . l . e . ʔ . e . l . e $,default,7 e l e 7 e l e,7 e l
+109,Latin-14_black-1,,Latin,14_black,ater,aː.t.r.o,aː t r o,,Kessler2001,,False,^ aː . t . r . o $,default,a t r o,a o r t
+110,Navajo-14_black-1,,Navajo,14_black,ƚizhin,ɬ.i.ʒ.i.n,ɬ i ʒ i n,,Kessler2001,,False,^ ɬ . i . ʒ . i . n $,default,L i Z i n,L Z i n
+111,Turkish-14_black-1,,Turkish,14_black,kara,k.a.r.a,k a r a,,Kessler2001,,False,^ k . a . r . a $,default,k a r a,a k r
+112,Albanian-15_blood-1,,Albanian,15_blood,gjak,ɟ.a.k.r,ɟ a k r,,Kessler2001,,False,^ ɟ . a . k . r $,default,T a k r,T a k r
+113,English-15_blood-1,,English,15_blood,blood,b.l.ə.d,b l ə d,,Kessler2001,,False,^ b . l . ə . d $,default,b l 3 d,3 b d l
+114,French-15_blood-1,,French,15_blood,sang,s.ɑ̃,s ɑ̃,,Kessler2001,,False,^ s . ɑ̃ $,default,s o*,o* s
+115,German-15_blood-1,,German,15_blood,Blut,b.l.uː.t,b l uː t,,Kessler2001,,False,^ b . l . uː . t $,default,b l u t,b l t u
+116,Hawaiian-15_blood-1,,Hawaiian,15_blood,koko,k.o.k.o,k o k o,,Kessler2001,,False,^ k . o . k . o $,default,k o k o,k o
+117,Latin-15_blood-1,,Latin,15_blood,sanguis,s.a.n.gw.i.n,s a n gʷ i n,,Kessler2001,,False,^ s . a . n . gw . i . n $,default,s a n gw~ i n,a gw~ i n s
+118,Navajo-15_blood-1,,Navajo,15_blood,diƚ,d.i.ɬ,d i ɬ,,Kessler2001,,False,^ d . i . ɬ $,default,d i L,L d i
+119,Turkish-15_blood-1,,Turkish,15_blood,kan,k.a.n,k a n,,Kessler2001,,False,^ k . a . n $,default,k a n,a k n
+120,Albanian-16_blow-1,,Albanian,16_blow,fryn,f.r.y,f r y,,Kessler2001,,False,^ f . r . y $,default,f r i,f i r
+121,English-16_blow-1,,English,16_blow,blows,b.l.o,b l o,,Kessler2001,,False,^ b . l . o $,default,b l o,b l o
+122,French-16_blow-1,,French,16_blow,vente,v.ɑ̃.t.e,v ɑ̃ t e,,Kessler2001,,False,^ v . ɑ̃ . t . e $,default,v o* t e,e o* t v
+123,German-16_blow-1,,German,16_blow,bläst,b.l.aː.z,b l aː z,,Kessler2001,,False,^ b . l . aː . z $,default,b l a z,a b l z
+124,Hawaiian-16_blow-1,,Hawaiian,16_blow,puhi,p.u.h.i,p u h i,,Kessler2001,,False,^ p . u . h . i $,default,p u h i,h i p u
+125,Latin-16_blow-1,,Latin,16_blow,flat,f.l.aː,f l aː,,Kessler2001,,False,^ f . l . aː $,default,f l a,a f l
+126,Navajo-16_blow-1,,Navajo,16_blow,ních'i,n.i.ʧˀ.i,n i tʃˀ i,,Kessler2001,,False,^ n . i . ʧˀ . i $,default,n i tS i,i n tS
+127,Turkish-16_blow-1,,Turkish,16_blow,esiyor,e.s,e s,,Kessler2001,,False,^ e . s $,default,e s,e s
+128,Albanian-17_bone-1,,Albanian,17_bone,kockë,k.o.ʦ.k,k o ts k,,Kessler2001,,False,^ k . o . ʦ . k $,default,k o ts k,k o ts
+129,English-17_bone-1,,English,17_bone,bone,b.o.n,b o n,,Kessler2001,,False,^ b . o . n $,default,b o n,b n o
+130,French-17_bone-1,,French,17_bone,os,ɔ.s,ɔ s,,Kessler2001,,False,^ ɔ . s $,default,o s,o s
+131,German-17_bone-1,,German,17_bone,Knochen,k.n.o.x.ə.n,k n o x ə n,,Kessler2001,,False,^ k . n . o . x . ə . n $,default,k n o x 3 n,3 k n o x
+132,Hawaiian-17_bone-1,,Hawaiian,17_bone,iwi,i.w.i,i w i,,Kessler2001,,False,^ i . w . i $,default,i w i,i w
+133,Latin-17_bone-1,,Latin,17_bone,os,o.s.s,o s s,,Kessler2001,,False,^ o . s . s $,default,o s s,o s
+134,Navajo-17_bone-1,,Navajo,17_bone,ts'in,ʦˀ.i.n,tsˀ i n,,Kessler2001,,False,^ ʦˀ . i . n $,default,ts i n,i n ts
+135,Turkish-17_bone-1,,Turkish,17_bone,kemik,k.e.m.i.k,k e m i k,,Kessler2001,,False,^ k . e . m . i . k $,default,k e m i k,e i k m
+136,Albanian-18_breast-1,,Albanian,18_breast,gji,ɟ.i.r,ɟ i r,,Kessler2001,,False,^ ɟ . i . r $,default,T i r,T i r
+137,English-18_breast-1,,English,18_breast,breast,b.r.ɛ.s.t,b r ɛ s t,,Kessler2001,,False,^ b . r . ɛ . s . t $,default,b r E s t,E b r s t
+138,French-18_breast-1,,French,18_breast,sein,s.ɛ̃,s ɛ̃,,Kessler2001,,False,^ s . ɛ̃ $,default,s E*,E* s
+139,German-18_breast-1,,German,18_breast,Brust,b.r.u.s.t,b r u s t,,Kessler2001,,False,^ b . r . u . s . t $,default,b r u s t,b r s t u
+140,Hawaiian-18_breast-1,,Hawaiian,18_breast,ū,uː,uː,,Kessler2001,,False,^ uː $,default,u,u
+141,Latin-18_breast-1,,Latin,18_breast,mamma,m.a.mː.a,m a mː a,,Kessler2001,,False,^ m . a . mː . a $,default,m a m a,a m
+142,Navajo-18_breast-1,,Navajo,18_breast,'abe',b.e.ʔ,b e ʔ,,Kessler2001,,False,^ b . e . ʔ $,default,b e 7,7 b e
+143,Turkish-18_breast-1,,Turkish,18_breast,meme,m.e.m.e,m e m e,,Kessler2001,,False,^ m . e . m . e $,default,m e m e,e m
+144,Albanian-19_breathe-1,,Albanian,19_breathe,marr frymë,f.r.y.m,f r y m,,Kessler2001,,False,^ f . r . y . m $,default,f r i m,f i m r
+145,English-19_breathe-1,,English,19_breathe,breathes,b.r.i.ð,b r i ð,,Kessler2001,,False,^ b . r . i . ð $,default,b r i 8,8 b i r
+146,French-19_breathe-1,,French,19_breathe,respire,r.ɛ.s.p.i.r.e,r ɛ s p i r e,,Kessler2001,,True,^ r . ɛ . s . p . i . r . e $,default,r E s p i r e,E e i p r s
+147,German-19_breathe-1,,German,19_breathe,atmet,aː.t.m,aː t m,,Kessler2001,,False,^ aː . t . m $,default,a t m,a m t
+148,Hawaiian-19_breathe-1,,Hawaiian,19_breathe,hanu,h.a.n.u,h a n u,,Kessler2001,,False,^ h . a . n . u $,default,h a n u,a h n u
+149,Latin-19_breathe-1,,Latin,19_breathe,spirat,s.p.iː.r.aː,s p iː r aː,,Kessler2001,,False,^ s . p . iː . r . aː $,default,s p i r a,a i p r s
+150,Navajo-19_breathe-1,,Navajo,19_breathe,ńdísdzih,ń.d.i.ʣ.i.h,ń/ɲ d i dz i h,,Kessler2001,,False,^ ń . d . i . ʣ . i . h $,default,n 5 d i dz i h,5 d dz h i n
+151,Turkish-19_breathe-1,,Turkish,19_breathe,nefes alıyor,n.e.f.e.s,n e f e s,,Kessler2001,,True,^ n . e . f . e . s $,default,n e f e s,e f n s
+152,Albanian-20_burn-1,,Albanian,20_burn,digjet,d.i.ɟ,d i ɟ,,Kessler2001,,False,^ d . i . ɟ $,default,d i T,T d i
+153,English-20_burn-1,,English,20_burn,burns,b.ə.r.n,b ə r n,,Kessler2001,,False,^ b . ə . r . n $,default,b 3 r n,3 b n r
+154,French-20_burn-1,,French,20_burn,brûle,b.r.y.l.e,b r y l e,,Kessler2001,,True,^ b . r . y . l . e $,default,b r i l e,b e i l r
+155,German-20_burn-1,,German,20_burn,brennt,b.r.e.n,b r e n,,Kessler2001,,False,^ b . r . e . n $,default,b r e n,b e n r
+156,Hawaiian-20_burn-1,,Hawaiian,20_burn,`ā,ʔ.aː,ʔ aː,,Kessler2001,,False,^ ʔ . aː $,default,7 a,7 a
+157,Latin-20_burn-1,,Latin,20_burn,ardet,aː.r.d.eː,aː r d eː,,Kessler2001,,False,^ aː . r . d . eː $,default,a r d e,a d e r
+158,Navajo-20_burn-1,,Navajo,20_burn,diltƚi',d.i.l.tˡ.i.ʔ,d i l tˡ i ʔ,,Kessler2001,,False,^ d . i . l . tˡ . i . ʔ $,default,d i l t i 7,7 d i l t
+159,Turkish-20_burn-1,,Turkish,20_burn,yanıyor,j.a.n,j a n,,Kessler2001,,False,^ j . a . n $,default,y a n,a n y
+160,Albanian-21_child-1,,Albanian,21_child,fëmiljë,f.ə.m.i.ʎ,f ə m i ʎ,,Kessler2001,,True,^ f . ə . m . i . ʎ $,default,f 3 m i L,3 L f i m
+161,English-21_child-1,,English,21_child,child,ʧ.ai.l.d,tʃ ai l d,,Kessler2001,,False,^ ʧ . ai . l . d $,default,tS ai l d,ai d l tS
+162,French-21_child-1,,French,21_child,enfant,ɑ̃.f.ɑ̃.t,ɑ̃ f ɑ̃ t,,Kessler2001,,False,^ ɑ̃ . f . ɑ̃ . t $,default,o* f o* t,f o* t
+163,German-21_child-1,,German,21_child,Kind,k.i.n.d,k i n d,,Kessler2001,,False,^ k . i . n . d $,default,k i n d,d i k n
+164,Hawaiian-21_child-1,,Hawaiian,21_child,keiki,k.e.i.k.i,k e i k i,,Kessler2001,,False,^ k . e . i . k . i $,default,k e i k i,e i k
+165,Latin-21_child-1,,Latin,21_child,puer,p.u.e.r,p u e r,,Kessler2001,,False,^ p . u . e . r $,default,p u e r,e p r u
+166,Navajo-21_child-1,,Navajo,21_child,'ashkii,ʔ.ʃ.k.iː,ʔ ʃ k iː,,Kessler2001,,False,^ ʔ . ʃ . k . iː $,default,7 S k i,7 S i k
+167,Turkish-21_child-1,,Turkish,21_child,çocuk,ʧ.o.ʤ.u.k,tʃ o dʒ u k,,Kessler2001,,False,^ ʧ . o . ʤ . u . k $,default,tS o dZ u k,dZ k o tS u
+168,Albanian-22_claw-1,,Albanian,22_claw,thua,θ.o.n,θ o n,,Kessler2001,,False,^ θ . o . n $,default,8 o n,8 n o
+169,English-22_claw-1,,English,22_claw,claw,k.l.ɔ,k l ɔ,,Kessler2001,,False,^ k . l . ɔ $,default,k l o,k l o
+170,French-22_claw-1,,French,22_claw,griffe,g.r.i.f,g r i f,,Kessler2001,,True,^ g . r . i . f $,default,g r i f,f g i r
+171,German-22_claw-1,,German,22_claw,Klaue,k.l.au.ə,k l au ə,,Kessler2001,,False,^ k . l . au . ə $,default,k l au 3,3 au k l
+172,Hawaiian-22_claw-1,,Hawaiian,22_claw,miki`ao,m.i.k.i.ʔ.a.o,m i k i ʔ a o,,Kessler2001,,False,^ m . i . k . i . ʔ . a . o $,default,m i k i 7 a o,7 a i k m o
+173,Latin-22_claw-1,,Latin,22_claw,unguis,u.n.gw.i,u n gʷ i,,Kessler2001,,False,^ u . n . gw . i $,default,u n gw~ i,gw~ i n u
+174,Navajo-22_claw-1,,Navajo,22_claw,'akéshgaan,k.e.ʃ.g.aː,k e ʃ g aː,,Kessler2001,,False,^ k . e . ʃ . g . aː $,default,k e S g a,S a e g k
+175,Turkish-22_claw-1,,Turkish,22_claw,tırnak,t.ɯ.r.n.a.k,t ɯ r n a k,,Kessler2001,,False,^ t . ɯ . r . n . a . k $,default,t u r n a k,a k n r t u
+176,Albanian-23_cloud-1,,Albanian,23_cloud,re,r.e,r e,,Kessler2001,,False,^ r . e $,default,r e,e r
+177,English-23_cloud-1,,English,23_cloud,cloud,k.l.au.d,k l au d,,Kessler2001,,False,^ k . l . au . d $,default,k l au d,au d k l
+178,French-23_cloud-1,,French,23_cloud,nuage,n.ɥ.a.ʒ,n ɥ a ʒ,,Kessler2001,,False,^ n . ɥ . a . ʒ $,default,n y a Z,Z a n y
+179,German-23_cloud-1,,German,23_cloud,Wolke,v.o.l.k.ə,v o l k ə,,Kessler2001,,False,^ v . o . l . k . ə $,default,v o l k 3,3 k l o v
+180,Hawaiian-23_cloud-1,,Hawaiian,23_cloud,ao,a.o,a o,,Kessler2001,,False,^ a . o $,default,a o,a o
+181,Latin-23_cloud-1,,Latin,23_cloud,nubes,n.uː.b.eː,n uː b eː,,Kessler2001,,False,^ n . uː . b . eː $,default,n u b e,b e n u
+182,Navajo-23_cloud-1,,Navajo,23_cloud,k'os,kˀ.o.s,kˀ o s,,Kessler2001,,False,^ kˀ . o . s $,default,k o s,k o s
+183,Turkish-23_cloud-1,,Turkish,23_cloud,bulut,b.u.l.u.t,b u l u t,,Kessler2001,,False,^ b . u . l . u . t $,default,b u l u t,b l t u
+184,Albanian-24_cold-1,,Albanian,24_cold,ftohët,f.t.o.h.ə.t,f t o h ə t,,Kessler2001,,False,^ f . t . o . h . ə . t $,default,f t o h 3 t,3 f h o t
+185,English-24_cold-1,,English,24_cold,cold,k.o.l.d,k o l d,,Kessler2001,,False,^ k . o . l . d $,default,k o l d,d k l o
+186,French-24_cold-1,,French,24_cold,froid,f.r.w.a.d,f r w a d,,Kessler2001,,False,^ f . r . w . a . d $,default,f r w a d,a d f r w
+187,German-24_cold-1,,German,24_cold,kalt,k.a.l.t,k a l t,,Kessler2001,,False,^ k . a . l . t $,default,k a l t,a k l t
+188,Hawaiian-24_cold-1,,Hawaiian,24_cold,anu,a.n.u,a n u,,Kessler2001,,False,^ a . n . u $,default,a n u,a n u
+189,Latin-24_cold-1,,Latin,24_cold,frigidus,f.r.iː.g.i.d.o,f r iː g i d o,,Kessler2001,,False,^ f . r . iː . g . i . d . o $,default,f r i g i d o,d f g i o r
+190,Navajo-24_cold-1,,Navajo,24_cold,sik'az,s.i.kˀ.a.z,s i kˀ a z,,Kessler2001,,False,^ s . i . kˀ . a . z $,default,s i k a z,a i k s z
+191,Turkish-24_cold-1,,Turkish,24_cold,soğuk,s.o.ɣ.u.k,s o ɣ u k,,Kessler2001,,False,^ s . o . ɣ . u . k $,default,s o x u k,k o s u x
+192,Albanian-25_come-1,,Albanian,25_come,vjen,v.j.e.n,v j e n,,Kessler2001,,True,^ v . j . e . n $,default,v y e n,e n v y
+193,English-25_come-1,,English,25_come,comes,k.ə.m,k ə m,,Kessler2001,,False,^ k . ə . m $,default,k 3 m,3 k m
+194,French-25_come-1,,French,25_come,vient,v.j.ɛ̃,v j ɛ̃,,Kessler2001,,False,^ v . j . ɛ̃ $,default,v y E*,E* v y
+195,German-25_come-1,,German,25_come,kommt,k.o.m,k o m,,Kessler2001,,False,^ k . o . m $,default,k o m,k m o
+196,Hawaiian-25_come-1,,Hawaiian,25_come,hele mai,h.e.l.e,h e l e,,Kessler2001,,False,^ h . e . l . e $,default,h e l e,e h l
+197,Latin-25_come-1,,Latin,25_come,venit,w.e.n.iː,w e n iː,,Kessler2001,,False,^ w . e . n . iː $,default,w e n i,e i n w
+198,Navajo-25_come-1,,Navajo,25_come,yíghááh,j.i.ɣ.aː.h,j i ɣ aː h,,Kessler2001,,False,^ j . i . ɣ . aː . h $,default,y i x a h,a h i x y
+199,Turkish-25_come-1,,Turkish,25_come,geliyor,g.e.l,g e l,,Kessler2001,,False,^ g . e . l $,default,g e l,e g l
+200,Albanian-26_count-1,,Albanian,26_count,numëron,n.u.m.ə.r.u.a.r,n u m ə r u a r,,Kessler2001,,True,^ n . u . m . ə . r . u . a . r $,default,n u m 3 r u a r,3 a m n r u
+201,English-26_count-1,,English,26_count,counts,k.au.n.t,k au n t,,Kessler2001,,True,^ k . au . n . t $,default,k au n t,au k n t
+202,French-26_count-1,,French,26_count,compte,k.ɔ̃.t.e,k ɔ̃ t e,,Kessler2001,,False,^ k . ɔ̃ . t . e $,default,k o* t e,e k o* t
+203,German-26_count-1,,German,26_count,zählt,ʦ.eː.l,ts eː l,,Kessler2001,,False,^ ʦ . eː . l $,default,ts e l,e l ts
+204,Hawaiian-26_count-1,,Hawaiian,26_count,helu,h.e.l.u,h e l u,,Kessler2001,,False,^ h . e . l . u $,default,h e l u,e h l u
+205,Latin-26_count-1,,Latin,26_count,numerat,n.u.m.e.r.aː,n u m e r aː,,Kessler2001,,False,^ n . u . m . e . r . aː $,default,n u m e r a,a e m n r u
+206,Navajo-26_count-1,,Navajo,26_count,'ííníshta',iː.n.i.ɬ.t.a.ʔ,iː n i ɬ t a ʔ,,Kessler2001,,False,^ iː . n . i . ɬ . t . a . ʔ $,default,i n i L t a 7,7 L a i n t
+207,Turkish-26_count-1,,Turkish,26_count,sayıyor,s.a.j,s a j,,Kessler2001,,False,^ s . a . j $,default,s a y,a s y
+208,Albanian-27_cut-1,,Albanian,27_cut,pres,p.r.e.s,p r e s,,Kessler2001,,False,^ p . r . e . s $,default,p r e s,e p r s
+209,English-27_cut-1,,English,27_cut,cuts,k.ə.t,k ə t,,Kessler2001,,True,^ k . ə . t $,default,k 3 t,3 k t
+210,French-27_cut-1,,French,27_cut,coupe,k.u.p.e,k u p e,,Kessler2001,,True,^ k . u . p . e $,default,k u p e,e k p u
+211,German-27_cut-1,,German,27_cut,schneidet,ʃ.n.ai.d,ʃ n ai d,,Kessler2001,,False,^ ʃ . n . ai . d $,default,S n ai d,S ai d n
+212,Hawaiian-27_cut-1,,Hawaiian,27_cut,`oki,ʔ.o.k.i,ʔ o k i,,Kessler2001,,False,^ ʔ . o . k . i $,default,7 o k i,7 i k o
+213,Latin-27_cut-1,,Latin,27_cut,secat,s.e.k.aː,s e k aː,,Kessler2001,,False,^ s . e . k . aː $,default,s e k a,a e k s
+214,Navajo-27_cut-1,,Navajo,27_cut,'aháshgéésh,ʔ.a.h.ay.g.eː.ʃ,ʔ a h ay g eː ʃ,,Kessler2001,,False,^ ʔ . a . h . ay . g . eː . ʃ $,default,7 a h ai g e S,7 S a ai e g h
+215,Turkish-27_cut-1,,Turkish,27_cut,kesiyor,k.e.s,k e s,,Kessler2001,,False,^ k . e . s $,default,k e s,e k s
+216,Albanian-28_day-1,,Albanian,28_day,ditë,d.i.t,d i t,,Kessler2001,,False,^ d . i . t $,default,d i t,d i t
+217,English-28_day-1,,English,28_day,day,d.e,d e,,Kessler2001,,False,^ d . e $,default,d e,d e
+218,French-28_day-1,,French,28_day,jour,ʒ.u.r,ʒ u r,,Kessler2001,,False,^ ʒ . u . r $,default,Z u r,Z r u
+219,German-28_day-1,,German,28_day,Tag,t.aː.g,t aː g,,Kessler2001,,False,^ t . aː . g $,default,t a g,a g t
+220,Hawaiian-28_day-1,,Hawaiian,28_day,lā,l.aː,l aː,,Kessler2001,,False,^ l . aː $,default,l a,a l
+221,Latin-28_day-1,,Latin,28_day,dies,d.i.eː,d i eː,,Kessler2001,,False,^ d . i . eː $,default,d i e,d e i
+222,Navajo-28_day-1,,Navajo,28_day,jį́,ʤ.ĩ́,dʒ ĩ́/ĩ,,Kessler2001,,False,^ ʤ . ĩ́ $,default,dZ i* i*,dZ i*
+223,Turkish-28_day-1,,Turkish,28_day,gün,g.y.n,g y n,,Kessler2001,,False,^ g . y . n $,default,g i n,g i n
+224,Albanian-29_die-1,,Albanian,29_die,vdes,v.d.e.s,v d e s,,Kessler2001,,False,^ v . d . e . s $,default,v d e s,d e s v
+225,English-29_die-1,,English,29_die,dies,d.ai,d ai,,Kessler2001,,True,^ d . ai $,default,d ai,ai d
+226,French-29_die-1,,French,29_die,meurt,m.œ.r,m œ r,,Kessler2001,,False,^ m . œ . r $,default,m E r,E m r
+227,German-29_die-1,,German,29_die,stirbt,ʃ.t.e.r.b,ʃ t e r b,,Kessler2001,,False,^ ʃ . t . e . r . b $,default,S t e r b,S b e r t
+228,Hawaiian-29_die-1,,Hawaiian,29_die,make loa,m.a.k.e,m a k e,,Kessler2001,,False,^ m . a . k . e $,default,m a k e,a e k m
+229,Latin-29_die-1,,Latin,29_die,moritur,m.o.r.iː,m o r iː,,Kessler2001,,False,^ m . o . r . iː $,default,m o r i,i m o r
+230,Navajo-29_die-1,,Navajo,29_die,daaztsą́,d.aː.z.ʦ.ã́,d aː z ts ã́/ã,,Kessler2001,,False,^ d . aː . z . ʦ . ã́ $,default,d a z ts a* a*,a a* d ts z
+231,Turkish-29_die-1,,Turkish,29_die,ölüyor,ø.l,ø l,,Kessler2001,,False,^ ø . l $,default,e l,e l
+232,Albanian-30_dig-1,,Albanian,30_dig,gërmon,g.ə.r.m.o,g ə r m o,,Kessler2001,,False,^ g . ə . r . m . o $,default,g 3 r m o,3 g m o r
+233,English-30_dig-1,,English,30_dig,digs,d.ɪ.g,d ɪ g,,Kessler2001,,True,^ d . ɪ . g $,default,d i g,d g i
+234,French-30_dig-1,,French,30_dig,creuse,k.r.ø.z.e,k r ø z e,,Kessler2001,,True,^ k . r . ø . z . e $,default,k r e z e,e k r z
+235,German-30_dig-1,,German,30_dig,gräbt,g.r.aː.b,g r aː b,,Kessler2001,,False,^ g . r . aː . b $,default,g r a b,a b g r
+236,Hawaiian-30_dig-1,,Hawaiian,30_dig,`eli,ʔ.e.l.i,ʔ e l i,,Kessler2001,,False,^ ʔ . e . l . i $,default,7 e l i,7 e i l
+237,Latin-30_dig-1,,Latin,30_dig,fodit,f.o.d.e,f o d e,,Kessler2001,,False,^ f . o . d . e $,default,f o d e,d e f o
+238,Navajo-30_dig-1,,Navajo,30_dig,hahashgééd,h.a.h.a.g.eː.d,h a h a g eː d,,Kessler2001,,False,^ h . a . h . a . g . eː . d $,default,h a h a g e d,a d e g h
+239,Turkish-30_dig-1,,Turkish,30_dig,kazıyor,k.a.z,k a z,,Kessler2001,,False,^ k . a . z $,default,k a z,a k z
+240,Albanian-31_dirty-1,,Albanian,31_dirty,ndyrë,n.d.y.r,n d y r,,Kessler2001,,False,^ n . d . y . r $,default,n d i r,d i n r
+241,English-31_dirty-1,,English,31_dirty,dirty,d.ə.r.t.i,d ə r t i,,Kessler2001,,True,^ d . ə . r . t . i $,default,d 3 r t i,3 d i r t
+242,French-31_dirty-1,,French,31_dirty,sale,s.a.l,s a l,,Kessler2001,,True,^ s . a . l $,default,s a l,a l s
+243,German-31_dirty-1,,German,31_dirty,schmutzig,ʃ.m.u.ʦ.i.x,ʃ m u ts i x,,Kessler2001,,False,^ ʃ . m . u . ʦ . i . x $,default,S m u ts i x,S i m ts u x
+244,Hawaiian-31_dirty-1,,Hawaiian,31_dirty,lepo,l.e.p.o,l e p o,,Kessler2001,,False,^ l . e . p . o $,default,l e p o,e l o p
+245,Latin-31_dirty-1,,Latin,31_dirty,sordidus,s.o.r.d.i.d.o,s o r d i d o,,Kessler2001,,False,^ s . o . r . d . i . d . o $,default,s o r d i d o,d i o r s
+246,Navajo-31_dirty-1,,Navajo,31_dirty,baa'ih,b.aː.ʔ.i.h,b aː ʔ i h,,Kessler2001,,False,^ b . aː . ʔ . i . h $,default,b a 7 i h,7 a b h i
+247,Turkish-31_dirty-1,,Turkish,31_dirty,pis,p.i.s,p i s,,Kessler2001,,True,^ p . i . s $,default,p i s,i p s
+248,Albanian-32_dog-1,,Albanian,32_dog,qen,c.e.n,c e n,,Kessler2001,,True,^ c . e . n $,default,T e n,T e n
+249,English-32_dog-1,,English,32_dog,dog,d.ɑ.g,d ɑ g,,Kessler2001,,False,^ d . ɑ . g $,default,d o g,d g o
+250,French-32_dog-1,,French,32_dog,chien,ʃ.j.ɛ.n,ʃ j ɛ n,,Kessler2001,,False,^ ʃ . j . ɛ . n $,default,S y E n,E S n y
+251,German-32_dog-1,,German,32_dog,Hund,h.u.n.d,h u n d,,Kessler2001,,False,^ h . u . n . d $,default,h u n d,d h n u
+252,Hawaiian-32_dog-1,,Hawaiian,32_dog,`īlio,ʔ.iː.l.i.o,ʔ iː l i o,,Kessler2001,,False,^ ʔ . iː . l . i . o $,default,7 i l i o,7 i l o
+253,Latin-32_dog-1,,Latin,32_dog,canis,k.a.n.i,k a n i,,Kessler2001,,False,^ k . a . n . i $,default,k a n i,a i k n
+254,Navajo-32_dog-1,,Navajo,32_dog,ƚééchąą'í,ɬ.eː.ʧ.ãː.ʔ.i,ɬ eː tʃ ãː ʔ i,,Kessler2001,,False,^ ɬ . eː . ʧ . ãː . ʔ . i $,default,L e tS a* 7 i,7 L a* e i tS
+255,Turkish-32_dog-1,,Turkish,32_dog,köpek,k.ø.p.e.k,k ø p e k,,Kessler2001,,False,^ k . ø . p . e . k $,default,k e p e k,e k p
+256,Albanian-33_drink-1,,Albanian,33_drink,pi,p.i,p i,,Kessler2001,,False,^ p . i $,default,p i,i p
+257,English-33_drink-1,,English,33_drink,drinks,d.r.ɪ.ŋ.k,d r ɪ ŋ k,,Kessler2001,,False,^ d . r . ɪ . ŋ . k $,default,d r i N k,N d i k r
+258,French-33_drink-1,,French,33_drink,bois,b.w.a,b w a,,Kessler2001,,False,^ b . w . a $,default,b w a,a b w
+259,German-33_drink-1,,German,33_drink,trinkt,t.r.i.ŋ.k,t r i ŋ k,,Kessler2001,,False,^ t . r . i . ŋ . k $,default,t r i N k,N i k r t
+260,Hawaiian-33_drink-1,,Hawaiian,33_drink,inu,i.n.u,i n u,,Kessler2001,,False,^ i . n . u $,default,i n u,i n u
+261,Latin-33_drink-1,,Latin,33_drink,bibit,b.i.b.e,b i b e,,Kessler2001,,False,^ b . i . b . e $,default,b i b e,b e i
+262,Navajo-33_drink-1,,Navajo,33_drink,'adlą́,ʔ.a.dˡ.ã́,ʔ a dˡ ã́/ã,,Kessler2001,,False,^ ʔ . a . dˡ . ã́ $,default,7 a d a* a*,7 a a* d
+263,Turkish-33_drink-1,,Turkish,33_drink,içiyor,i.ʧ,i tʃ,,Kessler2001,,False,^ i . ʧ $,default,i tS,i tS
+264,Albanian-34_dry-1,,Albanian,34_dry,thatë,θ.a.t,θ a t,,Kessler2001,,False,^ θ . a . t $,default,8 a t,8 a t
+265,English-34_dry-1,,English,34_dry,dry,d.r.ai,d r ai,,Kessler2001,,False,^ d . r . ai $,default,d r ai,ai d r
+266,French-34_dry-1,,French,34_dry,sec,s.ɛ.ʃ,s ɛ ʃ,,Kessler2001,,False,^ s . ɛ . ʃ $,default,s E S,E S s
+267,German-34_dry-1,,German,34_dry,trocken,t.r.o.k.ə.n,t r o k ə n,,Kessler2001,,False,^ t . r . o . k . ə . n $,default,t r o k 3 n,3 k n o r t
+268,Hawaiian-34_dry-1,,Hawaiian,34_dry,malo`o,m.a.l.o.ʔ.o,m a l o ʔ o,,Kessler2001,,False,^ m . a . l . o . ʔ . o $,default,m a l o 7 o,7 a l m o
+269,Latin-34_dry-1,,Latin,34_dry,siccus,s.i.kː.o,s i kː o,,Kessler2001,,False,^ s . i . kː . o $,default,s i k o,i k o s
+270,Navajo-34_dry-1,,Navajo,34_dry,yíƚtseii,j.i.ɬ.ʦ.e.iː,j i ɬ ts e iː,,Kessler2001,,False,^ j . i . ɬ . ʦ . e . iː $,default,y i L ts e i,L e i ts y
+271,Turkish-34_dry-1,,Turkish,34_dry,kuru,k.u.r.u,k u r u,,Kessler2001,,False,^ k . u . r . u $,default,k u r u,k r u
+272,Albanian-35_dull-1,,Albanian,35_dull,pa mprehtë,m.p.r.e.h.t,m p r e h t,,Kessler2001,,False,^ m . p . r . e . h . t $,default,m p r e h t,e h m p r t
+273,English-35_dull-1,,English,35_dull,dull,d.ə.l,d ə l,,Kessler2001,,False,^ d . ə . l $,default,d 3 l,3 d l
+274,French-35_dull-1,,French,35_dull,émoussé,e.m.u.s.e,e m u s e,,Kessler2001,,False,^ e . m . u . s . e $,default,e m u s e,e m s u
+275,German-35_dull-1,,German,35_dull,stumpf,ʃ.t.u.m.p͡f,ʃ t u m pf,,Kessler2001,,False,^ ʃ . t . u . m . p͡f $,default,S t u m pf,S m pf t u
+276,Hawaiian-35_dull-1,,Hawaiian,35_dull,kūmūmū,k.uː.m.uː.m.uː,k uː m uː m uː,,Kessler2001,,False,^ k . uː . m . uː . m . uː $,default,k u m u m u,k m u
+277,Latin-35_dull-1,,Latin,35_dull,hebes,h.e.b.e.t,h e b e t,,Kessler2001,,False,^ h . e . b . e . t $,default,h e b e t,b e h t
+278,Navajo-35_dull-1,,Navajo,35_dull,doo deení da,d.eː.n.i,d eː n i,,Kessler2001,,False,^ d . eː . n . i $,default,d e n i,d e i n
+279,Turkish-35_dull-1,,Turkish,35_dull,kör,k.ø.r,k ø r,,Kessler2001,,True,^ k . ø . r $,default,k e r,e k r
+280,Albanian-36_dust-1,,Albanian,36_dust,pluhur,p.l.u.h.u.r,p l u h u r,,Kessler2001,,False,^ p . l . u . h . u . r $,default,p l u h u r,h l p r u
+281,English-36_dust-1,,English,36_dust,dust,d.ə.s.t,d ə s t,,Kessler2001,,False,^ d . ə . s . t $,default,d 3 s t,3 d s t
+282,French-36_dust-1,,French,36_dust,poussière,p.u.s.j.ɛ.r,p u s j ɛ r,,Kessler2001,,False,^ p . u . s . j . ɛ . r $,default,p u s y E r,E p r s u y
+283,German-36_dust-1,,German,36_dust,Staub,ʃ.t.au.b,ʃ t au b,,Kessler2001,,False,^ ʃ . t . au . b $,default,S t au b,S au b t
+284,Hawaiian-36_dust-1,,Hawaiian,36_dust,`ehu,ʔ.e.h.u,ʔ e h u,,Kessler2001,,False,^ ʔ . e . h . u $,default,7 e h u,7 e h u
+285,Latin-36_dust-1,,Latin,36_dust,pulvis,p.u.l.w.i.s,p u l w i s,,Kessler2001,,False,^ p . u . l . w . i . s $,default,p u l w i s,i l p s u w
+286,Navajo-36_dust-1,,Navajo,36_dust,ƚeezh,ɬ.eː.ʒ,ɬ eː ʒ,,Kessler2001,,False,^ ɬ . eː . ʒ $,default,L e Z,L Z e
+287,Turkish-36_dust-1,,Turkish,36_dust,toz,t.o.z,t o z,,Kessler2001,,False,^ t . o . z $,default,t o z,o t z
+288,Albanian-37_ear-1,,Albanian,37_ear,vesh,v.e.ʃ,v e ʃ,,Kessler2001,,False,^ v . e . ʃ $,default,v e S,S e v
+289,English-37_ear-1,,English,37_ear,ear,ɪ.r,ɪ r,,Kessler2001,,False,^ ɪ . r $,default,i r,i r
+290,French-37_ear-1,,French,37_ear,oreille,ɔ.r.ɛ.j,ɔ r ɛ j,,Kessler2001,,False,^ ɔ . r . ɛ . j $,default,o r E y,E o r y
+291,German-37_ear-1,,German,37_ear,Ohr,oː.r,oː r,,Kessler2001,,False,^ oː . r $,default,o r,o r
+292,Hawaiian-37_ear-1,,Hawaiian,37_ear,pepeiao,p.e.p.e.i.a.o,p e p e i a o,,Kessler2001,,False,^ p . e . p . e . i . a . o $,default,p e p e i a o,a e i o p
+293,Latin-37_ear-1,,Latin,37_ear,auris,au.r.i,au r i,,Kessler2001,,False,^ au . r . i $,default,au r i,au i r
+294,Navajo-37_ear-1,,Navajo,37_ear,'ajaa',ʤ.aː.ʔ,dʒ aː ʔ,,Kessler2001,,False,^ ʤ . aː . ʔ $,default,dZ a 7,7 a dZ
+295,Turkish-37_ear-1,,Turkish,37_ear,kulak,k.u.l.a.k,k u l a k,,Kessler2001,,False,^ k . u . l . a . k $,default,k u l a k,a k l u
+296,Albanian-38_earth-1,,Albanian,38_earth,dhe,ð.e.r,ð e r,,Kessler2001,,False,^ ð . e . r $,default,8 e r,8 e r
+297,English-38_earth-1,,English,38_earth,earth,ə.r.θ,ə r θ,,Kessler2001,,False,^ ə . r . θ $,default,3 r 8,3 8 r
+298,French-38_earth-1,,French,38_earth,terre,t.ɛ.r,t ɛ r,,Kessler2001,,False,^ t . ɛ . r $,default,t E r,E r t
+299,German-38_earth-1,,German,38_earth,Erde,eː.r.d.ə,eː r d ə,,Kessler2001,,False,^ eː . r . d . ə $,default,e r d 3,3 d e r
+300,Hawaiian-38_earth-1,,Hawaiian,38_earth,lepo,l.e.p.o,l e p o,,Kessler2001,,False,^ l . e . p . o $,default,l e p o,e l o p
+301,Latin-38_earth-1,,Latin,38_earth,terra,t.e.rː.a,t e rː a,,Kessler2001,,False,^ t . e . rː . a $,default,t e r a,a e r t
+302,Navajo-38_earth-1,,Navajo,38_earth,ƚeezh,ɬ.eː.ʒ,ɬ eː ʒ,,Kessler2001,,False,^ ɬ . eː . ʒ $,default,L e Z,L Z e
+303,Turkish-38_earth-1,,Turkish,38_earth,toprak,t.o.p.r.a.k,t o p r a k,,Kessler2001,,False,^ t . o . p . r . a . k $,default,t o p r a k,a k o p r t
+304,Albanian-39_eat-1,,Albanian,39_eat,ha,h.a,h a,,Kessler2001,,False,^ h . a $,default,h a,a h
+305,English-39_eat-1,,English,39_eat,eats,i.t,i t,,Kessler2001,,False,^ i . t $,default,i t,i t
+306,French-39_eat-1,,French,39_eat,mange,m.ɑ̃.ʒ.e,m ɑ̃ ʒ e,,Kessler2001,,False,^ m . ɑ̃ . ʒ . e $,default,m o* Z e,Z e m o*
+307,German-39_eat-1,,German,39_eat,ißt,e.s,e s,,Kessler2001,,False,^ e . s $,default,e s,e s
+308,Hawaiian-39_eat-1,,Hawaiian,39_eat,`ai,ʔ.a.i,ʔ a i,,Kessler2001,,False,^ ʔ . a . i $,default,7 a i,7 a i
+309,Latin-39_eat-1,,Latin,39_eat,edit,e.d.e,e d e,,Kessler2001,,False,^ e . d . e $,default,e d e,d e
+310,Navajo-39_eat-1,,Navajo,39_eat,'ayą́,ʔ.a.j.ã́,ʔ a j ã́/ã,,Kessler2001,,False,^ ʔ . a . j . ã́ $,default,7 a y a* a*,7 a a* y
+311,Turkish-39_eat-1,,Turkish,39_eat,yiyor,j.e,j e,,Kessler2001,,False,^ j . e $,default,y e,e y
+312,Albanian-40_egg-1,,Albanian,40_egg,vezë,v.e.z,v e z,,Kessler2001,,False,^ v . e . z $,default,v e z,e v z
+313,English-40_egg-1,,English,40_egg,egg,ɛ.g,ɛ g,,Kessler2001,,True,^ ɛ . g $,default,E g,E g
+314,French-40_egg-1,,French,40_egg,œuf,œ.f,œ f,,Kessler2001,,False,^ œ . f $,default,E f,E f
+315,German-40_egg-1,,German,40_egg,Ei,ai,ai,,Kessler2001,,False,^ ai $,default,ai,ai
+316,Hawaiian-40_egg-1,,Hawaiian,40_egg,hua,h.u.a,h u a,,Kessler2001,,False,^ h . u . a $,default,h u a,a h u
+317,Latin-40_egg-1,,Latin,40_egg,ovom,oː.w.o,oː w o,,Kessler2001,,False,^ oː . w . o $,default,o w o,o w
+318,Navajo-40_egg-1,,Navajo,40_egg,'ayęęzhii,j.ẽː.ʒ.iː,j ẽː ʒ iː,,Kessler2001,,False,^ j . ẽː . ʒ . iː $,default,y e* Z i,Z e* i y
+319,Turkish-40_egg-1,,Turkish,40_egg,yumurta,j.u.m.u.r.t.a,j u m u r t a,,Kessler2001,,False,^ j . u . m . u . r . t . a $,default,y u m u r t a,a m r t u y
+320,Albanian-41_eye-1,,Albanian,41_eye,sy,s.y.r,s y r,,Kessler2001,,False,^ s . y . r $,default,s i r,i r s
+321,English-41_eye-1,,English,41_eye,eye,ai,ai,,Kessler2001,,False,^ ai $,default,ai,ai
+322,French-41_eye-1,,French,41_eye,œil,œ.j,œ j,,Kessler2001,,False,^ œ . j $,default,E y,E y
+323,German-41_eye-1,,German,41_eye,Auge,au.g.ə,au g ə,,Kessler2001,,False,^ au . g . ə $,default,au g 3,3 au g
+324,Hawaiian-41_eye-1,,Hawaiian,41_eye,maka,m.a.k.a,m a k a,,Kessler2001,,False,^ m . a . k . a $,default,m a k a,a k m
+325,Latin-41_eye-1,,Latin,41_eye,oculus,o.k.u.l.o,o k u l o,,Kessler2001,,False,^ o . k . u . l . o $,default,o k u l o,k l o u
+326,Navajo-41_eye-1,,Navajo,41_eye,'anáá',n.aː.ʔ,n aː ʔ,,Kessler2001,,False,^ n . aː . ʔ $,default,n a 7,7 a n
+327,Turkish-41_eye-1,,Turkish,41_eye,göz,g.ø.z,g ø z,,Kessler2001,,False,^ g . ø . z $,default,g e z,e g z
+328,Albanian-42_fall-1,,Albanian,42_fall,bie,b.i.e,b i e,,Kessler2001,,False,^ b . i . e $,default,b i e,b e i
+329,English-42_fall-1,,English,42_fall,falls,f.ɔ.l,f ɔ l,,Kessler2001,,False,^ f . ɔ . l $,default,f o l,f l o
+330,French-42_fall-1,,French,42_fall,tombe,t.ɔ̃.b.e,t ɔ̃ b e,,Kessler2001,,True,^ t . ɔ̃ . b . e $,default,t o* b e,b e o* t
+331,German-42_fall-1,,German,42_fall,fällt,f.a.l,f a l,,Kessler2001,,False,^ f . a . l $,default,f a l,a f l
+332,Hawaiian-42_fall-1,,Hawaiian,42_fall,hina,h.i.n.a,h i n a,,Kessler2001,,False,^ h . i . n . a $,default,h i n a,a h i n
+333,Latin-42_fall-1,,Latin,42_fall,cadit,k.a.d.e,k a d e,,Kessler2001,,False,^ k . a . d . e $,default,k a d e,a d e k
+334,Navajo-42_fall-1,,Navajo,42_fall,naashtƚíísh,n.aː.tˡ.iː.ʃ,n aː tˡ iː ʃ,,Kessler2001,,False,^ n . aː . tˡ . iː . ʃ $,default,n a t i S,S a i n t
+335,Turkish-42_fall-1,,Turkish,42_fall,düşüyor,d.y.ʃ,d y ʃ,,Kessler2001,,False,^ d . y . ʃ $,default,d i S,S d i
+336,Albanian-43_far-1,,Albanian,43_far,larg,l.a.r.g,l a r g,,Kessler2001,,True,^ l . a . r . g $,default,l a r g,a g l r
+337,English-43_far-1,,English,43_far,far,f.ɑ.r,f ɑ r,,Kessler2001,,False,^ f . ɑ . r $,default,f o r,f o r
+338,French-43_far-1,,French,43_far,loin,l.w.ɛ̃,l w ɛ̃,,Kessler2001,,False,^ l . w . ɛ̃ $,default,l w E*,E* l w
+339,German-43_far-1,,German,43_far,fern,f.e.r.n,f e r n,,Kessler2001,,False,^ f . e . r . n $,default,f e r n,e f n r
+340,Hawaiian-43_far-1,,Hawaiian,43_far,mamao,m.a.m.a.o,m a m a o,,Kessler2001,,False,^ m . a . m . a . o $,default,m a m a o,a m o
+341,Latin-43_far-1,,Latin,43_far,procul,p.r.o.k.u.l,p r o k u l,,Kessler2001,,False,^ p . r . o . k . u . l $,default,p r o k u l,k l o p r u
+342,Navajo-43_far-1,,Navajo,43_far,nízahgóó,n.i.z.a.h,n i z a h,,Kessler2001,,False,^ n . i . z . a . h $,default,n i z a h,a h i n z
+343,Turkish-43_far-1,,Turkish,43_far,uzak,u.z.a.k,u z a k,,Kessler2001,,False,^ u . z . a . k $,default,u z a k,a k u z
+344,Albanian-44_father-1,,Albanian,44_father,babë,b.a.b.ə,b a b ə,,Kessler2001,,True,^ b . a . b . ə $,default,b a b 3,3 a b
+345,English-44_father-1,,English,44_father,father,f.ɑ.ð.ə.r,f ɑ ð ə r,,Kessler2001,,False,^ f . ɑ . ð . ə . r $,default,f o 8 3 r,3 8 f o r
+346,French-44_father-1,,French,44_father,père,p.ɛ.r,p ɛ r,,Kessler2001,,False,^ p . ɛ . r $,default,p E r,E p r
+347,German-44_father-1,,German,44_father,Vater,f.aː.t.ə.r,f aː t ə r,,Kessler2001,,False,^ f . aː . t . ə . r $,default,f a t 3 r,3 a f r t
+348,Hawaiian-44_father-1,,Hawaiian,44_father,makua kāne,m.a.k.u.a.k.aː.n.e,m a k u a k aː n e,,Kessler2001,,False,^ m . a . k . u . a . k . aː . n . e $,default,m a k u a k a n e,a e k m n u
+349,Latin-44_father-1,,Latin,44_father,pater,p.a.t.r,p a t r,,Kessler2001,,False,^ p . a . t . r $,default,p a t r,a p r t
+350,Navajo-44_father-1,,Navajo,44_father,'ataa',t.aː.ʔ,t aː ʔ,,Kessler2001,,False,^ t . aː . ʔ $,default,t a 7,7 a t
+351,Turkish-44_father-1,,Turkish,44_father,baba,b.a.b.a,b a b a,,Kessler2001,,False,^ b . a . b . a $,default,b a b a,a b
+352,Albanian-45_feather-1,,Albanian,45_feather,pendë,p.e.n.d,p e n d,,Kessler2001,,False,^ p . e . n . d $,default,p e n d,d e n p
+353,English-45_feather-1,,English,45_feather,feather,f.ɛ.ð.ə.r,f ɛ ð ə r,,Kessler2001,,False,^ f . ɛ . ð . ə . r $,default,f E 8 3 r,3 8 E f r
+354,French-45_feather-1,,French,45_feather,plume,p.l.y.m,p l y m,,Kessler2001,,False,^ p . l . y . m $,default,p l i m,i l m p
+355,German-45_feather-1,,German,45_feather,Feder,f.eː.d.ə.r,f eː d ə r,,Kessler2001,,False,^ f . eː . d . ə . r $,default,f e d 3 r,3 d e f r
+356,Hawaiian-45_feather-1,,Hawaiian,45_feather,hulu,h.u.l.u,h u l u,,Kessler2001,,False,^ h . u . l . u $,default,h u l u,h l u
+357,Latin-45_feather-1,,Latin,45_feather,penna,p.e.nː.a,p e nː a,,Kessler2001,,False,^ p . e . nː . a $,default,p e n a,a e n p
+358,Navajo-45_feather-1,,Navajo,45_feather,'at'a',tˀ.a.ʔ,tˀ a ʔ,,Kessler2001,,False,^ tˀ . a . ʔ $,default,t a 7,7 a t
+359,Turkish-45_feather-1,,Turkish,45_feather,tüy,t.y.j,t y j,,Kessler2001,,False,^ t . y . j $,default,t i y,i t y
+360,Albanian-46_few-1,,Albanian,46_few,pak,p.a.k,p a k,,Kessler2001,,True,^ p . a . k $,default,p a k,a k p
+361,English-46_few-1,,English,46_few,few,f.j.u,f j u,,Kessler2001,,False,^ f . j . u $,default,f y u,f u y
+362,French-46_few-1,,French,46_few,peu de,p.ø,p ø,,Kessler2001,,False,^ p . ø $,default,p e,e p
+363,German-46_few-1,,German,46_few,wenige,v.eː.n.i.g,v eː n i g,,Kessler2001,,False,^ v . eː . n . i . g $,default,v e n i g,e g i n v
+364,Hawaiian-46_few-1,,Hawaiian,46_few,kaka`ikahi,k.a.k.a.ʔ.i.k.a.h.i,k a k a ʔ i k a h i,,Kessler2001,,False,^ k . a . k . a . ʔ . i . k . a . h . i $,default,k a k a 7 i k a h i,7 a h i k
+365,Latin-46_few-1,,Latin,46_few,pauci,p.au.k.o,p au k o,,Kessler2001,,False,^ p . au . k . o $,default,p au k o,au k o p
+366,Navajo-46_few-1,,Navajo,46_few,t'áá díkwíí,d.i.k.w.iː,d i k w iː,,Kessler2001,,False,^ d . i . k . w . iː $,default,d i k w i,d i k w
+367,Turkish-46_few-1,,Turkish,46_few,az,a.z,a z,,Kessler2001,,False,^ a . z $,default,a z,a z
+368,Albanian-47_fight-1,,Albanian,47_fight,lufton,l.u.f.t.o,l u f t o,,Kessler2001,,True,^ l . u . f . t . o $,default,l u f t o,f l o t u
+369,English-47_fight-1,,English,47_fight,fights,f.ai.t,f ai t,,Kessler2001,,False,^ f . ai . t $,default,f ai t,ai f t
+370,French-47_fight-1,,French,47_fight,bat,b.a.t,b a t,,Kessler2001,,False,^ b . a . t $,default,b a t,a b t
+371,German-47_fight-1,,German,47_fight,kämpft,k.a.m.p͡f,k a m pf,,Kessler2001,,True,^ k . a . m . p͡f $,default,k a m pf,a k m pf
+372,Hawaiian-47_fight-1,,Hawaiian,47_fight,hakakā,h.a.k.a.k.aː,h a k a k aː,,Kessler2001,,False,^ h . a . k . a . k . aː $,default,h a k a k a,a h k
+373,Latin-47_fight-1,,Latin,47_fight,pugnat,p.u.g.n.aː,p u g n aː,,Kessler2001,,False,^ p . u . g . n . aː $,default,p u g n a,a g n p u
+374,Navajo-47_fight-1,,Navajo,47_fight,'ahishgą́,ʔ.a.h.i.g.ã́,ʔ a h i g ã́/ã,,Kessler2001,,False,^ ʔ . a . h . i . g . ã́ $,default,7 a h i g a* a*,7 a a* g h i
+375,Turkish-47_fight-1,,Turkish,47_fight,dövüşüyor,d.ø.v.y.ʃ,d ø v y ʃ,,Kessler2001,,False,^ d . ø . v . y . ʃ $,default,d e v i S,S d e i v
+376,Albanian-48_fire-1,,Albanian,48_fire,zjarr,z.j.a.rː,z j a rː,,Kessler2001,,False,^ z . j . a . rː $,default,z y a r,a r y z
+377,English-48_fire-1,,English,48_fire,fire,f.ai.ə.r,f ai ə r,,Kessler2001,,False,^ f . ai . ə . r $,default,f ai 3 r,3 ai f r
+378,French-48_fire-1,,French,48_fire,feu,f.ø,f ø,,Kessler2001,,False,^ f . ø $,default,f e,e f
+379,German-48_fire-1,,German,48_fire,Feuer,f.oi.ə.r,f oi ə r,,Kessler2001,,False,^ f . oi . ə . r $,default,f oi 3 r,3 f oi r
+380,Hawaiian-48_fire-1,,Hawaiian,48_fire,ahi,a.h.i,a h i,,Kessler2001,,False,^ a . h . i $,default,a h i,a h i
+381,Latin-48_fire-1,,Latin,48_fire,ignis,i.g.n.i,i g n i,,Kessler2001,,False,^ i . g . n . i $,default,i g n i,g i n
+382,Navajo-48_fire-1,,Navajo,48_fire,kǫ',k.õ.ʔ,k õ ʔ,,Kessler2001,,False,^ k . õ . ʔ $,default,k o* 7,7 k o*
+383,Turkish-48_fire-1,,Turkish,48_fire,ateş,a.t.e.ʃ,a t e ʃ,,Kessler2001,,True,^ a . t . e . ʃ $,default,a t e S,S a e t
+384,Albanian-49_fish-1,,Albanian,49_fish,peshk,p.e.ʃ.k,p e ʃ k,,Kessler2001,,True,^ p . e . ʃ . k $,default,p e S k,S e k p
+385,English-49_fish-1,,English,49_fish,fish,f.ɪ.ʃ,f ɪ ʃ,,Kessler2001,,False,^ f . ɪ . ʃ $,default,f i S,S f i
+386,French-49_fish-1,,French,49_fish,poisson,p.w.a.s.ɔ̃,p w a s ɔ̃,,Kessler2001,,False,^ p . w . a . s . ɔ̃ $,default,p w a s o*,a o* p s w
+387,German-49_fish-1,,German,49_fish,Fisch,f.i.ʃ,f i ʃ,,Kessler2001,,False,^ f . i . ʃ $,default,f i S,S f i
+388,Hawaiian-49_fish-1,,Hawaiian,49_fish,i`a,i.ʔ.a,i ʔ a,,Kessler2001,,False,^ i . ʔ . a $,default,i 7 a,7 a i
+389,Latin-49_fish-1,,Latin,49_fish,piscis,p.i.s.k.i,p i s k i,,Kessler2001,,False,^ p . i . s . k . i $,default,p i s k i,i k p s
+390,Navajo-49_fish-1,,Navajo,49_fish,ƚóó',ɬ.oː.ʔ,ɬ oː ʔ,,Kessler2001,,False,^ ɬ . oː . ʔ $,default,L o 7,7 L o
+391,Turkish-49_fish-1,,Turkish,49_fish,balık,b.a.l.ɯ.k,b a l ɯ k,,Kessler2001,,False,^ b . a . l . ɯ . k $,default,b a l u k,a b k l u
+392,Albanian-50_five-1,,Albanian,50_five,pesë,p.e.s.ə,p e s ə,,Kessler2001,,False,^ p . e . s . ə $,default,p e s 3,3 e p s
+393,English-50_five-1,,English,50_five,five,f.ai.v,f ai v,,Kessler2001,,False,^ f . ai . v $,default,f ai v,ai f v
+394,French-50_five-1,,French,50_five,cinq,s.ɛ̃.k,s ɛ̃ k,,Kessler2001,,False,^ s . ɛ̃ . k $,default,s E* k,E* k s
+395,German-50_five-1,,German,50_five,fünf,f.y.n.f,f y n f,,Kessler2001,,False,^ f . y . n . f $,default,f i n f,f i n
+396,Hawaiian-50_five-1,,Hawaiian,50_five,lima,l.i.m.a,l i m a,,Kessler2001,,False,^ l . i . m . a $,default,l i m a,a i l m
+397,Latin-50_five-1,,Latin,50_five,quinque,kw.iː.n.kw.e,kʷ iː n kʷ e,,Kessler2001,,False,^ kw . iː . n . kw . e $,default,kw~ i n kw~ e,e i kw~ n
+398,Navajo-50_five-1,,Navajo,50_five,'ashdla',ʔ.a.ʃ.dˡ.a.ʔ,ʔ a ʃ dˡ a ʔ,,Kessler2001,,False,^ ʔ . a . ʃ . dˡ . a . ʔ $,default,7 a S d a 7,7 S a d
+399,Turkish-50_five-1,,Turkish,50_five,beş,b.e.ʃ,b e ʃ,,Kessler2001,,False,^ b . e . ʃ $,default,b e S,S b e
+400,Albanian-51_flow-1,,Albanian,51_flow,rrjedh,rː.e.ð,rː e ð,,Kessler2001,,False,^ rː . e . ð $,default,r e 8,8 e r
+401,English-51_flow-1,,English,51_flow,flows,f.l.o,f l o,,Kessler2001,,False,^ f . l . o $,default,f l o,f l o
+402,French-51_flow-1,,French,51_flow,coule,k.u.l.e,k u l e,,Kessler2001,,False,^ k . u . l . e $,default,k u l e,e k l u
+403,German-51_flow-1,,German,51_flow,fließt,f.l.iː.s,f l iː s,,Kessler2001,,False,^ f . l . iː . s $,default,f l i s,f i l s
+404,Hawaiian-51_flow-1,,Hawaiian,51_flow,kahe,k.a.h.e,k a h e,,Kessler2001,,False,^ k . a . h . e $,default,k a h e,a e h k
+405,Latin-51_flow-1,,Latin,51_flow,fluit,f.l.u.e,f l u e,,Kessler2001,,False,^ f . l . u . e $,default,f l u e,e f l u
+406,Navajo-51_flow-1,,Navajo,51_flow,yígeeh,j.i.g.eː.h,j i g eː h,,Kessler2001,,False,^ j . i . g . eː . h $,default,y i g e h,e g h i y
+407,Turkish-51_flow-1,,Turkish,51_flow,akıyor,a.k,a k,,Kessler2001,,False,^ a . k $,default,a k,a k
+408,Albanian-52_flower-1,,Albanian,52_flower,lule,l.u.l,l u l,,Kessler2001,,True,^ l . u . l $,default,l u l,l u
+409,English-52_flower-1,,English,52_flower,flower,f.l.au.ə.r,f l au ə r,,Kessler2001,,True,^ f . l . au . ə . r $,default,f l au 3 r,3 au f l r
+410,French-52_flower-1,,French,52_flower,fleur,f.l.œ.r,f l œ r,,Kessler2001,,False,^ f . l . œ . r $,default,f l E r,E f l r
+411,German-52_flower-1,,German,52_flower,Blume,b.l.uː.m,b l uː m,,Kessler2001,,False,^ b . l . uː . m $,default,b l u m,b l m u
+412,Hawaiian-52_flower-1,,Hawaiian,52_flower,pua,p.u.a,p u a,,Kessler2001,,False,^ p . u . a $,default,p u a,a p u
+413,Latin-52_flower-1,,Latin,52_flower,flos,f.l.oː.s,f l oː s,,Kessler2001,,False,^ f . l . oː . s $,default,f l o s,f l o s
+414,Navajo-52_flower-1,,Navajo,52_flower,ch'ilátah hózhóón,ʧˀ.i.l.ay.t.a.h,tʃˀ i l ay t a h,,Kessler2001,,False,^ ʧˀ . i . l . ay . t . a . h $,default,tS i l ai t a h,a ai h i l t tS
+415,Turkish-52_flower-1,,Turkish,52_flower,çiçek,ʧ.i.ʧ.e.k,tʃ i tʃ e k,,Kessler2001,,False,^ ʧ . i . ʧ . e . k $,default,tS i tS e k,e i k tS
+416,Albanian-53_fly-1,,Albanian,53_fly,fluturon,f.l.u.t.u.r.o,f l u t u r o,,Kessler2001,,False,^ f . l . u . t . u . r . o $,default,f l u t u r o,f l o r t u
+417,English-53_fly-1,,English,53_fly,flies,f.l.ai,f l ai,,Kessler2001,,False,^ f . l . ai $,default,f l ai,ai f l
+418,French-53_fly-1,,French,53_fly,vole,v.ɔ.l.e,v ɔ l e,,Kessler2001,,False,^ v . ɔ . l . e $,default,v o l e,e l o v
+419,German-53_fly-1,,German,53_fly,fliegt,f.l.iː.g,f l iː g,,Kessler2001,,False,^ f . l . iː . g $,default,f l i g,f g i l
+420,Hawaiian-53_fly-1,,Hawaiian,53_fly,lele,l.e.l.e,l e l e,,Kessler2001,,False,^ l . e . l . e $,default,l e l e,e l
+421,Latin-53_fly-1,,Latin,53_fly,volat,w.o.l.aː,w o l aː,,Kessler2001,,False,^ w . o . l . aː $,default,w o l a,a l o w
+422,Navajo-53_fly-1,,Navajo,53_fly,yit'ah,j.i.tˀ.a.h,j i tˀ a h,,Kessler2001,,False,^ j . i . tˀ . a . h $,default,y i t a h,a h i t y
+423,Turkish-53_fly-1,,Turkish,53_fly,uçuyor,u.ʧ,u tʃ,,Kessler2001,,False,^ u . ʧ $,default,u tS,tS u
+424,Albanian-54_fog-1,,Albanian,54_fog,mjegull,m.j.e.g.u.ł,m j e g u ł,,Kessler2001,,False,^ m . j . e . g . u . ł $,default,m y e g u l,e g l m u y
+425,English-54_fog-1,,English,54_fog,fog,f.ɑ.g,f ɑ g,,Kessler2001,,True,^ f . ɑ . g $,default,f o g,f g o
+426,French-54_fog-1,,French,54_fog,brouillard,b.r.u.j.a.r,b r u j a r,,Kessler2001,,True,^ b . r . u . j . a . r $,default,b r u y a r,a b r u y
+427,German-54_fog-1,,German,54_fog,Nebel,n.eː.b.ə.l,n eː b ə l,,Kessler2001,,False,^ n . eː . b . ə . l $,default,n e b 3 l,3 b e l n
+428,Hawaiian-54_fog-1,,Hawaiian,54_fog,`ohu,ʔ.o.h.u,ʔ o h u,,Kessler2001,,False,^ ʔ . o . h . u $,default,7 o h u,7 h o u
+429,Latin-54_fog-1,,Latin,54_fog,nebula,n.e.b.u.l.a,n e b u l a,,Kessler2001,,False,^ n . e . b . u . l . a $,default,n e b u l a,a b e l n u
+430,Navajo-54_fog-1,,Navajo,54_fog,'áhí,ay.h.i,ay h i,,Kessler2001,,False,^ ay . h . i $,default,ai h i,ai h i
+431,Turkish-54_fog-1,,Turkish,54_fog,sis,s.i.s,s i s,,Kessler2001,,False,^ s . i . s $,default,s i s,i s
+432,Albanian-55_foot-1,,Albanian,55_foot,këmbë,k.ə.m.b,k ə m b,,Kessler2001,,True,^ k . ə . m . b $,default,k 3 m b,3 b k m
+433,English-55_foot-1,,English,55_foot,foot,f.ʊ.t,f ʊ t,,Kessler2001,,False,^ f . ʊ . t $,default,f u t,f t u
+434,French-55_foot-1,,French,55_foot,pied,p.j.e,p j e,,Kessler2001,,False,^ p . j . e $,default,p y e,e p y
+435,German-55_foot-1,,German,55_foot,Fuß,f.uː.s,f uː s,,Kessler2001,,False,^ f . uː . s $,default,f u s,f s u
+436,Hawaiian-55_foot-1,,Hawaiian,55_foot,wāwae,w.aː.w.a.e,w aː w a e,,Kessler2001,,False,^ w . aː . w . a . e $,default,w a w a e,a e w
+437,Latin-55_foot-1,,Latin,55_foot,pes,p.e.d,p e d,,Kessler2001,,False,^ p . e . d $,default,p e d,d e p
+438,Navajo-55_foot-1,,Navajo,55_foot,'akee',k.eː.ʔ,k eː ʔ,,Kessler2001,,False,^ k . eː . ʔ $,default,k e 7,7 e k
+439,Turkish-55_foot-1,,Turkish,55_foot,ayak,a.j.a.k,a j a k,,Kessler2001,,False,^ a . j . a . k $,default,a y a k,a k y
+440,Albanian-56_four-1,,Albanian,56_four,katër,k.a.t.ə.r,k a t ə r,,Kessler2001,,False,^ k . a . t . ə . r $,default,k a t 3 r,3 a k r t
+441,English-56_four-1,,English,56_four,four,f.ɔ.r,f ɔ r,,Kessler2001,,False,^ f . ɔ . r $,default,f o r,f o r
+442,French-56_four-1,,French,56_four,quatre,k.a.t.r,k a t r,,Kessler2001,,False,^ k . a . t . r $,default,k a t r,a k r t
+443,German-56_four-1,,German,56_four,vier,f.iː.r,f iː r,,Kessler2001,,False,^ f . iː . r $,default,f i r,f i r
+444,Hawaiian-56_four-1,,Hawaiian,56_four,hā,h.aː,h aː,,Kessler2001,,False,^ h . aː $,default,h a,a h
+445,Latin-56_four-1,,Latin,56_four,quattuor,kw.a.tː.u.o.r,kʷ a tː u o r,,Kessler2001,,False,^ kw . a . tː . u . o . r $,default,kw~ a t u o r,a kw~ o r t u
+446,Navajo-56_four-1,,Navajo,56_four,dį́į́',d.ĩː.ʔ,d ĩː ʔ,,Kessler2001,,False,^ d . ĩː . ʔ $,default,d i* 7,7 d i*
+447,Turkish-56_four-1,,Turkish,56_four,dört,d.ø.r.t,d ø r t,,Kessler2001,,False,^ d . ø . r . t $,default,d e r t,d e r t
+448,Albanian-57_freeze-1,,Albanian,57_freeze,ngrin,n.g.r.i,n g r i,,Kessler2001,,False,^ n . g . r . i $,default,n g r i,g i n r
+449,English-57_freeze-1,,English,57_freeze,freezes,f.r.i.z,f r i z,,Kessler2001,,False,^ f . r . i . z $,default,f r i z,f i r z
+450,French-57_freeze-1,,French,57_freeze,gèle,ʒ.ɛ.l.e,ʒ ɛ l e,,Kessler2001,,False,^ ʒ . ɛ . l . e $,default,Z E l e,E Z e l
+451,German-57_freeze-1,,German,57_freeze,friert,f.r.iː.r,f r iː r,,Kessler2001,,False,^ f . r . iː . r $,default,f r i r,f i r
+452,Hawaiian-57_freeze-1,,Hawaiian,57_freeze,ho`opa`a i ka hau,h.o.ʔ.o.p.a.ʔ.a,h o ʔ o p a ʔ a,,Kessler2001,,False,^ h . o . ʔ . o . p . a . ʔ . a $,default,h o 7 o p a 7 a,7 a h o p
+453,Latin-57_freeze-1,,Latin,57_freeze,gelat,g.e.l.aː,g e l aː,,Kessler2001,,False,^ g . e . l . aː $,default,g e l a,a e g l
+454,Navajo-57_freeze-1,,Navajo,57_freeze,yishtin,j.i.ʃ.t.i.n,j i ʃ t i n,,Kessler2001,,False,^ j . i . ʃ . t . i . n $,default,y i S t i n,S i n t y
+455,Turkish-57_freeze-1,,Turkish,57_freeze,donuyor,d.o.n,d o n,,Kessler2001,,False,^ d . o . n $,default,d o n,d n o
+456,Albanian-58_fruit-1,,Albanian,58_fruit,pemë,p.e.m,p e m,,Kessler2001,,True,^ p . e . m $,default,p e m,e m p
+457,English-58_fruit-1,,English,58_fruit,fruit,f.r.u.t,f r u t,,Kessler2001,,True,^ f . r . u . t $,default,f r u t,f r t u
+458,French-58_fruit-1,,French,58_fruit,fruit,f.r.ɥ.i,f r ɥ i,,Kessler2001,,False,^ f . r . ɥ . i $,default,f r y i,f i r y
+459,German-58_fruit-1,,German,58_fruit,Frucht,f.r.u.x.t,f r u x t,,Kessler2001,,True,^ f . r . u . x . t $,default,f r u x t,f r t u x
+460,Hawaiian-58_fruit-1,,Hawaiian,58_fruit,hua,h.u.a,h u a,,Kessler2001,,False,^ h . u . a $,default,h u a,a h u
+461,Latin-58_fruit-1,,Latin,58_fruit,pomum,p.oː.m.o,p oː m o,,Kessler2001,,False,^ p . oː . m . o $,default,p o m o,m o p
+462,Navajo-58_fruit-1,,Navajo,58_fruit,bineest'ą',b.i.n.eː.s.tˀ.ã.ʔ,b i n eː s tˀ ã ʔ,,Kessler2001,,False,^ b . i . n . eː . s . tˀ . ã . ʔ $,default,b i n e s t a* 7,7 a* b e i n s t
+463,Turkish-58_fruit-1,,Turkish,58_fruit,meyva,m.e.j.v.a,m e j v a,,Kessler2001,,True,^ m . e . j . v . a $,default,m e y v a,a e m v y
+464,Albanian-59_full-1,,Albanian,59_full,plotë,p.l.o.t,p l o t,,Kessler2001,,False,^ p . l . o . t $,default,p l o t,l o p t
+465,English-59_full-1,,English,59_full,full,f.ʊ.l,f ʊ l,,Kessler2001,,False,^ f . ʊ . l $,default,f u l,f l u
+466,French-59_full-1,,French,59_full,plein,p.l.ɛ.n,p l ɛ n,,Kessler2001,,False,^ p . l . ɛ . n $,default,p l E n,E l n p
+467,German-59_full-1,,German,59_full,voll,f.o.l,f o l,,Kessler2001,,False,^ f . o . l $,default,f o l,f l o
+468,Hawaiian-59_full-1,,Hawaiian,59_full,piha,p.i.h.a,p i h a,,Kessler2001,,False,^ p . i . h . a $,default,p i h a,a h i p
+469,Latin-59_full-1,,Latin,59_full,plenus,p.l.eː.n.o,p l eː n o,,Kessler2001,,False,^ p . l . eː . n . o $,default,p l e n o,e l n o p
+470,Navajo-59_full-1,,Navajo,59_full,hadeezbin,h.a.d.i.b.i.n,h a d i b i n,,Kessler2001,,False,^ h . a . d . i . b . i . n $,default,h a d i b i n,a b d h i n
+471,Turkish-59_full-1,,Turkish,59_full,dolu,d.o.l.u,d o l u,,Kessler2001,,False,^ d . o . l . u $,default,d o l u,d l o u
+472,Albanian-60_give-1,,Albanian,60_give,jep,j.e.p,j e p,,Kessler2001,,False,^ j . e . p $,default,y e p,e p y
+473,English-60_give-1,,English,60_give,gives,g.ɪ.v,g ɪ v,,Kessler2001,,True,^ g . ɪ . v $,default,g i v,g i v
+474,French-60_give-1,,French,60_give,donne,d.ɔ.n.e,d ɔ n e,,Kessler2001,,False,^ d . ɔ . n . e $,default,d o n e,d e n o
+475,German-60_give-1,,German,60_give,gibt,g.eː.b,g eː b,,Kessler2001,,False,^ g . eː . b $,default,g e b,b e g
+476,Hawaiian-60_give-1,,Hawaiian,60_give,hā`awi,h.aː.ʔ.a.w.i,h aː ʔ a w i,,Kessler2001,,False,^ h . aː . ʔ . a . w . i $,default,h a 7 a w i,7 a h i w
+477,Latin-60_give-1,,Latin,60_give,dat,d.a,d a,,Kessler2001,,False,^ d . a $,default,d a,a d
+478,Navajo-60_give-1,,Navajo,60_give,nish'aah,n.i.ʔ.aː.h,n i ʔ aː h,,Kessler2001,,False,^ n . i . ʔ . aː . h $,default,n i 7 a h,7 a h i n
+479,Turkish-60_give-1,,Turkish,60_give,veriyor,v.e.r,v e r,,Kessler2001,,False,^ v . e . r $,default,v e r,e r v
+480,Albanian-61_go-1,,Albanian,61_go,shkon,ʃ.k.o,ʃ k o,,Kessler2001,,False,^ ʃ . k . o $,default,S k o,S k o
+481,English-61_go-1,,English,61_go,goes,g.o,g o,,Kessler2001,,False,^ g . o $,default,g o,g o
+482,French-61_go-1,,French,61_go,va,v,v,,Kessler2001,,False,^ v $,default,v,v
+483,German-61_go-1,,German,61_go,geht,g.eː,g eː,,Kessler2001,,False,^ g . eː $,default,g e,e g
+484,Hawaiian-61_go-1,,Hawaiian,61_go,hele,h.e.l.e,h e l e,,Kessler2001,,False,^ h . e . l . e $,default,h e l e,e h l
+485,Latin-61_go-1,,Latin,61_go,it,iː,iː,,Kessler2001,,False,^ iː $,default,i,i
+486,Navajo-61_go-1,,Navajo,61_go,yíghááh,j.i.ɣ.aː.h,j i ɣ aː h,,Kessler2001,,False,^ j . i . ɣ . aː . h $,default,y i x a h,a h i x y
+487,Turkish-61_go-1,,Turkish,61_go,yürüyor,j.y.r.y,j y r y,,Kessler2001,,False,^ j . y . r . y $,default,y i r i,i r y
+488,Albanian-62_good-1,,Albanian,62_good,mirë,m.i.r,m i r,,Kessler2001,,True,^ m . i . r $,default,m i r,i m r
+489,English-62_good-1,,English,62_good,good,g.ʊ.d,g ʊ d,,Kessler2001,,False,^ g . ʊ . d $,default,g u d,d g u
+490,French-62_good-1,,French,62_good,bon,b.ɔ.n,b ɔ n,,Kessler2001,,False,^ b . ɔ . n $,default,b o n,b n o
+491,German-62_good-1,,German,62_good,gut,g.uː.t,g uː t,,Kessler2001,,False,^ g . uː . t $,default,g u t,g t u
+492,Hawaiian-62_good-1,,Hawaiian,62_good,maika`i,m.a.i.k.a.ʔ.i,m a i k a ʔ i,,Kessler2001,,False,^ m . a . i . k . a . ʔ . i $,default,m a i k a 7 i,7 a i k m
+493,Latin-62_good-1,,Latin,62_good,bonus,b.o.n.o,b o n o,,Kessler2001,,False,^ b . o . n . o $,default,b o n o,b n o
+494,Navajo-62_good-1,,Navajo,62_good,yá'átˀééh,j.ay.ʔ.ay.tˀ.eː.h,j ay ʔ ay tˀ eː h,,Kessler2001,,False,^ j . ay . ʔ . ay . tˀ . eː . h $,default,y ai 7 ai t e h,7 ai e h t y
+495,Turkish-62_good-1,,Turkish,62_good,iyi,i.j.i,i j i,,Kessler2001,,False,^ i . j . i $,default,i y i,i y
+496,Albanian-63_grass-1,,Albanian,63_grass,bar,b.a.r,b a r,,Kessler2001,,False,^ b . a . r $,default,b a r,a b r
+497,English-63_grass-1,,English,63_grass,grass,g.r.a.s,g r a s,,Kessler2001,,False,^ g . r . a . s $,default,g r a s,a g r s
+498,French-63_grass-1,,French,63_grass,herbe,ɛ.r.b,ɛ r b,,Kessler2001,,False,^ ɛ . r . b $,default,E r b,E b r
+499,German-63_grass-1,,German,63_grass,Gras,g.r.aː.z,g r aː z,,Kessler2001,,False,^ g . r . aː . z $,default,g r a z,a g r z
+500,Hawaiian-63_grass-1,,Hawaiian,63_grass,mau`u,m.a.u.ʔ.u,m a u ʔ u,,Kessler2001,,False,^ m . a . u . ʔ . u $,default,m a u 7 u,7 a m u
+501,Latin-63_grass-1,,Latin,63_grass,gramen,g.r.aː.m.e.n,g r aː m e n,,Kessler2001,,False,^ g . r . aː . m . e . n $,default,g r a m e n,a e g m n r
+502,Navajo-63_grass-1,,Navajo,63_grass,tƚ'oh,tˡˀ.o.h,tˡˀ o h,,Kessler2001,,False,^ tˡˀ . o . h $,default,t o h,h o t
+503,Turkish-63_grass-1,,Turkish,63_grass,ot,o.t,o t,,Kessler2001,,False,^ o . t $,default,o t,o t
+504,Albanian-64_grease-1,,Albanian,64_grease,dhjamë,ð.j.a.m,ð j a m,,Kessler2001,,True,^ ð . j . a . m $,default,8 y a m,8 a m y
+505,English-64_grease-1,,English,64_grease,grease,g.r.i.s,g r i s,,Kessler2001,,True,^ g . r . i . s $,default,g r i s,g i r s
+506,French-64_grease-1,,French,64_grease,graisse,g.r.ɛ.s,g r ɛ s,,Kessler2001,,False,^ g . r . ɛ . s $,default,g r E s,E g r s
+507,German-64_grease-1,,German,64_grease,Fett,f.e.t,f e t,,Kessler2001,,True,^ f . e . t $,default,f e t,e f t
+508,Hawaiian-64_grease-1,,Hawaiian,64_grease,`aila,ʔ.a.i.l.a,ʔ a i l a,,Kessler2001,,True,^ ʔ . a . i . l . a $,default,7 a i l a,7 a i l
+509,Latin-64_grease-1,,Latin,64_grease,adeps,a.d.e.p,a d e p,,Kessler2001,,False,^ a . d . e . p $,default,a d e p,a d e p
+510,Navajo-64_grease-1,,Navajo,64_grease,'ak'ah,kˀ.a.h,kˀ a h,,Kessler2001,,False,^ kˀ . a . h $,default,k a h,a h k
+511,Turkish-64_grease-1,,Turkish,64_grease,yağ,j.a.ɣ,j a ɣ,,Kessler2001,,False,^ j . a . ɣ $,default,y a x,a x y
+512,Albanian-65_green-1,,Albanian,65_green,gjelbër,ɟ.e.l.b.ə.r,ɟ e l b ə r,,Kessler2001,,True,^ ɟ . e . l . b . ə . r $,default,T e l b 3 r,3 T b e l r
+513,English-65_green-1,,English,65_green,green,g.r.i.n,g r i n,,Kessler2001,,False,^ g . r . i . n $,default,g r i n,g i n r
+514,French-65_green-1,,French,65_green,vert,v.ɛ.r.t,v ɛ r t,,Kessler2001,,False,^ v . ɛ . r . t $,default,v E r t,E r t v
+515,German-65_green-1,,German,65_green,grün,g.r.yː.n,g r yː n,,Kessler2001,,False,^ g . r . yː . n $,default,g r i n,g i n r
+516,Hawaiian-65_green-1,,Hawaiian,65_green,`ōma`oma`o,ʔ.oː.m.a.ʔ.o.m.a.ʔ.o,ʔ oː m a ʔ o m a ʔ o,,Kessler2001,,False,^ ʔ . oː . m . a . ʔ . o . m . a . ʔ . o $,default,7 o m a 7 o m a 7 o,7 a m o
+517,Latin-65_green-1,,Latin,65_green,viridis,w.i.r.i.d.i,w i r i d i,,Kessler2001,,False,^ w . i . r . i . d . i $,default,w i r i d i,d i r w
+518,Navajo-65_green-1,,Navajo,65_green,dootƚ'izh,d.oː.tˡˀ.i.ʒ,d oː tˡˀ i ʒ,,Kessler2001,,False,^ d . oː . tˡˀ . i . ʒ $,default,d o t i Z,Z d i o t
+519,Turkish-65_green-1,,Turkish,65_green,yeşil,j.e.ʃ.i.l,j e ʃ i l,,Kessler2001,,False,^ j . e . ʃ . i . l $,default,y e S i l,S e i l y
+520,Albanian-66_guts-1,,Albanian,66_guts,zorrë,z.o.rː,z o rː,,Kessler2001,,False,^ z . o . rː $,default,z o r,o r z
+521,English-66_guts-1,,English,66_guts,guts,g.ə.t,g ə t,,Kessler2001,,False,^ g . ə . t $,default,g 3 t,3 g t
+522,French-66_guts-1,,French,66_guts,intestins,ɛ̃.t.ɛ.s.t.ɛ̃,ɛ̃ t ɛ s t ɛ̃,,Kessler2001,,True,^ ɛ̃ . t . ɛ . s . t . ɛ̃ $,default,E* t E s t E*,E E* s t
+523,German-66_guts-1,,German,66_guts,Därme,d.a.r.m,d a r m,,Kessler2001,,False,^ d . a . r . m $,default,d a r m,a d m r
+524,Hawaiian-66_guts-1,,Hawaiian,66_guts,na`au,n.a.ʔ.a.u,n a ʔ a u,,Kessler2001,,False,^ n . a . ʔ . a . u $,default,n a 7 a u,7 a n u
+525,Latin-66_guts-1,,Latin,66_guts,intestina,i.n.t.e.s.t.iː.n.o,i n t e s t iː n o,,Kessler2001,,False,^ i . n . t . e . s . t . iː . n . o $,default,i n t e s t i n o,e i n o s t
+526,Navajo-66_guts-1,,Navajo,66_guts,'ach'íí',ʧˀ.iː.ʔ,tʃˀ iː ʔ,,Kessler2001,,False,^ ʧˀ . iː . ʔ $,default,tS i 7,7 i tS
+527,Turkish-66_guts-1,,Turkish,66_guts,barsaklar,b.a.r.s.a.k,b a r s a k,,Kessler2001,,False,^ b . a . r . s . a . k $,default,b a r s a k,a b k r s
+528,Albanian-67_hair-1,,Albanian,67_hair,flok,f.l.o.k,f l o k,,Kessler2001,,True,^ f . l . o . k $,default,f l o k,f k l o
+529,English-67_hair-1,,English,67_hair,hair,h.ɛ.r,h ɛ r,,Kessler2001,,True,^ h . ɛ . r $,default,h E r,E h r
+530,French-67_hair-1,,French,67_hair,cheveux,ʃ.ə.v.ø,ʃ ə v ø,,Kessler2001,,False,^ ʃ . ə . v . ø $,default,S 3 v e,3 S e v
+531,German-67_hair-1,,German,67_hair,Haare,h.aː.r,h aː r,,Kessler2001,,False,^ h . aː . r $,default,h a r,a h r
+532,Hawaiian-67_hair-1,,Hawaiian,67_hair,lauoho,l.a.u.o.h.o,l a u o h o,,Kessler2001,,False,^ l . a . u . o . h . o $,default,l a u o h o,a h l o u
+533,Latin-67_hair-1,,Latin,67_hair,capillus,k.a.p.i.lː.o,k a p i lː o,,Kessler2001,,False,^ k . a . p . i . lː . o $,default,k a p i l o,a i k l o p
+534,Navajo-67_hair-1,,Navajo,67_hair,'atsiighá,ʦ.iː.ɣ.a.ʔ,ts iː ɣ a ʔ,,Kessler2001,,False,^ ʦ . iː . ɣ . a . ʔ $,default,ts i x a 7,7 a i ts x
+535,Turkish-67_hair-1,,Turkish,67_hair,saç,s.a.ʧ,s a tʃ,,Kessler2001,,False,^ s . a . ʧ $,default,s a tS,a s tS
+536,Albanian-68_hand-1,,Albanian,68_hand,dorë,d.o.r,d o r,,Kessler2001,,False,^ d . o . r $,default,d o r,d o r
+537,English-68_hand-1,,English,68_hand,hand,h.a.n.d,h a n d,,Kessler2001,,False,^ h . a . n . d $,default,h a n d,a d h n
+538,French-68_hand-1,,French,68_hand,main,m.ɛ̃,m ɛ̃,,Kessler2001,,False,^ m . ɛ̃ $,default,m E*,E* m
+539,German-68_hand-1,,German,68_hand,Hand,h.a.n.d,h a n d,,Kessler2001,,False,^ h . a . n . d $,default,h a n d,a d h n
+540,Hawaiian-68_hand-1,,Hawaiian,68_hand,lima,l.i.m.a,l i m a,,Kessler2001,,False,^ l . i . m . a $,default,l i m a,a i l m
+541,Latin-68_hand-1,,Latin,68_hand,manus,m.a.n.u,m a n u,,Kessler2001,,False,^ m . a . n . u $,default,m a n u,a m n u
+542,Navajo-68_hand-1,,Navajo,68_hand,'ála',l.a.ʔ,l a ʔ,,Kessler2001,,False,^ l . a . ʔ $,default,l a 7,7 a l
+543,Turkish-68_hand-1,,Turkish,68_hand,el,e.l,e l,,Kessler2001,,False,^ e . l $,default,e l,e l
+544,Albanian-69_he-1,,Albanian,69_he,ai,a.i,a i,,Kessler2001,,False,^ a . i $,default,a i,a i
+545,English-69_he-1,,English,69_he,he,h.i,h i,,Kessler2001,,False,^ h . i $,default,h i,h i
+546,French-69_he-1,,French,69_he,il,i.l,i l,,Kessler2001,,False,^ i . l $,default,i l,i l
+547,German-69_he-1,,German,69_he,er,eː.r,eː r,,Kessler2001,,False,^ eː . r $,default,e r,e r
+548,Hawaiian-69_he-1,,Hawaiian,69_he,ia,i.a,i a,,Kessler2001,,False,^ i . a $,default,i a,a i
+549,Latin-69_he-1,,Latin,69_he,is,i,i,,Kessler2001,,False,^ i $,default,i,i
+550,Navajo-69_he-1,,Navajo,69_he,bí,b.i,b i,,Kessler2001,,False,^ b . i $,default,b i,b i
+551,Turkish-69_he-1,,Turkish,69_he,o,o.n,o n,,Kessler2001,,False,^ o . n $,default,o n,n o
+552,Albanian-70_head-1,,Albanian,70_head,kokë,k.o.k,k o k,,Kessler2001,,False,^ k . o . k $,default,k o k,k o
+553,English-70_head-1,,English,70_head,head,h.ɛ.d,h ɛ d,,Kessler2001,,False,^ h . ɛ . d $,default,h E d,E d h
+554,French-70_head-1,,French,70_head,tête,t.ɛ.t,t ɛ t,,Kessler2001,,False,^ t . ɛ . t $,default,t E t,E t
+555,German-70_head-1,,German,70_head,Kopf,k.o.p͡f,k o pf,,Kessler2001,,True,^ k . o . p͡f $,default,k o pf,k o pf
+556,Hawaiian-70_head-1,,Hawaiian,70_head,po`o,p.o.ʔ.o,p o ʔ o,,Kessler2001,,False,^ p . o . ʔ . o $,default,p o 7 o,7 o p
+557,Latin-70_head-1,,Latin,70_head,caput,k.a.p.u.t,k a p u t,,Kessler2001,,False,^ k . a . p . u . t $,default,k a p u t,a k p t u
+558,Navajo-70_head-1,,Navajo,70_head,'atsii',ʦ.iː.ʔ,ts iː ʔ,,Kessler2001,,False,^ ʦ . iː . ʔ $,default,ts i 7,7 i ts
+559,Turkish-70_head-1,,Turkish,70_head,baş,b.a.ʃ,b a ʃ,,Kessler2001,,False,^ b . a . ʃ $,default,b a S,S a b
+560,Albanian-71_hear-1,,Albanian,71_hear,dëgjon,d.ə.ɟ.o,d ə ɟ o,,Kessler2001,,False,^ d . ə . ɟ . o $,default,d 3 T o,3 T d o
+561,English-71_hear-1,,English,71_hear,hears,h.ɪ.r,h ɪ r,,Kessler2001,,False,^ h . ɪ . r $,default,h i r,h i r
+562,French-71_hear-1,,French,71_hear,entend,ɑ̃.t.ɑ̃.d,ɑ̃ t ɑ̃ d,,Kessler2001,,False,^ ɑ̃ . t . ɑ̃ . d $,default,o* t o* d,d o* t
+563,German-71_hear-1,,German,71_hear,hört,h.øː.r,h øː r,,Kessler2001,,False,^ h . øː . r $,default,h e r,e h r
+564,Hawaiian-71_hear-1,,Hawaiian,71_hear,lohe,l.o.h.e,l o h e,,Kessler2001,,False,^ l . o . h . e $,default,l o h e,e h l o
+565,Latin-71_hear-1,,Latin,71_hear,audit,au.d.iː,au d iː,,Kessler2001,,False,^ au . d . iː $,default,au d i,au d i
+566,Navajo-71_hear-1,,Navajo,71_hear,diits'a',d.iː.ʦˀ.a.ʔ,d iː tsˀ a ʔ,,Kessler2001,,False,^ d . iː . ʦˀ . a . ʔ $,default,d i ts a 7,7 a d i ts
+567,Turkish-71_hear-1,,Turkish,71_hear,işitiyor,i.ʃ.i.t,i ʃ i t,,Kessler2001,,False,^ i . ʃ . i . t $,default,i S i t,S i t
+568,Albanian-72_heart-1,,Albanian,72_heart,zemër,z.e.m.ə.r,z e m ə r,,Kessler2001,,False,^ z . e . m . ə . r $,default,z e m 3 r,3 e m r z
+569,English-72_heart-1,,English,72_heart,heart,h.ɑ.r.t,h ɑ r t,,Kessler2001,,False,^ h . ɑ . r . t $,default,h o r t,h o r t
+570,French-72_heart-1,,French,72_heart,cœur,k.œ.r,k œ r,,Kessler2001,,False,^ k . œ . r $,default,k E r,E k r
+571,German-72_heart-1,,German,72_heart,Herz,h.e.r.ʦ.ə.n,h e r ts ə n,,Kessler2001,,False,^ h . e . r . ʦ . ə . n $,default,h e r ts 3 n,3 e h n r ts
+572,Hawaiian-72_heart-1,,Hawaiian,72_heart,pu`uwai,p.u.ʔ.u.w.a.i,p u ʔ u w a i,,Kessler2001,,False,^ p . u . ʔ . u . w . a . i $,default,p u 7 u w a i,7 a i p u w
+573,Latin-72_heart-1,,Latin,72_heart,cor,k.o.r.d,k o r d,,Kessler2001,,False,^ k . o . r . d $,default,k o r d,d k o r
+574,Navajo-72_heart-1,,Navajo,72_heart,'ajéídíshjool,ʤ.e.i.d.i.ʃ.ʤ.oː.l,dʒ e i d i ʃ dʒ oː l,,Kessler2001,,False,^ ʤ . e . i . d . i . ʃ . ʤ . oː . l $,default,dZ e i d i S dZ o l,S d dZ e i l o
+575,Turkish-72_heart-1,,Turkish,72_heart,yürek,j.y.r.e.k,j y r e k,,Kessler2001,,False,^ j . y . r . e . k $,default,y i r e k,e i k r y
+576,Albanian-73_heavy-1,,Albanian,73_heavy,rëndë,r.ə.n.d,r ə n d,,Kessler2001,,False,^ r . ə . n . d $,default,r 3 n d,3 d n r
+577,English-73_heavy-1,,English,73_heavy,heavy,h.ɛ.v.i,h ɛ v i,,Kessler2001,,False,^ h . ɛ . v . i $,default,h E v i,E h i v
+578,French-73_heavy-1,,French,73_heavy,lourd,l.u.r.d,l u r d,,Kessler2001,,False,^ l . u . r . d $,default,l u r d,d l r u
+579,German-73_heavy-1,,German,73_heavy,schwer,ʃ.v.eː.r,ʃ v eː r,,Kessler2001,,False,^ ʃ . v . eː . r $,default,S v e r,S e r v
+580,Hawaiian-73_heavy-1,,Hawaiian,73_heavy,kaumaha,k.a.u.m.a.h.a,k a u m a h a,,Kessler2001,,False,^ k . a . u . m . a . h . a $,default,k a u m a h a,a h k m u
+581,Latin-73_heavy-1,,Latin,73_heavy,gravis,g.r.a.w.i,g r a w i,,Kessler2001,,False,^ g . r . a . w . i $,default,g r a w i,a g i r w
+582,Navajo-73_heavy-1,,Navajo,73_heavy,ndaaz,n.d.aː.z,n d aː z,,Kessler2001,,False,^ n . d . aː . z $,default,n d a z,a d n z
+583,Turkish-73_heavy-1,,Turkish,73_heavy,ağır,a.ɣ.ɯ.r,a ɣ ɯ r,,Kessler2001,,False,^ a . ɣ . ɯ . r $,default,a x u r,a r u x
+584,Albanian-74_here-1,,Albanian,74_here,këtu,k.ə.t.u,k ə t u,,Kessler2001,,False,^ k . ə . t . u $,default,k 3 t u,3 k t u
+585,English-74_here-1,,English,74_here,here,h.ɪ.r,h ɪ r,,Kessler2001,,False,^ h . ɪ . r $,default,h i r,h i r
+586,French-74_here-1,,French,74_here,ici,i.s.i,i s i,,Kessler2001,,False,^ i . s . i $,default,i s i,i s
+587,German-74_here-1,,German,74_here,hier,h.iː.r,h iː r,,Kessler2001,,False,^ h . iː . r $,default,h i r,h i r
+588,Hawaiian-74_here-1,,Hawaiian,74_here,nei,n.e.i,n e i,,Kessler2001,,False,^ n . e . i $,default,n e i,e i n
+589,Latin-74_here-1,,Latin,74_here,hic,h.iː.k,h iː k,,Kessler2001,,False,^ h . iː . k $,default,h i k,h i k
+590,Navajo-74_here-1,,Navajo,74_here,kwe'é,kw.e.ʔ.e,kʷ e ʔ e,,Kessler2001,,False,^ kw . e . ʔ . e $,default,kw~ e 7 e,7 e kw~
+591,Turkish-74_here-1,,Turkish,74_here,burada,b.u.r.a,b u r a,,Kessler2001,,False,^ b . u . r . a $,default,b u r a,a b r u
+592,Albanian-75_hit-1,,Albanian,75_hit,qëllon,c.ə.ł.o,c ə ł o,,Kessler2001,,False,^ c . ə . ł . o $,default,T 3 l o,3 T l o
+593,English-75_hit-1,,English,75_hit,hits,h.ɪ.t,h ɪ t,,Kessler2001,,True,^ h . ɪ . t $,default,h i t,h i t
+594,French-75_hit-1,,French,75_hit,frappe,f.r.a.p.e,f r a p e,,Kessler2001,,True,^ f . r . a . p . e $,default,f r a p e,a e f p r
+595,German-75_hit-1,,German,75_hit,schlägt,ʃ.l.aː.g,ʃ l aː g,,Kessler2001,,False,^ ʃ . l . aː . g $,default,S l a g,S a g l
+596,Hawaiian-75_hit-1,,Hawaiian,75_hit,ku`i,k.u.ʔ.i,k u ʔ i,,Kessler2001,,False,^ k . u . ʔ . i $,default,k u 7 i,7 i k u
+597,Latin-75_hit-1,,Latin,75_hit,ferit,f.e.r.iː,f e r iː,,Kessler2001,,False,^ f . e . r . iː $,default,f e r i,e f i r
+598,Navajo-75_hit-1,,Navajo,75_hit,ńdiists'in,ń.d.iː.ɬ.ʦˀ.i.n,ń/ɲ d iː ɬ tsˀ i n,,Kessler2001,,False,^ ń . d . iː . ɬ . ʦˀ . i . n $,default,n 5 d i L ts i n,5 L d i n ts
+599,Turkish-75_hit-1,,Turkish,75_hit,vuruyor,v.u.r,v u r,,Kessler2001,,False,^ v . u . r $,default,v u r,r u v
+600,Albanian-76_hold-1,,Albanian,76_hold,mban,m.b.a,m b a,,Kessler2001,,False,^ m . b . a $,default,m b a,a b m
+601,English-76_hold-1,,English,76_hold,holds,h.o.l.d,h o l d,,Kessler2001,,False,^ h . o . l . d $,default,h o l d,d h l o
+602,French-76_hold-1,,French,76_hold,tient,t.ə.n,t ə n,,Kessler2001,,False,^ t . ə . n $,default,t 3 n,3 n t
+603,German-76_hold-1,,German,76_hold,hält,h.a.l.t,h a l t,,Kessler2001,,False,^ h . a . l . t $,default,h a l t,a h l t
+604,Hawaiian-76_hold-1,,Hawaiian,76_hold,pa`a,p.a.ʔ.a,p a ʔ a,,Kessler2001,,False,^ p . a . ʔ . a $,default,p a 7 a,7 a p
+605,Latin-76_hold-1,,Latin,76_hold,tenet,t.e.n.eː,t e n eː,,Kessler2001,,False,^ t . e . n . eː $,default,t e n e,e n t
+606,Navajo-76_hold-1,,Navajo,76_hold,yótą',j.o.t.ã.ʔ,j o t ã ʔ,,Kessler2001,,False,^ j . o . t . ã . ʔ $,default,y o t a* 7,7 a* o t y
+607,Turkish-76_hold-1,,Turkish,76_hold,tutuyor,t.u.t,t u t,,Kessler2001,,False,^ t . u . t $,default,t u t,t u
+608,Albanian-77_horn-1,,Albanian,77_horn,bri,b.r.i.r,b r i r,,Kessler2001,,False,^ b . r . i . r $,default,b r i r,b i r
+609,English-77_horn-1,,English,77_horn,horn,h.ɔ.r.n,h ɔ r n,,Kessler2001,,False,^ h . ɔ . r . n $,default,h o r n,h n o r
+610,French-77_horn-1,,French,77_horn,corne,k.ɔ.r.n,k ɔ r n,,Kessler2001,,False,^ k . ɔ . r . n $,default,k o r n,k n o r
+611,German-77_horn-1,,German,77_horn,Horn,h.o.r.n,h o r n,,Kessler2001,,False,^ h . o . r . n $,default,h o r n,h n o r
+612,Hawaiian-77_horn-1,,Hawaiian,77_horn,kiwi,k.i.w.i,k i w i,,Kessler2001,,False,^ k . i . w . i $,default,k i w i,i k w
+613,Latin-77_horn-1,,Latin,77_horn,cornu,k.o.r.n.uː,k o r n uː,,Kessler2001,,False,^ k . o . r . n . uː $,default,k o r n u,k n o r u
+614,Navajo-77_horn-1,,Navajo,77_horn,'adee',d.eː.ʔ,d eː ʔ,,Kessler2001,,False,^ d . eː . ʔ $,default,d e 7,7 d e
+615,Turkish-77_horn-1,,Turkish,77_horn,boynuz,b.o.j.n.u.z,b o j n u z,,Kessler2001,,False,^ b . o . j . n . u . z $,default,b o y n u z,b n o u y z
+616,Albanian-78_hot-1,,Albanian,78_hot,nxehtë,n.ʣ.e.h.t,n dz e h t,,Kessler2001,,False,^ n . ʣ . e . h . t $,default,n dz e h t,dz e h n t
+617,English-78_hot-1,,English,78_hot,hot,h.ɑ.t,h ɑ t,,Kessler2001,,False,^ h . ɑ . t $,default,h o t,h o t
+618,French-78_hot-1,,French,78_hot,chaud,ʃ.o.d,ʃ o d,,Kessler2001,,False,^ ʃ . o . d $,default,S o d,S d o
+619,German-78_hot-1,,German,78_hot,heiß,h.ai.s,h ai s,,Kessler2001,,False,^ h . ai . s $,default,h ai s,ai h s
+620,Hawaiian-78_hot-1,,Hawaiian,78_hot,wela,w.e.l.a,w e l a,,Kessler2001,,False,^ w . e . l . a $,default,w e l a,a e l w
+621,Latin-78_hot-1,,Latin,78_hot,calidus,k.a.l.i.d.o,k a l i d o,,Kessler2001,,False,^ k . a . l . i . d . o $,default,k a l i d o,a d i k l o
+622,Navajo-78_hot-1,,Navajo,78_hot,sido,s.i.d.o,s i d o,,Kessler2001,,False,^ s . i . d . o $,default,s i d o,d i o s
+623,Turkish-78_hot-1,,Turkish,78_hot,sıcak,s.ɯ.j.a.k,s ɯ j a k,,Kessler2001,,False,^ s . ɯ . j . a . k $,default,s u y a k,a k s u y
+624,Albanian-79_human-1,,Albanian,79_human,njerí,ɲ.e.r.i,ɲ e r i,,Kessler2001,,False,^ ɲ . e . r . i $,default,5 e r i,5 e i r
+625,English-79_human-1,,English,79_human,human,h.j.u.m.ə.n,h j u m ə n,,Kessler2001,,True,^ h . j . u . m . ə . n $,default,h y u m 3 n,3 h m n u y
+626,French-79_human-1,,French,79_human,humain,y.m.ɛ.n,y m ɛ n,,Kessler2001,,True,^ y . m . ɛ . n $,default,i m E n,E i m n
+627,German-79_human-1,,German,79_human,Mensch,m.e.n.ʃ.ə.n,m e n ʃ ə n,,Kessler2001,,False,^ m . e . n . ʃ . ə . n $,default,m e n S 3 n,3 S e m n
+628,Hawaiian-79_human-1,,Hawaiian,79_human,kanaka,k.a.n.a.k.a,k a n a k a,,Kessler2001,,False,^ k . a . n . a . k . a $,default,k a n a k a,a k n
+629,Latin-79_human-1,,Latin,79_human,homo,h.o.m.i.n,h o m i n,,Kessler2001,,False,^ h . o . m . i . n $,default,h o m i n,h i m n o
+630,Navajo-79_human-1,,Navajo,79_human,diné,d.i.n.e,d i n e,,Kessler2001,,False,^ d . i . n . e $,default,d i n e,d e i n
+631,Turkish-79_human-1,,Turkish,79_human,adam,a.d.a.m,a d a m,,Kessler2001,,True,^ a . d . a . m $,default,a d a m,a d m
+632,Albanian-80_hunt-1,,Albanian,80_hunt,gjuan,ɟ.u.a,ɟ u a,,Kessler2001,,False,^ ɟ . u . a $,default,T u a,T a u
+633,English-80_hunt-1,,English,80_hunt,hunts,h.ə.n.t,h ə n t,,Kessler2001,,False,^ h . ə . n . t $,default,h 3 n t,3 h n t
+634,French-80_hunt-1,,French,80_hunt,chasse,ʃ.a.s.e,ʃ a s e,,Kessler2001,,False,^ ʃ . a . s . e $,default,S a s e,S a e s
+635,German-80_hunt-1,,German,80_hunt,jagt,j.aː.g,j aː g,,Kessler2001,,False,^ j . aː . g $,default,y a g,a g y
+636,Hawaiian-80_hunt-1,,Hawaiian,80_hunt,hahai,h.a.h.a.i,h a h a i,,Kessler2001,,False,^ h . a . h . a . i $,default,h a h a i,a h i
+637,Latin-80_hunt-1,,Latin,80_hunt,venatur,w.eː.n.aː,w eː n aː,,Kessler2001,,False,^ w . eː . n . aː $,default,w e n a,a e n w
+638,Navajo-80_hunt-1,,Navajo,80_hunt,haalzheeh,h.aː.l.ʒ.eː.h,h aː l ʒ eː h,,Kessler2001,,False,^ h . aː . l . ʒ . eː . h $,default,h a l Z e h,Z a e h l
+639,Turkish-80_hunt-1,,Turkish,80_hunt,avlıyor,a.v.l.a,a v l a,,Kessler2001,,False,^ a . v . l . a $,default,a v l a,a l v
+640,Albanian-81_husband-1,,Albanian,81_husband,burrë,b.u.rː,b u rː,,Kessler2001,,False,^ b . u . rː $,default,b u r,b r u
+641,English-81_husband-1,,English,81_husband,husband,h.ə.z.b.ə.n.d,h ə z b ə n d,,Kessler2001,,True,^ h . ə . z . b . ə . n . d $,default,h 3 z b 3 n d,3 b d h n z
+642,French-81_husband-1,,French,81_husband,mari,m.a.r.i,m a r i,,Kessler2001,,False,^ m . a . r . i $,default,m a r i,a i m r
+643,German-81_husband-1,,German,81_husband,Gatte,g.a.t.ə,g a t ə,,Kessler2001,,False,^ g . a . t . ə $,default,g a t 3,3 a g t
+644,Hawaiian-81_husband-1,,Hawaiian,81_husband,kāne,k.aː.n.e,k aː n e,,Kessler2001,,False,^ k . aː . n . e $,default,k a n e,a e k n
+645,Latin-81_husband-1,,Latin,81_husband,maritus,m.a.r.iː.t.o,m a r iː t o,,Kessler2001,,False,^ m . a . r . iː . t . o $,default,m a r i t o,a i m o r t
+646,Navajo-81_husband-1,,Navajo,81_husband,hastiin,h.a.s.t.iː.n,h a s t iː n,,Kessler2001,,False,^ h . a . s . t . iː . n $,default,h a s t i n,a h i n s t
+647,Turkish-81_husband-1,,Turkish,81_husband,koca,k.o.ʤ.a,k o dʒ a,,Kessler2001,,True,^ k . o . ʤ . a $,default,k o dZ a,a dZ k o
+648,Albanian-82_i-1,,Albanian,82_i,unë,u.n.ə,u n ə,,Kessler2001,,False,^ u . n . ə $,default,u n 3,3 n u
+649,English-82_i-1,,English,82_i,I,ai,ai,,Kessler2001,,False,^ ai $,default,ai,ai
+650,French-82_i-1,,French,82_i,je,ʒ.ə,ʒ ə,,Kessler2001,,False,^ ʒ . ə $,default,Z 3,3 Z
+651,German-82_i-1,,German,82_i,ich,i.x,i x,,Kessler2001,,False,^ i . x $,default,i x,i x
+652,Hawaiian-82_i-1,,Hawaiian,82_i,au,a.u,a u,,Kessler2001,,False,^ a . u $,default,a u,a u
+653,Latin-82_i-1,,Latin,82_i,ego,e.g.o,e g o,,Kessler2001,,False,^ e . g . o $,default,e g o,e g o
+654,Navajo-82_i-1,,Navajo,82_i,shí,ʃ.i,ʃ i,,Kessler2001,,False,^ ʃ . i $,default,S i,S i
+655,Turkish-82_i-1,,Turkish,82_i,ben,b.e.n,b e n,,Kessler2001,,False,^ b . e . n $,default,b e n,b e n
+656,Albanian-83_ice-1,,Albanian,83_ice,akull,a.k.u.ł,a k u ł,,Kessler2001,,False,^ a . k . u . ł $,default,a k u l,a k l u
+657,English-83_ice-1,,English,83_ice,ice,ai.s,ai s,,Kessler2001,,False,^ ai . s $,default,ai s,ai s
+658,French-83_ice-1,,French,83_ice,glace,g.l.a.s,g l a s,,Kessler2001,,False,^ g . l . a . s $,default,g l a s,a g l s
+659,German-83_ice-1,,German,83_ice,Eis,ai.s,ai s,,Kessler2001,,False,^ ai . s $,default,ai s,ai s
+660,Hawaiian-83_ice-1,,Hawaiian,83_ice,hau,h.a.u,h a u,,Kessler2001,,False,^ h . a . u $,default,h a u,a h u
+661,Latin-83_ice-1,,Latin,83_ice,glacies,g.l.a.k.i.eː,g l a k i eː,,Kessler2001,,False,^ g . l . a . k . i . eː $,default,g l a k i e,a e g i k l
+662,Navajo-83_ice-1,,Navajo,83_ice,tin,t.i.n,t i n,,Kessler2001,,False,^ t . i . n $,default,t i n,i n t
+663,Turkish-83_ice-1,,Turkish,83_ice,buz,b.u.z,b u z,,Kessler2001,,False,^ b . u . z $,default,b u z,b u z
+664,Albanian-84_if-1,,Albanian,84_if,në qoftë se,c.o.f.t,c o f t,,Kessler2001,,False,^ c . o . f . t $,default,T o f t,T f o t
+665,English-84_if-1,,English,84_if,if,ɪ.f,ɪ f,,Kessler2001,,False,^ ɪ . f $,default,i f,f i
+666,French-84_if-1,,French,84_if,si,s.i,s i,,Kessler2001,,False,^ s . i $,default,s i,i s
+667,German-84_if-1,,German,84_if,wenn,v.e.n,v e n,,Kessler2001,,False,^ v . e . n $,default,v e n,e n v
+668,Hawaiian-84_if-1,,Hawaiian,84_if,inā,i.n.aː,i n aː,,Kessler2001,,False,^ i . n . aː $,default,i n a,a i n
+669,Latin-84_if-1,,Latin,84_if,si,s.iː,s iː,,Kessler2001,,False,^ s . iː $,default,s i,i s
+670,Navajo-84_if-1,,Navajo,84_if,-dąą,d.ãː,d ãː,,Kessler2001,,False,^ d . ãː $,default,d a*,a* d
+671,Turkish-84_if-1,,Turkish,84_if,eğer,e.ɣ.e.r,e ɣ e r,,Kessler2001,,True,^ e . ɣ . e . r $,default,e x e r,e r x
+672,Albanian-85_in-1,,Albanian,85_in,në,n.ə,n ə,,Kessler2001,,False,^ n . ə $,default,n 3,3 n
+673,English-85_in-1,,English,85_in,in,ɪ.n,ɪ n,,Kessler2001,,False,^ ɪ . n $,default,i n,i n
+674,French-85_in-1,,French,85_in,dans,d.ɑ̃,d ɑ̃,,Kessler2001,,False,^ d . ɑ̃ $,default,d o*,d o*
+675,German-85_in-1,,German,85_in,in,i.n,i n,,Kessler2001,,False,^ i . n $,default,i n,i n
+676,Hawaiian-85_in-1,,Hawaiian,85_in,i loko,l.o.k.o,l o k o,,Kessler2001,,False,^ l . o . k . o $,default,l o k o,k l o
+677,Latin-85_in-1,,Latin,85_in,in,i.n,i n,,Kessler2001,,False,^ i . n $,default,i n,i n
+678,Navajo-85_in-1,,Navajo,85_in,bii',iː.ʔ,iː ʔ,,Kessler2001,,False,^ iː . ʔ $,default,i 7,7 i
+679,Turkish-85_in-1,,Turkish,85_in,içinde,i.ʧ.i.n,i tʃ i n,,Kessler2001,,False,^ i . ʧ . i . n $,default,i tS i n,i n tS
+680,Albanian-86_kill-1,,Albanian,86_kill,vret,v.r,v r,,Kessler2001,,False,^ v . r $,default,v r,r v
+681,English-86_kill-1,,English,86_kill,kills,k.ɪ.l,k ɪ l,,Kessler2001,,False,^ k . ɪ . l $,default,k i l,i k l
+682,French-86_kill-1,,French,86_kill,tue,t.y.e,t y e,,Kessler2001,,False,^ t . y . e $,default,t i e,e i t
+683,German-86_kill-1,,German,86_kill,tötet,t.øː.t,t øː t,,Kessler2001,,False,^ t . øː . t $,default,t e t,e t
+684,Hawaiian-86_kill-1,,Hawaiian,86_kill,pepehi ā make,p.e.p.e.h.i.aː.m.a.k.e,p e p e h i aː m a k e,,Kessler2001,,False,^ p . e . p . e . h . i . aː . m . a . k . e $,default,p e p e h i a m a k e,a e h i k m p
+685,Latin-86_kill-1,,Latin,86_kill,interficit,i.n.t.e.r.f.i.k.e,i n t e r f i k e,,Kessler2001,,False,^ i . n . t . e . r . f . i . k . e $,default,i n t e r f i k e,e f i k n r t
+686,Navajo-86_kill-1,,Navajo,86_kill,'iishhé,ʔ.iː.ɣ.e,ʔ iː ɣ e,,Kessler2001,,False,^ ʔ . iː . ɣ . e $,default,7 i x e,7 e i x
+687,Turkish-86_kill-1,,Turkish,86_kill,öldürüyor,ø.l.d.y.r,ø l d y r,,Kessler2001,,False,^ ø . l . d . y . r $,default,e l d i r,d e i l r
+688,Albanian-87_knee-1,,Albanian,87_knee,gju,ɟ.u.r,ɟ u r,,Kessler2001,,False,^ ɟ . u . r $,default,T u r,T r u
+689,English-87_knee-1,,English,87_knee,knee,n.i,n i,,Kessler2001,,False,^ n . i $,default,n i,i n
+690,French-87_knee-1,,French,87_knee,genou,ʒ.ə.n.u,ʒ ə n u,,Kessler2001,,False,^ ʒ . ə . n . u $,default,Z 3 n u,3 Z n u
+691,German-87_knee-1,,German,87_knee,Knie,k.n.iː,k n iː,,Kessler2001,,False,^ k . n . iː $,default,k n i,i k n
+692,Hawaiian-87_knee-1,,Hawaiian,87_knee,kuli,k.u.l.i,k u l i,,Kessler2001,,False,^ k . u . l . i $,default,k u l i,i k l u
+693,Latin-87_knee-1,,Latin,87_knee,genu,g.e.n.uː,g e n uː,,Kessler2001,,False,^ g . e . n . uː $,default,g e n u,e g n u
+694,Navajo-87_knee-1,,Navajo,87_knee,'agod,g.o.d,g o d,,Kessler2001,,False,^ g . o . d $,default,g o d,d g o
+695,Turkish-87_knee-1,,Turkish,87_knee,diz,d.i.z,d i z,,Kessler2001,,False,^ d . i . z $,default,d i z,d i z
+696,Albanian-88_knife-1,,Albanian,88_knife,thikë,θ.i.k,θ i k,,Kessler2001,,False,^ θ . i . k $,default,8 i k,8 i k
+697,English-88_knife-1,,English,88_knife,knife,n.ai.f,n ai f,,Kessler2001,,False,^ n . ai . f $,default,n ai f,ai f n
+698,French-88_knife-1,,French,88_knife,couteau,k.u.t.o,k u t o,,Kessler2001,,False,^ k . u . t . o $,default,k u t o,k o t u
+699,German-88_knife-1,,German,88_knife,Messer,m.e.s.ə.r,m e s ə r,,Kessler2001,,False,^ m . e . s . ə . r $,default,m e s 3 r,3 e m r s
+700,Hawaiian-88_knife-1,,Hawaiian,88_knife,pahi,p.a.h.i,p a h i,,Kessler2001,,False,^ p . a . h . i $,default,p a h i,a h i p
+701,Latin-88_knife-1,,Latin,88_knife,culter,k.u.l.t.r.o,k u l t r o,,Kessler2001,,False,^ k . u . l . t . r . o $,default,k u l t r o,k l o r t u
+702,Navajo-88_knife-1,,Navajo,88_knife,béésh,b.eː.ʃ,b eː ʃ,,Kessler2001,,False,^ b . eː . ʃ $,default,b e S,S b e
+703,Turkish-88_knife-1,,Turkish,88_knife,bıçak,b.ɯ.ʧ.a.k,b ɯ tʃ a k,,Kessler2001,,False,^ b . ɯ . ʧ . a . k $,default,b u tS a k,a b k tS u
+704,Albanian-89_know-1,,Albanian,89_know,di,d.i,d i,,Kessler2001,,False,^ d . i $,default,d i,d i
+705,English-89_know-1,,English,89_know,knows,n.o,n o,,Kessler2001,,False,^ n . o $,default,n o,n o
+706,French-89_know-1,,French,89_know,sait,s.a,s a,,Kessler2001,,False,^ s . a $,default,s a,a s
+707,German-89_know-1,,German,89_know,weiß,v.i.s,v i s,,Kessler2001,,False,^ v . i . s $,default,v i s,i s v
+708,Hawaiian-89_know-1,,Hawaiian,89_know,`ike,ʔ.i.k.e,ʔ i k e,,Kessler2001,,False,^ ʔ . i . k . e $,default,7 i k e,7 e i k
+709,Latin-89_know-1,,Latin,89_know,scit,s.k.iː,s k iː,,Kessler2001,,False,^ s . k . iː $,default,s k i,i k s
+710,Navajo-89_know-1,,Navajo,89_know,bééhózin,b.eː.h.o.z.i.n,b eː h o z i n,,Kessler2001,,False,^ b . eː . h . o . z . i . n $,default,b e h o z i n,b e h i n o z
+711,Turkish-89_know-1,,Turkish,89_know,biliyor,b.i.l,b i l,,Kessler2001,,False,^ b . i . l $,default,b i l,b i l
+712,Albanian-90_lake-1,,Albanian,90_lake,liqen,l.i.c.e.n,l i c e n,,Kessler2001,,True,^ l . i . c . e . n $,default,l i T e n,T e i l n
+713,English-90_lake-1,,English,90_lake,lake,l.e.k,l e k,,Kessler2001,,True,^ l . e . k $,default,l e k,e k l
+714,French-90_lake-1,,French,90_lake,lac,l.a.k,l a k,,Kessler2001,,True,^ l . a . k $,default,l a k,a k l
+715,German-90_lake-1,,German,90_lake,See,z.eː,z eː,,Kessler2001,,False,^ z . eː $,default,z e,e z
+716,Hawaiian-90_lake-1,,Hawaiian,90_lake,loko,l.o.k.o,l o k o,,Kessler2001,,False,^ l . o . k . o $,default,l o k o,k l o
+717,Latin-90_lake-1,,Latin,90_lake,lacus,l.a.k.u,l a k u,,Kessler2001,,False,^ l . a . k . u $,default,l a k u,a k l u
+718,Navajo-90_lake-1,,Navajo,90_lake,tooh siyínígíí,t.oː.h,t oː h,,Kessler2001,,False,^ t . oː . h $,default,t o h,h o t
+719,Turkish-90_lake-1,,Turkish,90_lake,göl,g.ø.l,g ø l,,Kessler2001,,False,^ g . ø . l $,default,g e l,e g l
+720,Albanian-91_laugh-1,,Albanian,91_laugh,qesh,c.e.ʃ,c e ʃ,,Kessler2001,,False,^ c . e . ʃ $,default,T e S,S T e
+721,English-91_laugh-1,,English,91_laugh,laughs,l.a.f,l a f,,Kessler2001,,False,^ l . a . f $,default,l a f,a f l
+722,French-91_laugh-1,,French,91_laugh,rit,r.i,r i,,Kessler2001,,False,^ r . i $,default,r i,i r
+723,German-91_laugh-1,,German,91_laugh,lacht,l.a.x,l a x,,Kessler2001,,False,^ l . a . x $,default,l a x,a l x
+724,Hawaiian-91_laugh-1,,Hawaiian,91_laugh,`aka,ʔ.a.k.a,ʔ a k a,,Kessler2001,,False,^ ʔ . a . k . a $,default,7 a k a,7 a k
+725,Latin-91_laugh-1,,Latin,91_laugh,ridet,r.iː.d.eː,r iː d eː,,Kessler2001,,False,^ r . iː . d . eː $,default,r i d e,d e i r
+726,Navajo-91_laugh-1,,Navajo,91_laugh,yidloh,j.i.dˡ.o.h,j i dˡ o h,,Kessler2001,,False,^ j . i . dˡ . o . h $,default,y i d o h,d h i o y
+727,Turkish-91_laugh-1,,Turkish,91_laugh,gülüyor,g.y.l,g y l,,Kessler2001,,False,^ g . y . l $,default,g i l,g i l
+728,Albanian-92_leaf-1,,Albanian,92_leaf,gjethe,ɟ.e.θ,ɟ e θ,,Kessler2001,,False,^ ɟ . e . θ $,default,T e 8,8 T e
+729,English-92_leaf-1,,English,92_leaf,leaf,l.i.f,l i f,,Kessler2001,,False,^ l . i . f $,default,l i f,f i l
+730,French-92_leaf-1,,French,92_leaf,feuille,f.œ.j,f œ j,,Kessler2001,,False,^ f . œ . j $,default,f E y,E f y
+731,German-92_leaf-1,,German,92_leaf,Blatt,b.l.a.t,b l a t,,Kessler2001,,False,^ b . l . a . t $,default,b l a t,a b l t
+732,Hawaiian-92_leaf-1,,Hawaiian,92_leaf,lau,l.a.u,l a u,,Kessler2001,,False,^ l . a . u $,default,l a u,a l u
+733,Latin-92_leaf-1,,Latin,92_leaf,folium,f.o.l.i.o,f o l i o,,Kessler2001,,False,^ f . o . l . i . o $,default,f o l i o,f i l o
+734,Navajo-92_leaf-1,,Navajo,92_leaf,'at'ąą',tˀ.ãː.ʔ,tˀ ãː ʔ,,Kessler2001,,False,^ tˀ . ãː . ʔ $,default,t a* 7,7 a* t
+735,Turkish-92_leaf-1,,Turkish,92_leaf,yaprak,j.a.p.r.a.k,j a p r a k,,Kessler2001,,False,^ j . a . p . r . a . k $,default,y a p r a k,a k p r y
+736,Albanian-93_left-1,,Albanian,93_left,majtë,m.a.j.t,m a j t,,Kessler2001,,False,^ m . a . j . t $,default,m a y t,a m t y
+737,English-93_left-1,,English,93_left,left,l.ɛ.f.t,l ɛ f t,,Kessler2001,,False,^ l . ɛ . f . t $,default,l E f t,E f l t
+738,French-93_left-1,,French,93_left,gauche,g.o.ʃ,g o ʃ,,Kessler2001,,True,^ g . o . ʃ $,default,g o S,S g o
+739,German-93_left-1,,German,93_left,link,l.i.ŋ.k,l i ŋ k,,Kessler2001,,False,^ l . i . ŋ . k $,default,l i N k,N i k l
+740,Hawaiian-93_left-1,,Hawaiian,93_left,hema,h.e.m.a,h e m a,,Kessler2001,,False,^ h . e . m . a $,default,h e m a,a e h m
+741,Latin-93_left-1,,Latin,93_left,sinister,s.i.n.i.s.t.r.o,s i n i s t r o,,Kessler2001,,False,^ s . i . n . i . s . t . r . o $,default,s i n i s t r o,i n o r s t
+742,Navajo-93_left-1,,Navajo,93_left,nishtƚ'a,n.i.ʃ.tˡˀ.a,n i ʃ tˡˀ a,,Kessler2001,,False,^ n . i . ʃ . tˡˀ . a $,default,n i S t a,S a i n t
+743,Turkish-93_left-1,,Turkish,93_left,sol,s.o.l,s o l,,Kessler2001,,False,^ s . o . l $,default,s o l,l o s
+744,Albanian-94_lie-1,,Albanian,94_lie,(rri) shtrirë,ʃ.t.r.i.r,ʃ t r i r,,Kessler2001,,False,^ ʃ . t . r . i . r $,default,S t r i r,S i r t
+745,English-94_lie-1,,English,94_lie,lies,l.ai,l ai,,Kessler2001,,False,^ l . ai $,default,l ai,ai l
+746,French-94_lie-1,,French,94_lie,(est) allongé,a.l.ɔ̃.ʒ.e,a l ɔ̃ ʒ e,,Kessler2001,,False,^ a . l . ɔ̃ . ʒ . e $,default,a l o* Z e,Z a e l o*
+747,German-94_lie-1,,German,94_lie,liegt,l.iː.g,l iː g,,Kessler2001,,False,^ l . iː . g $,default,l i g,g i l
+748,Hawaiian-94_lie-1,,Hawaiian,94_lie,moe,m.o.e,m o e,,Kessler2001,,False,^ m . o . e $,default,m o e,e m o
+749,Latin-94_lie-1,,Latin,94_lie,iacet,j.a.k.eː,j a k eː,,Kessler2001,,False,^ j . a . k . eː $,default,y a k e,a e k y
+750,Navajo-94_lie-1,,Navajo,94_lie,sitį́,s.i.t.ĩ́,s i t ĩ́/ĩ,,Kessler2001,,False,^ s . i . t . ĩ́ $,default,s i t i* i*,i i* s t
+751,Turkish-94_lie-1,,Turkish,94_lie,yatıyor,j.a.t,j a t,,Kessler2001,,False,^ j . a . t $,default,y a t,a t y
+752,Albanian-95_liver-1,,Albanian,95_liver,mëlçi,m.ə.l.ʧ.i,m ə l tʃ i,,Kessler2001,,False,^ m . ə . l . ʧ . i $,default,m 3 l tS i,3 i l m tS
+753,English-95_liver-1,,English,95_liver,liver,l.ɪ.v.ə.r,l ɪ v ə r,,Kessler2001,,False,^ l . ɪ . v . ə . r $,default,l i v 3 r,3 i l r v
+754,French-95_liver-1,,French,95_liver,foie,f.w.a,f w a,,Kessler2001,,True,^ f . w . a $,default,f w a,a f w
+755,German-95_liver-1,,German,95_liver,Leber,l.eː.b.ə.r,l eː b ə r,,Kessler2001,,False,^ l . eː . b . ə . r $,default,l e b 3 r,3 b e l r
+756,Hawaiian-95_liver-1,,Hawaiian,95_liver,ake,a.k.e,a k e,,Kessler2001,,False,^ a . k . e $,default,a k e,a e k
+757,Latin-95_liver-1,,Latin,95_liver,iecur,j.e.k.i.n,j e k i n,,Kessler2001,,False,^ j . e . k . i . n $,default,y e k i n,e i k n y
+758,Navajo-95_liver-1,,Navajo,95_liver,'azid,z.i.d,z i d,,Kessler2001,,False,^ z . i . d $,default,z i d,d i z
+759,Turkish-95_liver-1,,Turkish,95_liver,ciğer,ʤ.i.ɣ.e.r,dʒ i ɣ e r,,Kessler2001,,True,^ ʤ . i . ɣ . e . r $,default,dZ i x e r,dZ e i r x
+760,Albanian-96_long-1,,Albanian,96_long,gjatë,ɟ.a.t,ɟ a t,,Kessler2001,,False,^ ɟ . a . t $,default,T a t,T a t
+761,English-96_long-1,,English,96_long,long,l.ɔ.ŋ,l ɔ ŋ,,Kessler2001,,False,^ l . ɔ . ŋ $,default,l o N,N l o
+762,French-96_long-1,,French,96_long,long,l.ɔ̃.g,l ɔ̃ g,,Kessler2001,,False,^ l . ɔ̃ . g $,default,l o* g,g l o*
+763,German-96_long-1,,German,96_long,lang,l.a.ŋ,l a ŋ,,Kessler2001,,False,^ l . a . ŋ $,default,l a N,N a l
+764,Hawaiian-96_long-1,,Hawaiian,96_long,loa,l.o.a,l o a,,Kessler2001,,False,^ l . o . a $,default,l o a,a l o
+765,Latin-96_long-1,,Latin,96_long,longus,l.o.n.g.o,l o n g o,,Kessler2001,,False,^ l . o . n . g . o $,default,l o n g o,g l n o
+766,Navajo-96_long-1,,Navajo,96_long,nineez,n.i.n.eː.z,n i n eː z,,Kessler2001,,False,^ n . i . n . eː . z $,default,n i n e z,e i n z
+767,Turkish-96_long-1,,Turkish,96_long,uzun,u.z.u.n,u z u n,,Kessler2001,,False,^ u . z . u . n $,default,u z u n,n u z
+768,Albanian-97_louse-1,,Albanian,97_louse,morr,m.o.rː,m o rː,,Kessler2001,,False,^ m . o . rː $,default,m o r,m o r
+769,English-97_louse-1,,English,97_louse,louse,l.au.s,l au s,,Kessler2001,,False,^ l . au . s $,default,l au s,au l s
+770,French-97_louse-1,,French,97_louse,pou,p.u,p u,,Kessler2001,,False,^ p . u $,default,p u,p u
+771,German-97_louse-1,,German,97_louse,Laus,l.au.z,l au z,,Kessler2001,,False,^ l . au . z $,default,l au z,au l z
+772,Hawaiian-97_louse-1,,Hawaiian,97_louse,`uku,ʔ.u.k.u,ʔ u k u,,Kessler2001,,False,^ ʔ . u . k . u $,default,7 u k u,7 k u
+773,Latin-97_louse-1,,Latin,97_louse,pediculus,p.eː.d.i.k.u.l.o,p eː d i k u l o,,Kessler2001,,False,^ p . eː . d . i . k . u . l . o $,default,p e d i k u l o,d e i k l o p u
+774,Navajo-97_louse-1,,Navajo,97_louse,yaa',j.aː.ʔ,j aː ʔ,,Kessler2001,,False,^ j . aː . ʔ $,default,y a 7,7 a y
+775,Turkish-97_louse-1,,Turkish,97_louse,bit,b.i.t,b i t,,Kessler2001,,False,^ b . i . t $,default,b i t,b i t
+776,Albanian-98_man-1,,Albanian,98_man,burrë,b.u.rː,b u rː,,Kessler2001,,False,^ b . u . rː $,default,b u r,b r u
+777,English-98_man-1,,English,98_man,man,m.a.n,m a n,,Kessler2001,,False,^ m . a . n $,default,m a n,a m n
+778,French-98_man-1,,French,98_man,homme,ɔ.m,ɔ m,,Kessler2001,,False,^ ɔ . m $,default,o m,m o
+779,German-98_man-1,,German,98_man,Mann,m.a.n,m a n,,Kessler2001,,False,^ m . a . n $,default,m a n,a m n
+780,Hawaiian-98_man-1,,Hawaiian,98_man,kāne,k.aː.n.e,k aː n e,,Kessler2001,,False,^ k . aː . n . e $,default,k a n e,a e k n
+781,Latin-98_man-1,,Latin,98_man,vir,w.i.r.o,w i r o,,Kessler2001,,False,^ w . i . r . o $,default,w i r o,i o r w
+782,Navajo-98_man-1,,Navajo,98_man,hastiin,h.a.s.t.iː.n,h a s t iː n,,Kessler2001,,False,^ h . a . s . t . iː . n $,default,h a s t i n,a h i n s t
+783,Turkish-98_man-1,,Turkish,98_man,erkek,e.r.k.e.k,e r k e k,,Kessler2001,,False,^ e . r . k . e . k $,default,e r k e k,e k r
+784,Albanian-99_many-1,,Albanian,99_many,shumë,ʃ.u.m,ʃ u m,,Kessler2001,,True,^ ʃ . u . m $,default,S u m,S m u
+785,English-99_many-1,,English,99_many,many,m.ɛ.n.i,m ɛ n i,,Kessler2001,,False,^ m . ɛ . n . i $,default,m E n i,E i m n
+786,French-99_many-1,,French,99_many,beaucoup de,b.o.k.u,b o k u,,Kessler2001,,False,^ b . o . k . u $,default,b o k u,b k o u
+787,German-99_many-1,,German,99_many,viele,f.iː.l,f iː l,,Kessler2001,,False,^ f . iː . l $,default,f i l,f i l
+788,Hawaiian-99_many-1,,Hawaiian,99_many,nui,n.u.i,n u i,,Kessler2001,,False,^ n . u . i $,default,n u i,i n u
+789,Latin-99_many-1,,Latin,99_many,multi,m.u.l.t.o,m u l t o,,Kessler2001,,False,^ m . u . l . t . o $,default,m u l t o,l m o t u
+790,Navajo-99_many-1,,Navajo,99_many,lą'í,l.ã.ʔ.i,l ã ʔ i,,Kessler2001,,False,^ l . ã . ʔ . i $,default,l a* 7 i,7 a* i l
+791,Turkish-99_many-1,,Turkish,99_many,çok,ʧ.o.k,tʃ o k,,Kessler2001,,True,^ ʧ . o . k $,default,tS o k,k o tS
+792,Albanian-100_meat-1,,Albanian,100_meat,mish,m.i.ʃ,m i ʃ,,Kessler2001,,False,^ m . i . ʃ $,default,m i S,S i m
+793,English-100_meat-1,,English,100_meat,meat,m.i.t,m i t,,Kessler2001,,False,^ m . i . t $,default,m i t,i m t
+794,French-100_meat-1,,French,100_meat,viande,v.j.ɑ̃.d,v j ɑ̃ d,,Kessler2001,,False,^ v . j . ɑ̃ . d $,default,v y o* d,d o* v y
+795,German-100_meat-1,,German,100_meat,Fleisch,f.l.ai.ʃ,f l ai ʃ,,Kessler2001,,False,^ f . l . ai . ʃ $,default,f l ai S,S ai f l
+796,Hawaiian-100_meat-1,,Hawaiian,100_meat,`i`o,ʔ.i.ʔ.o,ʔ i ʔ o,,Kessler2001,,False,^ ʔ . i . ʔ . o $,default,7 i 7 o,7 i o
+797,Latin-100_meat-1,,Latin,100_meat,caro,k.a.r.n,k a r n,,Kessler2001,,False,^ k . a . r . n $,default,k a r n,a k n r
+798,Navajo-100_meat-1,,Navajo,100_meat,'atsį',ʦ.ĩ.ʔ,ts ĩ ʔ,,Kessler2001,,False,^ ʦ . ĩ . ʔ $,default,ts i* 7,7 i* ts
+799,Turkish-100_meat-1,,Turkish,100_meat,et,e.t,e t,,Kessler2001,,False,^ e . t $,default,e t,e t
+800,Albanian-101_moon-1,,Albanian,101_moon,hënë,h.ə.n,h ə n,,Kessler2001,,False,^ h . ə . n $,default,h 3 n,3 h n
+801,English-101_moon-1,,English,101_moon,moon,m.u.n,m u n,,Kessler2001,,False,^ m . u . n $,default,m u n,m n u
+802,French-101_moon-1,,French,101_moon,lune,l.y.n,l y n,,Kessler2001,,False,^ l . y . n $,default,l i n,i l n
+803,German-101_moon-1,,German,101_moon,Mond,m.oː.n.d,m oː n d,,Kessler2001,,False,^ m . oː . n . d $,default,m o n d,d m n o
+804,Hawaiian-101_moon-1,,Hawaiian,101_moon,mahina,m.a.h.i.n.a,m a h i n a,,Kessler2001,,False,^ m . a . h . i . n . a $,default,m a h i n a,a h i m n
+805,Latin-101_moon-1,,Latin,101_moon,luna,l.uː.n.a,l uː n a,,Kessler2001,,False,^ l . uː . n . a $,default,l u n a,a l n u
+806,Navajo-101_moon-1,,Navajo,101_moon,'ooljéé',ʔ.oː.l.ʤ.eː.ʔ,ʔ oː l dʒ eː ʔ,,Kessler2001,,False,^ ʔ . oː . l . ʤ . eː . ʔ $,default,7 o l dZ e 7,7 dZ e l o
+807,Turkish-101_moon-1,,Turkish,101_moon,ay,a.j,a j,,Kessler2001,,False,^ a . j $,default,a y,a y
+808,Albanian-102_mother-1,,Albanian,102_mother,nënë,n.ə.n,n ə n,,Kessler2001,,False,^ n . ə . n $,default,n 3 n,3 n
+809,English-102_mother-1,,English,102_mother,mother,m.ə.ð.ə.r,m ə ð ə r,,Kessler2001,,False,^ m . ə . ð . ə . r $,default,m 3 8 3 r,3 8 m r
+810,French-102_mother-1,,French,102_mother,mère,m.ɛ.r,m ɛ r,,Kessler2001,,False,^ m . ɛ . r $,default,m E r,E m r
+811,German-102_mother-1,,German,102_mother,Mutter,m.u.t.ə.r,m u t ə r,,Kessler2001,,False,^ m . u . t . ə . r $,default,m u t 3 r,3 m r t u
+812,Hawaiian-102_mother-1,,Hawaiian,102_mother,makuahine,m.a.k.u.a.h.i.n.e,m a k u a h i n e,,Kessler2001,,False,^ m . a . k . u . a . h . i . n . e $,default,m a k u a h i n e,a e h i k m n u
+813,Latin-102_mother-1,,Latin,102_mother,mater,m.aː.t.r,m aː t r,,Kessler2001,,False,^ m . aː . t . r $,default,m a t r,a m r t
+814,Navajo-102_mother-1,,Navajo,102_mother,'amá,m.ay,m ay,,Kessler2001,,False,^ m . ay $,default,m ai,ai m
+815,Turkish-102_mother-1,,Turkish,102_mother,anne,a.n.n.e,a n n e,,Kessler2001,,False,^ a . n . n . e $,default,a n n e,a e n
+816,Albanian-103_mountain-1,,Albanian,103_mountain,mal,m.a.l,m a l,,Kessler2001,,False,^ m . a . l $,default,m a l,a l m
+817,English-103_mountain-1,,English,103_mountain,mountain,m.au.n.t.ə.n,m au n t ə n,,Kessler2001,,True,^ m . au . n . t . ə . n $,default,m au n t 3 n,3 au m n t
+818,French-103_mountain-1,,French,103_mountain,montagne,m.ɔ̃.t.a.ɲ,m ɔ̃ t a ɲ,,Kessler2001,,False,^ m . ɔ̃ . t . a . ɲ $,default,m o* t a 5,5 a m o* t
+819,German-103_mountain-1,,German,103_mountain,Berg,b.e.r.g,b e r g,,Kessler2001,,False,^ b . e . r . g $,default,b e r g,b e g r
+820,Hawaiian-103_mountain-1,,Hawaiian,103_mountain,mauna,m.a.u.n.a,m a u n a,,Kessler2001,,False,^ m . a . u . n . a $,default,m a u n a,a m n u
+821,Latin-103_mountain-1,,Latin,103_mountain,mons,m.o.n.t,m o n t,,Kessler2001,,False,^ m . o . n . t $,default,m o n t,m n o t
+822,Navajo-103_mountain-1,,Navajo,103_mountain,dziƚ,ʣ.i.ɬ,dz i ɬ,,Kessler2001,,False,^ ʣ . i . ɬ $,default,dz i L,L dz i
+823,Turkish-103_mountain-1,,Turkish,103_mountain,dağ,d.a.ɣ,d a ɣ,,Kessler2001,,False,^ d . a . ɣ $,default,d a x,a d x
+824,Albanian-104_mouth-1,,Albanian,104_mouth,gojë,g.o.j,g o j,,Kessler2001,,True,^ g . o . j $,default,g o y,g o y
+825,English-104_mouth-1,,English,104_mouth,mouth,m.au.θ,m au θ,,Kessler2001,,False,^ m . au . θ $,default,m au 8,8 au m
+826,French-104_mouth-1,,French,104_mouth,bouche,b.u.ʃ,b u ʃ,,Kessler2001,,False,^ b . u . ʃ $,default,b u S,S b u
+827,German-104_mouth-1,,German,104_mouth,Mund,m.u.n.d,m u n d,,Kessler2001,,False,^ m . u . n . d $,default,m u n d,d m n u
+828,Hawaiian-104_mouth-1,,Hawaiian,104_mouth,waha,w.a.h.a,w a h a,,Kessler2001,,False,^ w . a . h . a $,default,w a h a,a h w
+829,Latin-104_mouth-1,,Latin,104_mouth,os,oː.r,oː r,,Kessler2001,,False,^ oː . r $,default,o r,o r
+830,Navajo-104_mouth-1,,Navajo,104_mouth,'azéé',z.eː.ʔ,z eː ʔ,,Kessler2001,,False,^ z . eː . ʔ $,default,z e 7,7 e z
+831,Turkish-104_mouth-1,,Turkish,104_mouth,ağız,a.ɣ.z,a ɣ z,,Kessler2001,,False,^ a . ɣ . z $,default,a x z,a x z
+832,Albanian-105_name-1,,Albanian,105_name,emër,e.m.ə.r,e m ə r,,Kessler2001,,False,^ e . m . ə . r $,default,e m 3 r,3 e m r
+833,English-105_name-1,,English,105_name,name,n.e.m,n e m,,Kessler2001,,False,^ n . e . m $,default,n e m,e m n
+834,French-105_name-1,,French,105_name,nom,n.ɔ̃,n ɔ̃,,Kessler2001,,False,^ n . ɔ̃ $,default,n o*,n o*
+835,German-105_name-1,,German,105_name,Name,n.aː.m.ə.n,n aː m ə n,,Kessler2001,,False,^ n . aː . m . ə . n $,default,n a m 3 n,3 a m n
+836,Hawaiian-105_name-1,,Hawaiian,105_name,inoa,i.n.o.a,i n o a,,Kessler2001,,False,^ i . n . o . a $,default,i n o a,a i n o
+837,Latin-105_name-1,,Latin,105_name,nomen,n.oː.m.i.n,n oː m i n,,Kessler2001,,False,^ n . oː . m . i . n $,default,n o m i n,i m n o
+838,Navajo-105_name-1,,Navajo,105_name,'ázhi',ʒ.i.ʔ,ʒ i ʔ,,Kessler2001,,False,^ ʒ . i . ʔ $,default,Z i 7,7 Z i
+839,Turkish-105_name-1,,Turkish,105_name,ad,a.d,a d,,Kessler2001,,False,^ a . d $,default,a d,a d
+840,Albanian-106_narrow-1,,Albanian,106_narrow,ngushtë,n.g.u.ʃ.t,n g u ʃ t,,Kessler2001,,True,^ n . g . u . ʃ . t $,default,n g u S t,S g n t u
+841,English-106_narrow-1,,English,106_narrow,narrow,n.a.r.o,n a r o,,Kessler2001,,False,^ n . a . r . o $,default,n a r o,a n o r
+842,French-106_narrow-1,,French,106_narrow,étroit,e.t.r.w.a.t,e t r w a t,,Kessler2001,,False,^ e . t . r . w . a . t $,default,e t r w a t,a e r t w
+843,German-106_narrow-1,,German,106_narrow,eng,e.ŋ,e ŋ,,Kessler2001,,False,^ e . ŋ $,default,e N,N e
+844,Hawaiian-106_narrow-1,,Hawaiian,106_narrow,lā`iki,l.aː.ʔ.i.k.i,l aː ʔ i k i,,Kessler2001,,False,^ l . aː . ʔ . i . k . i $,default,l a 7 i k i,7 a i k l
+845,Latin-106_narrow-1,,Latin,106_narrow,angustus,a.n.g.u.s.t.o,a n g u s t o,,Kessler2001,,False,^ a . n . g . u . s . t . o $,default,a n g u s t o,a g n o s t u
+846,Navajo-106_narrow-1,,Navajo,106_narrow,'áƚts'óózí,ʔ.ay.ɬ.ʦˀ.oː.z.i,ʔ ay ɬ tsˀ oː z i,,Kessler2001,,False,^ ʔ . ay . ɬ . ʦˀ . oː . z . i $,default,7 ai L ts o z i,7 L ai i o ts z
+847,Turkish-106_narrow-1,,Turkish,106_narrow,dar,d.a.r,d a r,,Kessler2001,,False,^ d . a . r $,default,d a r,a d r
+848,Albanian-107_near-1,,Albanian,107_near,afër,a.f.ə.r,a f ə r,,Kessler2001,,False,^ a . f . ə . r $,default,a f 3 r,3 a f r
+849,English-107_near-1,,English,107_near,near,n.ɪ.r,n ɪ r,,Kessler2001,,False,^ n . ɪ . r $,default,n i r,i n r
+850,French-107_near-1,,French,107_near,près de,p.r.ɛ,p r ɛ,,Kessler2001,,False,^ p . r . ɛ $,default,p r E,E p r
+851,German-107_near-1,,German,107_near,nah,n.aː,n aː,,Kessler2001,,False,^ n . aː $,default,n a,a n
+852,Hawaiian-107_near-1,,Hawaiian,107_near,kokoke,k.o.k.o.k.e,k o k o k e,,Kessler2001,,False,^ k . o . k . o . k . e $,default,k o k o k e,e k o
+853,Latin-107_near-1,,Latin,107_near,prope,p.r.o.p.e,p r o p e,,Kessler2001,,False,^ p . r . o . p . e $,default,p r o p e,e o p r
+854,Navajo-107_near-1,,Navajo,107_near,'áhání,ʔ.ay.h.ay.n.i,ʔ ay h ay n i,,Kessler2001,,False,^ ʔ . ay . h . ay . n . i $,default,7 ai h ai n i,7 ai h i n
+855,Turkish-107_near-1,,Turkish,107_near,yakın,j.a.k.ɯ.n,j a k ɯ n,,Kessler2001,,False,^ j . a . k . ɯ . n $,default,y a k u n,a k n u y
+856,Albanian-108_neck-1,,Albanian,108_neck,qafë,c.a.f,c a f,,Kessler2001,,True,^ c . a . f $,default,T a f,T a f
+857,English-108_neck-1,,English,108_neck,neck,n.ɛ.k,n ɛ k,,Kessler2001,,False,^ n . ɛ . k $,default,n E k,E k n
+858,French-108_neck-1,,French,108_neck,cou,k.u,k u,,Kessler2001,,False,^ k . u $,default,k u,k u
+859,German-108_neck-1,,German,108_neck,Hals,h.a.l.z,h a l z,,Kessler2001,,False,^ h . a . l . z $,default,h a l z,a h l z
+860,Hawaiian-108_neck-1,,Hawaiian,108_neck,`ā`ī,ʔ.aː.ʔ.iː,ʔ aː ʔ iː,,Kessler2001,,False,^ ʔ . aː . ʔ . iː $,default,7 a 7 i,7 a i
+861,Latin-108_neck-1,,Latin,108_neck,collum,k.o.l.l.o,k o l l o,,Kessler2001,,False,^ k . o . l . l . o $,default,k o l l o,k l o
+862,Navajo-108_neck-1,,Navajo,108_neck,'ak'os,kˀ.o.s,kˀ o s,,Kessler2001,,False,^ kˀ . o . s $,default,k o s,k o s
+863,Turkish-108_neck-1,,Turkish,108_neck,boyun,b.o.j.n,b o j n,,Kessler2001,,False,^ b . o . j . n $,default,b o y n,b n o y
+864,Albanian-109_new-1,,Albanian,109_new,ri,r.i,r i,,Kessler2001,,False,^ r . i $,default,r i,i r
+865,English-109_new-1,,English,109_new,new,n.u,n u,,Kessler2001,,False,^ n . u $,default,n u,n u
+866,French-109_new-1,,French,109_new,nouveau,n.u.v.ɛ.l,n u v ɛ l,,Kessler2001,,False,^ n . u . v . ɛ . l $,default,n u v E l,E l n u v
+867,German-109_new-1,,German,109_new,neu,n.oi,n oi,,Kessler2001,,False,^ n . oi $,default,n oi,n oi
+868,Hawaiian-109_new-1,,Hawaiian,109_new,hou,h.o.u,h o u,,Kessler2001,,False,^ h . o . u $,default,h o u,h o u
+869,Latin-109_new-1,,Latin,109_new,novos,n.o.w.o,n o w o,,Kessler2001,,False,^ n . o . w . o $,default,n o w o,n o w
+870,Navajo-109_new-1,,Navajo,109_new,'ániid,n.iː.d,n iː d,,Kessler2001,,False,^ n . iː . d $,default,n i d,d i n
+871,Turkish-109_new-1,,Turkish,109_new,yeni,j.e.n.i,j e n i,,Kessler2001,,False,^ j . e . n . i $,default,y e n i,e i n y
+872,Albanian-110_night-1,,Albanian,110_night,natë,n.a.t,n a t,,Kessler2001,,False,^ n . a . t $,default,n a t,a n t
+873,English-110_night-1,,English,110_night,night,n.ai.t,n ai t,,Kessler2001,,False,^ n . ai . t $,default,n ai t,ai n t
+874,French-110_night-1,,French,110_night,nuit,n.ɥ.i,n ɥ i,,Kessler2001,,False,^ n . ɥ . i $,default,n y i,i n y
+875,German-110_night-1,,German,110_night,Nacht,n.a.x.t,n a x t,,Kessler2001,,False,^ n . a . x . t $,default,n a x t,a n t x
+876,Hawaiian-110_night-1,,Hawaiian,110_night,pō,p.oː,p oː,,Kessler2001,,False,^ p . oː $,default,p o,o p
+877,Latin-110_night-1,,Latin,110_night,nox,n.o.k.t,n o k t,,Kessler2001,,False,^ n . o . k . t $,default,n o k t,k n o t
+878,Navajo-110_night-1,,Navajo,110_night,tl'éé',tˡˀ.eː.ʔ,tˡˀ eː ʔ,,Kessler2001,,False,^ tˡˀ . eː . ʔ $,default,t e 7,7 e t
+879,Turkish-110_night-1,,Turkish,110_night,gece,g.e.ʤ.e,g e dʒ e,,Kessler2001,,False,^ g . e . ʤ . e $,default,g e dZ e,dZ e g
+880,Albanian-111_nose-1,,Albanian,111_nose,hundë,h.u.n.d,h u n d,,Kessler2001,,False,^ h . u . n . d $,default,h u n d,d h n u
+881,English-111_nose-1,,English,111_nose,nose,n.o.z,n o z,,Kessler2001,,False,^ n . o . z $,default,n o z,n o z
+882,French-111_nose-1,,French,111_nose,nez,n.e,n e,,Kessler2001,,False,^ n . e $,default,n e,e n
+883,German-111_nose-1,,German,111_nose,Nase,n.aː.z.ə,n aː z ə,,Kessler2001,,False,^ n . aː . z . ə $,default,n a z 3,3 a n z
+884,Hawaiian-111_nose-1,,Hawaiian,111_nose,ihu,i.h.u,i h u,,Kessler2001,,False,^ i . h . u $,default,i h u,h i u
+885,Latin-111_nose-1,,Latin,111_nose,nasus,n.aː.s.o,n aː s o,,Kessler2001,,False,^ n . aː . s . o $,default,n a s o,a n o s
+886,Navajo-111_nose-1,,Navajo,111_nose,'áchį́į́h,ʧ.ĩ́ː.h,tʃ ĩ́ː/ĩ h,,Kessler2001,,False,^ ʧ . ĩ́ː . h $,default,tS i* i* h,h i* tS
+887,Turkish-111_nose-1,,Turkish,111_nose,burun,b.u.r.n,b u r n,,Kessler2001,,False,^ b . u . r . n $,default,b u r n,b n r u
+888,Albanian-112_not-1,,Albanian,112_not,nuk,n.u.k,n u k,,Kessler2001,,False,^ n . u . k $,default,n u k,k n u
+889,English-112_not-1,,English,112_not,not,n.ɑ.t,n ɑ t,,Kessler2001,,False,^ n . ɑ . t $,default,n o t,n o t
+890,French-112_not-1,,French,112_not,ne...pas,p.a,p a,,Kessler2001,,False,^ p . a $,default,p a,a p
+891,German-112_not-1,,German,112_not,nicht,n.i.x.t,n i x t,,Kessler2001,,False,^ n . i . x . t $,default,n i x t,i n t x
+892,Hawaiian-112_not-1,,Hawaiian,112_not,`a`ole,ʔ.a.ʔ.o.l.e,ʔ a ʔ o l e,,Kessler2001,,False,^ ʔ . a . ʔ . o . l . e $,default,7 a 7 o l e,7 a e l o
+893,Latin-112_not-1,,Latin,112_not,non,n.oː.n,n oː n,,Kessler2001,,False,^ n . oː . n $,default,n o n,n o
+894,Navajo-112_not-1,,Navajo,112_not,doo...da,d.oː,d oː,,Kessler2001,,False,^ d . oː $,default,d o,d o
+895,Turkish-112_not-1,,Turkish,112_not,değil,d.e.ɣ.i.l,d e ɣ i l,,Kessler2001,,False,^ d . e . ɣ . i . l $,default,d e x i l,d e i l x
+896,Albanian-113_now-1,,Albanian,113_now,tani,t.a.n.i,t a n i,,Kessler2001,,False,^ t . a . n . i $,default,t a n i,a i n t
+897,English-113_now-1,,English,113_now,now,n.au,n au,,Kessler2001,,False,^ n . au $,default,n au,au n
+898,French-113_now-1,,French,113_now,maintenant,m.ɛ̃.t.n.ɑ̃,m ɛ̃ t n ɑ̃,,Kessler2001,,False,^ m . ɛ̃ . t . n . ɑ̃ $,default,m E* t n o*,E* m n o* t
+899,German-113_now-1,,German,113_now,nun,n.uː.n,n uː n,,Kessler2001,,False,^ n . uː . n $,default,n u n,n u
+900,Hawaiian-113_now-1,,Hawaiian,113_now,`ānō,ʔ.aː.n.oː,ʔ aː n oː,,Kessler2001,,False,^ ʔ . aː . n . oː $,default,7 a n o,7 a n o
+901,Latin-113_now-1,,Latin,113_now,nunc,n.u.n.k,n u n k,,Kessler2001,,False,^ n . u . n . k $,default,n u n k,k n u
+902,Navajo-113_now-1,,Navajo,113_now,k'ad,kˀ.a.d,kˀ a d,,Kessler2001,,False,^ kˀ . a . d $,default,k a d,a d k
+903,Turkish-113_now-1,,Turkish,113_now,şimdi,ʃ.i.m.d.i,ʃ i m d i,,Kessler2001,,False,^ ʃ . i . m . d . i $,default,S i m d i,S d i m
+904,Albanian-114_old-1,,Albanian,114_old,vjetër,v.j.e.t.ə.r,v j e t ə r,,Kessler2001,,True,^ v . j . e . t . ə . r $,default,v y e t 3 r,3 e r t v y
+905,English-114_old-1,,English,114_old,old,o.l.d,o l d,,Kessler2001,,False,^ o . l . d $,default,o l d,d l o
+906,French-114_old-1,,French,114_old,vieil,v.j.ɛ.j,v j ɛ j,,Kessler2001,,False,^ v . j . ɛ . j $,default,v y E y,E v y
+907,German-114_old-1,,German,114_old,alt,a.l.t,a l t,,Kessler2001,,False,^ a . l . t $,default,a l t,a l t
+908,Hawaiian-114_old-1,,Hawaiian,114_old,o`o,o.ʔ.o,o ʔ o,,Kessler2001,,False,^ o . ʔ . o $,default,o 7 o,7 o
+909,Latin-114_old-1,,Latin,114_old,vetus,w.e.t.e.r,w e t e r,,Kessler2001,,False,^ w . e . t . e . r $,default,w e t e r,e r t w
+910,Navajo-114_old-1,,Navajo,114_old,sání,s.ay.n.i,s ay n i,,Kessler2001,,False,^ s . ay . n . i $,default,s ai n i,ai i n s
+911,Turkish-114_old-1,,Turkish,114_old,ihtiyar,i.h.t.i.j.a.r,i h t i j a r,,Kessler2001,,True,^ i . h . t . i . j . a . r $,default,i h t i y a r,a h i r t y
+912,Albanian-115_one-1,,Albanian,115_one,një,ɲ.ə,ɲ ə,,Kessler2001,,False,^ ɲ . ə $,default,5 3,3 5
+913,English-115_one-1,,English,115_one,one,w.ə.n,w ə n,,Kessler2001,,False,^ w . ə . n $,default,w 3 n,3 n w
+914,French-115_one-1,,French,115_one,un,œ̃,œ̃,,Kessler2001,,False,^ œ̃ $,default,E*,E*
+915,German-115_one-1,,German,115_one,eins,ai.n,ai n,,Kessler2001,,False,^ ai . n $,default,ai n,ai n
+916,Hawaiian-115_one-1,,Hawaiian,115_one,`ekahi,ʔ.e.k.a.h.i,ʔ e k a h i,,Kessler2001,,False,^ ʔ . e . k . a . h . i $,default,7 e k a h i,7 a e h i k
+917,Latin-115_one-1,,Latin,115_one,unus,uː.n.o,uː n o,,Kessler2001,,False,^ uː . n . o $,default,u n o,n o u
+918,Navajo-115_one-1,,Navajo,115_one,ƚáa'ii,ɬ.ay.ʔ.iː,ɬ ay ʔ iː,,Kessler2001,,False,^ ɬ . ay . ʔ . iː $,default,L ai 7 i,7 L ai i
+919,Turkish-115_one-1,,Turkish,115_one,bir,b.i.r,b i r,,Kessler2001,,False,^ b . i . r $,default,b i r,b i r
+920,Albanian-116_other-1,,Albanian,116_other,tjetër,t.j.e.t.ə.r,t j e t ə r,,Kessler2001,,False,^ t . j . e . t . ə . r $,default,t y e t 3 r,3 e r t y
+921,English-116_other-1,,English,116_other,other,ə.ð.ə.r,ə ð ə r,,Kessler2001,,False,^ ə . ð . ə . r $,default,3 8 3 r,3 8 r
+922,French-116_other-1,,French,116_other,autre,o.t.r,o t r,,Kessler2001,,False,^ o . t . r $,default,o t r,o r t
+923,German-116_other-1,,German,116_other,anderer,a.n.d.ə.r,a n d ə r,,Kessler2001,,False,^ a . n . d . ə . r $,default,a n d 3 r,3 a d n r
+924,Hawaiian-116_other-1,,Hawaiian,116_other,`ē a`e,ʔ.eː,ʔ eː,,Kessler2001,,False,^ ʔ . eː $,default,7 e,7 e
+925,Latin-116_other-1,,Latin,116_other,alius,a.l.i.o,a l i o,,Kessler2001,,False,^ a . l . i . o $,default,a l i o,a i l o
+926,Navajo-116_other-1,,Navajo,116_other,ƚah,ɬ.a.h,ɬ a h,,Kessler2001,,False,^ ɬ . a . h $,default,L a h,L a h
+927,Turkish-116_other-1,,Turkish,116_other,başka,b.a.ʃ.k.a,b a ʃ k a,,Kessler2001,,False,^ b . a . ʃ . k . a $,default,b a S k a,S a b k
+928,Albanian-117_path-1,,Albanian,117_path,shteg,ʃ.t.e.g,ʃ t e g,,Kessler2001,,False,^ ʃ . t . e . g $,default,S t e g,S e g t
+929,English-117_path-1,,English,117_path,path,p.a.θ,p a θ,,Kessler2001,,False,^ p . a . θ $,default,p a 8,8 a p
+930,French-117_path-1,,French,117_path,sentier,s.ɑ̃.t.j.e,s ɑ̃ t j e,,Kessler2001,,False,^ s . ɑ̃ . t . j . e $,default,s o* t y e,e o* s t y
+931,German-117_path-1,,German,117_path,Pfad,p͡f.aː.d,pf aː d,,Kessler2001,,False,^ p͡f . aː . d $,default,pf a d,a d pf
+932,Hawaiian-117_path-1,,Hawaiian,117_path,ala,a.l.a,a l a,,Kessler2001,,False,^ a . l . a $,default,a l a,a l
+933,Latin-117_path-1,,Latin,117_path,semita,s.eː.m.i.t.a,s eː m i t a,,Kessler2001,,False,^ s . eː . m . i . t . a $,default,s e m i t a,a e i m s t
+934,Navajo-117_path-1,,Navajo,117_path,'atiin,t.iː.n,t iː n,,Kessler2001,,False,^ t . iː . n $,default,t i n,i n t
+935,Turkish-117_path-1,,Turkish,117_path,yol,j.o.l,j o l,,Kessler2001,,False,^ j . o . l $,default,y o l,l o y
+936,Albanian-118_play-1,,Albanian,118_play,luan,l.u.a,l u a,,Kessler2001,,False,^ l . u . a $,default,l u a,a l u
+937,English-118_play-1,,English,118_play,plays,p.l.e,p l e,,Kessler2001,,False,^ p . l . e $,default,p l e,e l p
+938,French-118_play-1,,French,118_play,joue,ʒ.u.e,ʒ u e,,Kessler2001,,False,^ ʒ . u . e $,default,Z u e,Z e u
+939,German-118_play-1,,German,118_play,spielt,ʃ.p.iː.l,ʃ p iː l,,Kessler2001,,False,^ ʃ . p . iː . l $,default,S p i l,S i l p
+940,Hawaiian-118_play-1,,Hawaiian,118_play,pā`ani,p.aː.ʔ.a.n.i,p aː ʔ a n i,,Kessler2001,,False,^ p . aː . ʔ . a . n . i $,default,p a 7 a n i,7 a i n p
+941,Latin-118_play-1,,Latin,118_play,ludit,l.uː.d.e,l uː d e,,Kessler2001,,False,^ l . uː . d . e $,default,l u d e,d e l u
+942,Navajo-118_play-1,,Navajo,118_play,naashné,n.aː.n.e,n aː n e,,Kessler2001,,False,^ n . aː . n . e $,default,n a n e,a e n
+943,Turkish-118_play-1,,Turkish,118_play,oynayor,o.j.n.a,o j n a,,Kessler2001,,False,^ o . j . n . a $,default,o y n a,a n o y
+944,Albanian-119_pull-1,,Albanian,119_pull,tërheq,t.ə.r.h.e.c,t ə r h e c,,Kessler2001,,False,^ t . ə . r . h . e . c $,default,t 3 r h e T,3 T e h r t
+945,English-119_pull-1,,English,119_pull,pulls,p.ʊ.l,p ʊ l,,Kessler2001,,False,^ p . ʊ . l $,default,p u l,l p u
+946,French-119_pull-1,,French,119_pull,tire,t.i.r.e,t i r e,,Kessler2001,,False,^ t . i . r . e $,default,t i r e,e i r t
+947,German-119_pull-1,,German,119_pull,zieht,ʦ.iː,ts iː,,Kessler2001,,False,^ ʦ . iː $,default,ts i,i ts
+948,Hawaiian-119_pull-1,,Hawaiian,119_pull,huki,h.u.k.i,h u k i,,Kessler2001,,False,^ h . u . k . i $,default,h u k i,h i k u
+949,Latin-119_pull-1,,Latin,119_pull,trahit,t.r.a.h.e,t r a h e,,Kessler2001,,False,^ t . r . a . h . e $,default,t r a h e,a e h r t
+950,Navajo-119_pull-1,,Navajo,119_pull,yisdzį́į́s,j.i.ʣ.ĩ́ː.s,j i dz ĩ́ː/ĩ s,,Kessler2001,,False,^ j . i . ʣ . ĩ́ː . s $,default,y i dz i* i* s,dz i i* s y
+951,Turkish-119_pull-1,,Turkish,119_pull,çekiyor,ʧ.e.k,tʃ e k,,Kessler2001,,False,^ ʧ . e . k $,default,tS e k,e k tS
+952,Albanian-120_push-1,,Albanian,120_push,shtyn,ʃ.t.y,ʃ t y,,Kessler2001,,False,^ ʃ . t . y $,default,S t i,S i t
+953,English-120_push-1,,English,120_push,pushes,p.ʊ.ʃ,p ʊ ʃ,,Kessler2001,,True,^ p . ʊ . ʃ $,default,p u S,S p u
+954,French-120_push-1,,French,120_push,pousse,p.u.s.e,p u s e,,Kessler2001,,False,^ p . u . s . e $,default,p u s e,e p s u
+955,German-120_push-1,,German,120_push,stößt,ʃ.t.oː.s,ʃ t oː s,,Kessler2001,,False,^ ʃ . t . oː . s $,default,S t o s,S o s t
+956,Hawaiian-120_push-1,,Hawaiian,120_push,pahu,p.a.h.u,p a h u,,Kessler2001,,False,^ p . a . h . u $,default,p a h u,a h p u
+957,Latin-120_push-1,,Latin,120_push,trudit,t.r.uː.d.e,t r uː d e,,Kessler2001,,False,^ t . r . uː . d . e $,default,t r u d e,d e r t u
+958,Navajo-120_push-1,,Navajo,120_push,béshhííƚ,b.e.ɣ.iː.ɬ,b e ɣ iː ɬ,,Kessler2001,,False,^ b . e . ɣ . iː . ɬ $,default,b e x i L,L b e i x
+959,Turkish-120_push-1,,Turkish,120_push,itiyor,i.t,i t,,Kessler2001,,False,^ i . t $,default,i t,i t
+960,Albanian-121_rain-1,,Albanian,121_rain,shi,ʃ.i,ʃ i,,Kessler2001,,False,^ ʃ . i $,default,S i,S i
+961,English-121_rain-1,,English,121_rain,rain,r.e.n,r e n,,Kessler2001,,False,^ r . e . n $,default,r e n,e n r
+962,French-121_rain-1,,French,121_rain,pluie,p.l.ɥ.i,p l ɥ i,,Kessler2001,,False,^ p . l . ɥ . i $,default,p l y i,i l p y
+963,German-121_rain-1,,German,121_rain,Regen,r.eː.g.ə.n,r eː g ə n,,Kessler2001,,False,^ r . eː . g . ə . n $,default,r e g 3 n,3 e g n r
+964,Hawaiian-121_rain-1,,Hawaiian,121_rain,ua,u.a,u a,,Kessler2001,,False,^ u . a $,default,u a,a u
+965,Latin-121_rain-1,,Latin,121_rain,pluvia,p.l.u.w.i.a,p l u w i a,,Kessler2001,,False,^ p . l . u . w . i . a $,default,p l u w i a,a i l p u w
+966,Navajo-121_rain-1,,Navajo,121_rain,níƚtsą́,n.i.ɬ.ʦ.ã́,n i ɬ ts ã́/ã,,Kessler2001,,False,^ n . i . ɬ . ʦ . ã́ $,default,n i L ts a* a*,L a* i n ts
+967,Turkish-121_rain-1,,Turkish,121_rain,yağmur,j.a.ɣ.m.u.r,j a ɣ m u r,,Kessler2001,,False,^ j . a . ɣ . m . u . r $,default,y a x m u r,a m r u x y
+968,Albanian-122_red-1,,Albanian,122_red,kuq,k.u.c,k u c,,Kessler2001,,True,^ k . u . c $,default,k u T,T k u
+969,English-122_red-1,,English,122_red,red,r.ɛ.d,r ɛ d,,Kessler2001,,False,^ r . ɛ . d $,default,r E d,E d r
+970,French-122_red-1,,French,122_red,rouge,r.u.ʒ,r u ʒ,,Kessler2001,,False,^ r . u . ʒ $,default,r u Z,Z r u
+971,German-122_red-1,,German,122_red,rot,r.oː.t,r oː t,,Kessler2001,,False,^ r . oː . t $,default,r o t,o r t
+972,Hawaiian-122_red-1,,Hawaiian,122_red,`ula,ʔ.u.l.a,ʔ u l a,,Kessler2001,,False,^ ʔ . u . l . a $,default,7 u l a,7 a l u
+973,Latin-122_red-1,,Latin,122_red,ruber,r.u.b.r.o,r u b r o,,Kessler2001,,False,^ r . u . b . r . o $,default,r u b r o,b o r u
+974,Navajo-122_red-1,,Navajo,122_red,ƚichííh,ɬ.i.ʧ.iː.h,ɬ i tʃ iː h,,Kessler2001,,False,^ ɬ . i . ʧ . iː . h $,default,L i tS i h,L h i tS
+975,Turkish-122_red-1,,Turkish,122_red,kızıl,k.ɯ.z.ɯ.l,k ɯ z ɯ l,,Kessler2001,,False,^ k . ɯ . z . ɯ . l $,default,k u z u l,k l u z
+976,Albanian-123_right-1,,Albanian,123_right,djathtë,d.j.a.θ.t,d j a θ t,,Kessler2001,,False,^ d . j . a . θ . t $,default,d y a 8 t,8 a d t y
+977,English-123_right-1,,English,123_right,right,r.ai.t,r ai t,,Kessler2001,,False,^ r . ai . t $,default,r ai t,ai r t
+978,French-123_right-1,,French,123_right,droit,d.r.w.a.t,d r w a t,,Kessler2001,,False,^ d . r . w . a . t $,default,d r w a t,a d r t w
+979,German-123_right-1,,German,123_right,recht,r.e.x.t,r e x t,,Kessler2001,,False,^ r . e . x . t $,default,r e x t,e r t x
+980,Hawaiian-123_right-1,,Hawaiian,123_right,`ākau,ʔ.aː.k.a.u,ʔ aː k a u,,Kessler2001,,False,^ ʔ . aː . k . a . u $,default,7 a k a u,7 a k u
+981,Latin-123_right-1,,Latin,123_right,dexter,d.e.k.s.t.e.r,d e k s t e r,,Kessler2001,,False,^ d . e . k . s . t . e . r $,default,d e k s t e r,d e k r s t
+982,Navajo-123_right-1,,Navajo,123_right,nish'ná,n.i.ʃ.n.ay,n i ʃ n ay,,Kessler2001,,False,^ n . i . ʃ . n . ay $,default,n i S n ai,S ai i n
+983,Turkish-123_right-1,,Turkish,123_right,sağ,s.a.ɣ,s a ɣ,,Kessler2001,,False,^ s . a . ɣ $,default,s a x,a s x
+984,Albanian-124_river-1,,Albanian,124_river,lumë,l.u.m,l u m,,Kessler2001,,False,^ l . u . m $,default,l u m,l m u
+985,English-124_river-1,,English,124_river,river,r.ɪ.v.ə.r,r ɪ v ə r,,Kessler2001,,True,^ r . ɪ . v . ə . r $,default,r i v 3 r,3 i r v
+986,French-124_river-1,,French,124_river,fleuve,f.l.ø.v,f l ø v,,Kessler2001,,True,^ f . l . ø . v $,default,f l e v,e f l v
+987,German-124_river-1,,German,124_river,Fluss,f.l.u.s,f l u s,,Kessler2001,,False,^ f . l . u . s $,default,f l u s,f l s u
+988,Hawaiian-124_river-1,,Hawaiian,124_river,kahawai,k.a.h.a.w.a.i,k a h a w a i,,Kessler2001,,False,^ k . a . h . a . w . a . i $,default,k a h a w a i,a h i k w
+989,Latin-124_river-1,,Latin,124_river,flumen,f.l.uː.m.i.n,f l uː m i n,,Kessler2001,,False,^ f . l . uː . m . i . n $,default,f l u m i n,f i l m n u
+990,Navajo-124_river-1,,Navajo,124_river,tooh,t.oː.h,t oː h,,Kessler2001,,False,^ t . oː . h $,default,t o h,h o t
+991,Turkish-124_river-1,,Turkish,124_river,nehir,n.e.h.i.r,n e h i r,,Kessler2001,,True,^ n . e . h . i . r $,default,n e h i r,e h i n r
+992,Albanian-125_root-1,,Albanian,125_root,rrënjë,rː.ə.ɲ,rː ə ɲ,,Kessler2001,,False,^ rː . ə . ɲ $,default,r 3 5,3 5 r
+993,English-125_root-1,,English,125_root,root,r.u.t,r u t,,Kessler2001,,True,^ r . u . t $,default,r u t,r t u
+994,French-125_root-1,,French,125_root,racine,r.a.s.i.n,r a s i n,,Kessler2001,,False,^ r . a . s . i . n $,default,r a s i n,a i n r s
+995,German-125_root-1,,German,125_root,Wurzel,v.u.r.ʦ.ə.l,v u r ts ə l,,Kessler2001,,False,^ v . u . r . ʦ . ə . l $,default,v u r ts 3 l,3 l r ts u v
+996,Hawaiian-125_root-1,,Hawaiian,125_root,a`a,a.ʔ.a,a ʔ a,,Kessler2001,,False,^ a . ʔ . a $,default,a 7 a,7 a
+997,Latin-125_root-1,,Latin,125_root,radix,r.aː.d.iː.k,r aː d iː k,,Kessler2001,,False,^ r . aː . d . iː . k $,default,r a d i k,a d i k r
+998,Navajo-125_root-1,,Navajo,125_root,'akétl'óól,k.e.tˡˀ.oː.l,k e tˡˀ oː l,,Kessler2001,,False,^ k . e . tˡˀ . oː . l $,default,k e t o l,e k l o t
+999,Turkish-125_root-1,,Turkish,125_root,kök,k.ø.k,k ø k,,Kessler2001,,False,^ k . ø . k $,default,k e k,e k
+1000,Albanian-126_rotten-1,,Albanian,126_rotten,kalbur,k.a.l.b.u.r,k a l b u r,,Kessler2001,,False,^ k . a . l . b . u . r $,default,k a l b u r,a b k l r u
+1001,English-126_rotten-1,,English,126_rotten,rotten,r.ɑ.t.ə.n,r ɑ t ə n,,Kessler2001,,True,^ r . ɑ . t . ə . n $,default,r o t 3 n,3 n o r t
+1002,French-126_rotten-1,,French,126_rotten,pourri,p.u.r.i,p u r i,,Kessler2001,,False,^ p . u . r . i $,default,p u r i,i p r u
+1003,German-126_rotten-1,,German,126_rotten,faul,f.au.l,f au l,,Kessler2001,,False,^ f . au . l $,default,f au l,au f l
+1004,Hawaiian-126_rotten-1,,Hawaiian,126_rotten,pilau,p.i.l.a.u,p i l a u,,Kessler2001,,False,^ p . i . l . a . u $,default,p i l a u,a i l p u
+1005,Latin-126_rotten-1,,Latin,126_rotten,putridus,p.u.t.r.i.d.o,p u t r i d o,,Kessler2001,,False,^ p . u . t . r . i . d . o $,default,p u t r i d o,d i o p r t u
+1006,Navajo-126_rotten-1,,Navajo,126_rotten,diƚdzííd,d.i.ɬ.ʣ.iː.d,d i ɬ dz iː d,,Kessler2001,,False,^ d . i . ɬ . ʣ . iː . d $,default,d i L dz i d,L d dz i
+1007,Turkish-126_rotten-1,,Turkish,126_rotten,çürük,ʧ.y.r.y.k,tʃ y r y k,,Kessler2001,,False,^ ʧ . y . r . y . k $,default,tS i r i k,i k r tS
+1008,Albanian-127_round-1,,Albanian,127_round,rrumbullák,rː.u.m.b.u.ł.a.k,rː u m b u ł a k,,Kessler2001,,False,^ rː . u . m . b . u . ł . a . k $,default,r u m b u l a k,a b k l m r u
+1009,English-127_round-1,,English,127_round,round,r.au.n.d,r au n d,,Kessler2001,,True,^ r . au . n . d $,default,r au n d,au d n r
+1010,French-127_round-1,,French,127_round,rond,r.ɔ̃.d,r ɔ̃ d,,Kessler2001,,False,^ r . ɔ̃ . d $,default,r o* d,d o* r
+1011,German-127_round-1,,German,127_round,rund,r.u.n.d,r u n d,,Kessler2001,,True,^ r . u . n . d $,default,r u n d,d n r u
+1012,Hawaiian-127_round-1,,Hawaiian,127_round,poepoe,p.o.e.p.o.e,p o e p o e,,Kessler2001,,False,^ p . o . e . p . o . e $,default,p o e p o e,e o p
+1013,Latin-127_round-1,,Latin,127_round,rotundus,r.o.t.u.n.d.o,r o t u n d o,,Kessler2001,,False,^ r . o . t . u . n . d . o $,default,r o t u n d o,d n o r t u
+1014,Navajo-127_round-1,,Navajo,127_round,nímaz,n.i.m.a.z,n i m a z,,Kessler2001,,False,^ n . i . m . a . z $,default,n i m a z,a i m n z
+1015,Turkish-127_round-1,,Turkish,127_round,yuvarlak,j.u.v.a.r.l.a.k,j u v a r l a k,,Kessler2001,,False,^ j . u . v . a . r . l . a . k $,default,y u v a r l a k,a k l r u v y
+1016,Albanian-128_rub-1,,Albanian,128_rub,fërkon,f.ə.r.k.o,f ə r k o,,Kessler2001,,True,^ f . ə . r . k . o $,default,f 3 r k o,3 f k o r
+1017,English-128_rub-1,,English,128_rub,rubs,r.ə.b,r ə b,,Kessler2001,,False,^ r . ə . b $,default,r 3 b,3 b r
+1018,French-128_rub-1,,French,128_rub,frotte,f.r.ɔ.t.e,f r ɔ t e,,Kessler2001,,False,^ f . r . ɔ . t . e $,default,f r o t e,e f o r t
+1019,German-128_rub-1,,German,128_rub,reibt,r.ai.b,r ai b,,Kessler2001,,False,^ r . ai . b $,default,r ai b,ai b r
+1020,Hawaiian-128_rub-1,,Hawaiian,128_rub,`ānai,ʔ.aː.n.a.i,ʔ aː n a i,,Kessler2001,,False,^ ʔ . aː . n . a . i $,default,7 a n a i,7 a i n
+1021,Latin-128_rub-1,,Latin,128_rub,fricat,f.r.i.k.aː,f r i k aː,,Kessler2001,,False,^ f . r . i . k . aː $,default,f r i k a,a f i k r
+1022,Navajo-128_rub-1,,Navajo,128_rub,bídinishhish,b.i.d.i.n.i.ɣ.i.ʃ,b i d i n i ɣ i ʃ,,Kessler2001,,False,^ b . i . d . i . n . i . ɣ . i . ʃ $,default,b i d i n i x i S,S b d i n x
+1023,Turkish-128_rub-1,,Turkish,128_rub,sürtüyor,s.y.r.t,s y r t,,Kessler2001,,False,^ s . y . r . t $,default,s i r t,i r s t
+1024,Albanian-129_salt-1,,Albanian,129_salt,kripë,k.r.i.p,k r i p,,Kessler2001,,False,^ k . r . i . p $,default,k r i p,i k p r
+1025,English-129_salt-1,,English,129_salt,salt,s.ɔ.l.t,s ɔ l t,,Kessler2001,,False,^ s . ɔ . l . t $,default,s o l t,l o s t
+1026,French-129_salt-1,,French,129_salt,sel,s.ɛ.l,s ɛ l,,Kessler2001,,False,^ s . ɛ . l $,default,s E l,E l s
+1027,German-129_salt-1,,German,129_salt,Salz,z.a.l.ʦ,z a l ts,,Kessler2001,,False,^ z . a . l . ʦ $,default,z a l ts,a l ts z
+1028,Hawaiian-129_salt-1,,Hawaiian,129_salt,pa`akai,p.a.ʔ.a.k.a.i,p a ʔ a k a i,,Kessler2001,,False,^ p . a . ʔ . a . k . a . i $,default,p a 7 a k a i,7 a i k p
+1029,Latin-129_salt-1,,Latin,129_salt,sal,s.a.l,s a l,,Kessler2001,,False,^ s . a . l $,default,s a l,a l s
+1030,Navajo-129_salt-1,,Navajo,129_salt,'áshįįh,ʔ.ay.ʃ.ĩː.h,ʔ ay ʃ ĩː h,,Kessler2001,,False,^ ʔ . ay . ʃ . ĩː . h $,default,7 ai S i* h,7 S ai h i*
+1031,Turkish-129_salt-1,,Turkish,129_salt,tuz,t.u.z,t u z,,Kessler2001,,False,^ t . u . z $,default,t u z,t u z
+1032,Albanian-130_sand-1,,Albanian,130_sand,rërë,r.ə.r,r ə r,,Kessler2001,,True,^ r . ə . r $,default,r 3 r,3 r
+1033,English-130_sand-1,,English,130_sand,sand,s.a.n.d,s a n d,,Kessler2001,,False,^ s . a . n . d $,default,s a n d,a d n s
+1034,French-130_sand-1,,French,130_sand,sable,s.a.b.l,s a b l,,Kessler2001,,False,^ s . a . b . l $,default,s a b l,a b l s
+1035,German-130_sand-1,,German,130_sand,Sand,z.a.n.d,z a n d,,Kessler2001,,False,^ z . a . n . d $,default,z a n d,a d n z
+1036,Hawaiian-130_sand-1,,Hawaiian,130_sand,one,o.n.e,o n e,,Kessler2001,,False,^ o . n . e $,default,o n e,e n o
+1037,Latin-130_sand-1,,Latin,130_sand,arena,a.r.eː.n.a,a r eː n a,,Kessler2001,,False,^ a . r . eː . n . a $,default,a r e n a,a e n r
+1038,Navajo-130_sand-1,,Navajo,130_sand,séí,s.e.i,s e i,,Kessler2001,,False,^ s . e . i $,default,s e i,e i s
+1039,Turkish-130_sand-1,,Turkish,130_sand,kum,k.u.m,k u m,,Kessler2001,,False,^ k . u . m $,default,k u m,k m u
+1040,Albanian-131_say-1,,Albanian,131_say,thotë,θ,θ,,Kessler2001,,False,^ θ $,default,8,8
+1041,English-131_say-1,,English,131_say,says,s.e,s e,,Kessler2001,,False,^ s . e $,default,s e,e s
+1042,French-131_say-1,,French,131_say,dit,d.i,d i,,Kessler2001,,False,^ d . i $,default,d i,d i
+1043,German-131_say-1,,German,131_say,sagt,z.aː.g,z aː g,,Kessler2001,,False,^ z . aː . g $,default,z a g,a g z
+1044,Hawaiian-131_say-1,,Hawaiian,131_say,`ōlelo,ʔ.oː.l.e.l.o,ʔ oː l e l o,,Kessler2001,,False,^ ʔ . oː . l . e . l . o $,default,7 o l e l o,7 e l o
+1045,Latin-131_say-1,,Latin,131_say,dicit,d.iː.k.e,d iː k e,,Kessler2001,,False,^ d . iː . k . e $,default,d i k e,d e i k
+1046,Navajo-131_say-1,,Navajo,131_say,ní,n.i,n i,,Kessler2001,,False,^ n . i $,default,n i,i n
+1047,Turkish-131_say-1,,Turkish,131_say,diyor,d.e,d e,,Kessler2001,,False,^ d . e $,default,d e,d e
+1048,Albanian-132_scratch-1,,Albanian,132_scratch,gërvish,g.ə.r.v.i.ʃ,g ə r v i ʃ,,Kessler2001,,False,^ g . ə . r . v . i . ʃ $,default,g 3 r v i S,3 S g i r v
+1049,English-132_scratch-1,,English,132_scratch,scratches,s.k.r.a.ʧ,s k r a tʃ,,Kessler2001,,False,^ s . k . r . a . ʧ $,default,s k r a tS,a k r s tS
+1050,French-132_scratch-1,,French,132_scratch,gratte,g.r.a.t,g r a t,,Kessler2001,,True,^ g . r . a . t $,default,g r a t,a g r t
+1051,German-132_scratch-1,,German,132_scratch,kratzt,k.r.a.ʦ,k r a ts,,Kessler2001,,False,^ k . r . a . ʦ $,default,k r a ts,a k r ts
+1052,Hawaiian-132_scratch-1,,Hawaiian,132_scratch,walu,w.a.l.u,w a l u,,Kessler2001,,False,^ w . a . l . u $,default,w a l u,a l u w
+1053,Latin-132_scratch-1,,Latin,132_scratch,scabit,s.k.a.b.e,s k a b e,,Kessler2001,,False,^ s . k . a . b . e $,default,s k a b e,a b e k s
+1054,Navajo-132_scratch-1,,Navajo,132_scratch,'ashch'id,ʔ.a.ʧˀ.i.d,ʔ a tʃˀ i d,,Kessler2001,,False,^ ʔ . a . ʧˀ . i . d $,default,7 a tS i d,7 a d i tS
+1055,Turkish-132_scratch-1,,Turkish,132_scratch,tırmalıyor,t.ɯ.r.m.a.l.a,t ɯ r m a l a,,Kessler2001,,False,^ t . ɯ . r . m . a . l . a $,default,t u r m a l a,a l m r t u
+1056,Albanian-133_sea-1,,Albanian,133_sea,det,d.e.t,d e t,,Kessler2001,,False,^ d . e . t $,default,d e t,d e t
+1057,English-133_sea-1,,English,133_sea,sea,s.i,s i,,Kessler2001,,False,^ s . i $,default,s i,i s
+1058,French-133_sea-1,,French,133_sea,mer,m.ɛ.r,m ɛ r,,Kessler2001,,False,^ m . ɛ . r $,default,m E r,E m r
+1059,German-133_sea-1,,German,133_sea,See,z.eː,z eː,,Kessler2001,,False,^ z . eː $,default,z e,e z
+1060,Hawaiian-133_sea-1,,Hawaiian,133_sea,kai,k.a.i,k a i,,Kessler2001,,False,^ k . a . i $,default,k a i,a i k
+1061,Latin-133_sea-1,,Latin,133_sea,mare,m.a.r.e,m a r e,,Kessler2001,,False,^ m . a . r . e $,default,m a r e,a e m r
+1062,Navajo-133_sea-1,,Navajo,133_sea,tónteel,t.o.n.t.eː.l,t o n t eː l,,Kessler2001,,False,^ t . o . n . t . eː . l $,default,t o n t e l,e l n o t
+1063,Turkish-133_sea-1,,Turkish,133_sea,deniz,d.e.n.i.z,d e n i z,,Kessler2001,,False,^ d . e . n . i . z $,default,d e n i z,d e i n z
+1064,Albanian-134_see-1,,Albanian,134_see,sheh,ʃ,ʃ,,Kessler2001,,False,^ ʃ $,default,S,S
+1065,English-134_see-1,,English,134_see,sees,s.i,s i,,Kessler2001,,False,^ s . i $,default,s i,i s
+1066,French-134_see-1,,French,134_see,voit,v.w.a,v w a,,Kessler2001,,False,^ v . w . a $,default,v w a,a v w
+1067,German-134_see-1,,German,134_see,sieht,z.eː,z eː,,Kessler2001,,False,^ z . eː $,default,z e,e z
+1068,Hawaiian-134_see-1,,Hawaiian,134_see,`ike,ʔ.i.k.e,ʔ i k e,,Kessler2001,,False,^ ʔ . i . k . e $,default,7 i k e,7 e i k
+1069,Latin-134_see-1,,Latin,134_see,videt,w.i.d.eː,w i d eː,,Kessler2001,,False,^ w . i . d . eː $,default,w i d e,d e i w
+1070,Navajo-134_see-1,,Navajo,134_see,yish'į́,j.i.ʔ.ĩ́,j i ʔ ĩ́/ĩ,,Kessler2001,,False,^ j . i . ʔ . ĩ́ $,default,y i 7 i* i*,7 i i* y
+1071,Turkish-134_see-1,,Turkish,134_see,görüyor,g.ø.r,g ø r,,Kessler2001,,False,^ g . ø . r $,default,g e r,e g r
+1072,Albanian-135_seed-1,,Albanian,135_seed,farë,f.a.r,f a r,,Kessler2001,,False,^ f . a . r $,default,f a r,a f r
+1073,English-135_seed-1,,English,135_seed,seed,s.i.d,s i d,,Kessler2001,,False,^ s . i . d $,default,s i d,d i s
+1074,French-135_seed-1,,French,135_seed,graine,g.r.ɛ.n,g r ɛ n,,Kessler2001,,False,^ g . r . ɛ . n $,default,g r E n,E g n r
+1075,German-135_seed-1,,German,135_seed,Same,z.aː.m.ə.n,z aː m ə n,,Kessler2001,,False,^ z . aː . m . ə . n $,default,z a m 3 n,3 a m n z
+1076,Hawaiian-135_seed-1,,Hawaiian,135_seed,`ano`ano,ʔ.a.n.o.ʔ.a.n.o,ʔ a n o ʔ a n o,,Kessler2001,,False,^ ʔ . a . n . o . ʔ . a . n . o $,default,7 a n o 7 a n o,7 a n o
+1077,Latin-135_seed-1,,Latin,135_seed,semen,s.eː.m.i.n,s eː m i n,,Kessler2001,,False,^ s . eː . m . i . n $,default,s e m i n,e i m n s
+1078,Navajo-135_seed-1,,Navajo,135_seed,k'eelyéí,kˀ.eː.l.j.e.i,kˀ eː l j e i,,Kessler2001,,False,^ kˀ . eː . l . j . e . i $,default,k e l y e i,e i k l y
+1079,Turkish-135_seed-1,,Turkish,135_seed,tohum,t.o.h.u.m,t o h u m,,Kessler2001,,True,^ t . o . h . u . m $,default,t o h u m,h m o t u
+1080,Albanian-136_sew-1,,Albanian,136_sew,qep,c.e.p,c e p,,Kessler2001,,False,^ c . e . p $,default,T e p,T e p
+1081,English-136_sew-1,,English,136_sew,sews,s.o,s o,,Kessler2001,,False,^ s . o $,default,s o,o s
+1082,French-136_sew-1,,French,136_sew,coud,k.u.z,k u z,,Kessler2001,,False,^ k . u . z $,default,k u z,k u z
+1083,German-136_sew-1,,German,136_sew,näht,n.eː,n eː,,Kessler2001,,False,^ n . eː $,default,n e,e n
+1084,Hawaiian-136_sew-1,,Hawaiian,136_sew,humu,h.u.m.u,h u m u,,Kessler2001,,False,^ h . u . m . u $,default,h u m u,h m u
+1085,Latin-136_sew-1,,Latin,136_sew,suit,s.u.e,s u e,,Kessler2001,,False,^ s . u . e $,default,s u e,e s u
+1086,Navajo-136_sew-1,,Navajo,136_sew,náiƚkad,n.ay.i.ɬ.k.a.d,n ay i ɬ k a d,,Kessler2001,,False,^ n . ay . i . ɬ . k . a . d $,default,n ai i L k a d,L a ai d i k n
+1087,Turkish-136_sew-1,,Turkish,136_sew,dikiyor,d.i.k,d i k,,Kessler2001,,False,^ d . i . k $,default,d i k,d i k
+1088,Albanian-137_sharp-1,,Albanian,137_sharp,mprehtë,m.p.r.e.h.t,m p r e h t,,Kessler2001,,False,^ m . p . r . e . h . t $,default,m p r e h t,e h m p r t
+1089,English-137_sharp-1,,English,137_sharp,sharp,ʃ.a.r.p,ʃ a r p,,Kessler2001,,False,^ ʃ . a . r . p $,default,S a r p,S a p r
+1090,French-137_sharp-1,,French,137_sharp,tranchant,t.r.ɑ̃.ʃ.ɑ̃.t,t r ɑ̃ ʃ ɑ̃ t,,Kessler2001,,False,^ t . r . ɑ̃ . ʃ . ɑ̃ . t $,default,t r o* S o* t,S o* r t
+1091,German-137_sharp-1,,German,137_sharp,scharf,ʃ.a.r.f,ʃ a r f,,Kessler2001,,False,^ ʃ . a . r . f $,default,S a r f,S a f r
+1092,Hawaiian-137_sharp-1,,Hawaiian,137_sharp,`oi,ʔ.o.i,ʔ o i,,Kessler2001,,False,^ ʔ . o . i $,default,7 o i,7 i o
+1093,Latin-137_sharp-1,,Latin,137_sharp,acutus,a.k.uː.t.o,a k uː t o,,Kessler2001,,False,^ a . k . uː . t . o $,default,a k u t o,a k o t u
+1094,Navajo-137_sharp-1,,Navajo,137_sharp,deení,d.eː.n.i,d eː n i,,Kessler2001,,False,^ d . eː . n . i $,default,d e n i,d e i n
+1095,Turkish-137_sharp-1,,Turkish,137_sharp,keskin,k.e.s.k.i.n,k e s k i n,,Kessler2001,,False,^ k . e . s . k . i . n $,default,k e s k i n,e i k n s
+1096,Albanian-138_short-1,,Albanian,138_short,shkurtër,ʃ.k.u.r.t.ə.r,ʃ k u r t ə r,,Kessler2001,,True,^ ʃ . k . u . r . t . ə . r $,default,S k u r t 3 r,3 S k r t u
+1097,English-138_short-1,,English,138_short,short,ʃ.ɔ.r.t,ʃ ɔ r t,,Kessler2001,,False,^ ʃ . ɔ . r . t $,default,S o r t,S o r t
+1098,French-138_short-1,,French,138_short,court,k.u.r.t,k u r t,,Kessler2001,,False,^ k . u . r . t $,default,k u r t,k r t u
+1099,German-138_short-1,,German,138_short,kurz,k.u.r.ʦ,k u r ts,,Kessler2001,,True,^ k . u . r . ʦ $,default,k u r ts,k r ts u
+1100,Hawaiian-138_short-1,,Hawaiian,138_short,pōkole,p.oː.k.o.l.e,p oː k o l e,,Kessler2001,,False,^ p . oː . k . o . l . e $,default,p o k o l e,e k l o p
+1101,Latin-138_short-1,,Latin,138_short,brevis,b.r.e.w.i,b r e w i,,Kessler2001,,False,^ b . r . e . w . i $,default,b r e w i,b e i r w
+1102,Navajo-138_short-1,,Navajo,138_short,yázhí,j.ay.ʒ.i,j ay ʒ i,,Kessler2001,,False,^ j . ay . ʒ . i $,default,y ai Z i,Z ai i y
+1103,Turkish-138_short-1,,Turkish,138_short,kısa,k.ɯ.s.a,k ɯ s a,,Kessler2001,,False,^ k . ɯ . s . a $,default,k u s a,a k s u
+1104,Albanian-139_sing-1,,Albanian,139_sing,këndon,k.ə.n.d.o,k ə n d o,,Kessler2001,,True,^ k . ə . n . d . o $,default,k 3 n d o,3 d k n o
+1105,English-139_sing-1,,English,139_sing,sings,s.ɪ.ŋ,s ɪ ŋ,,Kessler2001,,False,^ s . ɪ . ŋ $,default,s i N,N i s
+1106,French-139_sing-1,,French,139_sing,chante,ʃ.ɑ̃.t.e,ʃ ɑ̃ t e,,Kessler2001,,False,^ ʃ . ɑ̃ . t . e $,default,S o* t e,S e o* t
+1107,German-139_sing-1,,German,139_sing,singt,z.i.ŋ,z i ŋ,,Kessler2001,,False,^ z . i . ŋ $,default,z i N,N i z
+1108,Hawaiian-139_sing-1,,Hawaiian,139_sing,mele,m.e.l.e,m e l e,,Kessler2001,,False,^ m . e . l . e $,default,m e l e,e l m
+1109,Latin-139_sing-1,,Latin,139_sing,canit,k.a.n.i.t,k a n i t,,Kessler2001,,False,^ k . a . n . i . t $,default,k a n i t,a i k n t
+1110,Navajo-139_sing-1,,Navajo,139_sing,hataaƚ,h.a.t.aː.ɬ,h a t aː ɬ,,Kessler2001,,False,^ h . a . t . aː . ɬ $,default,h a t a L,L a h t
+1111,Turkish-139_sing-1,,Turkish,139_sing,şarkı söylüyor,ʃ.a.r.k.ɯ,ʃ a r k ɯ,,Kessler2001,,False,^ ʃ . a . r . k . ɯ $,default,S a r k u,S a k r u
+1112,Albanian-140_sit-1,,Albanian,140_sit,(rri) ndenjur,n.d.e.ɲ,n d e ɲ,,Kessler2001,,False,^ n . d . e . ɲ $,default,n d e 5,5 d e n
+1113,English-140_sit-1,,English,140_sit,sits,s.ɪ.t,s ɪ t,,Kessler2001,,False,^ s . ɪ . t $,default,s i t,i s t
+1114,French-140_sit-1,,French,140_sit,(est) assis,a.s.i.z,a s i z,,Kessler2001,,False,^ a . s . i . z $,default,a s i z,a i s z
+1115,German-140_sit-1,,German,140_sit,sitzt,z.i.ʦ,z i ts,,Kessler2001,,False,^ z . i . ʦ $,default,z i ts,i ts z
+1116,Hawaiian-140_sit-1,,Hawaiian,140_sit,noho,n.o.h.o,n o h o,,Kessler2001,,False,^ n . o . h . o $,default,n o h o,h n o
+1117,Latin-140_sit-1,,Latin,140_sit,sedet,s.e.d.eː,s e d eː,,Kessler2001,,False,^ s . e . d . eː $,default,s e d e,d e s
+1118,Navajo-140_sit-1,,Navajo,140_sit,sidá,s.i.d.ay,s i d ay,,Kessler2001,,False,^ s . i . d . ay $,default,s i d ai,ai d i s
+1119,Turkish-140_sit-1,,Turkish,140_sit,oturuyor,o.t.u.r,o t u r,,Kessler2001,,False,^ o . t . u . r $,default,o t u r,o r t u
+1120,Albanian-141_skin-1,,Albanian,141_skin,lëkurë,l.ə.k.u.r,l ə k u r,,Kessler2001,,False,^ l . ə . k . u . r $,default,l 3 k u r,3 k l r u
+1121,English-141_skin-1,,English,141_skin,skin,s.k.i.n,s k i n,,Kessler2001,,True,^ s . k . i . n $,default,s k i n,i k n s
+1122,French-141_skin-1,,French,141_skin,peau,p.o,p o,,Kessler2001,,False,^ p . o $,default,p o,o p
+1123,German-141_skin-1,,German,141_skin,Haut,h.au.t,h au t,,Kessler2001,,False,^ h . au . t $,default,h au t,au h t
+1124,Hawaiian-141_skin-1,,Hawaiian,141_skin,`ili,ʔ.i.l.i,ʔ i l i,,Kessler2001,,False,^ ʔ . i . l . i $,default,7 i l i,7 i l
+1125,Latin-141_skin-1,,Latin,141_skin,cutis,k.u.t.i,k u t i,,Kessler2001,,False,^ k . u . t . i $,default,k u t i,i k t u
+1126,Navajo-141_skin-1,,Navajo,141_skin,'akágí,k.ay.g.i,k ay g i,,Kessler2001,,False,^ k . ay . g . i $,default,k ai g i,ai g i k
+1127,Turkish-141_skin-1,,Turkish,141_skin,deri,d.e.r.i,d e r i,,Kessler2001,,False,^ d . e . r . i $,default,d e r i,d e i r
+1128,Albanian-142_sky-1,,Albanian,142_sky,qiell,c.i.e.ł,c i e ł,,Kessler2001,,True,^ c . i . e . ł $,default,T i e l,T e i l
+1129,English-142_sky-1,,English,142_sky,sky,s.k.ai,s k ai,,Kessler2001,,True,^ s . k . ai $,default,s k ai,ai k s
+1130,French-142_sky-1,,French,142_sky,ciel,s.j.ɛ.l,s j ɛ l,,Kessler2001,,False,^ s . j . ɛ . l $,default,s y E l,E l s y
+1131,German-142_sky-1,,German,142_sky,Himmel,h.i.m.ə.l,h i m ə l,,Kessler2001,,False,^ h . i . m . ə . l $,default,h i m 3 l,3 h i l m
+1132,Hawaiian-142_sky-1,,Hawaiian,142_sky,lani,l.a.n.i,l a n i,,Kessler2001,,False,^ l . a . n . i $,default,l a n i,a i l n
+1133,Latin-142_sky-1,,Latin,142_sky,caelum,k.ae.l.o,k ae l o,,Kessler2001,,False,^ k . ae . l . o $,default,k ae l o,ae k l o
+1134,Navajo-142_sky-1,,Navajo,142_sky,yá,y.ay,y ay,,Kessler2001,,False,^ y . ay $,default,i ai,ai i
+1135,Turkish-142_sky-1,,Turkish,142_sky,gök,g.ø.k,g ø k,,Kessler2001,,False,^ g . ø . k $,default,g e k,e g k
+1136,Albanian-143_sleep-1,,Albanian,143_sleep,fle,f.l.e,f l e,,Kessler2001,,False,^ f . l . e $,default,f l e,e f l
+1137,English-143_sleep-1,,English,143_sleep,sleeps,s.l.i.p,s l i p,,Kessler2001,,False,^ s . l . i . p $,default,s l i p,i l p s
+1138,French-143_sleep-1,,French,143_sleep,dort,d.ɔ.r,d ɔ r,,Kessler2001,,False,^ d . ɔ . r $,default,d o r,d o r
+1139,German-143_sleep-1,,German,143_sleep,schläft,ʃ.l.aː.f,ʃ l aː f,,Kessler2001,,False,^ ʃ . l . aː . f $,default,S l a f,S a f l
+1140,Hawaiian-143_sleep-1,,Hawaiian,143_sleep,moe,m.o.e,m o e,,Kessler2001,,False,^ m . o . e $,default,m o e,e m o
+1141,Latin-143_sleep-1,,Latin,143_sleep,dormit,d.o.r.m.iː,d o r m iː,,Kessler2001,,False,^ d . o . r . m . iː $,default,d o r m i,d i m o r
+1142,Navajo-143_sleep-1,,Navajo,143_sleep,'aƚhosh,ʔ.a.ɬ.h.o.ʃ,ʔ a ɬ h o ʃ,,Kessler2001,,False,^ ʔ . a . ɬ . h . o . ʃ $,default,7 a L h o S,7 L S a h o
+1143,Turkish-143_sleep-1,,Turkish,143_sleep,uyuyor,u.j.u,u j u,,Kessler2001,,False,^ u . j . u $,default,u y u,u y
+1144,Albanian-144_small-1,,Albanian,144_small,vogël,v.o.g.ə.l,v o g ə l,,Kessler2001,,False,^ v . o . g . ə . l $,default,v o g 3 l,3 g l o v
+1145,English-144_small-1,,English,144_small,small,s.m.ɔ.l,s m ɔ l,,Kessler2001,,False,^ s . m . ɔ . l $,default,s m o l,l m o s
+1146,French-144_small-1,,French,144_small,petit,p.ə.t.i.t,p ə t i t,,Kessler2001,,False,^ p . ə . t . i . t $,default,p 3 t i t,3 i p t
+1147,German-144_small-1,,German,144_small,klein,k.l.ai.n,k l ai n,,Kessler2001,,False,^ k . l . ai . n $,default,k l ai n,ai k l n
+1148,Hawaiian-144_small-1,,Hawaiian,144_small,iki,i.k.i,i k i,,Kessler2001,,False,^ i . k . i $,default,i k i,i k
+1149,Latin-144_small-1,,Latin,144_small,parvos,p.a.r.w.o,p a r w o,,Kessler2001,,False,^ p . a . r . w . o $,default,p a r w o,a o p r w
+1150,Navajo-144_small-1,,Navajo,144_small,yázhí,j.ay.ʒ.i,j ay ʒ i,,Kessler2001,,False,^ j . ay . ʒ . i $,default,y ai Z i,Z ai i y
+1151,Turkish-144_small-1,,Turkish,144_small,küçük,k.y.ʧ.y.k,k y tʃ y k,,Kessler2001,,False,^ k . y . ʧ . y . k $,default,k i tS i k,i k tS
+1152,Albanian-145_smell-1,,Albanian,145_smell,marr erë,e.r,e r,,Kessler2001,,True,^ e . r $,default,e r,e r
+1153,English-145_smell-1,,English,145_smell,smells,s.m.e.l,s m e l,,Kessler2001,,False,^ s . m . e . l $,default,s m e l,e l m s
+1154,French-145_smell-1,,French,145_smell,sent,s.ɑ̃.t,s ɑ̃ t,,Kessler2001,,False,^ s . ɑ̃ . t $,default,s o* t,o* s t
+1155,German-145_smell-1,,German,145_smell,riecht,r.iː.x,r iː x,,Kessler2001,,False,^ r . iː . x $,default,r i x,i r x
+1156,Hawaiian-145_smell-1,,Hawaiian,145_smell,honi,h.o.n.i,h o n i,,Kessler2001,,False,^ h . o . n . i $,default,h o n i,h i n o
+1157,Latin-145_smell-1,,Latin,145_smell,olfacit,o.l.f.a.k.e,o l f a k e,,Kessler2001,,False,^ o . l . f . a . k . e $,default,o l f a k e,a e f k l o
+1158,Navajo-145_smell-1,,Navajo,145_smell,yishchą́ą́',j.i.ʃ.ʧ.ã́ː,j i ʃ tʃ ã́ː,,Kessler2001,,False,^ j . i . ʃ . ʧ . ã́ː $,default,y i S tS a*,S a* i tS y
+1159,Turkish-145_smell-1,,Turkish,145_smell,koklayor,k.o.k.l.a,k o k l a,,Kessler2001,,False,^ k . o . k . l . a $,default,k o k l a,a k l o
+1160,Albanian-146_smoke-1,,Albanian,146_smoke,tym,t.y.m,t y m,,Kessler2001,,True,^ t . y . m $,default,t i m,i m t
+1161,English-146_smoke-1,,English,146_smoke,smoke,s.m.o.k,s m o k,,Kessler2001,,False,^ s . m . o . k $,default,s m o k,k m o s
+1162,French-146_smoke-1,,French,146_smoke,fumée,f.y.m.e,f y m e,,Kessler2001,,False,^ f . y . m . e $,default,f i m e,e f i m
+1163,German-146_smoke-1,,German,146_smoke,Rauch,r.au.x,r au x,,Kessler2001,,False,^ r . au . x $,default,r au x,au r x
+1164,Hawaiian-146_smoke-1,,Hawaiian,146_smoke,uahi,u.a.h.i,u a h i,,Kessler2001,,False,^ u . a . h . i $,default,u a h i,a h i u
+1165,Latin-146_smoke-1,,Latin,146_smoke,fumus,f.uː.m.o,f uː m o,,Kessler2001,,False,^ f . uː . m . o $,default,f u m o,f m o u
+1166,Navajo-146_smoke-1,,Navajo,146_smoke,ƚid,ɬ.i.d,ɬ i d,,Kessler2001,,False,^ ɬ . i . d $,default,L i d,L d i
+1167,Turkish-146_smoke-1,,Turkish,146_smoke,duman,d.u.m.a.n,d u m a n,,Kessler2001,,False,^ d . u . m . a . n $,default,d u m a n,a d m n u
+1168,Albanian-147_smooth-1,,Albanian,147_smooth,lëmuet,l.ə.m.o,l ə m o,,Kessler2001,,False,^ l . ə . m . o $,default,l 3 m o,3 l m o
+1169,English-147_smooth-1,,English,147_smooth,smooth,s.m.u.ð,s m u ð,,Kessler2001,,False,^ s . m . u . ð $,default,s m u 8,8 m s u
+1170,French-147_smooth-1,,French,147_smooth,lisse,l.i.s,l i s,,Kessler2001,,False,^ l . i . s $,default,l i s,i l s
+1171,German-147_smooth-1,,German,147_smooth,glatt,g.l.a.t,g l a t,,Kessler2001,,False,^ g . l . a . t $,default,g l a t,a g l t
+1172,Hawaiian-147_smooth-1,,Hawaiian,147_smooth,malino,m.a.l.i.n.o,m a l i n o,,Kessler2001,,False,^ m . a . l . i . n . o $,default,m a l i n o,a i l m n o
+1173,Latin-147_smooth-1,,Latin,147_smooth,levis,l.eː.w.i,l eː w i,,Kessler2001,,False,^ l . eː . w . i $,default,l e w i,e i l w
+1174,Navajo-147_smooth-1,,Navajo,147_smooth,dilkǫǫh,d.i.l.k.õː.h,d i l k õː h,,Kessler2001,,False,^ d . i . l . k . õː . h $,default,d i l k o* h,d h i k l o*
+1175,Turkish-147_smooth-1,,Turkish,147_smooth,düz,d.y.z,d y z,,Kessler2001,,False,^ d . y . z $,default,d i z,d i z
+1176,Albanian-148_snake-1,,Albanian,148_snake,gjarpër,ɟ.a.r.p.ə.r,ɟ a r p ə r,,Kessler2001,,False,^ ɟ . a . r . p . ə . r $,default,T a r p 3 r,3 T a p r
+1177,English-148_snake-1,,English,148_snake,snake,s.n.e.k,s n e k,,Kessler2001,,False,^ s . n . e . k $,default,s n e k,e k n s
+1178,French-148_snake-1,,French,148_snake,serpent,s.ɛ.r.p.ɑ̃,s ɛ r p ɑ̃,,Kessler2001,,False,^ s . ɛ . r . p . ɑ̃ $,default,s E r p o*,E o* p r s
+1179,German-148_snake-1,,German,148_snake,Schlange,ʃ.l.a.ŋ.ə,ʃ l a ŋ ə,,Kessler2001,,False,^ ʃ . l . a . ŋ . ə $,default,S l a N 3,3 N S a l
+1180,Hawaiian-148_snake-1,,Hawaiian,148_snake,naheka,n.a.h.e.k.a,n a h e k a,,Kessler2001,,True,^ n . a . h . e . k . a $,default,n a h e k a,a e h k n
+1181,Latin-148_snake-1,,Latin,148_snake,anguis,a.n.g.w.i,a n g w i,,Kessler2001,,False,^ a . n . g . w . i $,default,a n g w i,a g i n w
+1182,Navajo-148_snake-1,,Navajo,148_snake,tƚ'iish,tˡˀ.iː.ʃ,tˡˀ iː ʃ,,Kessler2001,,False,^ tˡˀ . iː . ʃ $,default,t i S,S i t
+1183,Turkish-148_snake-1,,Turkish,148_snake,yılan,j.ɯ.l.a.n,j ɯ l a n,,Kessler2001,,False,^ j . ɯ . l . a . n $,default,y u l a n,a l n u y
+1184,Albanian-149_snow-1,,Albanian,149_snow,borë,b.o.r,b o r,,Kessler2001,,False,^ b . o . r $,default,b o r,b o r
+1185,English-149_snow-1,,English,149_snow,snow,s.n.o,s n o,,Kessler2001,,False,^ s . n . o $,default,s n o,n o s
+1186,French-149_snow-1,,French,149_snow,neige,n.ɛ.ʒ,n ɛ ʒ,,Kessler2001,,False,^ n . ɛ . ʒ $,default,n E Z,E Z n
+1187,German-149_snow-1,,German,149_snow,Schnee,ʃ.n.eː,ʃ n eː,,Kessler2001,,False,^ ʃ . n . eː $,default,S n e,S e n
+1188,Hawaiian-149_snow-1,,Hawaiian,149_snow,hau kea,h.a.u,h a u,,Kessler2001,,False,^ h . a . u $,default,h a u,a h u
+1189,Latin-149_snow-1,,Latin,149_snow,nix,n.i.w,n i w,,Kessler2001,,False,^ n . i . w $,default,n i w,i n w
+1190,Navajo-149_snow-1,,Navajo,149_snow,zas,z.a.s,z a s,,Kessler2001,,False,^ z . a . s $,default,z a s,a s z
+1191,Turkish-149_snow-1,,Turkish,149_snow,kar,k.a.r,k a r,,Kessler2001,,False,^ k . a . r $,default,k a r,a k r
+1192,Albanian-150_some-1,,Albanian,150_some,disa,d.i.s.a,d i s a,,Kessler2001,,False,^ d . i . s . a $,default,d i s a,a d i s
+1193,English-150_some-1,,English,150_some,some,s.ə.m,s ə m,,Kessler2001,,False,^ s . ə . m $,default,s 3 m,3 m s
+1194,French-150_some-1,,French,150_some,quelques,k.ɛ.l.k.ə,k ɛ l k ə,,Kessler2001,,False,^ k . ɛ . l . k . ə $,default,k E l k 3,3 E k l
+1195,German-150_some-1,,German,150_some,einige,ai.n.i.g,ai n i g,,Kessler2001,,False,^ ai . n . i . g $,default,ai n i g,ai g i n
+1196,Hawaiian-150_some-1,,Hawaiian,150_some,kekahi,k.e.k.a.h.i,k e k a h i,,Kessler2001,,False,^ k . e . k . a . h . i $,default,k e k a h i,a e h i k
+1197,Latin-150_some-1,,Latin,150_some,aliqui,a.l.i.k.w.o,a l i k w o,,Kessler2001,,False,^ a . l . i . k . w . o $,default,a l i k w o,a i k l o w
+1198,Navajo-150_some-1,,Navajo,150_some,ƚa',ɬ.a.ʔ,ɬ a ʔ,,Kessler2001,,False,^ ɬ . a . ʔ $,default,L a 7,7 L a
+1199,Turkish-150_some-1,,Turkish,150_some,bazı,b.a.z.ɯ,b a z ɯ,,Kessler2001,,True,^ b . a . z . ɯ $,default,b a z u,a b u z
+1200,Albanian-151_spit-1,,Albanian,151_spit,pështyn,p.ə.ʃ.t.y,p ə ʃ t y,,Kessler2001,,False,^ p . ə . ʃ . t . y $,default,p 3 S t i,3 S i p t
+1201,English-151_spit-1,,English,151_spit,spits,s.p.ɪ.t,s p ɪ t,,Kessler2001,,False,^ s . p . ɪ . t $,default,s p i t,i p s t
+1202,French-151_spit-1,,French,151_spit,crache,k.r.a.ʃ.e,k r a ʃ e,,Kessler2001,,True,^ k . r . a . ʃ . e $,default,k r a S e,S a e k r
+1203,German-151_spit-1,,German,151_spit,spuckt,ʃ.p.u.k,ʃ p u k,,Kessler2001,,True,^ ʃ . p . u . k $,default,S p u k,S k p u
+1204,Hawaiian-151_spit-1,,Hawaiian,151_spit,kuha,k.u.h.a,k u h a,,Kessler2001,,False,^ k . u . h . a $,default,k u h a,a h k u
+1205,Latin-151_spit-1,,Latin,151_spit,spuit,s.p.u.e,s p u e,,Kessler2001,,False,^ s . p . u . e $,default,s p u e,e p s u
+1206,Navajo-151_spit-1,,Navajo,151_spit,dishsheeh,d.i.ʒ.eː.h,d i ʒ eː h,,Kessler2001,,False,^ d . i . ʒ . eː . h $,default,d i Z e h,Z d e h i
+1207,Turkish-151_spit-1,,Turkish,151_spit,tükürüyor,t.y.k.y.r,t y k y r,,Kessler2001,,False,^ t . y . k . y . r $,default,t i k i r,i k r t
+1208,Albanian-152_split-1,,Albanian,152_split,çan,ʧ.a,tʃ a,,Kessler2001,,False,^ ʧ . a $,default,tS a,a tS
+1209,English-152_split-1,,English,152_split,splits,s.p.l.ɪi.t,s p l ɪi t,,Kessler2001,,True,^ s . p . l . ɪi . t $,default,s p l ii t,ii l p s t
+1210,French-152_split-1,,French,152_split,fend,f.ɑ̃.d,f ɑ̃ d,,Kessler2001,,False,^ f . ɑ̃ . d $,default,f o* d,d f o*
+1211,German-152_split-1,,German,152_split,spaltet,ʃ.p.a.l.t,ʃ p a l t,,Kessler2001,,False,^ ʃ . p . a . l . t $,default,S p a l t,S a l p t
+1212,Hawaiian-152_split-1,,Hawaiian,152_split,wāhi,w.aː.h.i,w aː h i,,Kessler2001,,False,^ w . aː . h . i $,default,w a h i,a h i w
+1213,Latin-152_split-1,,Latin,152_split,findit,f.i.n.d.e,f i n d e,,Kessler2001,,False,^ f . i . n . d . e $,default,f i n d e,d e f i n
+1214,Navajo-152_split-1,,Navajo,152_split,'aƚtániishgéésh,ʔ.a.ɬ.t.ay.n.iː.g.eː.ʃ,ʔ a ɬ t ay n iː g eː ʃ,,Kessler2001,,False,^ ʔ . a . ɬ . t . ay . n . iː . g . eː . ʃ $,default,7 a L t ai n i g e S,7 L S a ai e g i n t
+1215,Turkish-152_split-1,,Turkish,152_split,yarıyor,j.a.r,j a r,,Kessler2001,,False,^ j . a . r $,default,y a r,a r y
+1216,Albanian-153_squeeze-1,,Albanian,153_squeeze,shtrydh,ʃ.t.r.y.ð,ʃ t r y ð,,Kessler2001,,False,^ ʃ . t . r . y . ð $,default,S t r i 8,8 S i r t
+1217,English-153_squeeze-1,,English,153_squeeze,squeezes,s.k.w.i.z,s k w i z,,Kessler2001,,False,^ s . k . w . i . z $,default,s k w i z,i k s w z
+1218,French-153_squeeze-1,,French,153_squeeze,presse,p.r.ɛ.s.e,p r ɛ s e,,Kessler2001,,False,^ p . r . ɛ . s . e $,default,p r E s e,E e p r s
+1219,German-153_squeeze-1,,German,153_squeeze,drückt,d.r.y.k,d r y k,,Kessler2001,,False,^ d . r . y . k $,default,d r i k,d i k r
+1220,Hawaiian-153_squeeze-1,,Hawaiian,153_squeeze,`uwī,ʔ.u.w.iː,ʔ u w iː,,Kessler2001,,False,^ ʔ . u . w . iː $,default,7 u w i,7 i u w
+1221,Latin-153_squeeze-1,,Latin,153_squeeze,premit,p.r.e.m.e,p r e m e,,Kessler2001,,False,^ p . r . e . m . e $,default,p r e m e,e m p r
+1222,Navajo-153_squeeze-1,,Navajo,153_squeeze,yiishnih,j.iː.n.i.h,j iː n i h,,Kessler2001,,False,^ j . iː . n . i . h $,default,y i n i h,h i n y
+1223,Turkish-153_squeeze-1,,Turkish,153_squeeze,sıkıyor,s.ɯ.k,s ɯ k,,Kessler2001,,False,^ s . ɯ . k $,default,s u k,k s u
+1224,Albanian-154_stab-1,,Albanian,154_stab,ther,θ.e.r,θ e r,,Kessler2001,,False,^ θ . e . r $,default,8 e r,8 e r
+1225,English-154_stab-1,,English,154_stab,stabs,s.t.a.b,s t a b,,Kessler2001,,False,^ s . t . a . b $,default,s t a b,a b s t
+1226,French-154_stab-1,,French,154_stab,poignarde,p.w.a.ɲ.a.r.d.e,p w a ɲ a r d e,,Kessler2001,,False,^ p . w . a . ɲ . a . r . d . e $,default,p w a 5 a r d e,5 a d e p r w
+1227,German-154_stab-1,,German,154_stab,sticht,ʃ.t.e.x,ʃ t e x,,Kessler2001,,False,^ ʃ . t . e . x $,default,S t e x,S e t x
+1228,Hawaiian-154_stab-1,,Hawaiian,154_stab,hou,h.o.u,h o u,,Kessler2001,,False,^ h . o . u $,default,h o u,h o u
+1229,Latin-154_stab-1,,Latin,154_stab,fodit,f.o.d.e,f o d e,,Kessler2001,,False,^ f . o . d . e $,default,f o d e,d e f o
+1230,Navajo-154_stab-1,,Navajo,154_stab,bighá'níshgééd,b.i.ɣ.ay.ʔ.n.i.ɬ.g.eː.d,b i ɣ ay ʔ n i ɬ g eː d,,Kessler2001,,False,^ b . i . ɣ . ay . ʔ . n . i . ɬ . g . eː . d $,default,b i x ai 7 n i L g e d,7 L ai b d e g i n x
+1231,Turkish-154_stab-1,,Turkish,154_stab,hançerliyor,h.a.n.ʧ.e.r.l.e,h a n tʃ e r l e,,Kessler2001,,True,^ h . a . n . ʧ . e . r . l . e $,default,h a n tS e r l e,a e h l n r tS
+1232,Albanian-155_stand-1,,Albanian,155_stand,(rri) më këmbë,k.ə.m.b,k ə m b,,Kessler2001,,False,^ k . ə . m . b $,default,k 3 m b,3 b k m
+1233,English-155_stand-1,,English,155_stand,stands,s.t.a.n.d,s t a n d,,Kessler2001,,False,^ s . t . a . n . d $,default,s t a n d,a d n s t
+1234,French-155_stand-1,,French,155_stand,(est) debout,d.ə.b.u,d ə b u,,Kessler2001,,True,^ d . ə . b . u $,default,d 3 b u,3 b d u
+1235,German-155_stand-1,,German,155_stand,steht,ʃ.t.eː,ʃ t eː,,Kessler2001,,False,^ ʃ . t . eː $,default,S t e,S e t
+1236,Hawaiian-155_stand-1,,Hawaiian,155_stand,kū,k.uː,k uː,,Kessler2001,,False,^ k . uː $,default,k u,k u
+1237,Latin-155_stand-1,,Latin,155_stand,stat,s.t.aː,s t aː,,Kessler2001,,False,^ s . t . aː $,default,s t a,a s t
+1238,Navajo-155_stand-1,,Navajo,155_stand,sizį́,s.i.z.ĩ́,s i z ĩ́/ĩ,,Kessler2001,,False,^ s . i . z . ĩ́ $,default,s i z i* i*,i i* s z
+1239,Turkish-155_stand-1,,Turkish,155_stand,duruyor,d.u.r,d u r,,Kessler2001,,False,^ d . u . r $,default,d u r,d r u
+1240,Albanian-156_star-1,,Albanian,156_star,yll,y.ł,y ł,,Kessler2001,,False,^ y . ł $,default,i l,i l
+1241,English-156_star-1,,English,156_star,star,s.t.ɑ.r,s t ɑ r,,Kessler2001,,False,^ s . t . ɑ . r $,default,s t o r,o r s t
+1242,French-156_star-1,,French,156_star,étoile,e.t.w.a.l,e t w a l,,Kessler2001,,False,^ e . t . w . a . l $,default,e t w a l,a e l t w
+1243,German-156_star-1,,German,156_star,Stern,ʃ.t.e.r.n,ʃ t e r n,,Kessler2001,,False,^ ʃ . t . e . r . n $,default,S t e r n,S e n r t
+1244,Hawaiian-156_star-1,,Hawaiian,156_star,hōkū,h.oː.k.uː,h oː k uː,,Kessler2001,,False,^ h . oː . k . uː $,default,h o k u,h k o u
+1245,Latin-156_star-1,,Latin,156_star,stella,s.t.eː.lː.a,s t eː lː a,,Kessler2001,,False,^ s . t . eː . lː . a $,default,s t e l a,a e l s t
+1246,Navajo-156_star-1,,Navajo,156_star,sǫ',s.õ.ʔ,s õ ʔ,,Kessler2001,,False,^ s . õ . ʔ $,default,s o* 7,7 o* s
+1247,Turkish-156_star-1,,Turkish,156_star,yıldız,j.ɯ.l.d.ɯ.z,j ɯ l d ɯ z,,Kessler2001,,False,^ j . ɯ . l . d . ɯ . z $,default,y u l d u z,d l u y z
+1248,Albanian-157_stick-1,,Albanian,157_stick,shkop,ʃ.k.o.p,ʃ k o p,,Kessler2001,,False,^ ʃ . k . o . p $,default,S k o p,S k o p
+1249,English-157_stick-1,,English,157_stick,stick,s.t.ɪ.k,s t ɪ k,,Kessler2001,,False,^ s . t . ɪ . k $,default,s t i k,i k s t
+1250,French-157_stick-1,,French,157_stick,bâton,b.a.t.ɔ̃,b a t ɔ̃,,Kessler2001,,True,^ b . a . t . ɔ̃ $,default,b a t o*,a b o* t
+1251,German-157_stick-1,,German,157_stick,Stock,ʃ.t.o.k,ʃ t o k,,Kessler2001,,False,^ ʃ . t . o . k $,default,S t o k,S k o t
+1252,Hawaiian-157_stick-1,,Hawaiian,157_stick,lā`au,l.aː.ʔ.a.u,l aː ʔ a u,,Kessler2001,,False,^ l . aː . ʔ . a . u $,default,l a 7 a u,7 a l u
+1253,Latin-157_stick-1,,Latin,157_stick,baculum,b.a.k.u.l.o,b a k u l o,,Kessler2001,,False,^ b . a . k . u . l . o $,default,b a k u l o,a b k l o u
+1254,Navajo-157_stick-1,,Navajo,157_stick,tsin,ʦ.i.n,ts i n,,Kessler2001,,False,^ ʦ . i . n $,default,ts i n,i n ts
+1255,Turkish-157_stick-1,,Turkish,157_stick,değnek,d.e.ɣ.n.e.k,d e ɣ n e k,,Kessler2001,,False,^ d . e . ɣ . n . e . k $,default,d e x n e k,d e k n x
+1256,Albanian-158_stone-1,,Albanian,158_stone,gur,g.u.r,g u r,,Kessler2001,,False,^ g . u . r $,default,g u r,g r u
+1257,English-158_stone-1,,English,158_stone,stone,s.t.o.n,s t o n,,Kessler2001,,False,^ s . t . o . n $,default,s t o n,n o s t
+1258,French-158_stone-1,,French,158_stone,pierre,p.j.ɛ.r,p j ɛ r,,Kessler2001,,True,^ p . j . ɛ . r $,default,p y E r,E p r y
+1259,German-158_stone-1,,German,158_stone,Stein,ʃ.t.ai.n,ʃ t ai n,,Kessler2001,,False,^ ʃ . t . ai . n $,default,S t ai n,S ai n t
+1260,Hawaiian-158_stone-1,,Hawaiian,158_stone,pōhaku,p.oː.h.a.k.u,p oː h a k u,,Kessler2001,,False,^ p . oː . h . a . k . u $,default,p o h a k u,a h k o p u
+1261,Latin-158_stone-1,,Latin,158_stone,lapis,l.a.p.i.d,l a p i d,,Kessler2001,,False,^ l . a . p . i . d $,default,l a p i d,a d i l p
+1262,Navajo-158_stone-1,,Navajo,158_stone,tsé,ʦ.e,ts e,,Kessler2001,,False,^ ʦ . e $,default,ts e,e ts
+1263,Turkish-158_stone-1,,Turkish,158_stone,taş,t.a.ʃ,t a ʃ,,Kessler2001,,False,^ t . a . ʃ $,default,t a S,S a t
+1264,Albanian-159_straight-1,,Albanian,159_straight,drejtë,d.r.e.j.t,d r e j t,,Kessler2001,,True,^ d . r . e . j . t $,default,d r e y t,d e r t y
+1265,English-159_straight-1,,English,159_straight,straight,s.t.r.e.t,s t r e t,,Kessler2001,,False,^ s . t . r . e . t $,default,s t r e t,e r s t
+1266,French-159_straight-1,,French,159_straight,droit,d.r.w.a.t,d r w a t,,Kessler2001,,False,^ d . r . w . a . t $,default,d r w a t,a d r t w
+1267,German-159_straight-1,,German,159_straight,gerade,g.ə.r.aː.d.ə,g ə r aː d ə,,Kessler2001,,False,^ g . ə . r . aː . d . ə $,default,g 3 r a d 3,3 a d g r
+1268,Hawaiian-159_straight-1,,Hawaiian,159_straight,pololei,p.o.l.o.l.e.i,p o l o l e i,,Kessler2001,,False,^ p . o . l . o . l . e . i $,default,p o l o l e i,e i l o p
+1269,Latin-159_straight-1,,Latin,159_straight,rectus,r.eː.k.t.o,r eː k t o,,Kessler2001,,False,^ r . eː . k . t . o $,default,r e k t o,e k o r t
+1270,Navajo-159_straight-1,,Navajo,159_straight,k'éhózdon,kˀ.e.h.o.z.d.o.n,kˀ e h o z d o n,,Kessler2001,,False,^ kˀ . e . h . o . z . d . o . n $,default,k e h o z d o n,d e h k n o z
+1271,Turkish-159_straight-1,,Turkish,159_straight,doğru,d.o.ɣ.r.u,d o ɣ r u,,Kessler2001,,False,^ d . o . ɣ . r . u $,default,d o x r u,d o r u x
+1272,Albanian-160_suck-1,,Albanian,160_suck,thith,θ.i.θ,θ i θ,,Kessler2001,,False,^ θ . i . θ $,default,8 i 8,8 i
+1273,English-160_suck-1,,English,160_suck,sucks,s.ə.k,s ə k,,Kessler2001,,False,^ s . ə . k $,default,s 3 k,3 k s
+1274,French-160_suck-1,,French,160_suck,suce,s.y.s.e,s y s e,,Kessler2001,,False,^ s . y . s . e $,default,s i s e,e i s
+1275,German-160_suck-1,,German,160_suck,saugt,z.au.g,z au g,,Kessler2001,,False,^ z . au . g $,default,z au g,au g z
+1276,Hawaiian-160_suck-1,,Hawaiian,160_suck,omo,o.m.o,o m o,,Kessler2001,,False,^ o . m . o $,default,o m o,m o
+1277,Latin-160_suck-1,,Latin,160_suck,sugit,s.uː.g.e,s uː g e,,Kessler2001,,False,^ s . uː . g . e $,default,s u g e,e g s u
+1278,Navajo-160_suck-1,,Navajo,160_suck,yisht'o',j.i.ɬ.tˀ.o.ʔ,j i ɬ tˀ o ʔ,,Kessler2001,,False,^ j . i . ɬ . tˀ . o . ʔ $,default,y i L t o 7,7 L i o t y
+1279,Turkish-160_suck-1,,Turkish,160_suck,emiyor,e.m,e m,,Kessler2001,,False,^ e . m $,default,e m,e m
+1280,Albanian-161_sun-1,,Albanian,161_sun,diell,d.i.e.ł,d i e ł,,Kessler2001,,False,^ d . i . e . ł $,default,d i e l,d e i l
+1281,English-161_sun-1,,English,161_sun,sun,s.ə.n,s ə n,,Kessler2001,,False,^ s . ə . n $,default,s 3 n,3 n s
+1282,French-161_sun-1,,French,161_sun,soleil,s.ɔ.l.ɛ.j,s ɔ l ɛ j,,Kessler2001,,False,^ s . ɔ . l . ɛ . j $,default,s o l E y,E l o s y
+1283,German-161_sun-1,,German,161_sun,Sonne,z.o.n.ə,z o n ə,,Kessler2001,,False,^ z . o . n . ə $,default,z o n 3,3 n o z
+1284,Hawaiian-161_sun-1,,Hawaiian,161_sun,lā,l.aː,l aː,,Kessler2001,,False,^ l . aː $,default,l a,a l
+1285,Latin-161_sun-1,,Latin,161_sun,sol,s.oː.l,s oː l,,Kessler2001,,False,^ s . oː . l $,default,s o l,l o s
+1286,Navajo-161_sun-1,,Navajo,161_sun,shá,ʃ.ay,ʃ ay,,Kessler2001,,False,^ ʃ . ay $,default,S ai,S ai
+1287,Turkish-161_sun-1,,Turkish,161_sun,güneş,g.y.n.e.ʃ,g y n e ʃ,,Kessler2001,,False,^ g . y . n . e . ʃ $,default,g i n e S,S e g i n
+1288,Albanian-162_swell-1,,Albanian,162_swell,ënj,ə.ɲ,ə ɲ,,Kessler2001,,False,^ ə . ɲ $,default,3 5,3 5
+1289,English-162_swell-1,,English,162_swell,swells,s.w.ɛ.l,s w ɛ l,,Kessler2001,,False,^ s . w . ɛ . l $,default,s w E l,E l s w
+1290,French-162_swell-1,,French,162_swell,enfle,ɑ̃.f.l.e,ɑ̃ f l e,,Kessler2001,,False,^ ɑ̃ . f . l . e $,default,o* f l e,e f l o*
+1291,German-162_swell-1,,German,162_swell,schwillt,ʃ.v.e.l,ʃ v e l,,Kessler2001,,False,^ ʃ . v . e . l $,default,S v e l,S e l v
+1292,Hawaiian-162_swell-1,,Hawaiian,162_swell,ho`opehu,h.o.ʔ.o.p.e.h.u,h o ʔ o p e h u,,Kessler2001,,False,^ h . o . ʔ . o . p . e . h . u $,default,h o 7 o p e h u,7 e h o p u
+1293,Latin-162_swell-1,,Latin,162_swell,tumet,t.u.m.eː,t u m eː,,Kessler2001,,False,^ t . u . m . eː $,default,t u m e,e m t u
+1294,Navajo-162_swell-1,,Navajo,162_swell,niishchaad,n.iː.ʧ.aː.d,n iː tʃ aː d,,Kessler2001,,False,^ n . iː . ʧ . aː . d $,default,n i tS a d,a d i n tS
+1295,Turkish-162_swell-1,,Turkish,162_swell,şişiyor,ʃ.i.ʃ,ʃ i ʃ,,Kessler2001,,False,^ ʃ . i . ʃ $,default,S i S,S i
+1296,Albanian-163_swim-1,,Albanian,163_swim,noton,n.o.t.o,n o t o,,Kessler2001,,False,^ n . o . t . o $,default,n o t o,n o t
+1297,English-163_swim-1,,English,163_swim,swims,s.w.ɪ.m,s w ɪ m,,Kessler2001,,False,^ s . w . ɪ . m $,default,s w i m,i m s w
+1298,French-163_swim-1,,French,163_swim,nage,n.a.ʒ.e,n a ʒ e,,Kessler2001,,False,^ n . a . ʒ . e $,default,n a Z e,Z a e n
+1299,German-163_swim-1,,German,163_swim,schwimmt,ʃ.v.i.m,ʃ v i m,,Kessler2001,,False,^ ʃ . v . i . m $,default,S v i m,S i m v
+1300,Hawaiian-163_swim-1,,Hawaiian,163_swim,`au,ʔ.a.u,ʔ a u,,Kessler2001,,False,^ ʔ . a . u $,default,7 a u,7 a u
+1301,Latin-163_swim-1,,Latin,163_swim,nat,n.aː,n aː,,Kessler2001,,False,^ n . aː $,default,n a,a n
+1302,Navajo-163_swim-1,,Navajo,163_swim,'ashkǫ́ǫ́h,ʔ.a.ɬ.k.õː.h,ʔ a ɬ k õː h,,Kessler2001,,False,^ ʔ . a . ɬ . k . õː . h $,default,7 a L k o* h,7 L a h k o*
+1303,Turkish-163_swim-1,,Turkish,163_swim,yüzüyor,j.y.z,j y z,,Kessler2001,,False,^ j . y . z $,default,y i z,i y z
+1304,Albanian-164_tail-1,,Albanian,164_tail,bisht,b.i.ʃ.t,b i ʃ t,,Kessler2001,,False,^ b . i . ʃ . t $,default,b i S t,S b i t
+1305,English-164_tail-1,,English,164_tail,tail,t.e.l,t e l,,Kessler2001,,False,^ t . e . l $,default,t e l,e l t
+1306,French-164_tail-1,,French,164_tail,queue,k.ø,k ø,,Kessler2001,,False,^ k . ø $,default,k e,e k
+1307,German-164_tail-1,,German,164_tail,Schwanz,ʃ.v.a.n.ʦ,ʃ v a n ts,,Kessler2001,,False,^ ʃ . v . a . n . ʦ $,default,S v a n ts,S a n ts v
+1308,Hawaiian-164_tail-1,,Hawaiian,164_tail,huelo,h.u.e.l.o,h u e l o,,Kessler2001,,False,^ h . u . e . l . o $,default,h u e l o,e h l o u
+1309,Latin-164_tail-1,,Latin,164_tail,cauda,k.au.d.a,k au d a,,Kessler2001,,False,^ k . au . d . a $,default,k au d a,a au d k
+1310,Navajo-164_tail-1,,Navajo,164_tail,'atsee',ʦ.eː.ʔ,ts eː ʔ,,Kessler2001,,False,^ ʦ . eː . ʔ $,default,ts e 7,7 e ts
+1311,Turkish-164_tail-1,,Turkish,164_tail,kuyruk,k.u.j.r.u.k,k u j r u k,,Kessler2001,,False,^ k . u . j . r . u . k $,default,k u y r u k,k r u y
+1312,Albanian-165_that-1,,Albanian,165_that,ai,a.i,a i,,Kessler2001,,False,^ a . i $,default,a i,a i
+1313,English-165_that-1,,English,165_that,that,ð.a.t,ð a t,,Kessler2001,,False,^ ð . a . t $,default,8 a t,8 a t
+1314,French-165_that-1,,French,165_that,cela,s.ə.l.a,s ə l a,,Kessler2001,,False,^ s . ə . l . a $,default,s 3 l a,3 a l s
+1315,German-165_that-1,,German,165_that,das,d.a.s,d a s,,Kessler2001,,False,^ d . a . s $,default,d a s,a d s
+1316,Hawaiian-165_that-1,,Hawaiian,165_that,kēlā,k.eː.l.aː,k eː l aː,,Kessler2001,,False,^ k . eː . l . aː $,default,k e l a,a e k l
+1317,Latin-165_that-1,,Latin,165_that,illud,i.lː.o,i lː o,,Kessler2001,,False,^ i . lː . o $,default,i l o,i l o
+1318,Navajo-165_that-1,,Navajo,165_that,'éi,ʔ.e.iː,ʔ e iː,,Kessler2001,,False,^ ʔ . e . iː $,default,7 e i,7 e i
+1319,Turkish-165_that-1,,Turkish,165_that,o,o.n,o n,,Kessler2001,,False,^ o . n $,default,o n,n o
+1320,Albanian-166_there-1,,Albanian,166_there,aty,a.t.y,a t y,,Kessler2001,,False,^ a . t . y $,default,a t i,a i t
+1321,English-166_there-1,,English,166_there,there,ð.ɛ.r,ð ɛ r,,Kessler2001,,False,^ ð . ɛ . r $,default,8 E r,8 E r
+1322,French-166_there-1,,French,166_there,là,l.a,l a,,Kessler2001,,False,^ l . a $,default,l a,a l
+1323,German-166_there-1,,German,166_there,da,d.aː,d aː,,Kessler2001,,False,^ d . aː $,default,d a,a d
+1324,Hawaiian-166_there-1,,Hawaiian,166_there,laila,l.a.i.l.a,l a i l a,,Kessler2001,,False,^ l . a . i . l . a $,default,l a i l a,a i l
+1325,Latin-166_there-1,,Latin,166_there,ibi,i.b.i,i b i,,Kessler2001,,False,^ i . b . i $,default,i b i,b i
+1326,Navajo-166_there-1,,Navajo,166_there,'áadi,ʔ.aː.d.i,ʔ aː d i,,Kessler2001,,False,^ ʔ . aː . d . i $,default,7 a d i,7 a d i
+1327,Turkish-166_there-1,,Turkish,166_there,orada,o.r.a,o r a,,Kessler2001,,False,^ o . r . a $,default,o r a,a o r
+1328,Albanian-167_they-1,,Albanian,167_they,ata,a.t.a,a t a,,Kessler2001,,False,^ a . t . a $,default,a t a,a t
+1329,English-167_they-1,,English,167_they,they,ð.e,ð e,,Kessler2001,,True,^ ð . e $,default,8 e,8 e
+1330,French-167_they-1,,French,167_they,ils,i.l,i l,,Kessler2001,,False,^ i . l $,default,i l,i l
+1331,German-167_they-1,,German,167_they,sie,z.iː,z iː,,Kessler2001,,False,^ z . iː $,default,z i,i z
+1332,Hawaiian-167_they-1,,Hawaiian,167_they,lākou,l.aː.k.o.u,l aː k o u,,Kessler2001,,False,^ l . aː . k . o . u $,default,l a k o u,a k l o u
+1333,Latin-167_they-1,,Latin,167_they,ei,e.o,e o,,Kessler2001,,False,^ e . o $,default,e o,e o
+1334,Navajo-167_they-1,,Navajo,167_they,daabí,b.i,b i,,Kessler2001,,False,^ b . i $,default,b i,b i
+1335,Turkish-167_they-1,,Turkish,167_they,onlar,o.n,o n,,Kessler2001,,False,^ o . n $,default,o n,n o
+1336,Albanian-168_thick-1,,Albanian,168_thick,trashë,t.r.a.ʃ,t r a ʃ,,Kessler2001,,False,^ t . r . a . ʃ $,default,t r a S,S a r t
+1337,English-168_thick-1,,English,168_thick,thick,θ.ɪ.k,θ ɪ k,,Kessler2001,,False,^ θ . ɪ . k $,default,8 i k,8 i k
+1338,French-168_thick-1,,French,168_thick,épais,e.p.ɛ.s,e p ɛ s,,Kessler2001,,False,^ e . p . ɛ . s $,default,e p E s,E e p s
+1339,German-168_thick-1,,German,168_thick,dick,d.i.k,d i k,,Kessler2001,,False,^ d . i . k $,default,d i k,d i k
+1340,Hawaiian-168_thick-1,,Hawaiian,168_thick,mānoa,m.aː.n.o.a,m aː n o a,,Kessler2001,,False,^ m . aː . n . o . a $,default,m a n o a,a m n o
+1341,Latin-168_thick-1,,Latin,168_thick,crassus,k.r.a.sː.o,k r a sː o,,Kessler2001,,False,^ k . r . a . sː . o $,default,k r a s o,a k o r s
+1342,Navajo-168_thick-1,,Navajo,168_thick,ditą́,d.i.t.ã́,d i t ã́/ã,,Kessler2001,,False,^ d . i . t . ã́ $,default,d i t a* a*,a* d i t
+1343,Turkish-168_thick-1,,Turkish,168_thick,kalın,k.a.l.ɯ.n,k a l ɯ n,,Kessler2001,,False,^ k . a . l . ɯ . n $,default,k a l u n,a k l n u
+1344,Albanian-169_thin-1,,Albanian,169_thin,hollë,h.o.ł,h o ł,,Kessler2001,,False,^ h . o . ł $,default,h o l,h l o
+1345,English-169_thin-1,,English,169_thin,thin,θ.ɪ.n,θ ɪ n,,Kessler2001,,False,^ θ . ɪ . n $,default,8 i n,8 i n
+1346,French-169_thin-1,,French,169_thin,mince,m.ɛ̃.s,m ɛ̃ s,,Kessler2001,,False,^ m . ɛ̃ . s $,default,m E* s,E* m s
+1347,German-169_thin-1,,German,169_thin,dünn,d.y.n,d y n,,Kessler2001,,False,^ d . y . n $,default,d i n,d i n
+1348,Hawaiian-169_thin-1,,Hawaiian,169_thin,wīwī,w.iː.w.iː,w iː w iː,,Kessler2001,,False,^ w . iː . w . iː $,default,w i w i,i w
+1349,Latin-169_thin-1,,Latin,169_thin,tenuis,t.e.n.u.i,t e n u i,,Kessler2001,,False,^ t . e . n . u . i $,default,t e n u i,e i n t u
+1350,Navajo-169_thin-1,,Navajo,169_thin,'áƚt'ą́'í,ʔ.ay.ɬ.tˀ.ã́.ʔ.i,ʔ ay ɬ tˀ ã́/ã ʔ i,,Kessler2001,,False,^ ʔ . ay . ɬ . tˀ . ã́ . ʔ . i $,default,7 ai L t a* a* 7 i,7 L a* ai i t
+1351,Turkish-169_thin-1,,Turkish,169_thin,ince,i.n.ʤ.e,i n dʒ e,,Kessler2001,,False,^ i . n . ʤ . e $,default,i n dZ e,dZ e i n
+1352,Albanian-170_think-1,,Albanian,170_think,mendon,m.e.n.d.o,m e n d o,,Kessler2001,,True,^ m . e . n . d . o $,default,m e n d o,d e m n o
+1353,English-170_think-1,,English,170_think,thinks,θ.ɪ.ŋ.k,θ ɪ ŋ k,,Kessler2001,,False,^ θ . ɪ . ŋ . k $,default,8 i N k,8 N i k
+1354,French-170_think-1,,French,170_think,pense,p.ɑ̃.s.e,p ɑ̃ s e,,Kessler2001,,True,^ p . ɑ̃ . s . e $,default,p o* s e,e o* p s
+1355,German-170_think-1,,German,170_think,denkt,d.e.ŋ.k,d e ŋ k,,Kessler2001,,False,^ d . e . ŋ . k $,default,d e N k,N d e k
+1356,Hawaiian-170_think-1,,Hawaiian,170_think,mana`o,m.a.n.a.ʔ.o,m a n a ʔ o,,Kessler2001,,False,^ m . a . n . a . ʔ . o $,default,m a n a 7 o,7 a m n o
+1357,Latin-170_think-1,,Latin,170_think,cogitat,k.oː.g.i.t.aː,k oː g i t aː,,Kessler2001,,False,^ k . oː . g . i . t . aː $,default,k o g i t a,a g i k o t
+1358,Navajo-170_think-1,,Navajo,170_think,nízin,n.i.z.i.n,n i z i n,,Kessler2001,,False,^ n . i . z . i . n $,default,n i z i n,i n z
+1359,Turkish-170_think-1,,Turkish,170_think,düşünüyor,d.y.ʃ.y.n,d y ʃ y n,,Kessler2001,,False,^ d . y . ʃ . y . n $,default,d i S i n,S d i n
+1360,Albanian-171_this-1,,Albanian,171_this,ky,k,k,,Kessler2001,,False,^ k $,default,k,k
+1361,English-171_this-1,,English,171_this,this,ð.ɪ.s,ð ɪ s,,Kessler2001,,False,^ ð . ɪ . s $,default,8 i s,8 i s
+1362,French-171_this-1,,French,171_this,ceci,s.ə.s.i,s ə s i,,Kessler2001,,False,^ s . ə . s . i $,default,s 3 s i,3 i s
+1363,German-171_this-1,,German,171_this,dieses,d.iː.z,d iː z,,Kessler2001,,False,^ d . iː . z $,default,d i z,d i z
+1364,Hawaiian-171_this-1,,Hawaiian,171_this,kēia,k.eː.i.a,k eː i a,,Kessler2001,,False,^ k . eː . i . a $,default,k e i a,a e i k
+1365,Latin-171_this-1,,Latin,171_this,hoc,h.o.k,h o k,,Kessler2001,,False,^ h . o . k $,default,h o k,h k o
+1366,Navajo-171_this-1,,Navajo,171_this,díí,d.iː,d iː,,Kessler2001,,False,^ d . iː $,default,d i,d i
+1367,Turkish-171_this-1,,Turkish,171_this,bu,b.u.n,b u n,,Kessler2001,,False,^ b . u . n $,default,b u n,b n u
+1368,Albanian-172_thou-1,,Albanian,172_thou,ti,t,t,,Kessler2001,,False,^ t $,default,t,t
+1369,English-172_thou-1,,English,172_thou,you,j.u,j u,,Kessler2001,,False,^ j . u $,default,y u,u y
+1370,French-172_thou-1,,French,172_thou,tu,t.y,t y,,Kessler2001,,False,^ t . y $,default,t i,i t
+1371,German-172_thou-1,,German,172_thou,du,d.uː,d uː,,Kessler2001,,False,^ d . uː $,default,d u,d u
+1372,Hawaiian-172_thou-1,,Hawaiian,172_thou,`oe,ʔ.o.e,ʔ o e,,Kessler2001,,False,^ ʔ . o . e $,default,7 o e,7 e o
+1373,Latin-172_thou-1,,Latin,172_thou,tu,t.uː,t uː,,Kessler2001,,False,^ t . uː $,default,t u,t u
+1374,Navajo-172_thou-1,,Navajo,172_thou,ni,n.i,n i,,Kessler2001,,False,^ n . i $,default,n i,i n
+1375,Turkish-172_thou-1,,Turkish,172_thou,sen,s.e.n,s e n,,Kessler2001,,False,^ s . e . n $,default,s e n,e n s
+1376,Albanian-173_three-1,,Albanian,173_three,tre,t.r.e,t r e,,Kessler2001,,False,^ t . r . e $,default,t r e,e r t
+1377,English-173_three-1,,English,173_three,three,θ.r.i,θ r i,,Kessler2001,,False,^ θ . r . i $,default,8 r i,8 i r
+1378,French-173_three-1,,French,173_three,trois,t.r.w.a,t r w a,,Kessler2001,,False,^ t . r . w . a $,default,t r w a,a r t w
+1379,German-173_three-1,,German,173_three,drei,d.r.ai,d r ai,,Kessler2001,,False,^ d . r . ai $,default,d r ai,ai d r
+1380,Hawaiian-173_three-1,,Hawaiian,173_three,kolu,k.o.l.u,k o l u,,Kessler2001,,False,^ k . o . l . u $,default,k o l u,k l o u
+1381,Latin-173_three-1,,Latin,173_three,tres,t.r.i,t r i,,Kessler2001,,False,^ t . r . i $,default,t r i,i r t
+1382,Navajo-173_three-1,,Navajo,173_three,táá',t.aː.ʔ,t aː ʔ,,Kessler2001,,False,^ t . aː . ʔ $,default,t a 7,7 a t
+1383,Turkish-173_three-1,,Turkish,173_three,üç,y.ʧ,y tʃ,,Kessler2001,,False,^ y . ʧ $,default,i tS,i tS
+1384,Albanian-174_throw-1,,Albanian,174_throw,hedh,h.e.ð,h e ð,,Kessler2001,,False,^ h . e . ð $,default,h e 8,8 e h
+1385,English-174_throw-1,,English,174_throw,throws,θ.r.o,θ r o,,Kessler2001,,False,^ θ . r . o $,default,8 r o,8 o r
+1386,French-174_throw-1,,French,174_throw,lance,l.ɑ̃.s.e,l ɑ̃ s e,,Kessler2001,,True,^ l . ɑ̃ . s . e $,default,l o* s e,e l o* s
+1387,German-174_throw-1,,German,174_throw,wirft,v.e.r.f,v e r f,,Kessler2001,,False,^ v . e . r . f $,default,v e r f,e f r v
+1388,Hawaiian-174_throw-1,,Hawaiian,174_throw,nou,n.o.u,n o u,,Kessler2001,,False,^ n . o . u $,default,n o u,n o u
+1389,Latin-174_throw-1,,Latin,174_throw,iacit,j.a.k.e,j a k e,,Kessler2001,,False,^ j . a . k . e $,default,y a k e,a e k y
+1390,Navajo-174_throw-1,,Navajo,174_throw,hishhan,h.i.ɬ.h.a.n,h i ɬ h a n,,Kessler2001,,False,^ h . i . ɬ . h . a . n $,default,h i L h a n,L a h i n
+1391,Turkish-174_throw-1,,Turkish,174_throw,atıyor,a.t,a t,,Kessler2001,,False,^ a . t $,default,a t,a t
+1392,Albanian-175_tie-1,,Albanian,175_tie,lidh,l.i.ð,l i ð,,Kessler2001,,False,^ l . i . ð $,default,l i 8,8 i l
+1393,English-175_tie-1,,English,175_tie,ties,t.ai,t ai,,Kessler2001,,False,^ t . ai $,default,t ai,ai t
+1394,French-175_tie-1,,French,175_tie,attache,a.t.a.ʃ.e,a t a ʃ e,,Kessler2001,,True,^ a . t . a . ʃ . e $,default,a t a S e,S a e t
+1395,German-175_tie-1,,German,175_tie,bindet,b.i.n.d,b i n d,,Kessler2001,,False,^ b . i . n . d $,default,b i n d,b d i n
+1396,Hawaiian-175_tie-1,,Hawaiian,175_tie,hīki`i,h.iː.k.i.ʔ.i,h iː k i ʔ i,,Kessler2001,,False,^ h . iː . k . i . ʔ . i $,default,h i k i 7 i,7 h i k
+1397,Latin-175_tie-1,,Latin,175_tie,ligat,l.i.g.aː,l i g aː,,Kessler2001,,False,^ l . i . g . aː $,default,l i g a,a g i l
+1398,Navajo-175_tie-1,,Navajo,175_tie,be'eshtƚ'ó,b.e.ʔ.e.tˡˀ.o,b e ʔ e tˡˀ o,,Kessler2001,,False,^ b . e . ʔ . e . tˡˀ . o $,default,b e 7 e t o,7 b e o t
+1399,Turkish-175_tie-1,,Turkish,175_tie,bağlıyor,b.a.ɣ.l.a,b a ɣ l a,,Kessler2001,,False,^ b . a . ɣ . l . a $,default,b a x l a,a b l x
+1400,Albanian-176_tongue-1,,Albanian,176_tongue,gjuhë,ɟ.u.h,ɟ u h,,Kessler2001,,False,^ ɟ . u . h $,default,T u h,T h u
+1401,English-176_tongue-1,,English,176_tongue,tongue,t.ə.ŋ,t ə ŋ,,Kessler2001,,False,^ t . ə . ŋ $,default,t 3 N,3 N t
+1402,French-176_tongue-1,,French,176_tongue,langue,l.ɑ̃.g,l ɑ̃ g,,Kessler2001,,False,^ l . ɑ̃ . g $,default,l o* g,g l o*
+1403,German-176_tongue-1,,German,176_tongue,Zunge,ʦ.u.ŋ.ə,ts u ŋ ə,,Kessler2001,,False,^ ʦ . u . ŋ . ə $,default,ts u N 3,3 N ts u
+1404,Hawaiian-176_tongue-1,,Hawaiian,176_tongue,alelo,a.l.e.l.o,a l e l o,,Kessler2001,,False,^ a . l . e . l . o $,default,a l e l o,a e l o
+1405,Latin-176_tongue-1,,Latin,176_tongue,lingua,l.i.n.gw.a,l i n gʷ a,,Kessler2001,,False,^ l . i . n . gw . a $,default,l i n gw~ a,a gw~ i l n
+1406,Navajo-176_tongue-1,,Navajo,176_tongue,'atsoo',ʦ.oː.ʔ,ts oː ʔ,,Kessler2001,,False,^ ʦ . oː . ʔ $,default,ts o 7,7 o ts
+1407,Turkish-176_tongue-1,,Turkish,176_tongue,dil,d.i.l,d i l,,Kessler2001,,False,^ d . i . l $,default,d i l,d i l
+1408,Albanian-177_tooth-1,,Albanian,177_tooth,dhëmb,ð.ə.m.b,ð ə m b,,Kessler2001,,False,^ ð . ə . m . b $,default,8 3 m b,3 8 b m
+1409,English-177_tooth-1,,English,177_tooth,tooth,t.u.θ,t u θ,,Kessler2001,,False,^ t . u . θ $,default,t u 8,8 t u
+1410,French-177_tooth-1,,French,177_tooth,dent,d.ɑ̃,d ɑ̃,,Kessler2001,,False,^ d . ɑ̃ $,default,d o*,d o*
+1411,German-177_tooth-1,,German,177_tooth,Zahn,ʦ.aː.n,ts aː n,,Kessler2001,,False,^ ʦ . aː . n $,default,ts a n,a n ts
+1412,Hawaiian-177_tooth-1,,Hawaiian,177_tooth,niho,n.i.h.o,n i h o,,Kessler2001,,False,^ n . i . h . o $,default,n i h o,h i n o
+1413,Latin-177_tooth-1,,Latin,177_tooth,dens,d.e.n.t,d e n t,,Kessler2001,,False,^ d . e . n . t $,default,d e n t,d e n t
+1414,Navajo-177_tooth-1,,Navajo,177_tooth,'awoo',ɣ.oː.ʔ,ɣ oː ʔ,,Kessler2001,,False,^ ɣ . oː . ʔ $,default,x o 7,7 o x
+1415,Turkish-177_tooth-1,,Turkish,177_tooth,diş,d.i.ʃ,d i ʃ,,Kessler2001,,False,^ d . i . ʃ $,default,d i S,S d i
+1416,Albanian-178_tree-1,,Albanian,178_tree,dru,d.r.u.r,d r u r,,Kessler2001,,False,^ d . r . u . r $,default,d r u r,d r u
+1417,English-178_tree-1,,English,178_tree,tree,t.r.i,t r i,,Kessler2001,,False,^ t . r . i $,default,t r i,i r t
+1418,French-178_tree-1,,French,178_tree,arbre,a.r.b.r,a r b r,,Kessler2001,,False,^ a . r . b . r $,default,a r b r,a b r
+1419,German-178_tree-1,,German,178_tree,Baum,b.au.m,b au m,,Kessler2001,,False,^ b . au . m $,default,b au m,au b m
+1420,Hawaiian-178_tree-1,,Hawaiian,178_tree,lā`au,l.aː.ʔ.a.u,l aː ʔ a u,,Kessler2001,,False,^ l . aː . ʔ . a . u $,default,l a 7 a u,7 a l u
+1421,Latin-178_tree-1,,Latin,178_tree,arbor,a.r.b.o.s,a r b o s,,Kessler2001,,False,^ a . r . b . o . s $,default,a r b o s,a b o r s
+1422,Navajo-178_tree-1,,Navajo,178_tree,tsin,ʦ.i.n,ts i n,,Kessler2001,,False,^ ʦ . i . n $,default,ts i n,i n ts
+1423,Turkish-178_tree-1,,Turkish,178_tree,ağaç,a.ɣ.a.ʤ,a ɣ a dʒ,,Kessler2001,,False,^ a . ɣ . a . ʤ $,default,a x a dZ,a dZ x
+1424,Albanian-179_true-1,,Albanian,179_true,vërtetë,v.ə.r.t.e.t,v ə r t e t,,Kessler2001,,True,^ v . ə . r . t . e . t $,default,v 3 r t e t,3 e r t v
+1425,English-179_true-1,,English,179_true,true,t.r.u,t r u,,Kessler2001,,False,^ t . r . u $,default,t r u,r t u
+1426,French-179_true-1,,French,179_true,vrai,v.r.ɛ,v r ɛ,,Kessler2001,,False,^ v . r . ɛ $,default,v r E,E r v
+1427,German-179_true-1,,German,179_true,wahr,v.aː.r,v aː r,,Kessler2001,,False,^ v . aː . r $,default,v a r,a r v
+1428,Hawaiian-179_true-1,,Hawaiian,179_true,`oia`i`o,ʔ.o.i.a.ʔ.i.ʔ.o,ʔ o i a ʔ i ʔ o,,Kessler2001,,False,^ ʔ . o . i . a . ʔ . i . ʔ . o $,default,7 o i a 7 i 7 o,7 a i o
+1429,Latin-179_true-1,,Latin,179_true,verus,w.eː.r.o,w eː r o,,Kessler2001,,False,^ w . eː . r . o $,default,w e r o,e o r w
+1430,Navajo-179_true-1,,Navajo,179_true,'aaníí,ʔ.aː.n.iː,ʔ aː n iː,,Kessler2001,,False,^ ʔ . aː . n . iː $,default,7 a n i,7 a i n
+1431,Turkish-179_true-1,,Turkish,179_true,doğru,d.o.ɣ.r.u,d o ɣ r u,,Kessler2001,,False,^ d . o . ɣ . r . u $,default,d o x r u,d o r u x
+1432,Albanian-180_two-1,,Albanian,180_two,dy,d.y,d y,,Kessler2001,,False,^ d . y $,default,d i,d i
+1433,English-180_two-1,,English,180_two,two,t.u,t u,,Kessler2001,,False,^ t . u $,default,t u,t u
+1434,French-180_two-1,,French,180_two,deux,d.ø,d ø,,Kessler2001,,False,^ d . ø $,default,d e,d e
+1435,German-180_two-1,,German,180_two,zwei,ʦ.v.ai,ts v ai,,Kessler2001,,False,^ ʦ . v . ai $,default,ts v ai,ai ts v
+1436,Hawaiian-180_two-1,,Hawaiian,180_two,lua,l.u.a,l u a,,Kessler2001,,False,^ l . u . a $,default,l u a,a l u
+1437,Latin-180_two-1,,Latin,180_two,duo,d.u.o,d u o,,Kessler2001,,False,^ d . u . o $,default,d u o,d o u
+1438,Navajo-180_two-1,,Navajo,180_two,naaki,n.aː.k.i,n aː k i,,Kessler2001,,False,^ n . aː . k . i $,default,n a k i,a i k n
+1439,Turkish-180_two-1,,Turkish,180_two,iki,i.k.i,i k i,,Kessler2001,,False,^ i . k . i $,default,i k i,i k
+1440,Albanian-181_vomit-1,,Albanian,181_vomit,vjell,v.j.e.ł,v j e ł,,Kessler2001,,False,^ v . j . e . ł $,default,v y e l,e l v y
+1441,English-181_vomit-1,,English,181_vomit,vomits,v.ɑ.m.ə.t,v ɑ m ə t,,Kessler2001,,True,^ v . ɑ . m . ə . t $,default,v o m 3 t,3 m o t v
+1442,French-181_vomit-1,,French,181_vomit,vomit,v.ɔ.m.i,v ɔ m i,,Kessler2001,,True,^ v . ɔ . m . i $,default,v o m i,i m o v
+1443,German-181_vomit-1,,German,181_vomit,erbricht,e.r.b.r.e.x,e r b r e x,,Kessler2001,,False,^ e . r . b . r . e . x $,default,e r b r e x,b e r x
+1444,Hawaiian-181_vomit-1,,Hawaiian,181_vomit,lua`i,l.u.a.ʔ.i,l u a ʔ i,,Kessler2001,,False,^ l . u . a . ʔ . i $,default,l u a 7 i,7 a i l u
+1445,Latin-181_vomit-1,,Latin,181_vomit,vomit,w.o.m.e,w o m e,,Kessler2001,,False,^ w . o . m . e $,default,w o m e,e m o w
+1446,Navajo-181_vomit-1,,Navajo,181_vomit,náshkwi,n.ay.kw.i,n ay kʷ i,,Kessler2001,,False,^ n . ay . kw . i $,default,n ai kw~ i,ai i kw~ n
+1447,Turkish-181_vomit-1,,Turkish,181_vomit,kusuyor,k.u.s,k u s,,Kessler2001,,False,^ k . u . s $,default,k u s,k s u
+1448,Albanian-182_wash-1,,Albanian,182_wash,lau,l.a,l a,,Kessler2001,,False,^ l . a $,default,l a,a l
+1449,English-182_wash-1,,English,182_wash,washes,w.ɑ.ʃ,w ɑ ʃ,,Kessler2001,,False,^ w . ɑ . ʃ $,default,w o S,S o w
+1450,French-182_wash-1,,French,182_wash,lave,l.a.v.e,l a v e,,Kessler2001,,False,^ l . a . v . e $,default,l a v e,a e l v
+1451,German-182_wash-1,,German,182_wash,wäscht,v.a.ʃ,v a ʃ,,Kessler2001,,False,^ v . a . ʃ $,default,v a S,S a v
+1452,Hawaiian-182_wash-1,,Hawaiian,182_wash,holoi,h.o.l.o.i,h o l o i,,Kessler2001,,False,^ h . o . l . o . i $,default,h o l o i,h i l o
+1453,Latin-182_wash-1,,Latin,182_wash,lavat,l.a.w.aː,l a w aː,,Kessler2001,,False,^ l . a . w . aː $,default,l a w a,a l w
+1454,Navajo-182_wash-1,,Navajo,182_wash,yiisgis,j.iː.g.i.s,j iː g i s,,Kessler2001,,False,^ j . iː . g . i . s $,default,y i g i s,g i s y
+1455,Turkish-182_wash-1,,Turkish,182_wash,yıkıyor,j.ɯ.k.a,j ɯ k a,,Kessler2001,,False,^ j . ɯ . k . a $,default,y u k a,a k u y
+1456,Albanian-183_water-1,,Albanian,183_water,ujë,u.j,u j,,Kessler2001,,False,^ u . j $,default,u y,u y
+1457,English-183_water-1,,English,183_water,water,w.ɑ.t.ə.r,w ɑ t ə r,,Kessler2001,,False,^ w . ɑ . t . ə . r $,default,w o t 3 r,3 o r t w
+1458,French-183_water-1,,French,183_water,eau,o,o,,Kessler2001,,False,^ o $,default,o,o
+1459,German-183_water-1,,German,183_water,Wasser,v.a.s.ə.r,v a s ə r,,Kessler2001,,False,^ v . a . s . ə . r $,default,v a s 3 r,3 a r s v
+1460,Hawaiian-183_water-1,,Hawaiian,183_water,wai,w.a.i,w a i,,Kessler2001,,False,^ w . a . i $,default,w a i,a i w
+1461,Latin-183_water-1,,Latin,183_water,aqua,a.kw.a,a kʷ a,,Kessler2001,,False,^ a . kw . a $,default,a kw~ a,a kw~
+1462,Navajo-183_water-1,,Navajo,183_water,tó,t.o,t o,,Kessler2001,,False,^ t . o $,default,t o,o t
+1463,Turkish-183_water-1,,Turkish,183_water,su,s.u.j,s u j,,Kessler2001,,False,^ s . u . j $,default,s u y,s u y
+1464,Albanian-184_we-1,,Albanian,184_we,né,n,n,,Kessler2001,,False,^ n $,default,n,n
+1465,English-184_we-1,,English,184_we,we,w.i,w i,,Kessler2001,,False,^ w . i $,default,w i,i w
+1466,French-184_we-1,,French,184_we,nous,n.u,n u,,Kessler2001,,False,^ n . u $,default,n u,n u
+1467,German-184_we-1,,German,184_we,wir,v.iː.r,v iː r,,Kessler2001,,False,^ v . iː . r $,default,v i r,i r v
+1468,Hawaiian-184_we-1,,Hawaiian,184_we,mākou,m.aː.k.o.u,m aː k o u,,Kessler2001,,False,^ m . aː . k . o . u $,default,m a k o u,a k m o u
+1469,Latin-184_we-1,,Latin,184_we,nos,n.oː,n oː,,Kessler2001,,False,^ n . oː $,default,n o,n o
+1470,Navajo-184_we-1,,Navajo,184_we,nihí,n.i.h.i,n i h i,,Kessler2001,,False,^ n . i . h . i $,default,n i h i,h i n
+1471,Turkish-184_we-1,,Turkish,184_we,biz,b,b,,Kessler2001,,False,^ b $,default,b,b
+1472,Albanian-185_wet-1,,Albanian,185_wet,lagët,l.a.g.ə.t,l a g ə t,,Kessler2001,,False,^ l . a . g . ə . t $,default,l a g 3 t,3 a g l t
+1473,English-185_wet-1,,English,185_wet,wet,w.ɛ.t,w ɛ t,,Kessler2001,,False,^ w . ɛ . t $,default,w E t,E t w
+1474,French-185_wet-1,,French,185_wet,mouillé,m.u.j.e,m u j e,,Kessler2001,,False,^ m . u . j . e $,default,m u y e,e m u y
+1475,German-185_wet-1,,German,185_wet,nass,n.a.s,n a s,,Kessler2001,,False,^ n . a . s $,default,n a s,a n s
+1476,Hawaiian-185_wet-1,,Hawaiian,185_wet,pulu,p.u.l.u,p u l u,,Kessler2001,,False,^ p . u . l . u $,default,p u l u,l p u
+1477,Latin-185_wet-1,,Latin,185_wet,umidus,uː.m.i.d.o,uː m i d o,,Kessler2001,,False,^ uː . m . i . d . o $,default,u m i d o,d i m o u
+1478,Navajo-185_wet-1,,Navajo,185_wet,ditƚéé',d.i.tˡ.eː.ʔ,d i tˡ eː ʔ,,Kessler2001,,False,^ d . i . tˡ . eː . ʔ $,default,d i t e 7,7 d e i t
+1479,Turkish-185_wet-1,,Turkish,185_wet,ıslak,ɯ.s.l.a.k,ɯ s l a k,,Kessler2001,,False,^ ɯ . s . l . a . k $,default,u s l a k,a k l s u
+1480,Albanian-186_what-1,,Albanian,186_what,ç',ʧ,tʃ,,Kessler2001,,False,^ ʧ $,default,tS,tS
+1481,English-186_what-1,,English,186_what,what,w.ɑ.t,w ɑ t,,Kessler2001,,False,^ w . ɑ . t $,default,w o t,o t w
+1482,French-186_what-1,,French,186_what,quoi,k.w.a,k w a,,Kessler2001,,False,^ k . w . a $,default,k w a,a k w
+1483,German-186_what-1,,German,186_what,was,v,v,,Kessler2001,,False,^ v $,default,v,v
+1484,Hawaiian-186_what-1,,Hawaiian,186_what,aha,a.h.a,a h a,,Kessler2001,,False,^ a . h . a $,default,a h a,a h
+1485,Latin-186_what-1,,Latin,186_what,quid,kw.o,kʷ o,,Kessler2001,,False,^ kw . o $,default,kw~ o,kw~ o
+1486,Navajo-186_what-1,,Navajo,186_what,ha'át'íísh,h.a.ʔ.ay.tˀ.iː.ʃ,h a ʔ ay tˀ iː ʃ,,Kessler2001,,False,^ h . a . ʔ . ay . tˀ . iː . ʃ $,default,h a 7 ai t i S,7 S a ai h i t
+1487,Turkish-186_what-1,,Turkish,186_what,ne,n.e,n e,,Kessler2001,,False,^ n . e $,default,n e,e n
+1488,Albanian-187_white-1,,Albanian,187_white,bardhë,b.a.r.ð,b a r ð,,Kessler2001,,False,^ b . a . r . ð $,default,b a r 8,8 a b r
+1489,English-187_white-1,,English,187_white,white,w.ai.t,w ai t,,Kessler2001,,False,^ w . ai . t $,default,w ai t,ai t w
+1490,French-187_white-1,,French,187_white,blanc,b.l.ɑ̃.ʃ,b l ɑ̃ ʃ,,Kessler2001,,True,^ b . l . ɑ̃ . ʃ $,default,b l o* S,S b l o*
+1491,German-187_white-1,,German,187_white,weiß,v.ai.s,v ai s,,Kessler2001,,False,^ v . ai . s $,default,v ai s,ai s v
+1492,Hawaiian-187_white-1,,Hawaiian,187_white,ke`oke`o,k.e.ʔ.o.k.e.ʔ.o,k e ʔ o k e ʔ o,,Kessler2001,,False,^ k . e . ʔ . o . k . e . ʔ . o $,default,k e 7 o k e 7 o,7 e k o
+1493,Latin-187_white-1,,Latin,187_white,albus,a.l.b.o,a l b o,,Kessler2001,,False,^ a . l . b . o $,default,a l b o,a b l o
+1494,Navajo-187_white-1,,Navajo,187_white,ƚigai,ɬ.i.g.a.i,ɬ i g a i,,Kessler2001,,False,^ ɬ . i . g . a . i $,default,L i g a i,L a g i
+1495,Turkish-187_white-1,,Turkish,187_white,ak,a.k,a k,,Kessler2001,,False,^ a . k $,default,a k,a k
+1496,Albanian-188_who-1,,Albanian,188_who,kush,k,k,,Kessler2001,,False,^ k $,default,k,k
+1497,English-188_who-1,,English,188_who,who,h.u,h u,,Kessler2001,,False,^ h . u $,default,h u,h u
+1498,French-188_who-1,,French,188_who,qui,k.i,k i,,Kessler2001,,False,^ k . i $,default,k i,i k
+1499,German-188_who-1,,German,188_who,wer,v.eː,v eː,,Kessler2001,,False,^ v . eː $,default,v e,e v
+1500,Hawaiian-188_who-1,,Hawaiian,188_who,wai,w.a.i,w a i,,Kessler2001,,False,^ w . a . i $,default,w a i,a i w
+1501,Latin-188_who-1,,Latin,188_who,quis,kw.o,kʷ o,,Kessler2001,,False,^ kw . o $,default,kw~ o,kw~ o
+1502,Navajo-188_who-1,,Navajo,188_who,háí,h.ay.i,h ay i,,Kessler2001,,False,^ h . ay . i $,default,h ai i,ai h i
+1503,Turkish-188_who-1,,Turkish,188_who,kim,k.i.m,k i m,,Kessler2001,,False,^ k . i . m $,default,k i m,i k m
+1504,Albanian-189_wide-1,,Albanian,189_wide,gjerë,ɟ.e.r,ɟ e r,,Kessler2001,,False,^ ɟ . e . r $,default,T e r,T e r
+1505,English-189_wide-1,,English,189_wide,wide,w.ai.d,w ai d,,Kessler2001,,False,^ w . ai . d $,default,w ai d,ai d w
+1506,French-189_wide-1,,French,189_wide,large,l.a.r.ʒ,l a r ʒ,,Kessler2001,,False,^ l . a . r . ʒ $,default,l a r Z,Z a l r
+1507,German-189_wide-1,,German,189_wide,weit,v.ai.t,v ai t,,Kessler2001,,False,^ v . ai . t $,default,v ai t,ai t v
+1508,Hawaiian-189_wide-1,,Hawaiian,189_wide,ākea,aː.k.e.a,aː k e a,,Kessler2001,,False,^ aː . k . e . a $,default,a k e a,a e k
+1509,Latin-189_wide-1,,Latin,189_wide,latus,l.aː.t.o,l aː t o,,Kessler2001,,False,^ l . aː . t . o $,default,l a t o,a l o t
+1510,Navajo-189_wide-1,,Navajo,189_wide,niteel,n.i.t.eː.l,n i t eː l,,Kessler2001,,False,^ n . i . t . eː . l $,default,n i t e l,e i l n t
+1511,Turkish-189_wide-1,,Turkish,189_wide,geniş,g.e.n.i.ʃ,g e n i ʃ,,Kessler2001,,False,^ g . e . n . i . ʃ $,default,g e n i S,S e g i n
+1512,Albanian-190_wife-1,,Albanian,190_wife,grua,g.r.u,g r u,,Kessler2001,,False,^ g . r . u $,default,g r u,g r u
+1513,English-190_wife-1,,English,190_wife,wife,w.ai.f,w ai f,,Kessler2001,,False,^ w . ai . f $,default,w ai f,ai f w
+1514,French-190_wife-1,,French,190_wife,femme,f.a.m,f a m,,Kessler2001,,False,^ f . a . m $,default,f a m,a f m
+1515,German-190_wife-1,,German,190_wife,Gattin,g.a.t.i.n,g a t i n,,Kessler2001,,False,^ g . a . t . i . n $,default,g a t i n,a g i n t
+1516,Hawaiian-190_wife-1,,Hawaiian,190_wife,wahine,w.a.h.i.n.e,w a h i n e,,Kessler2001,,False,^ w . a . h . i . n . e $,default,w a h i n e,a e h i n w
+1517,Latin-190_wife-1,,Latin,190_wife,uxor,u.k.s.o.r,u k s o r,,Kessler2001,,False,^ u . k . s . o . r $,default,u k s o r,k o r s u
+1518,Navajo-190_wife-1,,Navajo,190_wife,'a'áád,ʔ.aː.d,ʔ aː d,,Kessler2001,,False,^ ʔ . aː . d $,default,7 a d,7 a d
+1519,Turkish-190_wife-1,,Turkish,190_wife,karı,k.a.r.ɯ,k a r ɯ,,Kessler2001,,False,^ k . a . r . ɯ $,default,k a r u,a k r u
+1520,Albanian-191_wind-1,,Albanian,191_wind,erë,e.r,e r,,Kessler2001,,True,^ e . r $,default,e r,e r
+1521,English-191_wind-1,,English,191_wind,wind,w.ɪ.n.d,w ɪ n d,,Kessler2001,,False,^ w . ɪ . n . d $,default,w i n d,d i n w
+1522,French-191_wind-1,,French,191_wind,vent,v.ɑ̃,v ɑ̃,,Kessler2001,,False,^ v . ɑ̃ $,default,v o*,o* v
+1523,German-191_wind-1,,German,191_wind,Wind,v.i.n.d,v i n d,,Kessler2001,,False,^ v . i . n . d $,default,v i n d,d i n v
+1524,Hawaiian-191_wind-1,,Hawaiian,191_wind,makani,m.a.k.a.n.i,m a k a n i,,Kessler2001,,False,^ m . a . k . a . n . i $,default,m a k a n i,a i k m n
+1525,Latin-191_wind-1,,Latin,191_wind,ventus,w.e.n.t.o,w e n t o,,Kessler2001,,False,^ w . e . n . t . o $,default,w e n t o,e n o t w
+1526,Navajo-191_wind-1,,Navajo,191_wind,níƚch'i,n.i.ɬ.ʧˀ.i,n i ɬ tʃˀ i,,Kessler2001,,False,^ n . i . ɬ . ʧˀ . i $,default,n i L tS i,L i n tS
+1527,Turkish-191_wind-1,,Turkish,191_wind,rüzgar,r.y.z.g.aː.r,r y z g aː r,,Kessler2001,,True,^ r . y . z . g . aː . r $,default,r i z g a r,a g i r z
+1528,Albanian-192_wing-1,,Albanian,192_wing,fletë,f.l.e.t,f l e t,,Kessler2001,,False,^ f . l . e . t $,default,f l e t,e f l t
+1529,English-192_wing-1,,English,192_wing,wing,w.ɪ.ŋ,w ɪ ŋ,,Kessler2001,,True,^ w . ɪ . ŋ $,default,w i N,N i w
+1530,French-192_wing-1,,French,192_wing,aile,ɛ.l,ɛ l,,Kessler2001,,False,^ ɛ . l $,default,E l,E l
+1531,German-192_wing-1,,German,192_wing,Flügel,f.l.yː.g.ə.l,f l yː g ə l,,Kessler2001,,False,^ f . l . yː . g . ə . l $,default,f l i g 3 l,3 f g i l
+1532,Hawaiian-192_wing-1,,Hawaiian,192_wing,`ēheu,ʔ.eː.h.e.u,ʔ eː h e u,,Kessler2001,,False,^ ʔ . eː . h . e . u $,default,7 e h e u,7 e h u
+1533,Latin-192_wing-1,,Latin,192_wing,ala,aː.l.a,aː l a,,Kessler2001,,False,^ aː . l . a $,default,a l a,a l
+1534,Navajo-192_wing-1,,Navajo,192_wing,'at'a',tˀ.a.ʔ,tˀ a ʔ,,Kessler2001,,False,^ tˀ . a . ʔ $,default,t a 7,7 a t
+1535,Turkish-192_wing-1,,Turkish,192_wing,kanat,k.a.n.a.d,k a n a d,,Kessler2001,,False,^ k . a . n . a . d $,default,k a n a d,a d k n
+1536,Albanian-193_wipe-1,,Albanian,193_wipe,fshin,f.ʃ.i,f ʃ i,,Kessler2001,,False,^ f . ʃ . i $,default,f S i,S f i
+1537,English-193_wipe-1,,English,193_wipe,wipes,w.ai.p,w ai p,,Kessler2001,,False,^ w . ai . p $,default,w ai p,ai p w
+1538,French-193_wipe-1,,French,193_wipe,essuie,e.s.ɥ.i.j.e,e s ɥ i j e,,Kessler2001,,False,^ e . s . ɥ . i . j . e $,default,e s y i y e,e i s y
+1539,German-193_wipe-1,,German,193_wipe,wischt,v.i.ʃ,v i ʃ,,Kessler2001,,False,^ v . i . ʃ $,default,v i S,S i v
+1540,Hawaiian-193_wipe-1,,Hawaiian,193_wipe,kāwele,k.aː.w.e.l.e,k aː w e l e,,Kessler2001,,True,^ k . aː . w . e . l . e $,default,k a w e l e,a e k l w
+1541,Latin-193_wipe-1,,Latin,193_wipe,terget,t.e.r.g.eː,t e r g eː,,Kessler2001,,False,^ t . e . r . g . eː $,default,t e r g e,e g r t
+1542,Navajo-193_wipe-1,,Navajo,193_wipe,nánísht'od,n.ay.n.i.tˀ.o.d,n ay n i tˀ o d,,Kessler2001,,False,^ n . ay . n . i . tˀ . o . d $,default,n ai n i t o d,ai d i n o t
+1543,Turkish-193_wipe-1,,Turkish,193_wipe,siliyor,s.i.l,s i l,,Kessler2001,,False,^ s . i . l $,default,s i l,i l s
+1544,Albanian-194_with-1,,Albanian,194_with,me,m.e,m e,,Kessler2001,,False,^ m . e $,default,m e,e m
+1545,English-194_with-1,,English,194_with,with,w.ɪ.θ,w ɪ θ,,Kessler2001,,False,^ w . ɪ . θ $,default,w i 8,8 i w
+1546,French-194_with-1,,French,194_with,avec,a.v.ɛ.k,a v ɛ k,,Kessler2001,,False,^ a . v . ɛ . k $,default,a v E k,E a k v
+1547,German-194_with-1,,German,194_with,mit,m.i.t,m i t,,Kessler2001,,False,^ m . i . t $,default,m i t,i m t
+1548,Hawaiian-194_with-1,,Hawaiian,194_with,me,m.e,m e,,Kessler2001,,False,^ m . e $,default,m e,e m
+1549,Latin-194_with-1,,Latin,194_with,cum,k.u.m,k u m,,Kessler2001,,False,^ k . u . m $,default,k u m,k m u
+1550,Navajo-194_with-1,,Navajo,194_with,biƚ,i.ɬ,i ɬ,,Kessler2001,,False,^ i . ɬ $,default,i L,L i
+1551,Turkish-194_with-1,,Turkish,194_with,ile,i.l.e,i l e,,Kessler2001,,False,^ i . l . e $,default,i l e,e i l
+1552,Albanian-195_woman-1,,Albanian,195_woman,grua,g.r.u,g r u,,Kessler2001,,False,^ g . r . u $,default,g r u,g r u
+1553,English-195_woman-1,,English,195_woman,woman,w.ʊ.m.ə.n,w ʊ m ə n,,Kessler2001,,False,^ w . ʊ . m . ə . n $,default,w u m 3 n,3 m n u w
+1554,French-195_woman-1,,French,195_woman,femme,f.a.m,f a m,,Kessler2001,,False,^ f . a . m $,default,f a m,a f m
+1555,German-195_woman-1,,German,195_woman,Frau,f.r.au,f r au,,Kessler2001,,False,^ f . r . au $,default,f r au,au f r
+1556,Hawaiian-195_woman-1,,Hawaiian,195_woman,wahine,w.a.h.i.n.e,w a h i n e,,Kessler2001,,False,^ w . a . h . i . n . e $,default,w a h i n e,a e h i n w
+1557,Latin-195_woman-1,,Latin,195_woman,mulier,m.u.l.i.e.r,m u l i e r,,Kessler2001,,False,^ m . u . l . i . e . r $,default,m u l i e r,e i l m r u
+1558,Navajo-195_woman-1,,Navajo,195_woman,'asdzání,ʔ.a.s.ʣ.ay.n.i,ʔ a s dz ay n i,,Kessler2001,,False,^ ʔ . a . s . ʣ . ay . n . i $,default,7 a s dz ai n i,7 a ai dz i n s
+1559,Turkish-195_woman-1,,Turkish,195_woman,kadın,k.a.d.ɯ.n,k a d ɯ n,,Kessler2001,,True,^ k . a . d . ɯ . n $,default,k a d u n,a d k n u
+1560,Albanian-196_woods-1,,Albanian,196_woods,pyll,p.y.ł,p y ł,,Kessler2001,,True,^ p . y . ł $,default,p i l,i l p
+1561,English-196_woods-1,,English,196_woods,woods,w.ʊ.d,w ʊ d,,Kessler2001,,False,^ w . ʊ . d $,default,w u d,d u w
+1562,French-196_woods-1,,French,196_woods,bois,b.w.a,b w a,,Kessler2001,,True,^ b . w . a $,default,b w a,a b w
+1563,German-196_woods-1,,German,196_woods,Wald,v.a.l.d,v a l d,,Kessler2001,,False,^ v . a . l . d $,default,v a l d,a d l v
+1564,Hawaiian-196_woods-1,,Hawaiian,196_woods,ulu lā`au,u.l.u.l.aː.ʔ.a.u,u l u l aː ʔ a u,,Kessler2001,,False,^ u . l . u . l . aː . ʔ . a . u $,default,u l u l a 7 a u,7 a l u
+1565,Latin-196_woods-1,,Latin,196_woods,silva,s.i.l.w.a,s i l w a,,Kessler2001,,False,^ s . i . l . w . a $,default,s i l w a,a i l s w
+1566,Navajo-196_woods-1,,Navajo,196_woods,tsintah,ʦ.i.n.t.a.h,ts i n t a h,,Kessler2001,,False,^ ʦ . i . n . t . a . h $,default,ts i n t a h,a h i n t ts
+1567,Turkish-196_woods-1,,Turkish,196_woods,orman,o.r.m.a.n,o r m a n,,Kessler2001,,False,^ o . r . m . a . n $,default,o r m a n,a m n o r
+1568,Albanian-197_worm-1,,Albanian,197_worm,krimb,k.r.i.m.b,k r i m b,,Kessler2001,,False,^ k . r . i . m . b $,default,k r i m b,b i k m r
+1569,English-197_worm-1,,English,197_worm,worm,w.ə.r.m,w ə r m,,Kessler2001,,False,^ w . ə . r . m $,default,w 3 r m,3 m r w
+1570,French-197_worm-1,,French,197_worm,ver,v.ɛ.r,v ɛ r,,Kessler2001,,False,^ v . ɛ . r $,default,v E r,E r v
+1571,German-197_worm-1,,German,197_worm,Wurm,v.u.r.m,v u r m,,Kessler2001,,False,^ v . u . r . m $,default,v u r m,m r u v
+1572,Hawaiian-197_worm-1,,Hawaiian,197_worm,ko`e,k.o.ʔ.e,k o ʔ e,,Kessler2001,,False,^ k . o . ʔ . e $,default,k o 7 e,7 e k o
+1573,Latin-197_worm-1,,Latin,197_worm,vermis,w.e.r.m.i,w e r m i,,Kessler2001,,False,^ w . e . r . m . i $,default,w e r m i,e i m r w
+1574,Navajo-197_worm-1,,Navajo,197_worm,ch'osh,ʧˀ.o.ʃ,tʃˀ o ʃ,,Kessler2001,,False,^ ʧˀ . o . ʃ $,default,tS o S,S o tS
+1575,Turkish-197_worm-1,,Turkish,197_worm,solucan,s.o.l.u.ʤ.a.n,s o l u dʒ a n,,Kessler2001,,True,^ s . o . l . u . ʤ . a . n $,default,s o l u dZ a n,a dZ l n o s u
+1576,Albanian-198_year-1,,Albanian,198_year,vit,v.i.t,v i t,,Kessler2001,,False,^ v . i . t $,default,v i t,i t v
+1577,English-198_year-1,,English,198_year,year,j.ɪ.r,j ɪ r,,Kessler2001,,False,^ j . ɪ . r $,default,y i r,i r y
+1578,French-198_year-1,,French,198_year,année,a.n.e,a n e,,Kessler2001,,False,^ a . n . e $,default,a n e,a e n
+1579,German-198_year-1,,German,198_year,Jahr,j.aː.r,j aː r,,Kessler2001,,False,^ j . aː . r $,default,y a r,a r y
+1580,Hawaiian-198_year-1,,Hawaiian,198_year,makahiki,m.a.k.a.h.i.k.i,m a k a h i k i,,Kessler2001,,False,^ m . a . k . a . h . i . k . i $,default,m a k a h i k i,a h i k m
+1581,Latin-198_year-1,,Latin,198_year,annus,a.nː.o,a nː o,,Kessler2001,,False,^ a . nː . o $,default,a n o,a n o
+1582,Navajo-198_year-1,,Navajo,198_year,hai,h.ai,h ai,,Kessler2001,,False,^ h . ai $,default,h ai,ai h
+1583,Turkish-198_year-1,,Turkish,198_year,sene,s.e.n.e,s e n e,,Kessler2001,,True,^ s . e . n . e $,default,s e n e,e n s
+1584,Albanian-199_yellow-1,,Albanian,199_yellow,verdhë,v.e.r.ð,v e r ð,,Kessler2001,,True,^ v . e . r . ð $,default,v e r 8,8 e r v
+1585,English-199_yellow-1,,English,199_yellow,yellow,j.ɛ.l.o,j ɛ l o,,Kessler2001,,False,^ j . ɛ . l . o $,default,y E l o,E l o y
+1586,French-199_yellow-1,,French,199_yellow,jaune,ʒ.o.n,ʒ o n,,Kessler2001,,False,^ ʒ . o . n $,default,Z o n,Z n o
+1587,German-199_yellow-1,,German,199_yellow,gelb,g.e.l.b,g e l b,,Kessler2001,,False,^ g . e . l . b $,default,g e l b,b e g l
+1588,Hawaiian-199_yellow-1,,Hawaiian,199_yellow,melemele,m.e.l.e.m.e.l.e,m e l e m e l e,,Kessler2001,,False,^ m . e . l . e . m . e . l . e $,default,m e l e m e l e,e l m
+1589,Latin-199_yellow-1,,Latin,199_yellow,flavos,f.l.aː.w.o,f l aː w o,,Kessler2001,,False,^ f . l . aː . w . o $,default,f l a w o,a f l o w
+1590,Navajo-199_yellow-1,,Navajo,199_yellow,ƚitso,ɬ.i.ʦ.o,ɬ i ts o,,Kessler2001,,False,^ ɬ . i . ʦ . o $,default,L i ts o,L i o ts
+1591,Turkish-199_yellow-1,,Turkish,199_yellow,sarı,s.a.r.ɯ,s a r ɯ,,Kessler2001,,False,^ s . a . r . ɯ $,default,s a r u,a r s u
+1592,Albanian-200_you-1,,Albanian,200_you,ju,j.u,j u,,Kessler2001,,False,^ j . u $,default,y u,u y
+1593,English-200_you-1,,English,200_you,you,j.u,j u,,Kessler2001,,False,^ j . u $,default,y u,u y
+1594,French-200_you-1,,French,200_you,vous,v.u,v u,,Kessler2001,,False,^ v . u $,default,v u,u v
+1595,German-200_you-1,,German,200_you,ihr,iː.r,iː r,,Kessler2001,,False,^ iː . r $,default,i r,i r
+1596,Hawaiian-200_you-1,,Hawaiian,200_you,`oukou,ʔ.o.u,ʔ o u,,Kessler2001,,False,^ ʔ . o . u $,default,7 o u,7 o u
+1597,Latin-200_you-1,,Latin,200_you,vos,w.oː,w oː,,Kessler2001,,False,^ w . oː $,default,w o,o w
+1598,Navajo-200_you-1,,Navajo,200_you,nihí,n.i.h.i,n i h i,,Kessler2001,,False,^ n . i . h . i $,default,n i h i,h i n
+1599,Turkish-200_you-1,,Turkish,200_you,siz,s,s,,Kessler2001,,False,^ s $,default,s,s

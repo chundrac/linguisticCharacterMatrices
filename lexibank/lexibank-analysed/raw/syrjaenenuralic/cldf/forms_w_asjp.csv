@@ -1,0 +1,1402 @@
+,ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,asjp_forms,asjp_segs
+0,ingrian-82_i-1,,ingrian,82_i,miæ,m.i.æ,m i æ,,Syrjaenen2013,,False,^ m . i . æ $,default,m i E,E i m
+1,komipermyak-82_i-1,,komipermyak,82_i,me,m.e,m e,,Syrjaenen2013,,False,^ m . e $,default,m e,e m
+2,komizyrian-82_i-1,,komizyrian,82_i,me,m.e,m e,,Syrjaenen2013,,False,^ m . e $,default,m e,e m
+3,nganasan-82_i-1,,nganasan,82_i,mənə,m.ə.n.ə,m ə n ə,,Syrjaenen2013,,False,^ m . ə . n . ə $,default,m 3 n 3,3 m n
+4,selkup-82_i-1,,selkup,82_i,mɑn,m.ɑ.n,m ɑ n,,Syrjaenen2013,,False,^ m . ɑ . n $,default,m o n,m n o
+5,udmurt-82_i-1,,udmurt,82_i,mon,m.o.n,m o n,,Syrjaenen2013,,False,^ m . o . n $,default,m o n,m n o
+6,erzya-82_i-1,,erzya,82_i,mon,m.o.n,m o n,,Syrjaenen2013,,False,^ m . o . n $,default,m o n,m n o
+7,erzya-1_all-1,,erzya,1_all,veɕe,v.e.ɕ.e,v e ɕ e,,Syrjaenen2013,,False,^ v . e . ɕ . e $,default,v e S e,S e v
+8,ingrian-1_all-1,,ingrian,1_all,kɑi,k.ɑ.i,k ɑ i,,Syrjaenen2013,,False,^ k . ɑ . i $,default,k o i,i k o
+9,komipermyak-1_all-1,,komipermyak,1_all,bɯdɤs,b.ɯ.d.ɤ.s,b ɯ d ɤ s,,Syrjaenen2013,,False,^ b . ɯ . d . ɤ . s $,default,b u d o s,b d o s u
+10,komizyrian-1_all-1,,komizyrian,1_all,bɯd,b.ɯ.d,b ɯ d,,Syrjaenen2013,,False,^ b . ɯ . d $,default,b u d,b d u
+11,komizyrian-1_all-2,,komizyrian,1_all,stɑv,s.t.ɑ.v,s t ɑ v,,Syrjaenen2013,,False,^ s . t . ɑ . v $,default,s t o v,o s t v
+12,nganasan-1_all-1,,nganasan,1_all,bənsə,b.ə.n.s.ə,b ə n s ə,,Syrjaenen2013,,False,^ b . ə . n . s . ə $,default,b 3 n s 3,3 b n s
+13,selkup-1_all-1,,selkup,1_all,muntə,m.u.n.t.ə,m u n t ə,,Syrjaenen2013,,False,^ m . u . n . t . ə $,default,m u n t 3,3 m n t u
+14,udmurt-1_all-1,,udmurt,1_all,vɑɲmɯz,v.ɑ.ɲ.m.ɯ.z,v ɑ ɲ m ɯ z,,Syrjaenen2013,,False,^ v . ɑ . ɲ . m . ɯ . z $,default,v o 5 m u z,5 m o u v z
+15,erzya-2_and-1,,erzya,2_and,i,i,i,,Syrjaenen2013,,False,^ i $,default,i,i
+16,ingrian-2_and-1,,ingrian,2_and,jɑ,j.ɑ,j ɑ,,Syrjaenen2013,,False,^ j . ɑ $,default,y o,o y
+17,ingrian-2_and-2,,ingrian,2_and,i,i,i,,Syrjaenen2013,,False,^ i $,default,i,i
+18,ingrian-2_and-3,,ingrian,2_and,tɑ,t.ɑ,t ɑ,,Syrjaenen2013,,False,^ t . ɑ $,default,t o,o t
+19,komipermyak-2_and-1,,komipermyak,2_and,i,i,i,,Syrjaenen2013,,False,^ i $,default,i,i
+20,komipermyak-2_and-2,,komipermyak,2_and,dɑ,d.ɑ,d ɑ,,Syrjaenen2013,,False,^ d . ɑ $,default,d o,d o
+21,komizyrian-2_and-1,,komizyrian,2_and,i,i,i,,Syrjaenen2013,,False,^ i $,default,i,i
+22,komizyrian-2_and-2,,komizyrian,2_and,dɑ,d.ɑ,d ɑ,,Syrjaenen2013,,False,^ d . ɑ $,default,d o,d o
+23,selkup-2_and-1,,selkup,2_and,ɑj,ɑ.j,ɑ j,,Syrjaenen2013,,False,^ ɑ . j $,default,o y,o y
+24,udmurt-2_and-1,,udmurt,2_and,i,i,i,,Syrjaenen2013,,False,^ i $,default,i,i
+25,udmurt-2_and-2,,udmurt,2_and,dɑ,d.ɑ,d ɑ,,Syrjaenen2013,,False,^ d . ɑ $,default,d o,d o
+26,erzya-2_and-2,,erzya,2_and,di,d.i,d i,,Syrjaenen2013,,False,^ d . i $,default,d i,d i
+27,erzya-3_animal-1,,erzya,3_animal,ʑverʲ,ʑ.v.e.rʲ,ʑ v e rʲ,,Syrjaenen2013,,False,^ ʑ . v . e . rʲ $,default,Z v e ry~,Z e ry~ v
+28,erzya-3_animal-2,,erzya,3_animal,rɑkʃɑ,r.ɑ.k.ʃ.ɑ,r ɑ k ʃ ɑ,,Syrjaenen2013,,False,^ r . ɑ . k . ʃ . ɑ $,default,r o k S o,S k o r
+29,ingrian-3_animal-1,,ingrian,3_animal,elog̊ɑz,e.l.o.ɡ̥.ɑ.z,e l o ɡ̥ ɑ z,,Syrjaenen2013,,False,^ e . l . o . ɡ̥ . ɑ . z $,default,e l o g o z,e g l o z
+30,komipermyak-3_animal-1,,komipermyak,3_animal,vɤrpi,v.ɤ.r.p.i,v ɤ r p i,,Syrjaenen2013,,False,^ v . ɤ . r . p . i $,default,v o r p i,i o p r v
+31,komizyrian-3_animal-1,,komizyrian,3_animal,zvʲer,z.vʲ.e.r,z vʲ e r,,Syrjaenen2013,,False,^ z . vʲ . e . r $,default,z vy~ e r,e r vy~ z
+32,komizyrian-3_animal-2,,komizyrian,3_animal,pemɤs,p.e.m.ɤ.s,p e m ɤ s,,Syrjaenen2013,,False,^ p . e . m . ɤ . s $,default,p e m o s,e m o p s
+33,nganasan-3_animal-1,,nganasan,3_animal,dʲɑməðə,dʲ.ɑ.m.ə.ð.ə,dʲ ɑ m ə ð ə,,Syrjaenen2013,,False,^ dʲ . ɑ . m . ə . ð . ə $,default,dy~ o m 3 8 3,3 8 dy~ m o
+34,selkup-3_animal-1,,selkup,3_animal,suːrəm,s.uː.r.ə.m,s uː r ə m,,Syrjaenen2013,,False,^ s . uː . r . ə . m $,default,s u r 3 m,3 m r s u
+35,udmurt-3_animal-1,,udmurt,3_animal,pɤjʃur,p.ɤ.j.ʃ.u.r,p ɤ j ʃ u r,,Syrjaenen2013,,False,^ p . ɤ . j . ʃ . u . r $,default,p o y S u r,S o p r u y
+36,erzya-4_ashes-1,,erzya,4_ashes,kulov,k.u.l.o.v,k u l o v,,Syrjaenen2013,,False,^ k . u . l . o . v $,default,k u l o v,k l o u v
+37,ingrian-4_ashes-1,,ingrian,4_ashes,poro,p.o.r.o,p o r o,,Syrjaenen2013,,False,^ p . o . r . o $,default,p o r o,o p r
+38,komipermyak-4_ashes-1,,komipermyak,4_ashes,pɤjim,p.ɤ.j.i.m,p ɤ j i m,,Syrjaenen2013,,False,^ p . ɤ . j . i . m $,default,p o y i m,i m o p y
+39,komizyrian-4_ashes-1,,komizyrian,4_ashes,pɤjim,p.ɤ.j.i.m,p ɤ j i m,,Syrjaenen2013,,False,^ p . ɤ . j . i . m $,default,p o y i m,i m o p y
+40,nganasan-4_ashes-1,,nganasan,4_ashes,tuː_dʲoəʔ,t.uː._.dʲ.o.ə.ʔ,t uː + dʲ o ə ʔ,,Syrjaenen2013,,False,^ t . uː . _ . dʲ . o . ə . ʔ $,default,t u  dy~ o 3 7, 3 7 dy~ o t u
+41,selkup-4_ashes-1,,selkup,4_ashes,ɕiːmə,ɕ.iː.m.ə,ɕ iː m ə,,Syrjaenen2013,,False,^ ɕ . iː . m . ə $,default,S i m 3,3 S i m
+42,udmurt-4_ashes-1,,udmurt,4_ashes,peɲ,p.e.ɲ,p e ɲ,,Syrjaenen2013,,False,^ p . e . ɲ $,default,p e 5,5 e p
+43,erzya-5_at-1,,erzya,5_at,kedʲse,k.e.dʲ.s.e,k e dʲ s e,,Syrjaenen2013,,False,^ k . e . dʲ . s . e $,default,k e dy~ s e,dy~ e k s
+44,erzya-5_at-2,,erzya,5_at,peʎe,p.e.ʎ.e,p e ʎ e,,Syrjaenen2013,,False,^ p . e . ʎ . e $,default,p e L e,L e p
+45,ingrian-5_at-1,,ingrian,5_at,loːn,l.oː.n,l oː n,,Syrjaenen2013,,False,^ l . oː . n $,default,l o n,l n o
+46,komipermyak-5_at-1,,komipermyak,5_at,sɑjɯn,s.ɑ.j.ɯ.n,s ɑ j ɯ n,,Syrjaenen2013,,False,^ s . ɑ . j . ɯ . n $,default,s o y u n,n o s u y
+47,komipermyak-5_at-2,,komipermyak,5_at,dɯnɯn,d.ɯ.n.ɯ.n,d ɯ n ɯ n,,Syrjaenen2013,,False,^ d . ɯ . n . ɯ . n $,default,d u n u n,d n u
+48,komizyrian-5_at-1,,komizyrian,5_at,dorɯn,d.o.r.ɯ.n,d o r ɯ n,,Syrjaenen2013,,False,^ d . o . r . ɯ . n $,default,d o r u n,d n o r u
+49,komizyrian-5_at-2,,komizyrian,5_at,ordɯn,o.r.d.ɯ.n,o r d ɯ n,,Syrjaenen2013,,False,^ o . r . d . ɯ . n $,default,o r d u n,d n o r u
+50,selkup-5_at-1,,selkup,5_at,nɑːnə,n.ɑː.n.ə,n ɑː n ə,,Syrjaenen2013,,False,^ n . ɑː . n . ə $,default,n o n 3,3 n o
+51,udmurt-5_at-1,,udmurt,5_at,dorɯn,d.o.r.ɯ.n,d o r ɯ n,,Syrjaenen2013,,False,^ d . o . r . ɯ . n $,default,d o r u n,d n o r u
+52,udmurt-5_at-2,,udmurt,5_at,urtsɯn,u.r.t.s.ɯ.n,u r t s ɯ n,,Syrjaenen2013,,False,^ u . r . t . s . ɯ . n $,default,u r t s u n,n r s t u
+53,erzya-8_bark-1,,erzya,8_bark,kerʲ,k.e.rʲ,k e rʲ,,Syrjaenen2013,,False,^ k . e . rʲ $,default,k e ry~,e k ry~
+54,erzya-8_bark-2,,erzya,8_bark,sud,s.u.d,s u d,,Syrjaenen2013,,False,^ s . u . d $,default,s u d,d s u
+55,ingrian-8_bark-1,,ingrian,8_bark,koːri,k.oː.r.i,k oː r i,,Syrjaenen2013,,False,^ k . oː . r . i $,default,k o r i,i k o r
+56,komipermyak-8_bark-1,,komipermyak,8_bark,kɑʨ,k.ɑ.tɕ,k ɑ tɕ,,Syrjaenen2013,,False,^ k . ɑ . tɕ $,default,k o tS,k o tS
+57,komizyrian-8_bark-1,,komizyrian,8_bark,kɯrɕ,k.ɯ.r.ɕ,k ɯ r ɕ,,Syrjaenen2013,,False,^ k . ɯ . r . ɕ $,default,k u r S,S k r u
+58,nganasan-8_bark-1,,nganasan,8_bark,kɑsu,k.ɑ.s.u,k ɑ s u,,Syrjaenen2013,,False,^ k . ɑ . s . u $,default,k o s u,k o s u
+59,selkup-8_bark-1,,selkup,8_bark,qɑːsə,q.ɑː.s.ə,q ɑː s ə,,Syrjaenen2013,,False,^ q . ɑː . s . ə $,default,q o s 3,3 o q s
+60,udmurt-8_bark-1,,udmurt,8_bark,kur,k.u.r,k u r,,Syrjaenen2013,,False,^ k . u . r $,default,k u r,k r u
+61,udmurt-8_bark-2,,udmurt,8_bark,sul,s.u.l,s u l,,Syrjaenen2013,,False,^ s . u . l $,default,s u l,l s u
+62,erzya-9_because-1,,erzya,9_because,ɕeks,ɕ.e.k.s,ɕ e k s,,Syrjaenen2013,,False,^ ɕ . e . k . s $,default,S e k s,S e k s
+63,erzya-9_because-2,,erzya,9_because,ɕeks_meks,ɕ.e.k.s._.m.e.k.s,ɕ e k s + m e k s,,Syrjaenen2013,,False,^ ɕ . e . k . s . _ . m . e . k . s $,default,S e k s  m e k s, S e k m s
+64,ingrian-9_because-1,,ingrian,9_because,sentæː,s.e.n.t.æː,s e n t æː,,Syrjaenen2013,,False,^ s . e . n . t . æː $,default,s e n t E,E e n s t
+65,ingrian-9_because-2,,ingrian,9_because,sentæː,s.e.n.t.æː,s e n t æː,,Syrjaenen2013,,False,^ s . e . n . t . æː $,default,s e n t E,E e n s t
+66,ingrian-9_because-3,,ingrian,9_because,sem_peræst,s.e.m._.p.e.r.æ.s.t,s e m + p e r æ s t,,Syrjaenen2013,,False,^ s . e . m . _ . p . e . r . æ . s . t $,default,s e m  p e r E s t, E e m p r s t
+67,komipermyak-9_because-1,,komipermyak,9_because,ɕiʥ_kɯʥ,ɕ.i.dʑ._.k.ɯ.dʑ,ɕ i dʑ + k ɯ dʑ,,Syrjaenen2013,,False,^ ɕ . i . dʑ . _ . k . ɯ . dʑ $,default,S i dZ  k u dZ, S dZ i k u
+68,komipermyak-9_because-2,,komipermyak,9_because,dɑ,d.ɑ,d ɑ,,Syrjaenen2013,,False,^ d . ɑ $,default,d o,d o
+69,komizyrian-9_because-1,,komizyrian,9_because,sɯ_pondɑ,s.ɯ._.p.o.n.d.ɑ,s ɯ + p o n d ɑ,,Syrjaenen2013,,False,^ s . ɯ . _ . p . o . n . d . ɑ $,default,s u  p o n d o, d n o p s u
+70,komizyrian-9_because-2,,komizyrian,9_because,sɯ_vɤsnɑ,s.ɯ._.v.ɤ.s.n.ɑ,s ɯ + v ɤ s n ɑ,,Syrjaenen2013,,False,^ s . ɯ . _ . v . ɤ . s . n . ɑ $,default,s u  v o s n o, n o s u v
+71,nganasan-9_because-1,,nganasan,9_because,ɲiːðə,ɲ.iː.ð.ə,ɲ iː ð ə,,Syrjaenen2013,,False,^ ɲ . iː . ð . ə $,default,5 i 8 3,3 5 8 i
+72,nganasan-9_because-2,,nganasan,9_because,suəbəsɯ,s.u.ə.b.ə.s.ɯ,s u ə b ə s ɯ,,Syrjaenen2013,,False,^ s . u . ə . b . ə . s . ɯ $,default,s u 3 b 3 s u,3 b s u
+73,udmurt-9_because-1,,udmurt,9_because,mɑlɯ_ke_ʃuono,m.ɑ.l.ɯ._.k.e._.ʃ.u.o.n.o,m ɑ l ɯ + k e + ʃ u o n o,,Syrjaenen2013,,False,^ m . ɑ . l . ɯ . _ . k . e . _ . ʃ . u . o . n . o $,default,m o l u  k e  S u o n o, S e k l m n o u
+74,erzya-10_belly-1,,erzya,10_belly,peke,p.e.k.e,p e k e,,Syrjaenen2013,,False,^ p . e . k . e $,default,p e k e,e k p
+75,ingrian-10_belly-1,,ingrian,10_belly,vɑtsɑ,v.ɑ.t.s.ɑ,v ɑ t s ɑ,,Syrjaenen2013,,False,^ v . ɑ . t . s . ɑ $,default,v o t s o,o s t v
+76,komipermyak-10_belly-1,,komipermyak,10_belly,kɯnɤm,k.ɯ.n.ɤ.m,k ɯ n ɤ m,,Syrjaenen2013,,False,^ k . ɯ . n . ɤ . m $,default,k u n o m,k m n o u
+77,komizyrian-10_belly-1,,komizyrian,10_belly,ruʃ#ku,r.u.ʃ._.k.u,r u ʃ + k u,,Syrjaenen2013,,False,^ r . u . ʃ . _ . k . u $,default,r u S  k u, S k r u
+78,nganasan-10_belly-1,,nganasan,10_belly,ʧɑjbə,tʃ.ɑ.j.b.ə,tʃ ɑ j b ə,,Syrjaenen2013,,False,^ tʃ . ɑ . j . b . ə $,default,tS o y b 3,3 b o tS y
+79,selkup-10_belly-1,,selkup,10_belly,perkə,p.e.r.k.ə,p e r k ə,,Syrjaenen2013,,False,^ p . e . r . k . ə $,default,p e r k 3,3 e k p r
+80,udmurt-10_belly-1,,udmurt,10_belly,kɤt,k.ɤ.t,k ɤ t,,Syrjaenen2013,,False,^ k . ɤ . t $,default,k o t,k o t
+81,erzya-11_big-1,,erzya,11_big,pokʃ,p.o.k.ʃ,p o k ʃ,,Syrjaenen2013,,False,^ p . o . k . ʃ $,default,p o k S,S k o p
+82,ingrian-11_big-1,,ingrian,11_big,suːr,s.uː.r,s uː r,,Syrjaenen2013,,False,^ s . uː . r $,default,s u r,r s u
+83,komipermyak-11_big-1,,komipermyak,11_big,ɯʤɯt,ɯ.dʒ.ɯ.t,ɯ dʒ ɯ t,,Syrjaenen2013,,False,^ ɯ . dʒ . ɯ . t $,default,u dZ u t,dZ t u
+84,komizyrian-11_big-1,,komizyrian,11_big,ɯʤɯd,ɯ.dʒ.ɯ.d,ɯ dʒ ɯ d,,Syrjaenen2013,,False,^ ɯ . dʒ . ɯ . d $,default,u dZ u d,d dZ u
+85,nganasan-11_big-1,,nganasan,11_big,ɑniʔə,ɑ.n.i.ʔ.ə,ɑ n i ʔ ə,,Syrjaenen2013,,False,^ ɑ . n . i . ʔ . ə $,default,o n i 7 3,3 7 i n o
+86,selkup-11_big-1,,selkup,11_big,uə̠rqə,u.ə̠.r.q.ə,u ə̠ r q ə,,Syrjaenen2013,,False,^ u . ə̠ . r . q . ə $,default,u 3 r q 3,3 q r u
+87,udmurt-11_big-1,,udmurt,11_big,bɑʥʥɯm,b.ɑ.dʑ.dʑ.ɯ.m,b ɑ dʑ dʑ ɯ m,,Syrjaenen2013,,False,^ b . ɑ . dʑ . dʑ . ɯ . m $,default,b o dZ dZ u m,b dZ m o u
+88,erzya-12_bird-1,,erzya,12_bird,nɑrmuɲ,n.ɑ.r.m.u.ɲ,n ɑ r m u ɲ,,Syrjaenen2013,,False,^ n . ɑ . r . m . u . ɲ $,default,n o r m u 5,5 m n o r u
+89,ingrian-12_bird-1,,ingrian,12_bird,lind̥u,l.i.n.d̥.u,l i n d̥ u,,Syrjaenen2013,,False,^ l . i . n . d̥ . u $,default,l i n d u,d i l n u
+90,komipermyak-12_bird-1,,komipermyak,12_bird,kɑj,k.ɑ.j,k ɑ j,,Syrjaenen2013,,False,^ k . ɑ . j $,default,k o y,k o y
+91,komizyrian-12_bird-1,,komizyrian,12_bird,kitsɑ,k.i.t.s.ɑ,k i t s ɑ,,Syrjaenen2013,,False,^ k . i . t . s . ɑ $,default,k i t s o,i k o s t
+92,komizyrian-12_bird-2,,komizyrian,12_bird,lebɑʨ,l.e.b.ɑ.tɕ,l e b ɑ tɕ,,Syrjaenen2013,,False,^ l . e . b . ɑ . tɕ $,default,l e b o tS,b e l o tS
+93,nganasan-12_bird-1,,nganasan,12_bird,təibəː,t.ə.i.b.əː,t ə i b əː,,Syrjaenen2013,,False,^ t . ə . i . b . əː $,default,t 3 i b 3,3 b i t
+94,selkup-12_bird-1,,selkup,12_bird,tilʧəti_suːrəm,t.i.l.tʃ.ə.t.i._.s.uː.r.ə.m,t i l tʃ ə t i + s uː r ə m,,Syrjaenen2013,,False,^ t . i . l . tʃ . ə . t . i . _ . s . uː . r . ə . m $,default,t i l tS 3 t i  s u r 3 m, 3 i l m r s t tS u
+95,selkup-12_bird-2,,selkup,12_bird,suːrəm,s.uː.r.ə.m,s uː r ə m,,Syrjaenen2013,,False,^ s . uː . r . ə . m $,default,s u r 3 m,3 m r s u
+96,udmurt-12_bird-1,,udmurt,12_bird,tɯloburdo,t.ɯ.l.o.b.u.r.d.o,t ɯ l o b u r d o,,Syrjaenen2013,,False,^ t . ɯ . l . o . b . u . r . d . o $,default,t u l o b u r d o,b d l o r t u
+97,erzya-14_black-1,,erzya,14_black,rɑuʒo,r.ɑ.u.ʒ.o,r ɑ u ʒ o,,Syrjaenen2013,,False,^ r . ɑ . u . ʒ . o $,default,r o u Z o,Z o r u
+98,ingrian-14_black-1,,ingrian,14_black,mustɑ,m.u.s.t.ɑ,m u s t ɑ,,Syrjaenen2013,,False,^ m . u . s . t . ɑ $,default,m u s t o,m o s t u
+99,komipermyak-14_black-1,,komipermyak,14_black,ɕɤd,ɕ.ɤ.d,ɕ ɤ d,,Syrjaenen2013,,False,^ ɕ . ɤ . d $,default,S o d,S d o
+100,komizyrian-14_black-1,,komizyrian,14_black,ɕɤd,ɕ.ɤ.d,ɕ ɤ d,,Syrjaenen2013,,False,^ ɕ . ɤ . d $,default,S o d,S d o
+101,nganasan-14_black-1,,nganasan,14_black,tusɑjkɑʔɑ,t.u.s.ɑ.j.k.ɑ.ʔ.ɑ,t u s ɑ j k ɑ ʔ ɑ,,Syrjaenen2013,,False,^ t . u . s . ɑ . j . k . ɑ . ʔ . ɑ $,default,t u s o y k o 7 o,7 k o s t u y
+102,selkup-14_black-1,,selkup,14_black,sæːqə,s.æː.q.ə,s æː q ə,,Syrjaenen2013,,False,^ s . æː . q . ə $,default,s E q 3,3 E q s
+103,udmurt-14_black-1,,udmurt,14_black,ɕɤd,ɕ.ɤ.d,ɕ ɤ d,,Syrjaenen2013,,False,^ ɕ . ɤ . d $,default,S o d,S d o
+104,erzya-15_blood-1,,erzya,15_blood,verʲ,v.e.rʲ,v e rʲ,,Syrjaenen2013,,False,^ v . e . rʲ $,default,v e ry~,e ry~ v
+105,ingrian-15_blood-1,,ingrian,15_blood,veri,v.e.r.i,v e r i,,Syrjaenen2013,,False,^ v . e . r . i $,default,v e r i,e i r v
+106,komipermyak-15_blood-1,,komipermyak,15_blood,vir,v.i.r,v i r,,Syrjaenen2013,,False,^ v . i . r $,default,v i r,i r v
+107,komizyrian-15_blood-1,,komizyrian,15_blood,vir,v.i.r,v i r,,Syrjaenen2013,,False,^ v . i . r $,default,v i r,i r v
+108,nganasan-15_blood-1,,nganasan,15_blood,kɑm,k.ɑ.m,k ɑ m,,Syrjaenen2013,,False,^ k . ɑ . m $,default,k o m,k m o
+109,selkup-15_blood-1,,selkup,15_blood,kɤm,k.ɤ.m,k ɤ m,,Syrjaenen2013,,False,^ k . ɤ . m $,default,k o m,k m o
+110,udmurt-15_blood-1,,udmurt,15_blood,vir,v.i.r,v i r,,Syrjaenen2013,,False,^ v . i . r $,default,v i r,i r v
+111,ingrian-16_blow-1,,ingrian,16_blow,puhɑd̥ɑ,p.u.h.ɑ.d̥.ɑ,p u h ɑ d̥ ɑ,,Syrjaenen2013,,False,^ p . u . h . ɑ . d̥ . ɑ $,default,p u h o d o,d h o p u
+112,komipermyak-16_blow-1,,komipermyak,16_blow,pɤʎtnɯ,p.ɤ.ʎ.t.n.ɯ,p ɤ ʎ t n ɯ,,Syrjaenen2013,,False,^ p . ɤ . ʎ . t . n . ɯ $,default,p o L t n u,L n o p t u
+113,komizyrian-16_blow-1,,komizyrian,16_blow,pɤʎɑlnɯ,p.ɤ.ʎ.ɑ.l.n.ɯ,p ɤ ʎ ɑ l n ɯ,,Syrjaenen2013,,False,^ p . ɤ . ʎ . ɑ . l . n . ɯ $,default,p o L o l n u,L l n o p u
+114,nganasan-16_blow-1,,nganasan,16_blow,hyələsɑ,h.y.ə.l.ə.s.ɑ,h y ə l ə s ɑ,,Syrjaenen2013,,False,^ h . y . ə . l . ə . s . ɑ $,default,h i 3 l 3 s o,3 h i l o s
+115,selkup-16_blow-1,,selkup,16_blow,puː,p.uː,p uː,,Syrjaenen2013,,False,^ p . uː $,default,p u,p u
+116,udmurt-16_blow-1,,udmurt,16_blow,peʎtɯnɯ,p.e.ʎ.t.ɯ.n.ɯ,p e ʎ t ɯ n ɯ,,Syrjaenen2013,,False,^ p . e . ʎ . t . ɯ . n . ɯ $,default,p e L t u n u,L e n p t u
+117,udmurt-16_blow-2,,udmurt,16_blow,tɤlɑnɯ,t.ɤ.l.ɑ.n.ɯ,t ɤ l ɑ n ɯ,,Syrjaenen2013,,False,^ t . ɤ . l . ɑ . n . ɯ $,default,t o l o n u,l n o t u
+118,erzya-16_blow-1,,erzya,16_blow,puvɑms,p.u.v.ɑ.m.s,p u v ɑ m s,,Syrjaenen2013,,False,^ p . u . v . ɑ . m . s $,default,p u v o m s,m o p s u v
+119,erzya-17_bone-1,,erzya,17_bone,lovɑʒɑ,l.o.v.ɑ.ʒ.ɑ,l o v ɑ ʒ ɑ,,Syrjaenen2013,,False,^ l . o . v . ɑ . ʒ . ɑ $,default,l o v o Z o,Z l o v
+120,erzya-17_bone-2,,erzya,17_bone,pɑkɑrʲ,p.ɑ.k.ɑ.rʲ,p ɑ k ɑ rʲ,,Syrjaenen2013,,False,^ p . ɑ . k . ɑ . rʲ $,default,p o k o ry~,k o p ry~
+121,ingrian-17_bone-1,,ingrian,17_bone,luː,l.uː,l uː,,Syrjaenen2013,,False,^ l . uː $,default,l u,l u
+122,komipermyak-17_bone-1,,komipermyak,17_bone,lɯ,l.ɯ,l ɯ,,Syrjaenen2013,,False,^ l . ɯ $,default,l u,l u
+123,komipermyak-17_bone-2,,komipermyak,17_bone,koskɑ,k.o.s.k.ɑ,k o s k ɑ,,Syrjaenen2013,,False,^ k . o . s . k . ɑ $,default,k o s k o,k o s
+124,komizyrian-17_bone-1,,komizyrian,17_bone,lɯ,l.ɯ,l ɯ,,Syrjaenen2013,,False,^ l . ɯ $,default,l u,l u
+125,nganasan-17_bone-1,,nganasan,17_bone,lɑtəː,l.ɑ.t.əː,l ɑ t əː,,Syrjaenen2013,,False,^ l . ɑ . t . əː $,default,l o t 3,3 l o t
+126,selkup-17_bone-1,,selkup,17_bone,lɯː,l.ɯː,l ɯː,,Syrjaenen2013,,False,^ l . ɯː $,default,l u,l u
+127,udmurt-17_bone-1,,udmurt,17_bone,lɯ,l.ɯ,l ɯ,,Syrjaenen2013,,False,^ l . ɯ $,default,l u,l u
+128,erzya-18_breast-1,,erzya,18_breast,meʃtʲe,m.e.ʃ.tʲ.e,m e ʃ tʲ e,,Syrjaenen2013,,False,^ m . e . ʃ . tʲ . e $,default,m e S ty~ e,S e m ty~
+129,erzya-18_breast-2,,erzya,18_breast,potʲe,p.o.tʲ.e,p o tʲ e,,Syrjaenen2013,,False,^ p . o . tʲ . e $,default,p o ty~ e,e o p ty~
+130,ingrian-18_breast-1,,ingrian,18_breast,rind̥ɑ,r.i.n.d̥.ɑ,r i n d̥ ɑ,,Syrjaenen2013,,False,^ r . i . n . d̥ . ɑ $,default,r i n d o,d i n o r
+131,komipermyak-18_breast-1,,komipermyak,18_breast,moros,m.o.r.o.s,m o r o s,,Syrjaenen2013,,False,^ m . o . r . o . s $,default,m o r o s,m o r s
+132,komizyrian-18_breast-1,,komizyrian,18_breast,morɤs,m.o.r.ɤ.s,m o r ɤ s,,Syrjaenen2013,,False,^ m . o . r . ɤ . s $,default,m o r o s,m o r s
+133,nganasan-18_breast-1,,nganasan,18_breast,ɕinɕə,ɕ.i.n.ɕ.ə,ɕ i n ɕ ə,,Syrjaenen2013,,False,^ ɕ . i . n . ɕ . ə $,default,S i n S 3,3 S i n
+134,udmurt-18_breast-1,,udmurt,18_breast,gɑdʲ,ɡ.ɑ.dʲ,ɡ ɑ dʲ,,Syrjaenen2013,,False,^ ɡ . ɑ . dʲ $,default,g o dy~,dy~ g o
+135,selkup-18_breast-1,,selkup,18_breast,kɯːlə,k.ɯː.l.ə,k ɯː l ə,,Syrjaenen2013,,False,^ k . ɯː . l . ə $,default,k u l 3,3 k l u
+136,erzya-19_breathe-1,,erzya,19_breathe,ʎekɕems,ʎ.e.k.ɕ.e.m.s,ʎ e k ɕ e m s,,Syrjaenen2013,,False,^ ʎ . e . k . ɕ . e . m . s $,default,L e k S e m s,L S e k m s
+137,ingrian-19_breathe-1,,ingrian,19_breathe,heŋg̊ittæː,h.e.ŋ.ɡ̥.i.t.t.æː,h e ŋ ɡ̥ i t t æː,,Syrjaenen2013,,False,^ h . e . ŋ . ɡ̥ . i . t . t . æː $,default,h e N g i t t E,E N e g h i t
+138,komipermyak-19_breathe-1,,komipermyak,19_breathe,lolɑvnɯ,l.o.l.ɑ.v.n.ɯ,l o l ɑ v n ɯ,,Syrjaenen2013,,False,^ l . o . l . ɑ . v . n . ɯ $,default,l o l o v n u,l n o u v
+139,komizyrian-19_breathe-1,,komizyrian,19_breathe,lolɑvnɯ,l.o.l.ɑ.v.n.ɯ,l o l ɑ v n ɯ,,Syrjaenen2013,,False,^ l . o . l . ɑ . v . n . ɯ $,default,l o l o v n u,l n o u v
+140,nganasan-19_breathe-1,,nganasan,19_breathe,bɑʧədʲɑ,b.ɑ.tʃ.ə.dʲ.ɑ,b ɑ tʃ ə dʲ ɑ,,Syrjaenen2013,,False,^ b . ɑ . tʃ . ə . dʲ . ɑ $,default,b o tS 3 dy~ o,3 b dy~ o tS
+141,selkup-19_breathe-1,,selkup,19_breathe,kuə̠j,k.u.ə̠.j,k u ə̠ j,,Syrjaenen2013,,False,^ k . u . ə̠ . j $,default,k u 3 y,3 k u y
+142,udmurt-19_breathe-1,,udmurt,19_breathe,ʃokɑnɯ,ʃ.o.k.ɑ.n.ɯ,ʃ o k ɑ n ɯ,,Syrjaenen2013,,False,^ ʃ . o . k . ɑ . n . ɯ $,default,S o k o n u,S k n o u
+143,udmurt-19_breathe-2,,udmurt,19_breathe,lulʥɯnɯ,l.u.l.dʑ.ɯ.n.ɯ,l u l dʑ ɯ n ɯ,,Syrjaenen2013,,False,^ l . u . l . dʑ . ɯ . n . ɯ $,default,l u l dZ u n u,dZ l n u
+144,erzya-20_burn-1,,erzya,20_burn,pɑloms,p.ɑ.l.o.m.s,p ɑ l o m s,,Syrjaenen2013,,False,^ p . ɑ . l . o . m . s $,default,p o l o m s,l m o p s
+145,ingrian-20_burn-1,,ingrian,20_burn,pɑlˑɑː,p.ɑ.lː.ɑː,p ɑ lː ɑː,,Syrjaenen2013,,False,^ p . ɑ . lː . ɑː $,default,p o l o,l o p
+146,komipermyak-20_burn-1,,komipermyak,20_burn,soʨʨɯnɯ,s.o.tɕ.tɕ.ɯ.n.ɯ,s o tɕ tɕ ɯ n ɯ,,Syrjaenen2013,,False,^ s . o . tɕ . tɕ . ɯ . n . ɯ $,default,s o tS tS u n u,n o s tS u
+147,komizyrian-20_burn-1,,komizyrian,20_burn,lomɑvnɯ,l.o.m.ɑ.v.n.ɯ,l o m ɑ v n ɯ,,Syrjaenen2013,,False,^ l . o . m . ɑ . v . n . ɯ $,default,l o m o v n u,l m n o u v
+148,komizyrian-20_burn-2,,komizyrian,20_burn,sotʲʨɯnɯ,s.o.tʲ.tɕ.ɯ.n.ɯ,s o tʲ tɕ ɯ n ɯ,,Syrjaenen2013,,False,^ s . o . tʲ . tɕ . ɯ . n . ɯ $,default,s o ty~ tS u n u,n o s tS ty~ u
+149,selkup-20_burn-1,,selkup,20_burn,ɑm,ɑ.m,ɑ m,,Syrjaenen2013,,False,^ ɑ . m $,default,o m,m o
+150,udmurt-20_burn-1,,udmurt,20_burn,ʤuɑnɯ,dʒ.u.ɑ.n.ɯ,dʒ u ɑ n ɯ,,Syrjaenen2013,,False,^ dʒ . u . ɑ . n . ɯ $,default,dZ u o n u,dZ n o u
+151,erzya-23_cloud-1,,erzya,23_cloud,peʎ,p.e.ʎ,p e ʎ,,Syrjaenen2013,,False,^ p . e . ʎ $,default,p e L,L e p
+152,ingrian-23_cloud-1,,ingrian,23_cloud,pilvi,p.i.l.v.i,p i l v i,,Syrjaenen2013,,False,^ p . i . l . v . i $,default,p i l v i,i l p v
+153,komipermyak-23_cloud-1,,komipermyak,23_cloud,kɯmɤr,k.ɯ.m.ɤ.r,k ɯ m ɤ r,,Syrjaenen2013,,False,^ k . ɯ . m . ɤ . r $,default,k u m o r,k m o r u
+154,komizyrian-23_cloud-1,,komizyrian,23_cloud,kɯmɤr,k.ɯ.m.ɤ.r,k ɯ m ɤ r,,Syrjaenen2013,,False,^ k . ɯ . m . ɤ . r $,default,k u m o r,k m o r u
+155,nganasan-23_cloud-1,,nganasan,23_cloud,ʧiəðu,tʃ.i.ə.ð.u,tʃ i ə ð u,,Syrjaenen2013,,False,^ tʃ . i . ə . ð . u $,default,tS i 3 8 u,3 8 i tS u
+156,selkup-23_cloud-1,,selkup,23_cloud,tiːttə,t.iː.t.t.ə,t iː t t ə,,Syrjaenen2013,,False,^ t . iː . t . t . ə $,default,t i t t 3,3 i t
+157,udmurt-23_cloud-1,,udmurt,23_cloud,piʎem,p.i.ʎ.e.m,p i ʎ e m,,Syrjaenen2013,,False,^ p . i . ʎ . e . m $,default,p i L e m,L e i m p
+158,ingrian-23_cloud-2,,ingrian,23_cloud,tuːtˑsɑ,t.uː.tː.s.ɑ,t uː tː s ɑ,,Syrjaenen2013,,False,^ t . uː . tː . s . ɑ $,default,t u t s o,o s t u
+159,erzya-23_cloud-2,,erzya,23_cloud,kovol,k.o.v.o.l,k o v o l,,Syrjaenen2013,,False,^ k . o . v . o . l $,default,k o v o l,k l o v
+160,erzya-24_cold-1,,erzya,24_cold,keʎme,k.e.ʎ.m.e,k e ʎ m e,,Syrjaenen2013,,False,^ k . e . ʎ . m . e $,default,k e L m e,L e k m
+161,ingrian-24_cold-1,,ingrian,24_cold,kylmæ,k.y.l.m.æ,k y l m æ,,Syrjaenen2013,,False,^ k . y . l . m . æ $,default,k i l m E,E i k l m
+162,ingrian-24_cold-2,,ingrian,24_cold,kuːmɑ,k.uː.m.ɑ,k uː m ɑ,,Syrjaenen2013,,False,^ k . uː . m . ɑ $,default,k u m o,k m o u
+163,komipermyak-24_cold-1,,komipermyak,24_cold,kɤʥɯt,k.ɤ.dʑ.ɯ.t,k ɤ dʑ ɯ t,,Syrjaenen2013,,False,^ k . ɤ . dʑ . ɯ . t $,default,k o dZ u t,dZ k o t u
+164,komizyrian-24_cold-1,,komizyrian,24_cold,kɤʥɯd,k.ɤ.dʑ.ɯ.d,k ɤ dʑ ɯ d,,Syrjaenen2013,,False,^ k . ɤ . dʑ . ɯ . d $,default,k o dZ u d,d dZ k o u
+165,nganasan-24_cold-1,,nganasan,24_cold,ʧəɕiɕi,tʃ.ə.ɕ.i.ɕ.i,tʃ ə ɕ i ɕ i,,Syrjaenen2013,,False,^ tʃ . ə . ɕ . i . ɕ . i $,default,tS 3 S i S i,3 S i tS
+166,selkup-24_cold-1,,selkup,24_cold,tɑɕɕu,t.ɑ.ɕ.ɕ.u,t ɑ ɕ ɕ u,,Syrjaenen2013,,False,^ t . ɑ . ɕ . ɕ . u $,default,t o S S u,S o t u
+167,udmurt-24_cold-1,,udmurt,24_cold,keʑɯt,k.e.ʑ.ɯ.t,k e ʑ ɯ t,,Syrjaenen2013,,False,^ k . e . ʑ . ɯ . t $,default,k e Z u t,Z e k t u
+168,erzya-25_come-1,,erzya,25_come,sɑms,s.ɑ.m.s,s ɑ m s,,Syrjaenen2013,,False,^ s . ɑ . m . s $,default,s o m s,m o s
+169,ingrian-25_come-1,,ingrian,25_come,tullɑ,t.u.l.l.ɑ,t u l l ɑ,,Syrjaenen2013,,False,^ t . u . l . l . ɑ $,default,t u l l o,l o t u
+170,komipermyak-25_come-1,,komipermyak,25_come,loknɯ,l.o.k.n.ɯ,l o k n ɯ,,Syrjaenen2013,,False,^ l . o . k . n . ɯ $,default,l o k n u,k l n o u
+171,komizyrian-25_come-1,,komizyrian,25_come,vonɯ,v.o.n.ɯ,v o n ɯ,,Syrjaenen2013,,False,^ v . o . n . ɯ $,default,v o n u,n o u v
+172,komizyrian-25_come-2,,komizyrian,25_come,loknɯ,l.o.k.n.ɯ,l o k n ɯ,,Syrjaenen2013,,False,^ l . o . k . n . ɯ $,default,l o k n u,k l n o u
+173,selkup-25_come-1,,selkup,25_come,tyː,t.yː,t yː,,Syrjaenen2013,,False,^ t . yː $,default,t i,i t
+174,udmurt-25_come-1,,udmurt,25_come,vuɯnɯ,v.u.ɯ.n.ɯ,v u ɯ n ɯ,,Syrjaenen2013,,False,^ v . u . ɯ . n . ɯ $,default,v u u n u,n u v
+175,udmurt-25_come-2,,udmurt,25_come,lɯktɯnɯ,l.ɯ.k.t.ɯ.n.ɯ,l ɯ k t ɯ n ɯ,,Syrjaenen2013,,False,^ l . ɯ . k . t . ɯ . n . ɯ $,default,l u k t u n u,k l n t u
+176,nganasan-25_come-1,,nganasan,25_come,tujɕɑ,t.u.j.ɕ.ɑ,t u j ɕ ɑ,,Syrjaenen2013,,False,^ t . u . j . ɕ . ɑ $,default,t u y S o,S o t u y
+177,erzya-26_count-1,,erzya,26_count,lovoms,l.o.v.o.m.s,l o v o m s,,Syrjaenen2013,,False,^ l . o . v . o . m . s $,default,l o v o m s,l m o s v
+178,ingrian-26_count-1,,ingrian,26_count,lɑskiɑ,l.ɑ.s.k.i.ɑ,l ɑ s k i ɑ,,Syrjaenen2013,,False,^ l . ɑ . s . k . i . ɑ $,default,l o s k i o,i k l o s
+179,komipermyak-26_count-1,,komipermyak,26_count,lɯdʲdʲɯnɯ,l.ɯ.dʲ.dʲ.ɯ.n.ɯ,l ɯ dʲ dʲ ɯ n ɯ,,Syrjaenen2013,,False,^ l . ɯ . dʲ . dʲ . ɯ . n . ɯ $,default,l u dy~ dy~ u n u,dy~ l n u
+180,komizyrian-26_count-1,,komizyrian,26_count,lɯdʲdʲɯnɯ,l.ɯ.dʲ.dʲ.ɯ.n.ɯ,l ɯ dʲ dʲ ɯ n ɯ,,Syrjaenen2013,,False,^ l . ɯ . dʲ . dʲ . ɯ . n . ɯ $,default,l u dy~ dy~ u n u,dy~ l n u
+181,nganasan-26_count-1,,nganasan,26_count,tuəbtusɑ,t.u.ə.b.t.u.s.ɑ,t u ə b t u s ɑ,,Syrjaenen2013,,False,^ t . u . ə . b . t . u . s . ɑ $,default,t u 3 b t u s o,3 b o s t u
+182,selkup-26_count-1,,selkup,26_count,toːr,t.oː.r,t oː r,,Syrjaenen2013,,False,^ t . oː . r $,default,t o r,o r t
+183,udmurt-26_count-1,,udmurt,26_count,lɯʥʥɯnɯ,l.ɯ.dʑ.dʑ.ɯ.n.ɯ,l ɯ dʑ dʑ ɯ n ɯ,,Syrjaenen2013,,False,^ l . ɯ . dʑ . dʑ . ɯ . n . ɯ $,default,l u dZ dZ u n u,dZ l n u
+184,erzya-27_cut-1,,erzya,27_cut,nɑrɑms,n.ɑ.r.ɑ.m.s,n ɑ r ɑ m s,,Syrjaenen2013,,False,^ n . ɑ . r . ɑ . m . s $,default,n o r o m s,m n o r s
+185,erzya-27_cut-2,,erzya,27_cut,peʧkems,p.e.tʃ.k.e.m.s,p e tʃ k e m s,,Syrjaenen2013,,False,^ p . e . tʃ . k . e . m . s $,default,p e tS k e m s,e k m p s tS
+186,komipermyak-27_cut-1,,komipermyak,27_cut,vundɑvnɯ,v.u.n.d.ɑ.v.n.ɯ,v u n d ɑ v n ɯ,,Syrjaenen2013,,False,^ v . u . n . d . ɑ . v . n . ɯ $,default,v u n d o v n u,d n o u v
+187,komipermyak-27_cut-2,,komipermyak,27_cut,ʃɤrɯʃtnɯ,ʃ.ɤ.r.ɯ.ʃ.t.n.ɯ,ʃ ɤ r ɯ ʃ t n ɯ,,Syrjaenen2013,,False,^ ʃ . ɤ . r . ɯ . ʃ . t . n . ɯ $,default,S o r u S t n u,S n o r t u
+188,komizyrian-27_cut-1,,komizyrian,27_cut,vundɯnɯ,v.u.n.d.ɯ.n.ɯ,v u n d ɯ n ɯ,,Syrjaenen2013,,False,^ v . u . n . d . ɯ . n . ɯ $,default,v u n d u n u,d n u v
+189,komizyrian-27_cut-2,,komizyrian,27_cut,ʃɯrnɯ,ʃ.ɯ.r.n.ɯ,ʃ ɯ r n ɯ,,Syrjaenen2013,,False,^ ʃ . ɯ . r . n . ɯ $,default,S u r n u,S n r u
+190,selkup-27_cut-1,,selkup,27_cut,mɑʧə,m.ɑ.tʃ.ə,m ɑ tʃ ə,,Syrjaenen2013,,False,^ m . ɑ . tʃ . ə $,default,m o tS 3,3 m o tS
+191,udmurt-27_cut-1,,udmurt,27_cut,vɑndɯnɯ,v.ɑ.n.d.ɯ.n.ɯ,v ɑ n d ɯ n ɯ,,Syrjaenen2013,,False,^ v . ɑ . n . d . ɯ . n . ɯ $,default,v o n d u n u,d n o u v
+192,udmurt-27_cut-2,,udmurt,27_cut,ʃorɯnɯ,ʃ.o.r.ɯ.n.ɯ,ʃ o r ɯ n ɯ,,Syrjaenen2013,,False,^ ʃ . o . r . ɯ . n . ɯ $,default,S o r u n u,S n o r u
+193,ingrian-27_cut-1,,ingrian,27_cut,leig̊ɑd̥ɑ,l.e.i.ɡ̥.ɑ.d̥.ɑ,l e i ɡ̥ ɑ d̥ ɑ,,Syrjaenen2013,,False,^ l . e . i . ɡ̥ . ɑ . d̥ . ɑ $,default,l e i g o d o,d e g i l o
+194,ingrian-27_cut-2,,ingrian,27_cut,hølvæd̥æ,h.ø.l.v.æ.d̥.æ,h ø l v æ d̥ æ,,Syrjaenen2013,,False,^ h . ø . l . v . æ . d̥ . æ $,default,h e l v E d E,E d e h l v
+195,nganasan-27_cut-1,,nganasan,27_cut,mətudʲɑ,m.ə.t.u.dʲ.ɑ,m ə t u dʲ ɑ,,Syrjaenen2013,,False,^ m . ə . t . u . dʲ . ɑ $,default,m 3 t u dy~ o,3 dy~ m o t u
+196,erzya-29_die-1,,erzya,29_die,kuloms,k.u.l.o.m.s,k u l o m s,,Syrjaenen2013,,False,^ k . u . l . o . m . s $,default,k u l o m s,k l m o s u
+197,ingrian-29_die-1,,ingrian,29_die,koːllɑ,k.oː.l.l.ɑ,k oː l l ɑ,,Syrjaenen2013,,False,^ k . oː . l . l . ɑ $,default,k o l l o,k l o
+198,komipermyak-29_die-1,,komipermyak,29_die,kuvnɯ,k.u.v.n.ɯ,k u v n ɯ,,Syrjaenen2013,,False,^ k . u . v . n . ɯ $,default,k u v n u,k n u v
+199,komizyrian-29_die-1,,komizyrian,29_die,kuvnɯ,k.u.v.n.ɯ,k u v n ɯ,,Syrjaenen2013,,False,^ k . u . v . n . ɯ $,default,k u v n u,k n u v
+200,nganasan-29_die-1,,nganasan,29_die,dʲɑŋgumsɑ,dʲ.ɑ.ŋ.ɡ.u.m.s.ɑ,dʲ ɑ ŋ ɡ u m s ɑ,,Syrjaenen2013,,False,^ dʲ . ɑ . ŋ . ɡ . u . m . s . ɑ $,default,dy~ o N g u m s o,N dy~ g m o s u
+201,selkup-29_die-1,,selkup,29_die,quː,q.uː,q uː,,Syrjaenen2013,,False,^ q . uː $,default,q u,q u
+202,udmurt-29_die-1,,udmurt,29_die,kulɯnɯ,k.u.l.ɯ.n.ɯ,k u l ɯ n ɯ,,Syrjaenen2013,,False,^ k . u . l . ɯ . n . ɯ $,default,k u l u n u,k l n u
+203,nganasan-29_die-2,,nganasan,29_die,kuədʲɑ,k.u.ə.dʲ.ɑ,k u ə dʲ ɑ,,Syrjaenen2013,,False,^ k . u . ə . dʲ . ɑ $,default,k u 3 dy~ o,3 dy~ k o u
+204,ingrian-30_dig-1,,ingrian,30_dig,kɑivɑː,k.ɑ.i.v.ɑː,k ɑ i v ɑː,,Syrjaenen2013,,False,^ k . ɑ . i . v . ɑː $,default,k o i v o,i k o v
+205,nganasan-30_dig-1,,nganasan,30_dig,ɕirkədʲi,ɕ.i.r.k.ə.dʲ.i,ɕ i r k ə dʲ i,,Syrjaenen2013,,False,^ ɕ . i . r . k . ə . dʲ . i $,default,S i r k 3 dy~ i,3 S dy~ i k r
+206,udmurt-30_dig-1,,udmurt,30_dig,kopɑnɯ,k.o.p.ɑ.n.ɯ,k o p ɑ n ɯ,,Syrjaenen2013,,False,^ k . o . p . ɑ . n . ɯ $,default,k o p o n u,k n o p u
+207,erzya-30_dig-1,,erzya,30_dig,ʧuvoms,tʃ.u.v.o.m.s,tʃ u v o m s,,Syrjaenen2013,,False,^ tʃ . u . v . o . m . s $,default,tS u v o m s,m o s tS u v
+208,erzya-30_dig-2,,erzya,30_dig,ʧupoɲems,tʃ.u.p.o.ɲ.e.m.s,tʃ u p o ɲ e m s,,Syrjaenen2013,,False,^ tʃ . u . p . o . ɲ . e . m . s $,default,tS u p o 5 e m s,5 e m o p s tS u
+209,komipermyak-30_dig-1,,komipermyak,30_dig,gɑrjɯnɯ,ɡ.ɑ.r.j.ɯ.n.ɯ,ɡ ɑ r j ɯ n ɯ,,Syrjaenen2013,,False,^ ɡ . ɑ . r . j . ɯ . n . ɯ $,default,g o r y u n u,g n o r u y
+210,komizyrian-30_dig-1,,komizyrian,30_dig,godnɯ,ɡ.o.d.n.ɯ,ɡ o d n ɯ,,Syrjaenen2013,,False,^ ɡ . o . d . n . ɯ $,default,g o d n u,d g n o u
+211,selkup-30_dig-1,,selkup,30_dig,tilə,t.i.l.ə,t i l ə,,Syrjaenen2013,,False,^ t . i . l . ə $,default,t i l 3,3 i l t
+212,udmurt-30_dig-2,,udmurt,30_dig,gudɯnɯ,ɡ.u.d.ɯ.n.ɯ,ɡ u d ɯ n ɯ,,Syrjaenen2013,,False,^ ɡ . u . d . ɯ . n . ɯ $,default,g u d u n u,d g n u
+213,komipermyak-31_dirty-1,,komipermyak,31_dirty,ɲɑtʲɤɕ,ɲ.ɑ.tʲ.ɤ.ɕ,ɲ ɑ tʲ ɤ ɕ,,Syrjaenen2013,,False,^ ɲ . ɑ . tʲ . ɤ . ɕ $,default,5 o ty~ o S,5 S o ty~
+214,erzya-31_dirty-1,,erzya,31_dirty,kɑrgoʨ,k.ɑ.r.ɡ.o.tɕ,k ɑ r ɡ o tɕ,,Syrjaenen2013,,False,^ k . ɑ . r . ɡ . o . tɕ $,default,k o r g o tS,g k o r tS
+215,erzya-31_dirty-2,,erzya,31_dirty,rudɑzov,r.u.d.ɑ.z.o.v,r u d ɑ z o v,,Syrjaenen2013,,False,^ r . u . d . ɑ . z . o . v $,default,r u d o z o v,d o r u v z
+216,ingrian-31_dirty-1,,ingrian,31_dirty,reug̊ɑz,r.e.u.ɡ̥.ɑ.z,r e u ɡ̥ ɑ z,,Syrjaenen2013,,False,^ r . e . u . ɡ̥ . ɑ . z $,default,r e u g o z,e g o r u z
+217,ingrian-31_dirty-2,,ingrian,31_dirty,mustɑ,m.u.s.t.ɑ,m u s t ɑ,,Syrjaenen2013,,False,^ m . u . s . t . ɑ $,default,m u s t o,m o s t u
+218,komizyrian-31_dirty-1,,komizyrian,31_dirty,ɕɤd,ɕ.ɤ.d,ɕ ɤ d,,Syrjaenen2013,,False,^ ɕ . ɤ . d $,default,S o d,S d o
+219,komizyrian-31_dirty-2,,komizyrian,31_dirty,ɲɑtʲ,ɲ.ɑ.tʲ,ɲ ɑ tʲ,,Syrjaenen2013,,False,^ ɲ . ɑ . tʲ $,default,5 o ty~,5 o ty~
+220,nganasan-31_dirty-1,,nganasan,31_dirty,ɲegɯku,ɲ.e.ɡ.ɯ.k.u,ɲ e ɡ ɯ k u,,Syrjaenen2013,,False,^ ɲ . e . ɡ . ɯ . k . u $,default,5 e g u k u,5 e g k u
+221,selkup-31_dirty-1,,selkup,31_dirty,ʧɑm,tʃ.ɑ.m,tʃ ɑ m,,Syrjaenen2013,,False,^ tʃ . ɑ . m $,default,tS o m,m o tS
+222,udmurt-31_dirty-1,,udmurt,31_dirty,kɯrɕ,k.ɯ.r.ɕ,k ɯ r ɕ,,Syrjaenen2013,,False,^ k . ɯ . r . ɕ $,default,k u r S,S k r u
+223,udmurt-31_dirty-2,,udmurt,31_dirty,ɕɤd,ɕ.ɤ.d,ɕ ɤ d,,Syrjaenen2013,,False,^ ɕ . ɤ . d $,default,S o d,S d o
+224,komipermyak-32_dog-1,,komipermyak,32_dog,pon,p.o.n,p o n,,Syrjaenen2013,,False,^ p . o . n $,default,p o n,n o p
+225,erzya-32_dog-1,,erzya,32_dog,piɲe,p.i.ɲ.e,p i ɲ e,,Syrjaenen2013,,False,^ p . i . ɲ . e $,default,p i 5 e,5 e i p
+226,erzya-32_dog-2,,erzya,32_dog,kiskɑ,k.i.s.k.ɑ,k i s k ɑ,,Syrjaenen2013,,False,^ k . i . s . k . ɑ $,default,k i s k o,i k o s
+227,ingrian-32_dog-1,,ingrian,32_dog,koirɑ,k.o.i.r.ɑ,k o i r ɑ,,Syrjaenen2013,,False,^ k . o . i . r . ɑ $,default,k o i r o,i k o r
+228,komizyrian-32_dog-1,,komizyrian,32_dog,pon,p.o.n,p o n,,Syrjaenen2013,,False,^ p . o . n $,default,p o n,n o p
+229,nganasan-32_dog-1,,nganasan,32_dog,bɑŋ,b.ɑ.ŋ,b ɑ ŋ,,Syrjaenen2013,,False,^ b . ɑ . ŋ $,default,b o N,N b o
+230,selkup-32_dog-1,,selkup,32_dog,kɤnɑŋ,k.ɤ.n.ɑ.ŋ,k ɤ n ɑ ŋ,,Syrjaenen2013,,False,^ k . ɤ . n . ɑ . ŋ $,default,k o n o N,N k n o
+231,udmurt-32_dog-1,,udmurt,32_dog,punɯ,p.u.n.ɯ,p u n ɯ,,Syrjaenen2013,,False,^ p . u . n . ɯ $,default,p u n u,n p u
+232,erzya-33_drink-1,,erzya,33_drink,ɕimems,ɕ.i.m.e.m.s,ɕ i m e m s,,Syrjaenen2013,,False,^ ɕ . i . m . e . m . s $,default,S i m e m s,S e i m s
+233,ingrian-33_drink-1,,ingrian,33_drink,joːvvɑ,j.oː.v.v.ɑ,j oː v v ɑ,,Syrjaenen2013,,False,^ j . oː . v . v . ɑ $,default,y o v v o,o v y
+234,komipermyak-33_drink-1,,komipermyak,33_drink,junɯ,j.u.n.ɯ,j u n ɯ,,Syrjaenen2013,,False,^ j . u . n . ɯ $,default,y u n u,n u y
+235,komizyrian-33_drink-1,,komizyrian,33_drink,junɯ,j.u.n.ɯ,j u n ɯ,,Syrjaenen2013,,False,^ j . u . n . ɯ $,default,y u n u,n u y
+236,nganasan-33_drink-1,,nganasan,33_drink,bɯtɯdʲi,b.ɯ.t.ɯ.dʲ.i,b ɯ t ɯ dʲ i,,Syrjaenen2013,,False,^ b . ɯ . t . ɯ . dʲ . i $,default,b u t u dy~ i,b dy~ i t u
+237,selkup-33_drink-1,,selkup,33_drink,ytə,y.t.ə,y t ə,,Syrjaenen2013,,False,^ y . t . ə $,default,i t 3,3 i t
+238,udmurt-33_drink-1,,udmurt,33_drink,juɯnɯ,j.u.ɯ.n.ɯ,j u ɯ n ɯ,,Syrjaenen2013,,False,^ j . u . ɯ . n . ɯ $,default,y u u n u,n u y
+239,erzya-34_dry-1,,erzya,34_dry,koɕke,k.o.ɕ.k.e,k o ɕ k e,,Syrjaenen2013,,False,^ k . o . ɕ . k . e $,default,k o S k e,S e k o
+240,komipermyak-34_dry-1,,komipermyak,34_dry,kɤs,k.ɤ.s,k ɤ s,,Syrjaenen2013,,False,^ k . ɤ . s $,default,k o s,k o s
+241,komizyrian-34_dry-1,,komizyrian,34_dry,kos,k.o.s,k o s,,Syrjaenen2013,,False,^ k . o . s $,default,k o s,k o s
+242,nganasan-34_dry-1,,nganasan,34_dry,koɕyə,k.o.ɕ.y.ə,k o ɕ y ə,,Syrjaenen2013,,False,^ k . o . ɕ . y . ə $,default,k o S i 3,3 S i k o
+243,selkup-34_dry-1,,selkup,34_dry,ʧɤkə,tʃ.ɤ.k.ə,tʃ ɤ k ə,,Syrjaenen2013,,False,^ tʃ . ɤ . k . ə $,default,tS o k 3,3 k o tS
+244,udmurt-34_dry-1,,udmurt,34_dry,kɤs,k.ɤ.s,k ɤ s,,Syrjaenen2013,,False,^ k . ɤ . s $,default,k o s,k o s
+245,ingrian-34_dry-1,,ingrian,34_dry,kuivɑ,k.u.i.v.ɑ,k u i v ɑ,,Syrjaenen2013,,False,^ k . u . i . v . ɑ $,default,k u i v o,i k o u v
+246,erzya-35_dull-1,,erzya,35_dull,noʃkɑ,n.o.ʃ.k.ɑ,n o ʃ k ɑ,,Syrjaenen2013,,False,^ n . o . ʃ . k . ɑ $,default,n o S k o,S k n o
+247,ingrian-35_dull-1,,ingrian,35_dull,nyrhi,n.y.r.h.i,n y r h i,,Syrjaenen2013,,False,^ n . y . r . h . i $,default,n i r h i,h i n r
+248,komizyrian-35_dull-1,,komizyrian,35_dull,nɯʒ,n.ɯ.ʒ,n ɯ ʒ,,Syrjaenen2013,,False,^ n . ɯ . ʒ $,default,n u Z,Z n u
+249,nganasan-35_dull-1,,nganasan,35_dull,tɯɑməː,t.ɯ.ɑ.m.əː,t ɯ ɑ m əː,,Syrjaenen2013,,False,^ t . ɯ . ɑ . m . əː $,default,t u o m 3,3 m o t u
+250,selkup-35_dull-1,,selkup,35_dull,qɑmələʎ,q.ɑ.m.ə.l.ə.ʎ,q ɑ m ə l ə ʎ,,Syrjaenen2013,,False,^ q . ɑ . m . ə . l . ə . ʎ $,default,q o m 3 l 3 L,3 L l m o q
+251,udmurt-35_dull-1,,udmurt,35_dull,nɯʒ,n.ɯ.ʒ,n ɯ ʒ,,Syrjaenen2013,,False,^ n . ɯ . ʒ $,default,n u Z,Z n u
+252,erzya-36_dust-1,,erzya,36_dust,puʎ,p.u.ʎ,p u ʎ,,Syrjaenen2013,,False,^ p . u . ʎ $,default,p u L,L p u
+253,erzya-36_dust-2,,erzya,36_dust,ʧeʎke,tʃ.e.ʎ.k.e,tʃ e ʎ k e,,Syrjaenen2013,,False,^ tʃ . e . ʎ . k . e $,default,tS e L k e,L e k tS
+254,ingrian-36_dust-1,,ingrian,36_dust,pølly,p.ø.l.l.y,p ø l l y,,Syrjaenen2013,,False,^ p . ø . l . l . y $,default,p e l l i,e i l p
+255,komipermyak-36_dust-1,,komipermyak,36_dust,bus,b.u.s,b u s,,Syrjaenen2013,,False,^ b . u . s $,default,b u s,b s u
+256,komizyrian-36_dust-1,,komizyrian,36_dust,bus,b.u.s,b u s,,Syrjaenen2013,,False,^ b . u . s $,default,b u s,b s u
+257,nganasan-36_dust-1,,nganasan,36_dust,dʲɑŋ,dʲ.ɑ.ŋ,dʲ ɑ ŋ,,Syrjaenen2013,,False,^ dʲ . ɑ . ŋ $,default,dy~ o N,N dy~ o
+258,nganasan-36_dust-2,,nganasan,36_dust,ʎiʎə,ʎ.i.ʎ.ə,ʎ i ʎ ə,,Syrjaenen2013,,False,^ ʎ . i . ʎ . ə $,default,L i L 3,3 L i
+259,selkup-36_dust-1,,selkup,36_dust,punɑ,p.u.n.ɑ,p u n ɑ,,Syrjaenen2013,,False,^ p . u . n . ɑ $,default,p u n o,n o p u
+260,udmurt-36_dust-1,,udmurt,36_dust,tuzon,t.u.z.o.n,t u z o n,,Syrjaenen2013,,False,^ t . u . z . o . n $,default,t u z o n,n o t u z
+261,erzya-37_ear-1,,erzya,37_ear,piʎe,p.i.ʎ.e,p i ʎ e,,Syrjaenen2013,,False,^ p . i . ʎ . e $,default,p i L e,L e i p
+262,ingrian-37_ear-1,,ingrian,37_ear,korvɑ,k.o.r.v.ɑ,k o r v ɑ,,Syrjaenen2013,,False,^ k . o . r . v . ɑ $,default,k o r v o,k o r v
+263,komipermyak-37_ear-1,,komipermyak,37_ear,peʎ,p.e.ʎ,p e ʎ,,Syrjaenen2013,,False,^ p . e . ʎ $,default,p e L,L e p
+264,komizyrian-37_ear-1,,komizyrian,37_ear,peʎ,p.e.ʎ,p e ʎ,,Syrjaenen2013,,False,^ p . e . ʎ $,default,p e L,L e p
+265,nganasan-37_ear-1,,nganasan,37_ear,kou,k.o.u,k o u,,Syrjaenen2013,,False,^ k . o . u $,default,k o u,k o u
+266,udmurt-37_ear-1,,udmurt,37_ear,peʎ,p.e.ʎ,p e ʎ,,Syrjaenen2013,,False,^ p . e . ʎ $,default,p e L,L e p
+267,selkup-37_ear-1,,selkup,37_ear,qoː,q.oː,q oː,,Syrjaenen2013,,False,^ q . oː $,default,q o,o q
+268,erzya-38_earth-1,,erzya,38_earth,modɑ,m.o.d.ɑ,m o d ɑ,,Syrjaenen2013,,False,^ m . o . d . ɑ $,default,m o d o,d m o
+269,ingrian-38_earth-1,,ingrian,38_earth,mɑː,m.ɑː,m ɑː,,Syrjaenen2013,,False,^ m . ɑː $,default,m o,m o
+270,komipermyak-38_earth-1,,komipermyak,38_earth,mu,m.u,m u,,Syrjaenen2013,,False,^ m . u $,default,m u,m u
+271,komizyrian-38_earth-1,,komizyrian,38_earth,mu,m.u,m u,,Syrjaenen2013,,False,^ m . u $,default,m u,m u
+272,nganasan-38_earth-1,,nganasan,38_earth,mou,m.o.u,m o u,,Syrjaenen2013,,False,^ m . o . u $,default,m o u,m o u
+273,selkup-38_earth-1,,selkup,38_earth,ʧuə̠ʧʧə,tʃ.u.ə̠.tʃ.tʃ.ə,tʃ u ə̠ tʃ tʃ ə,,Syrjaenen2013,,False,^ tʃ . u . ə̠ . tʃ . tʃ . ə $,default,tS u 3 tS tS 3,3 tS u
+274,udmurt-38_earth-1,,udmurt,38_earth,mu,m.u,m u,,Syrjaenen2013,,False,^ m . u $,default,m u,m u
+275,erzya-39_eat-1,,erzya,39_eat,sevems,s.e.v.e.m.s,s e v e m s,,Syrjaenen2013,,False,^ s . e . v . e . m . s $,default,s e v e m s,e m s v
+276,erzya-39_eat-2,,erzya,39_eat,jɑrsɑms,j.ɑ.r.s.ɑ.m.s,j ɑ r s ɑ m s,,Syrjaenen2013,,False,^ j . ɑ . r . s . ɑ . m . s $,default,y o r s o m s,m o r s y
+277,ingrian-39_eat-1,,ingrian,39_eat,søːvˑæ,s.øː.vː.æ,s øː vː æ,,Syrjaenen2013,,False,^ s . øː . vː . æ $,default,s e v E,E e s v
+278,komipermyak-39_eat-1,,komipermyak,39_eat,ɕojnɯ,ɕ.o.j.n.ɯ,ɕ o j n ɯ,,Syrjaenen2013,,False,^ ɕ . o . j . n . ɯ $,default,S o y n u,S n o u y
+279,komizyrian-39_eat-1,,komizyrian,39_eat,ɕojnɯ,ɕ.o.j.n.ɯ,ɕ o j n ɯ,,Syrjaenen2013,,False,^ ɕ . o . j . n . ɯ $,default,S o y n u,S n o u y
+280,nganasan-39_eat-1,,nganasan,39_eat,ŋəmsɑ,ŋ.ə.m.s.ɑ,ŋ ə m s ɑ,,Syrjaenen2013,,False,^ ŋ . ə . m . s . ɑ $,default,N 3 m s o,3 N m o s
+281,udmurt-39_eat-1,,udmurt,39_eat,ɕiɯnɯ,ɕ.i.ɯ.n.ɯ,ɕ i ɯ n ɯ,,Syrjaenen2013,,False,^ ɕ . i . ɯ . n . ɯ $,default,S i u n u,S i n u
+282,selkup-39_eat-1,,selkup,39_eat,ɑm,ɑ.m,ɑ m,,Syrjaenen2013,,False,^ ɑ . m $,default,o m,m o
+283,erzya-40_egg-1,,erzya,40_egg,ɑl,ɑ.l,ɑ l,,Syrjaenen2013,,False,^ ɑ . l $,default,o l,l o
+284,ingrian-40_egg-1,,ingrian,40_egg,munɑ,m.u.n.ɑ,m u n ɑ,,Syrjaenen2013,,False,^ m . u . n . ɑ $,default,m u n o,m n o u
+285,komipermyak-40_egg-1,,komipermyak,40_egg,koʎtʲ,k.o.ʎ.tʲ,k o ʎ tʲ,,Syrjaenen2013,,False,^ k . o . ʎ . tʲ $,default,k o L ty~,L k o ty~
+286,komizyrian-40_egg-1,,komizyrian,40_egg,koʎk,k.o.ʎ.k,k o ʎ k,,Syrjaenen2013,,False,^ k . o . ʎ . k $,default,k o L k,L k o
+287,nganasan-40_egg-1,,nganasan,40_egg,mənu,m.ə.n.u,m ə n u,,Syrjaenen2013,,False,^ m . ə . n . u $,default,m 3 n u,3 m n u
+288,selkup-40_egg-1,,selkup,40_egg,eŋ,e.ŋ,e ŋ,,Syrjaenen2013,,False,^ e . ŋ $,default,e N,N e
+289,udmurt-40_egg-1,,udmurt,40_egg,puz,p.u.z,p u z,,Syrjaenen2013,,False,^ p . u . z $,default,p u z,p u z
+290,nganasan-41_eye-1,,nganasan,41_eye,ɕejmɯ,ɕ.e.j.m.ɯ,ɕ e j m ɯ,,Syrjaenen2013,,False,^ ɕ . e . j . m . ɯ $,default,S e y m u,S e m u y
+291,erzya-41_eye-1,,erzya,41_eye,ɕeʎme,ɕ.e.ʎ.m.e,ɕ e ʎ m e,,Syrjaenen2013,,False,^ ɕ . e . ʎ . m . e $,default,S e L m e,L S e m
+292,ingrian-41_eye-1,,ingrian,41_eye,silmæ,s.i.l.m.æ,s i l m æ,,Syrjaenen2013,,False,^ s . i . l . m . æ $,default,s i l m E,E i l m s
+293,komipermyak-41_eye-1,,komipermyak,41_eye,ɕin,ɕ.i.n,ɕ i n,,Syrjaenen2013,,False,^ ɕ . i . n $,default,S i n,S i n
+294,komizyrian-41_eye-1,,komizyrian,41_eye,ɕin,ɕ.i.n,ɕ i n,,Syrjaenen2013,,False,^ ɕ . i . n $,default,S i n,S i n
+295,selkup-41_eye-1,,selkup,41_eye,sɑji,s.ɑ.j.i,s ɑ j i,,Syrjaenen2013,,False,^ s . ɑ . j . i $,default,s o y i,i o s y
+296,udmurt-41_eye-1,,udmurt,41_eye,ɕin,ɕ.i.n,ɕ i n,,Syrjaenen2013,,False,^ ɕ . i . n $,default,S i n,S i n
+297,ingrian-42_fall-1,,ingrian,42_fall,tokkuɑ,t.o.k.k.u.ɑ,t o k k u ɑ,,Syrjaenen2013,,False,^ t . o . k . k . u . ɑ $,default,t o k k u o,k o t u
+298,udmurt-42_fall-1,,udmurt,42_fall,uɕɯnɯ,u.ɕ.ɯ.n.ɯ,u ɕ ɯ n ɯ,,Syrjaenen2013,,False,^ u . ɕ . ɯ . n . ɯ $,default,u S u n u,S n u
+299,erzya-42_fall-1,,erzya,42_fall,prɑms,p.r.ɑ.m.s,p r ɑ m s,,Syrjaenen2013,,False,^ p . r . ɑ . m . s $,default,p r o m s,m o p r s
+300,komipermyak-42_fall-1,,komipermyak,42_fall,uɕnɯ,u.ɕ.n.ɯ,u ɕ n ɯ,,Syrjaenen2013,,False,^ u . ɕ . n . ɯ $,default,u S n u,S n u
+301,komizyrian-42_fall-1,,komizyrian,42_fall,uɕnɯ,u.ɕ.n.ɯ,u ɕ n ɯ,,Syrjaenen2013,,False,^ u . ɕ . n . ɯ $,default,u S n u,S n u
+302,nganasan-42_fall-1,,nganasan,42_fall,ʧəlhdʲi,tʃ.ə.l.h.dʲ.i,tʃ ə l h dʲ i,,Syrjaenen2013,,False,^ tʃ . ə . l . h . dʲ . i $,default,tS 3 l h dy~ i,3 dy~ h i l tS
+303,nganasan-42_fall-2,,nganasan,42_fall,sohədʲɑ,s.o.h.ə.dʲ.ɑ,s o h ə dʲ ɑ,,Syrjaenen2013,,False,^ s . o . h . ə . dʲ . ɑ $,default,s o h 3 dy~ o,3 dy~ h o s
+304,selkup-42_fall-1,,selkup,42_fall,ɑːlʨə,ɑː.l.tɕ.ə,ɑː l tɕ ə,,Syrjaenen2013,,False,^ ɑː . l . tɕ . ə $,default,o l tS 3,3 l o tS
+305,ingrian-43_far-1,,ingrian,43_far,ettæːl,e.t.t.æː.l,e t t æː l,,Syrjaenen2013,,False,^ e . t . t . æː . l $,default,e t t E l,E e l t
+306,komizyrian-43_far-1,,komizyrian,43_far,ɯlɯn,ɯ.l.ɯ.n,ɯ l ɯ n,,Syrjaenen2013,,False,^ ɯ . l . ɯ . n $,default,u l u n,l n u
+307,erzya-43_far-1,,erzya,43_far,vɑsolo,v.ɑ.s.o.l.o,v ɑ s o l o,,Syrjaenen2013,,False,^ v . ɑ . s . o . l . o $,default,v o s o l o,l o s v
+308,komipermyak-43_far-1,,komipermyak,43_far,ɯlɯn,ɯ.l.ɯ.n,ɯ l ɯ n,,Syrjaenen2013,,False,^ ɯ . l . ɯ . n $,default,u l u n,l n u
+309,nganasan-43_far-1,,nganasan,43_far,kuntəgunu,k.u.n.t.ə.ɡ.u.n.u,k u n t ə ɡ u n u,,Syrjaenen2013,,False,^ k . u . n . t . ə . ɡ . u . n . u $,default,k u n t 3 g u n u,3 g k n t u
+310,selkup-43_far-1,,selkup,43_far,kuntɑk,k.u.n.t.ɑ.k,k u n t ɑ k,,Syrjaenen2013,,False,^ k . u . n . t . ɑ . k $,default,k u n t o k,k n o t u
+311,udmurt-43_far-1,,udmurt,43_far,kɯdʲokɯn,k.ɯ.dʲ.o.k.ɯ.n,k ɯ dʲ o k ɯ n,,Syrjaenen2013,,False,^ k . ɯ . dʲ . o . k . ɯ . n $,default,k u dy~ o k u n,dy~ k n o u
+312,ingrian-45_father-1,,ingrian,45_father,ætti,æ.t.t.i,æ t t i,,Syrjaenen2013,,False,^ æ . t . t . i $,default,E t t i,E i t
+313,erzya-45_father-1,,erzya,45_father,tʲetʲɑ,tʲ.e.tʲ.ɑ,tʲ e tʲ ɑ,,Syrjaenen2013,,False,^ tʲ . e . tʲ . ɑ $,default,ty~ e ty~ o,e o ty~
+314,komipermyak-45_father-1,,komipermyak,45_father,ɑj,ɑ.j,ɑ j,,Syrjaenen2013,,False,^ ɑ . j $,default,o y,o y
+315,komizyrian-45_father-1,,komizyrian,45_father,bɑtʲ,b.ɑ.tʲ,b ɑ tʲ,,Syrjaenen2013,,False,^ b . ɑ . tʲ $,default,b o ty~,b o ty~
+316,komizyrian-45_father-2,,komizyrian,45_father,ɑj,ɑ.j,ɑ j,,Syrjaenen2013,,False,^ ɑ . j $,default,o y,o y
+317,nganasan-45_father-1,,nganasan,45_father,dʲesɯ,dʲ.e.s.ɯ,dʲ e s ɯ,,Syrjaenen2013,,False,^ dʲ . e . s . ɯ $,default,dy~ e s u,dy~ e s u
+318,selkup-45_father-1,,selkup,45_father,ɤsə,ɤ.s.ə,ɤ s ə,,Syrjaenen2013,,False,^ ɤ . s . ə $,default,o s 3,3 o s
+319,udmurt-45_father-1,,udmurt,45_father,ɑjɯ,ɑ.j.ɯ,ɑ j ɯ,,Syrjaenen2013,,False,^ ɑ . j . ɯ $,default,o y u,o u y
+320,udmurt-45_father-2,,udmurt,45_father,bubɯ,b.u.b.ɯ,b u b ɯ,,Syrjaenen2013,,False,^ b . u . b . ɯ $,default,b u b u,b u
+321,erzya-46_fear-1,,erzya,46_fear,peʎems,p.e.ʎ.e.m.s,p e ʎ e m s,,Syrjaenen2013,,False,^ p . e . ʎ . e . m . s $,default,p e L e m s,L e m p s
+322,ingrian-46_fear-1,,ingrian,46_fear,pølæd̥æ,p.ø.l.æ.d̥.æ,p ø l æ d̥ æ,,Syrjaenen2013,,False,^ p . ø . l . æ . d̥ . æ $,default,p e l E d E,E d e l p
+323,ingrian-46_fear-2,,ingrian,46_fear,hervid̥æ,h.e.r.v.i.d̥.æ,h e r v i d̥ æ,,Syrjaenen2013,,False,^ h . e . r . v . i . d̥ . æ $,default,h e r v i d E,E d e h i r v
+324,komipermyak-46_fear-1,,komipermyak,46_fear,povnɯ,p.o.v.n.ɯ,p o v n ɯ,,Syrjaenen2013,,False,^ p . o . v . n . ɯ $,default,p o v n u,n o p u v
+325,komizyrian-46_fear-1,,komizyrian,46_fear,povnɯ,p.o.v.n.ɯ,p o v n ɯ,,Syrjaenen2013,,False,^ p . o . v . n . ɯ $,default,p o v n u,n o p u v
+326,nganasan-46_fear-1,,nganasan,46_fear,hɯlɯmsɯ,h.ɯ.l.ɯ.m.s.ɯ,h ɯ l ɯ m s ɯ,,Syrjaenen2013,,False,^ h . ɯ . l . ɯ . m . s . ɯ $,default,h u l u m s u,h l m s u
+327,selkup-46_fear-1,,selkup,46_fear,enə,e.n.ə,e n ə,,Syrjaenen2013,,False,^ e . n . ə $,default,e n 3,3 e n
+328,udmurt-46_fear-1,,udmurt,46_fear,kɯʃkɑnɯ,k.ɯ.ʃ.k.ɑ.n.ɯ,k ɯ ʃ k ɑ n ɯ,,Syrjaenen2013,,False,^ k . ɯ . ʃ . k . ɑ . n . ɯ $,default,k u S k o n u,S k n o u
+329,udmurt-46_fear-2,,udmurt,46_fear,kurdɑnɯ,k.u.r.d.ɑ.n.ɯ,k u r d ɑ n ɯ,,Syrjaenen2013,,False,^ k . u . r . d . ɑ . n . ɯ $,default,k u r d o n u,d k n o r u
+330,ingrian-47_feather-1,,ingrian,47_feather,sulg̊ɑ,s.u.l.ɡ̥.ɑ,s u l ɡ̥ ɑ,,Syrjaenen2013,,False,^ s . u . l . ɡ̥ . ɑ $,default,s u l g o,g l o s u
+331,nganasan-47_feather-1,,nganasan,47_feather,totə,t.o.t.ə,t o t ə,,Syrjaenen2013,,False,^ t . o . t . ə $,default,t o t 3,3 o t
+332,erzya-47_feather-1,,erzya,47_feather,tolgɑ,t.o.l.ɡ.ɑ,t o l ɡ ɑ,,Syrjaenen2013,,False,^ t . o . l . ɡ . ɑ $,default,t o l g o,g l o t
+333,ingrian-47_feather-2,,ingrian,47_feather,høyhen,h.ø.y.h.e.n,h ø y h e n,,Syrjaenen2013,,False,^ h . ø . y . h . e . n $,default,h e i h e n,e h i n
+334,komipermyak-47_feather-1,,komipermyak,47_feather,bordtɯv,b.o.r.d.t.ɯ.v,b o r d t ɯ v,,Syrjaenen2013,,False,^ b . o . r . d . t . ɯ . v $,default,b o r d t u v,b d o r t u v
+335,komipermyak-47_feather-2,,komipermyak,47_feather,gɤn,ɡ.ɤ.n,ɡ ɤ n,,Syrjaenen2013,,False,^ ɡ . ɤ . n $,default,g o n,g n o
+336,komizyrian-47_feather-1,,komizyrian,47_feather,gɤn,ɡ.ɤ.n,ɡ ɤ n,,Syrjaenen2013,,False,^ ɡ . ɤ . n $,default,g o n,g n o
+337,selkup-47_feather-1,,selkup,47_feather,tuː,t.uː,t uː,,Syrjaenen2013,,False,^ t . uː $,default,t u,t u
+338,selkup-47_feather-2,,selkup,47_feather,tɑr,t.ɑ.r,t ɑ r,,Syrjaenen2013,,False,^ t . ɑ . r $,default,t o r,o r t
+339,udmurt-47_feather-1,,udmurt,47_feather,tɯlɯ,t.ɯ.l.ɯ,t ɯ l ɯ,,Syrjaenen2013,,False,^ t . ɯ . l . ɯ $,default,t u l u,l t u
+340,erzya-49_fight-1,,erzya,49_fight,turʲems,t.u.rʲ.e.m.s,t u rʲ e m s,,Syrjaenen2013,,False,^ t . u . rʲ . e . m . s $,default,t u ry~ e m s,e m ry~ s t u
+341,komipermyak-49_fight-1,,komipermyak,49_fight,tɯʃkɑɕnɯ,t.ɯ.ʃ.k.ɑ.ɕ.n.ɯ,t ɯ ʃ k ɑ ɕ n ɯ,,Syrjaenen2013,,False,^ t . ɯ . ʃ . k . ɑ . ɕ . n . ɯ $,default,t u S k o S n u,S k n o t u
+342,komizyrian-49_fight-1,,komizyrian,49_fight,koɕɑɕnɯ,k.o.ɕ.ɑ.ɕ.n.ɯ,k o ɕ ɑ ɕ n ɯ,,Syrjaenen2013,,False,^ k . o . ɕ . ɑ . ɕ . n . ɯ $,default,k o S o S n u,S k n o u
+343,nganasan-49_fight-1,,nganasan,49_fight,torɑsɑ,t.o.r.ɑ.s.ɑ,t o r ɑ s ɑ,,Syrjaenen2013,,False,^ t . o . r . ɑ . s . ɑ $,default,t o r o s o,o r s t
+344,selkup-49_fight-1,,selkup,49_fight,quə̠tu,q.u.ə̠.t.u,q u ə̠ t u,,Syrjaenen2013,,False,^ q . u . ə̠ . t . u $,default,q u 3 t u,3 q t u
+345,udmurt-49_fight-1,,udmurt,49_fight,ʒugiɕkɯnɯ,ʒ.u.ɡ.i.ɕ.k.ɯ.n.ɯ,ʒ u ɡ i ɕ k ɯ n ɯ,,Syrjaenen2013,,False,^ ʒ . u . ɡ . i . ɕ . k . ɯ . n . ɯ $,default,Z u g i S k u n u,S Z g i k n u
+346,komizyrian-49_fight-2,,komizyrian,49_fight,tɯʃkɑɕnɯ,t.ɯ.ʃ.k.ɑ.ɕ.n.ɯ,t ɯ ʃ k ɑ ɕ n ɯ,,Syrjaenen2013,,False,^ t . ɯ . ʃ . k . ɑ . ɕ . n . ɯ $,default,t u S k o S n u,S k n o t u
+347,nganasan-49_fight-2,,nganasan,49_fight,kəməuʔtəsɑ,k.ə.m.ə.u.ʔ.t.ə.s.ɑ,k ə m ə u ʔ t ə s ɑ,,Syrjaenen2013,,False,^ k . ə . m . ə . u . ʔ . t . ə . s . ɑ $,default,k 3 m 3 u 7 t 3 s o,3 7 k m o s t u
+348,erzya-50_fire-1,,erzya,50_fire,tol,t.o.l,t o l,,Syrjaenen2013,,False,^ t . o . l $,default,t o l,l o t
+349,ingrian-50_fire-1,,ingrian,50_fire,tuli,t.u.l.i,t u l i,,Syrjaenen2013,,False,^ t . u . l . i $,default,t u l i,i l t u
+350,komipermyak-50_fire-1,,komipermyak,50_fire,bi,b.i,b i,,Syrjaenen2013,,False,^ b . i $,default,b i,b i
+351,nganasan-50_fire-1,,nganasan,50_fire,tuj,t.u.j,t u j,,Syrjaenen2013,,False,^ t . u . j $,default,t u y,t u y
+352,selkup-50_fire-1,,selkup,50_fire,tyː,t.yː,t yː,,Syrjaenen2013,,False,^ t . yː $,default,t i,i t
+353,udmurt-50_fire-1,,udmurt,50_fire,tɯl,t.ɯ.l,t ɯ l,,Syrjaenen2013,,False,^ t . ɯ . l $,default,t u l,l t u
+354,komizyrian-50_fire-1,,komizyrian,50_fire,bi,b.i,b i,,Syrjaenen2013,,False,^ b . i $,default,b i,b i
+355,erzya-51_fish-1,,erzya,51_fish,kɑl,k.ɑ.l,k ɑ l,,Syrjaenen2013,,False,^ k . ɑ . l $,default,k o l,k l o
+356,ingrian-51_fish-1,,ingrian,51_fish,kɑlɑ,k.ɑ.l.ɑ,k ɑ l ɑ,,Syrjaenen2013,,False,^ k . ɑ . l . ɑ $,default,k o l o,k l o
+357,komipermyak-51_fish-1,,komipermyak,51_fish,ʨeri,tɕ.e.r.i,tɕ e r i,,Syrjaenen2013,,False,^ tɕ . e . r . i $,default,tS e r i,e i r tS
+358,komizyrian-51_fish-1,,komizyrian,51_fish,ʨeri,tɕ.e.r.i,tɕ e r i,,Syrjaenen2013,,False,^ tɕ . e . r . i $,default,tS e r i,e i r tS
+359,nganasan-51_fish-1,,nganasan,51_fish,kolɯ,k.o.l.ɯ,k o l ɯ,,Syrjaenen2013,,False,^ k . o . l . ɯ $,default,k o l u,k l o u
+360,selkup-51_fish-1,,selkup,51_fish,quə̠lə,q.u.ə̠.l.ə,q u ə̠ l ə,,Syrjaenen2013,,False,^ q . u . ə̠ . l . ə $,default,q u 3 l 3,3 l q u
+361,udmurt-51_fish-1,,udmurt,51_fish,ʨorɯg,tɕ.o.r.ɯ.ɡ,tɕ o r ɯ ɡ,,Syrjaenen2013,,False,^ tɕ . o . r . ɯ . ɡ $,default,tS o r u g,g o r tS u
+362,erzya-52_five-1,,erzya,52_five,vetʲe,v.e.tʲ.e,v e tʲ e,,Syrjaenen2013,,False,^ v . e . tʲ . e $,default,v e ty~ e,e ty~ v
+363,ingrian-52_five-1,,ingrian,52_five,viːz,v.iː.z,v iː z,,Syrjaenen2013,,False,^ v . iː . z $,default,v i z,i v z
+364,komipermyak-52_five-1,,komipermyak,52_five,vit,v.i.t,v i t,,Syrjaenen2013,,False,^ v . i . t $,default,v i t,i t v
+365,komizyrian-52_five-1,,komizyrian,52_five,vit,v.i.t,v i t,,Syrjaenen2013,,False,^ v . i . t $,default,v i t,i t v
+366,nganasan-52_five-1,,nganasan,52_five,səŋhəʎɑŋkə,s.ə.ŋ.h.ə.ʎ.ɑ.ŋ.k.ə,s ə ŋ h ə ʎ ɑ ŋ k ə,,Syrjaenen2013,,False,^ s . ə . ŋ . h . ə . ʎ . ɑ . ŋ . k . ə $,default,s 3 N h 3 L o N k 3,3 L N h k o s
+367,selkup-52_five-1,,selkup,52_five,sompəlɑŋqə,s.o.m.p.ə.l.ɑ.ŋ.q.ə,s o m p ə l ɑ ŋ q ə,,Syrjaenen2013,,False,^ s . o . m . p . ə . l . ɑ . ŋ . q . ə $,default,s o m p 3 l o N q 3,3 N l m o p q s
+368,udmurt-52_five-1,,udmurt,52_five,vitʲ,v.i.tʲ,v i tʲ,,Syrjaenen2013,,False,^ v . i . tʲ $,default,v i ty~,i ty~ v
+369,erzya-53_float-1,,erzya,53_float,ukʃnoms,u.k.ʃ.n.o.m.s,u k ʃ n o m s,,Syrjaenen2013,,False,^ u . k . ʃ . n . o . m . s $,default,u k S n o m s,S k m n o s u
+370,komipermyak-53_float-1,,komipermyak,53_float,ujjɯnɯ,u.j.j.ɯ.n.ɯ,u j j ɯ n ɯ,,Syrjaenen2013,,False,^ u . j . j . ɯ . n . ɯ $,default,u y y u n u,n u y
+371,komizyrian-53_float-1,,komizyrian,53_float,ʃlɯvgɯnɯ,ʃ.l.ɯ.v.ɡ.ɯ.n.ɯ,ʃ l ɯ v ɡ ɯ n ɯ,,Syrjaenen2013,,False,^ ʃ . l . ɯ . v . ɡ . ɯ . n . ɯ $,default,S l u v g u n u,S g l n u v
+372,nganasan-53_float-1,,nganasan,53_float,dʲɑmbiɕɑ,dʲ.ɑ.m.b.i.ɕ.ɑ,dʲ ɑ m b i ɕ ɑ,,Syrjaenen2013,,False,^ dʲ . ɑ . m . b . i . ɕ . ɑ $,default,dy~ o m b i S o,S b dy~ i m o
+373,nganasan-53_float-2,,nganasan,53_float,kudʲusɑ,k.u.dʲ.u.s.ɑ,k u dʲ u s ɑ,,Syrjaenen2013,,False,^ k . u . dʲ . u . s . ɑ $,default,k u dy~ u s o,dy~ k o s u
+374,selkup-53_float-1,,selkup,53_float,quːrə,q.uː.r.ə,q uː r ə,,Syrjaenen2013,,False,^ q . uː . r . ə $,default,q u r 3,3 q r u
+375,udmurt-53_float-1,,udmurt,53_float,lejkɑnɯ,l.e.j.k.ɑ.n.ɯ,l e j k ɑ n ɯ,,Syrjaenen2013,,False,^ l . e . j . k . ɑ . n . ɯ $,default,l e y k o n u,e k l n o u y
+376,erzya-54_flow-1,,erzya,54_flow,ʧudʲems,tʃ.u.dʲ.e.m.s,tʃ u dʲ e m s,,Syrjaenen2013,,False,^ tʃ . u . dʲ . e . m . s $,default,tS u dy~ e m s,dy~ e m s tS u
+377,ingrian-54_flow-1,,ingrian,54_flow,virrɑd̥ɑ,v.i.r.r.ɑ.d̥.ɑ,v i r r ɑ d̥ ɑ,,Syrjaenen2013,,False,^ v . i . r . r . ɑ . d̥ . ɑ $,default,v i r r o d o,d i o r v
+378,komipermyak-54_flow-1,,komipermyak,54_flow,vizɯvtnɯ,v.i.z.ɯ.v.t.n.ɯ,v i z ɯ v t n ɯ,,Syrjaenen2013,,False,^ v . i . z . ɯ . v . t . n . ɯ $,default,v i z u v t n u,i n t u v z
+379,komizyrian-54_flow-1,,komizyrian,54_flow,vizuvtnɯ,v.i.z.u.v.t.n.ɯ,v i z u v t n ɯ,,Syrjaenen2013,,False,^ v . i . z . u . v . t . n . ɯ $,default,v i z u v t n u,i n t u v z
+380,nganasan-54_flow-1,,nganasan,54_flow,luɑʔtusɑ,l.u.ɑ.ʔ.t.u.s.ɑ,l u ɑ ʔ t u s ɑ,,Syrjaenen2013,,False,^ l . u . ɑ . ʔ . t . u . s . ɑ $,default,l u o 7 t u s o,7 l o s t u
+381,selkup-54_flow-1,,selkup,54_flow,kŋ,k.ŋ,k ŋ,,Syrjaenen2013,,False,^ k . ŋ $,default,k N,N k
+382,udmurt-54_flow-1,,udmurt,54_flow,vijɑnɯ,v.i.j.ɑ.n.ɯ,v i j ɑ n ɯ,,Syrjaenen2013,,False,^ v . i . j . ɑ . n . ɯ $,default,v i y o n u,i n o u v y
+383,udmurt-54_flow-2,,udmurt,54_flow,bɯʑɯnɯ,b.ɯ.ʑ.ɯ.n.ɯ,b ɯ ʑ ɯ n ɯ,,Syrjaenen2013,,False,^ b . ɯ . ʑ . ɯ . n . ɯ $,default,b u Z u n u,Z b n u
+384,komipermyak-55_flower-1,,komipermyak,55_flower,ʥoriʥ,dʑ.o.r.i.dʑ,dʑ o r i dʑ,,Syrjaenen2013,,False,^ dʑ . o . r . i . dʑ $,default,dZ o r i dZ,dZ i o r
+385,erzya-55_flower-1,,erzya,55_flower,ʨeʨɑ,tɕ.e.tɕ.ɑ,tɕ e tɕ ɑ,,Syrjaenen2013,,False,^ tɕ . e . tɕ . ɑ $,default,tS e tS o,e o tS
+386,erzya-55_flower-2,,erzya,55_flower,ʦvet,ts.v.e.t,ts v e t,,Syrjaenen2013,,False,^ ts . v . e . t $,default,ts v e t,e t ts v
+387,ingrian-55_flower-1,,ingrian,55_flower,kukkɑ,k.u.k.k.ɑ,k u k k ɑ,,Syrjaenen2013,,False,^ k . u . k . k . ɑ $,default,k u k k o,k o u
+388,komizyrian-55_flower-1,,komizyrian,55_flower,ʥoriʥ,dʑ.o.r.i.dʑ,dʑ o r i dʑ,,Syrjaenen2013,,False,^ dʑ . o . r . i . dʑ $,default,dZ o r i dZ,dZ i o r
+389,nganasan-55_flower-1,,nganasan,55_flower,lukuðiɑj,l.u.k.u.ð.i.ɑ.j,l u k u ð i ɑ j,,Syrjaenen2013,,False,^ l . u . k . u . ð . i . ɑ . j $,default,l u k u 8 i o y,8 i k l o u y
+390,selkup-55_flower-1,,selkup,55_flower,sɯrkə,s.ɯ.r.k.ə,s ɯ r k ə,,Syrjaenen2013,,False,^ s . ɯ . r . k . ə $,default,s u r k 3,3 k r s u
+391,udmurt-55_flower-1,,udmurt,55_flower,ɕɑɕkɑ,ɕ.ɑ.ɕ.k.ɑ,ɕ ɑ ɕ k ɑ,,Syrjaenen2013,,False,^ ɕ . ɑ . ɕ . k . ɑ $,default,S o S k o,S k o
+392,komipermyak-56_flyv-1,,komipermyak,56_flyv,lebɑvnɯ,l.e.b.ɑ.v.n.ɯ,l e b ɑ v n ɯ,,Syrjaenen2013,,False,^ l . e . b . ɑ . v . n . ɯ $,default,l e b o v n u,b e l n o u v
+393,erzya-56_flyv-1,,erzya,56_flyv,ʎivtʲɑms,ʎ.i.v.tʲ.ɑ.m.s,ʎ i v tʲ ɑ m s,,Syrjaenen2013,,False,^ ʎ . i . v . tʲ . ɑ . m . s $,default,L i v ty~ o m s,L i m o s ty~ v
+394,ingrian-56_flyv-1,,ingrian,56_flyv,lentæː,l.e.n.t.æː,l e n t æː,,Syrjaenen2013,,False,^ l . e . n . t . æː $,default,l e n t E,E e l n t
+395,komizyrian-56_flyv-1,,komizyrian,56_flyv,lebɑvnɯ,l.e.b.ɑ.v.n.ɯ,l e b ɑ v n ɯ,,Syrjaenen2013,,False,^ l . e . b . ɑ . v . n . ɯ $,default,l e b o v n u,b e l n o u v
+396,nganasan-56_flyv-1,,nganasan,56_flyv,təirɕi,t.ə.i.r.ɕ.i,t ə i r ɕ i,,Syrjaenen2013,,False,^ t . ə . i . r . ɕ . i $,default,t 3 i r S i,3 S i r t
+397,selkup-56_flyv-1,,selkup,56_flyv,tiː,t.iː,t iː,,Syrjaenen2013,,False,^ t . iː $,default,t i,i t
+398,udmurt-56_flyv-1,,udmurt,56_flyv,lobɯnɯ,l.o.b.ɯ.n.ɯ,l o b ɯ n ɯ,,Syrjaenen2013,,False,^ l . o . b . ɯ . n . ɯ $,default,l o b u n u,b l n o u
+399,nganasan-57_fog-1,,nganasan,57_fog,kəku,k.ə.k.u,k ə k u,,Syrjaenen2013,,False,^ k . ə . k . u $,default,k 3 k u,3 k u
+400,erzya-57_fog-1,,erzya,57_fog,suv,s.u.v,s u v,,Syrjaenen2013,,False,^ s . u . v $,default,s u v,s u v
+401,erzya-57_fog-2,,erzya,57_fog,tumɑn,t.u.m.ɑ.n,t u m ɑ n,,Syrjaenen2013,,False,^ t . u . m . ɑ . n $,default,t u m o n,m n o t u
+402,ingrian-57_fog-1,,ingrian,57_fog,sumu,s.u.m.u,s u m u,,Syrjaenen2013,,False,^ s . u . m . u $,default,s u m u,m s u
+403,ingrian-57_fog-2,,ingrian,57_fog,ud̥u,u.d̥.u,u d̥ u,,Syrjaenen2013,,False,^ u . d̥ . u $,default,u d u,d u
+404,ingrian-57_fog-3,,ingrian,57_fog,tomɑkkɑ,t.o.m.ɑ.k.k.ɑ,t o m ɑ k k ɑ,,Syrjaenen2013,,False,^ t . o . m . ɑ . k . k . ɑ $,default,t o m o k k o,k m o t
+405,komipermyak-57_fog-1,,komipermyak,57_fog,tumɑn,t.u.m.ɑ.n,t u m ɑ n,,Syrjaenen2013,,False,^ t . u . m . ɑ . n $,default,t u m o n,m n o t u
+406,komizyrian-57_fog-1,,komizyrian,57_fog,ru,r.u,r u,,Syrjaenen2013,,False,^ r . u $,default,r u,r u
+407,selkup-57_fog-1,,selkup,57_fog,ʨɑptu,tɕ.ɑ.p.t.u,tɕ ɑ p t u,,Syrjaenen2013,,False,^ tɕ . ɑ . p . t . u $,default,tS o p t u,o p t tS u
+408,udmurt-57_fog-1,,udmurt,57_fog,bus,b.u.s,b u s,,Syrjaenen2013,,False,^ b . u . s $,default,b u s,b s u
+409,nganasan-58_foot-1,,nganasan,58_foot,ŋoj,ŋ.o.j,ŋ o j,,Syrjaenen2013,,False,^ ŋ . o . j $,default,N o y,N o y
+410,erzya-58_foot-1,,erzya,58_foot,piʎge,p.i.ʎ.ɡ.e,p i ʎ ɡ e,,Syrjaenen2013,,False,^ p . i . ʎ . ɡ . e $,default,p i L g e,L e g i p
+411,ingrian-58_foot-1,,ingrian,58_foot,jɑlg̊ɑ,j.ɑ.l.ɡ̥.ɑ,j ɑ l ɡ̥ ɑ,,Syrjaenen2013,,False,^ j . ɑ . l . ɡ̥ . ɑ $,default,y o l g o,g l o y
+412,komipermyak-58_foot-1,,komipermyak,58_foot,kok,k.o.k,k o k,,Syrjaenen2013,,False,^ k . o . k $,default,k o k,k o
+413,komizyrian-58_foot-1,,komizyrian,58_foot,kok,k.o.k,k o k,,Syrjaenen2013,,False,^ k . o . k $,default,k o k,k o
+414,selkup-58_foot-1,,selkup,58_foot,topə,t.o.p.ə,t o p ə,,Syrjaenen2013,,False,^ t . o . p . ə $,default,t o p 3,3 o p t
+415,udmurt-58_foot-1,,udmurt,58_foot,kuk,k.u.k,k u k,,Syrjaenen2013,,False,^ k . u . k $,default,k u k,k u
+416,udmurt-58_foot-2,,udmurt,58_foot,pɯd,p.ɯ.d,p ɯ d,,Syrjaenen2013,,False,^ p . ɯ . d $,default,p u d,d p u
+417,erzya-59_four-1,,erzya,59_four,ɲiʎe,ɲ.i.ʎ.e,ɲ i ʎ e,,Syrjaenen2013,,False,^ ɲ . i . ʎ . e $,default,5 i L e,5 L e i
+418,ingrian-59_four-1,,ingrian,59_four,neljæ,n.e.l.j.æ,n e l j æ,,Syrjaenen2013,,False,^ n . e . l . j . æ $,default,n e l y E,E e l n y
+419,komipermyak-59_four-1,,komipermyak,59_four,ɲoʎ,ɲ.o.ʎ,ɲ o ʎ,,Syrjaenen2013,,False,^ ɲ . o . ʎ $,default,5 o L,5 L o
+420,komizyrian-59_four-1,,komizyrian,59_four,ɲoʎ,ɲ.o.ʎ,ɲ o ʎ,,Syrjaenen2013,,False,^ ɲ . o . ʎ $,default,5 o L,5 L o
+421,nganasan-59_four-1,,nganasan,59_four,ʧətə,tʃ.ə.t.ə,tʃ ə t ə,,Syrjaenen2013,,False,^ tʃ . ə . t . ə $,default,tS 3 t 3,3 t tS
+422,selkup-59_four-1,,selkup,59_four,teːttə,t.eː.t.t.ə,t eː t t ə,,Syrjaenen2013,,False,^ t . eː . t . t . ə $,default,t e t t 3,3 e t
+423,udmurt-59_four-1,,udmurt,59_four,ɲɯʎ,ɲ.ɯ.ʎ,ɲ ɯ ʎ,,Syrjaenen2013,,False,^ ɲ . ɯ . ʎ $,default,5 u L,5 L u
+424,erzya-60_freeze-1,,erzya,60_freeze,tɑrʲkstɑms,t.ɑ.rʲ.k.s.t.ɑ.m.s,t ɑ rʲ k s t ɑ m s,,Syrjaenen2013,,False,^ t . ɑ . rʲ . k . s . t . ɑ . m . s $,default,t o ry~ k s t o m s,k m o ry~ s t
+425,erzya-60_freeze-2,,erzya,60_freeze,ejendɑms,e.j.e.n.d.ɑ.m.s,e j e n d ɑ m s,,Syrjaenen2013,,False,^ e . j . e . n . d . ɑ . m . s $,default,e y e n d o m s,d e m n o s y
+426,erzya-60_freeze-3,,erzya,60_freeze,keʎems,k.e.ʎ.e.m.s,k e ʎ e m s,,Syrjaenen2013,,False,^ k . e . ʎ . e . m . s $,default,k e L e m s,L e k m s
+427,ingrian-60_freeze-1,,ingrian,60_freeze,jæːttyæ,j.æː.t.t.y.æ,j æː t t y æ,,Syrjaenen2013,,False,^ j . æː . t . t . y . æ $,default,y E t t i E,E i t y
+428,komipermyak-60_freeze-1,,komipermyak,60_freeze,kɯnmɯnɯ,k.ɯ.n.m.ɯ.n.ɯ,k ɯ n m ɯ n ɯ,,Syrjaenen2013,,False,^ k . ɯ . n . m . ɯ . n . ɯ $,default,k u n m u n u,k m n u
+429,komizyrian-60_freeze-1,,komizyrian,60_freeze,kɯnmɯnɯ,k.ɯ.n.m.ɯ.n.ɯ,k ɯ n m ɯ n ɯ,,Syrjaenen2013,,False,^ k . ɯ . n . m . ɯ . n . ɯ $,default,k u n m u n u,k m n u
+430,nganasan-60_freeze-1,,nganasan,60_freeze,kəntɯdʲi,k.ə.n.t.ɯ.dʲ.i,k ə n t ɯ dʲ i,,Syrjaenen2013,,False,^ k . ə . n . t . ɯ . dʲ . i $,default,k 3 n t u dy~ i,3 dy~ i k n t u
+431,selkup-60_freeze-1,,selkup,60_freeze,qɑntə,q.ɑ.n.t.ə,q ɑ n t ə,,Syrjaenen2013,,False,^ q . ɑ . n . t . ə $,default,q o n t 3,3 n o q t
+432,udmurt-60_freeze-1,,udmurt,60_freeze,kɯnmɯnɯ,k.ɯ.n.m.ɯ.n.ɯ,k ɯ n m ɯ n ɯ,,Syrjaenen2013,,False,^ k . ɯ . n . m . ɯ . n . ɯ $,default,k u n m u n u,k m n u
+433,selkup-62_full-1,,selkup,62_full,tiːrəʎ,t.iː.r.ə.ʎ,t iː r ə ʎ,,Syrjaenen2013,,False,^ t . iː . r . ə . ʎ $,default,t i r 3 L,3 L i r t
+434,erzya-62_full-1,,erzya,62_full,peʃkɕe,p.e.ʃ.k.ɕ.e,p e ʃ k ɕ e,,Syrjaenen2013,,False,^ p . e . ʃ . k . ɕ . e $,default,p e S k S e,S e k p
+435,ingrian-62_full-1,,ingrian,62_full,tæyz,t.æ.y.z,t æ y z,,Syrjaenen2013,,False,^ t . æ . y . z $,default,t E i z,E i t z
+436,komipermyak-62_full-1,,komipermyak,62_full,tɯr,t.ɯ.r,t ɯ r,,Syrjaenen2013,,False,^ t . ɯ . r $,default,t u r,r t u
+437,komizyrian-62_full-1,,komizyrian,62_full,tɯr,t.ɯ.r,t ɯ r,,Syrjaenen2013,,False,^ t . ɯ . r $,default,t u r,r t u
+438,nganasan-62_full-1,,nganasan,62_full,dʲulsɯə,dʲ.u.l.s.ɯ.ə,dʲ u l s ɯ ə,,Syrjaenen2013,,False,^ dʲ . u . l . s . ɯ . ə $,default,dy~ u l s u 3,3 dy~ l s u
+439,nganasan-62_full-2,,nganasan,62_full,myntyɕɑ,m.y.n.t.y.ɕ.ɑ,m y n t y ɕ ɑ,,Syrjaenen2013,,False,^ m . y . n . t . y . ɕ . ɑ $,default,m i n t i S o,S i m n o t
+440,udmurt-62_full-1,,udmurt,62_full,tɯr,t.ɯ.r,t ɯ r,,Syrjaenen2013,,False,^ t . ɯ . r $,default,t u r,r t u
+441,ingrian-63_give-1,,ingrian,63_give,ɑntɑː,ɑ.n.t.ɑː,ɑ n t ɑː,,Syrjaenen2013,,False,^ ɑ . n . t . ɑː $,default,o n t o,n o t
+442,komipermyak-63_give-1,,komipermyak,63_give,ɕetnɯ,ɕ.e.t.n.ɯ,ɕ e t n ɯ,,Syrjaenen2013,,False,^ ɕ . e . t . n . ɯ $,default,S e t n u,S e n t u
+443,komizyrian-63_give-1,,komizyrian,63_give,ɕetnɯ,ɕ.e.t.n.ɯ,ɕ e t n ɯ,,Syrjaenen2013,,False,^ ɕ . e . t . n . ɯ $,default,S e t n u,S e n t u
+444,nganasan-63_give-1,,nganasan,63_give,miɕi,m.i.ɕ.i,m i ɕ i,,Syrjaenen2013,,False,^ m . i . ɕ . i $,default,m i S i,S i m
+445,selkup-63_give-1,,selkup,63_give,mi,m.i,m i,,Syrjaenen2013,,False,^ m . i $,default,m i,i m
+446,udmurt-63_give-1,,udmurt,63_give,ɕotɯnɯ,ɕ.o.t.ɯ.n.ɯ,ɕ o t ɯ n ɯ,,Syrjaenen2013,,False,^ ɕ . o . t . ɯ . n . ɯ $,default,S o t u n u,S n o t u
+447,erzya-63_give-1,,erzya,63_give,mɑksoms,m.ɑ.k.s.o.m.s,m ɑ k s o m s,,Syrjaenen2013,,False,^ m . ɑ . k . s . o . m . s $,default,m o k s o m s,k m o s
+448,erzya-64_good-1,,erzya,64_good,pɑro,p.ɑ.r.o,p ɑ r o,,Syrjaenen2013,,False,^ p . ɑ . r . o $,default,p o r o,o p r
+449,ingrian-64_good-1,,ingrian,64_good,hyvæ,h.y.v.æ,h y v æ,,Syrjaenen2013,,False,^ h . y . v . æ $,default,h i v E,E h i v
+450,komipermyak-64_good-1,,komipermyak,64_good,bur,b.u.r,b u r,,Syrjaenen2013,,False,^ b . u . r $,default,b u r,b r u
+451,komizyrian-64_good-1,,komizyrian,64_good,bur,b.u.r,b u r,,Syrjaenen2013,,False,^ b . u . r $,default,b u r,b r u
+452,komizyrian-64_good-2,,komizyrian,64_good,ʃɑɲ,ʃ.ɑ.ɲ,ʃ ɑ ɲ,,Syrjaenen2013,,False,^ ʃ . ɑ . ɲ $,default,S o 5,5 S o
+453,nganasan-64_good-1,,nganasan,64_good,ɲɑgəː,ɲ.ɑ.ɡ.əː,ɲ ɑ ɡ əː,,Syrjaenen2013,,False,^ ɲ . ɑ . ɡ . əː $,default,5 o g 3,3 5 g o
+454,selkup-64_good-1,,selkup,64_good,somɑ,s.o.m.ɑ,s o m ɑ,,Syrjaenen2013,,False,^ s . o . m . ɑ $,default,s o m o,m o s
+455,udmurt-64_good-1,,udmurt,64_good,umoj,u.m.o.j,u m o j,,Syrjaenen2013,,False,^ u . m . o . j $,default,u m o y,m o u y
+456,udmurt-64_good-2,,udmurt,64_good,ʥeʨ,dʑ.e.tɕ,dʑ e tɕ,,Syrjaenen2013,,False,^ dʑ . e . tɕ $,default,dZ e tS,dZ e tS
+457,erzya-65_grass-1,,erzya,65_grass,tʲikʃe,tʲ.i.k.ʃ.e,tʲ i k ʃ e,,Syrjaenen2013,,False,^ tʲ . i . k . ʃ . e $,default,ty~ i k S e,S e i k ty~
+458,ingrian-65_grass-1,,ingrian,65_grass,roho,r.o.h.o,r o h o,,Syrjaenen2013,,False,^ r . o . h . o $,default,r o h o,h o r
+459,komipermyak-65_grass-1,,komipermyak,65_grass,turun,t.u.r.u.n,t u r u n,,Syrjaenen2013,,False,^ t . u . r . u . n $,default,t u r u n,n r t u
+460,nganasan-65_grass-1,,nganasan,65_grass,ɲotə,ɲ.o.t.ə,ɲ o t ə,,Syrjaenen2013,,False,^ ɲ . o . t . ə $,default,5 o t 3,3 5 o t
+461,selkup-65_grass-1,,selkup,65_grass,ɲuːʧə,ɲ.uː.tʃ.ə,ɲ uː tʃ ə,,Syrjaenen2013,,False,^ ɲ . uː . tʃ . ə $,default,5 u tS 3,3 5 tS u
+462,udmurt-65_grass-1,,udmurt,65_grass,turɯn,t.u.r.ɯ.n,t u r ɯ n,,Syrjaenen2013,,False,^ t . u . r . ɯ . n $,default,t u r u n,n r t u
+463,komizyrian-65_grass-1,,komizyrian,65_grass,turun,t.u.r.u.n,t u r u n,,Syrjaenen2013,,False,^ t . u . r . u . n $,default,t u r u n,n r t u
+464,erzya-66_green-1,,erzya,66_green,piʒe,p.i.ʒ.e,p i ʒ e,,Syrjaenen2013,,False,^ p . i . ʒ . e $,default,p i Z e,Z e i p
+465,ingrian-66_green-1,,ingrian,66_green,rohˑoin,r.o.h.o.i.n,r o h o i n,,Syrjaenen2013,,False,^ r . o . h . o . i . n $,default,r o h o i n,h i n o r
+466,komipermyak-66_green-1,,komipermyak,66_green,zeʎonɤj,z.e.ʎ.o.n.ɤ.j,z e ʎ o n ɤ j,,Syrjaenen2013,,False,^ z . e . ʎ . o . n . ɤ . j $,default,z e L o n o y,L e n o y z
+467,komizyrian-66_green-1,,komizyrian,66_green,veʒ,v.e.ʒ,v e ʒ,,Syrjaenen2013,,False,^ v . e . ʒ $,default,v e Z,Z e v
+468,nganasan-66_green-1,,nganasan,66_green,ɲotərəku,ɲ.o.t.ə.r.ə.k.u,ɲ o t ə r ə k u,,Syrjaenen2013,,False,^ ɲ . o . t . ə . r . ə . k . u $,default,5 o t 3 r 3 k u,3 5 k o r t u
+469,nganasan-66_green-2,,nganasan,66_green,ŋindiɑʔsɯə,ŋ.i.n.d.i.ɑ.ʔ.s.ɯ.ə,ŋ i n d i ɑ ʔ s ɯ ə,,Syrjaenen2013,,False,^ ŋ . i . n . d . i . ɑ . ʔ . s . ɯ . ə $,default,N i n d i o 7 s u 3,3 7 N d i n o s u
+470,selkup-66_green-1,,selkup,66_green,noræʎ,n.o.r.æ.ʎ,n o r æ ʎ,,Syrjaenen2013,,False,^ n . o . r . æ . ʎ $,default,n o r E L,E L n o r
+471,udmurt-66_green-1,,udmurt,66_green,voʒ,v.o.ʒ,v o ʒ,,Syrjaenen2013,,False,^ v . o . ʒ $,default,v o Z,Z o v
+472,komipermyak-68_hair-1,,komipermyak,68_hair,jurɕi,j.u.r.ɕ.i,j u r ɕ i,,Syrjaenen2013,,False,^ j . u . r . ɕ . i $,default,y u r S i,S i r u y
+473,erzya-68_hair-1,,erzya,68_hair,ʧerʲ,tʃ.e.rʲ,tʃ e rʲ,,Syrjaenen2013,,False,^ tʃ . e . rʲ $,default,tS e ry~,e ry~ tS
+474,erzya-68_hair-2,,erzya,68_hair,ponɑ,p.o.n.ɑ,p o n ɑ,,Syrjaenen2013,,False,^ p . o . n . ɑ $,default,p o n o,n o p
+475,ingrian-68_hair-1,,ingrian,68_hair,hiuz,h.i.u.z,h i u z,,Syrjaenen2013,,False,^ h . i . u . z $,default,h i u z,h i u z
+476,ingrian-68_hair-2,,ingrian,68_hair,kɑrvɑ,k.ɑ.r.v.ɑ,k ɑ r v ɑ,,Syrjaenen2013,,False,^ k . ɑ . r . v . ɑ $,default,k o r v o,k o r v
+477,komipermyak-68_hair-2,,komipermyak,68_hair,gɤn,ɡ.ɤ.n,ɡ ɤ n,,Syrjaenen2013,,False,^ ɡ . ɤ . n $,default,g o n,g n o
+478,komizyrian-68_hair-1,,komizyrian,68_hair,ɕi,ɕ.i,ɕ i,,Syrjaenen2013,,False,^ ɕ . i $,default,S i,S i
+479,komizyrian-68_hair-2,,komizyrian,68_hair,gɤn,ɡ.ɤ.n,ɡ ɤ n,,Syrjaenen2013,,False,^ ɡ . ɤ . n $,default,g o n,g n o
+480,nganasan-68_hair-1,,nganasan,68_hair,ŋɑbtə,ŋ.ɑ.b.t.ə,ŋ ɑ b t ə,,Syrjaenen2013,,False,^ ŋ . ɑ . b . t . ə $,default,N o b t 3,3 N b o t
+481,selkup-68_hair-1,,selkup,68_hair,oːptə,oː.p.t.ə,oː p t ə,,Syrjaenen2013,,False,^ oː . p . t . ə $,default,o p t 3,3 o p t
+482,selkup-68_hair-2,,selkup,68_hair,tɑr,t.ɑ.r,t ɑ r,,Syrjaenen2013,,False,^ t . ɑ . r $,default,t o r,o r t
+483,udmurt-68_hair-1,,udmurt,68_hair,ɕi,ɕ.i,ɕ i,,Syrjaenen2013,,False,^ ɕ . i $,default,S i,S i
+484,udmurt-68_hair-2,,udmurt,68_hair,gon,ɡ.o.n,ɡ o n,,Syrjaenen2013,,False,^ ɡ . o . n $,default,g o n,g n o
+485,erzya-69_hand-1,,erzya,69_hand,kedʲ,k.e.dʲ,k e dʲ,,Syrjaenen2013,,False,^ k . e . dʲ $,default,k e dy~,dy~ e k
+486,ingrian-69_hand-1,,ingrian,69_hand,kæzi,k.æ.z.i,k æ z i,,Syrjaenen2013,,False,^ k . æ . z . i $,default,k E z i,E i k z
+487,komipermyak-69_hand-1,,komipermyak,69_hand,ki,k.i,k i,,Syrjaenen2013,,False,^ k . i $,default,k i,i k
+488,komizyrian-69_hand-1,,komizyrian,69_hand,ki,k.i,k i,,Syrjaenen2013,,False,^ k . i $,default,k i,i k
+489,nganasan-69_hand-1,,nganasan,69_hand,dʲyty,dʲ.y.t.y,dʲ y t y,,Syrjaenen2013,,False,^ dʲ . y . t . y $,default,dy~ i t i,dy~ i t
+490,selkup-69_hand-1,,selkup,69_hand,utə,u.t.ə,u t ə,,Syrjaenen2013,,False,^ u . t . ə $,default,u t 3,3 t u
+491,udmurt-69_hand-1,,udmurt,69_hand,ki,k.i,k i,,Syrjaenen2013,,False,^ k . i $,default,k i,i k
+492,komipermyak-71_head-1,,komipermyak,71_head,jur,j.u.r,j u r,,Syrjaenen2013,,False,^ j . u . r $,default,y u r,r u y
+493,erzya-71_head-1,,erzya,71_head,prʲɑ,p.rʲ.ɑ,p rʲ ɑ,,Syrjaenen2013,,False,^ p . rʲ . ɑ $,default,p ry~ o,o p ry~
+494,ingrian-71_head-1,,ingrian,71_head,pæː,p.æː,p æː,,Syrjaenen2013,,False,^ p . æː $,default,p E,E p
+495,komizyrian-71_head-1,,komizyrian,71_head,jur,j.u.r,j u r,,Syrjaenen2013,,False,^ j . u . r $,default,y u r,r u y
+496,nganasan-71_head-1,,nganasan,71_head,ŋojbu,ŋ.o.j.b.u,ŋ o j b u,,Syrjaenen2013,,False,^ ŋ . o . j . b . u $,default,N o y b u,N b o u y
+497,selkup-71_head-1,,selkup,71_head,olə,o.l.ə,o l ə,,Syrjaenen2013,,False,^ o . l . ə $,default,o l 3,3 l o
+498,udmurt-71_head-1,,udmurt,71_head,jɯr,j.ɯ.r,j ɯ r,,Syrjaenen2013,,False,^ j . ɯ . r $,default,y u r,r u y
+499,nganasan-72_hear-1,,nganasan,72_hear,dʲindiɕi,dʲ.i.n.d.i.ɕ.i,dʲ i n d i ɕ i,,Syrjaenen2013,,False,^ dʲ . i . n . d . i . ɕ . i $,default,dy~ i n d i S i,S d dy~ i n
+500,erzya-72_hear-1,,erzya,72_hear,kuʎems,k.u.ʎ.e.m.s,k u ʎ e m s,,Syrjaenen2013,,False,^ k . u . ʎ . e . m . s $,default,k u L e m s,L e k m s u
+501,erzya-72_hear-2,,erzya,72_hear,mɑrʲɑms,m.ɑ.rʲ.ɑ.m.s,m ɑ rʲ ɑ m s,,Syrjaenen2013,,False,^ m . ɑ . rʲ . ɑ . m . s $,default,m o ry~ o m s,m o ry~ s
+502,ingrian-72_hear-1,,ingrian,72_hear,kuːllɑ,k.uː.l.l.ɑ,k uː l l ɑ,,Syrjaenen2013,,False,^ k . uː . l . l . ɑ $,default,k u l l o,k l o u
+503,komipermyak-72_hear-1,,komipermyak,72_hear,kɯvnɯ,k.ɯ.v.n.ɯ,k ɯ v n ɯ,,Syrjaenen2013,,False,^ k . ɯ . v . n . ɯ $,default,k u v n u,k n u v
+504,komizyrian-72_hear-1,,komizyrian,72_hear,kɯvnɯ,k.ɯ.v.n.ɯ,k ɯ v n ɯ,,Syrjaenen2013,,False,^ k . ɯ . v . n . ɯ $,default,k u v n u,k n u v
+505,selkup-72_hear-1,,selkup,72_hear,yntə,y.n.t.ə,y n t ə,,Syrjaenen2013,,False,^ y . n . t . ə $,default,i n t 3,3 i n t
+506,udmurt-72_hear-1,,udmurt,72_hear,kɯlɯnɯ,k.ɯ.l.ɯ.n.ɯ,k ɯ l ɯ n ɯ,,Syrjaenen2013,,False,^ k . ɯ . l . ɯ . n . ɯ $,default,k u l u n u,k l n u
+507,udmurt-73_heart-1,,udmurt,73_heart,ɕulem,ɕ.u.l.e.m,ɕ u l e m,,Syrjaenen2013,,False,^ ɕ . u . l . e . m $,default,S u l e m,S e l m u
+508,erzya-73_heart-1,,erzya,73_heart,ɕedʲej,ɕ.e.dʲ.e.j,ɕ e dʲ e j,,Syrjaenen2013,,False,^ ɕ . e . dʲ . e . j $,default,S e dy~ e y,S dy~ e y
+509,ingrian-73_heart-1,,ingrian,73_heart,syæn,s.y.æ.n,s y æ n,,Syrjaenen2013,,False,^ s . y . æ . n $,default,s i E n,E i n s
+510,komipermyak-73_heart-1,,komipermyak,73_heart,ɕɤlɤm,ɕ.ɤ.l.ɤ.m,ɕ ɤ l ɤ m,,Syrjaenen2013,,False,^ ɕ . ɤ . l . ɤ . m $,default,S o l o m,S l m o
+511,komizyrian-73_heart-1,,komizyrian,73_heart,ɕɤlɤm,ɕ.ɤ.l.ɤ.m,ɕ ɤ l ɤ m,,Syrjaenen2013,,False,^ ɕ . ɤ . l . ɤ . m $,default,S o l o m,S l m o
+512,nganasan-73_heart-1,,nganasan,73_heart,səː,s.əː,s əː,,Syrjaenen2013,,False,^ s . əː $,default,s 3,3 s
+513,selkup-73_heart-1,,selkup,73_heart,siːʨə,s.iː.tɕ.ə,s iː tɕ ə,,Syrjaenen2013,,False,^ s . iː . tɕ . ə $,default,s i tS 3,3 i s tS
+514,udmurt-74_heavy-1,,udmurt,74_heavy,ɕekɯt,ɕ.e.k.ɯ.t,ɕ e k ɯ t,,Syrjaenen2013,,False,^ ɕ . e . k . ɯ . t $,default,S e k u t,S e k t u
+515,erzya-74_heavy-1,,erzya,74_heavy,stɑkɑ,s.t.ɑ.k.ɑ,s t ɑ k ɑ,,Syrjaenen2013,,False,^ s . t . ɑ . k . ɑ $,default,s t o k o,k o s t
+516,ingrian-74_heavy-1,,ingrian,74_heavy,rɑskɑz,r.ɑ.s.k.ɑ.z,r ɑ s k ɑ z,,Syrjaenen2013,,False,^ r . ɑ . s . k . ɑ . z $,default,r o s k o z,k o r s z
+517,ingrian-74_heavy-2,,ingrian,74_heavy,rɑŋkkɑ,r.ɑ.ŋ.k.k.ɑ,r ɑ ŋ k k ɑ,,Syrjaenen2013,,False,^ r . ɑ . ŋ . k . k . ɑ $,default,r o N k k o,N k o r
+518,komipermyak-74_heavy-1,,komipermyak,74_heavy,ɕɤkɯt,ɕ.ɤ.k.ɯ.t,ɕ ɤ k ɯ t,,Syrjaenen2013,,False,^ ɕ . ɤ . k . ɯ . t $,default,S o k u t,S k o t u
+519,komizyrian-74_heavy-1,,komizyrian,74_heavy,ɕɤkɯd,ɕ.ɤ.k.ɯ.d,ɕ ɤ k ɯ d,,Syrjaenen2013,,False,^ ɕ . ɤ . k . ɯ . d $,default,S o k u d,S d k o u
+520,nganasan-74_heavy-1,,nganasan,74_heavy,səŋkutuo,s.ə.ŋ.k.u.t.u.o,s ə ŋ k u t u o,,Syrjaenen2013,,False,^ s . ə . ŋ . k . u . t . u . o $,default,s 3 N k u t u o,3 N k o s t u
+521,selkup-74_heavy-1,,selkup,74_heavy,sɤʧʧəm,s.ɤ.tʃ.tʃ.ə.m,s ɤ tʃ tʃ ə m,,Syrjaenen2013,,False,^ s . ɤ . tʃ . tʃ . ə . m $,default,s o tS tS 3 m,3 m o s tS
+522,erzya-75_here-1,,erzya,75_here,tʲese,tʲ.e.s.e,tʲ e s e,,Syrjaenen2013,,False,^ tʲ . e . s . e $,default,ty~ e s e,e s ty~
+523,ingrian-75_here-1,,ingrian,75_here,siːn,s.iː.n,s iː n,,Syrjaenen2013,,False,^ s . iː . n $,default,s i n,i n s
+524,komipermyak-75_here-1,,komipermyak,75_here,tɑtɤn,t.ɑ.t.ɤ.n,t ɑ t ɤ n,,Syrjaenen2013,,False,^ t . ɑ . t . ɤ . n $,default,t o t o n,n o t
+525,komipermyak-75_here-2,,komipermyak,75_here,estɤn,e.s.t.ɤ.n,e s t ɤ n,,Syrjaenen2013,,False,^ e . s . t . ɤ . n $,default,e s t o n,e n o s t
+526,komizyrian-75_here-1,,komizyrian,75_here,tɑn,t.ɑ.n,t ɑ n,,Syrjaenen2013,,False,^ t . ɑ . n $,default,t o n,n o t
+527,komizyrian-75_here-2,,komizyrian,75_here,etɑn,e.t.ɑ.n,e t ɑ n,,Syrjaenen2013,,False,^ e . t . ɑ . n $,default,e t o n,e n o t
+528,nganasan-75_here-1,,nganasan,75_here,əmnɯ,ə.m.n.ɯ,ə m n ɯ,,Syrjaenen2013,,False,^ ə . m . n . ɯ $,default,3 m n u,3 m n u
+529,nganasan-75_here-2,,nganasan,75_here,miʔiɑ,m.i.ʔ.i.ɑ,m i ʔ i ɑ,,Syrjaenen2013,,False,^ m . i . ʔ . i . ɑ $,default,m i 7 i o,7 i m o
+530,selkup-75_here-1,,selkup,75_here,tintə,t.i.n.t.ə,t i n t ə,,Syrjaenen2013,,False,^ t . i . n . t . ə $,default,t i n t 3,3 i n t
+531,udmurt-75_here-1,,udmurt,75_here,tɑtɯn,t.ɑ.t.ɯ.n,t ɑ t ɯ n,,Syrjaenen2013,,False,^ t . ɑ . t . ɯ . n $,default,t o t u n,n o t u
+532,komipermyak-76_hit-1,,komipermyak,76_hit,vɑʨkɯnɯ,v.ɑ.tɕ.k.ɯ.n.ɯ,v ɑ tɕ k ɯ n ɯ,,Syrjaenen2013,,False,^ v . ɑ . tɕ . k . ɯ . n . ɯ $,default,v o tS k u n u,k n o tS u v
+533,komizyrian-76_hit-1,,komizyrian,76_hit,vɑʨkɯnɯ,v.ɑ.tɕ.k.ɯ.n.ɯ,v ɑ tɕ k ɯ n ɯ,,Syrjaenen2013,,False,^ v . ɑ . tɕ . k . ɯ . n . ɯ $,default,v o tS k u n u,k n o tS u v
+534,erzya-76_hit-1,,erzya,76_hit,vɑʧkodʲems,v.ɑ.tʃ.k.o.dʲ.e.m.s,v ɑ tʃ k o dʲ e m s,,Syrjaenen2013,,False,^ v . ɑ . tʃ . k . o . dʲ . e . m . s $,default,v o tS k o dy~ e m s,dy~ e k m o s tS v
+535,erzya-76_hit-2,,erzya,76_hit,rʲiʃtɑms,rʲ.i.ʃ.t.ɑ.m.s,rʲ i ʃ t ɑ m s,,Syrjaenen2013,,False,^ rʲ . i . ʃ . t . ɑ . m . s $,default,ry~ i S t o m s,S i m o ry~ s t
+536,ingrian-76_hit-1,,ingrian,76_hit,løːvvæ,l.øː.v.v.æ,l øː v v æ,,Syrjaenen2013,,False,^ l . øː . v . v . æ $,default,l e v v E,E e l v
+537,ingrian-76_hit-2,,ingrian,76_hit,iskiæ,i.s.k.i.æ,i s k i æ,,Syrjaenen2013,,False,^ i . s . k . i . æ $,default,i s k i E,E i k s
+538,ingrian-76_hit-3,,ingrian,76_hit,lohmɑd̥ɑ,l.o.h.m.ɑ.d̥.ɑ,l o h m ɑ d̥ ɑ,,Syrjaenen2013,,False,^ l . o . h . m . ɑ . d̥ . ɑ $,default,l o h m o d o,d h l m o
+539,komizyrian-76_hit-2,,komizyrian,76_hit,kuʨkɯnɯ,k.u.tɕ.k.ɯ.n.ɯ,k u tɕ k ɯ n ɯ,,Syrjaenen2013,,False,^ k . u . tɕ . k . ɯ . n . ɯ $,default,k u tS k u n u,k n tS u
+540,nganasan-76_hit-1,,nganasan,76_hit,hoɕydʲi,h.o.ɕ.y.dʲ.i,h o ɕ y dʲ i,,Syrjaenen2013,,False,^ h . o . ɕ . y . dʲ . i $,default,h o S i dy~ i,S dy~ h i o
+541,selkup-76_hit-1,,selkup,76_hit,qæːttə,q.æː.t.t.ə,q æː t t ə,,Syrjaenen2013,,False,^ q . æː . t . t . ə $,default,q E t t 3,3 E q t
+542,udmurt-76_hit-1,,udmurt,76_hit,ʒugɯnɯ,ʒ.u.ɡ.ɯ.n.ɯ,ʒ u ɡ ɯ n ɯ,,Syrjaenen2013,,False,^ ʒ . u . ɡ . ɯ . n . ɯ $,default,Z u g u n u,Z g n u
+543,udmurt-76_hit-2,,udmurt,76_hit,ʃukkɯnɯ,ʃ.u.k.k.ɯ.n.ɯ,ʃ u k k ɯ n ɯ,,Syrjaenen2013,,False,^ ʃ . u . k . k . ɯ . n . ɯ $,default,S u k k u n u,S k n u
+544,erzya-78_horn-1,,erzya,78_horn,ɕuro,ɕ.u.r.o,ɕ u r o,,Syrjaenen2013,,False,^ ɕ . u . r . o $,default,S u r o,S o r u
+545,ingrian-78_horn-1,,ingrian,78_horn,sɑrvi,s.ɑ.r.v.i,s ɑ r v i,,Syrjaenen2013,,False,^ s . ɑ . r . v . i $,default,s o r v i,i o r s v
+546,komipermyak-78_horn-1,,komipermyak,78_horn,ɕur,ɕ.u.r,ɕ u r,,Syrjaenen2013,,False,^ ɕ . u . r $,default,S u r,S r u
+547,komizyrian-78_horn-1,,komizyrian,78_horn,ɕur,ɕ.u.r,ɕ u r,,Syrjaenen2013,,False,^ ɕ . u . r $,default,S u r,S r u
+548,nganasan-78_horn-1,,nganasan,78_horn,ŋɑmtə,ŋ.ɑ.m.t.ə,ŋ ɑ m t ə,,Syrjaenen2013,,False,^ ŋ . ɑ . m . t . ə $,default,N o m t 3,3 N m o t
+549,selkup-78_horn-1,,selkup,78_horn,ɑːmtə,ɑː.m.t.ə,ɑː m t ə,,Syrjaenen2013,,False,^ ɑː . m . t . ə $,default,o m t 3,3 m o t
+550,udmurt-78_horn-1,,udmurt,78_horn,ɕur,ɕ.u.r,ɕ u r,,Syrjaenen2013,,False,^ ɕ . u . r $,default,S u r,S r u
+551,ingrian-80_hunt-1,,ingrian,80_hunt,jɑhti,j.ɑ.h.t.i,j ɑ h t i,,Syrjaenen2013,,False,^ j . ɑ . h . t . i $,default,y o h t i,h i o t y
+552,komipermyak-80_hunt-1,,komipermyak,80_hunt,vɤrɑvnɯ,v.ɤ.r.ɑ.v.n.ɯ,v ɤ r ɑ v n ɯ,,Syrjaenen2013,,False,^ v . ɤ . r . ɑ . v . n . ɯ $,default,v o r o v n u,n o r u v
+553,komizyrian-80_hunt-1,,komizyrian,80_hunt,vɤrɑvnɯ,v.ɤ.r.ɑ.v.n.ɯ,v ɤ r ɑ v n ɯ,,Syrjaenen2013,,False,^ v . ɤ . r . ɑ . v . n . ɯ $,default,v o r o v n u,n o r u v
+554,nganasan-80_hunt-1,,nganasan,80_hunt,bɑsudʲɑ,b.ɑ.s.u.dʲ.ɑ,b ɑ s u dʲ ɑ,,Syrjaenen2013,,False,^ b . ɑ . s . u . dʲ . ɑ $,default,b o s u dy~ o,b dy~ o s u
+555,nganasan-80_hunt-2,,nganasan,80_hunt,kotədʲɑ,k.o.t.ə.dʲ.ɑ,k o t ə dʲ ɑ,,Syrjaenen2013,,False,^ k . o . t . ə . dʲ . ɑ $,default,k o t 3 dy~ o,3 dy~ k o t
+556,selkup-80_hunt-1,,selkup,80_hunt,suːrəməj,s.uː.r.ə.m.ə.j,s uː r ə m ə j,,Syrjaenen2013,,False,^ s . uː . r . ə . m . ə . j $,default,s u r 3 m 3 y,3 m r s u y
+557,udmurt-80_hunt-1,,udmurt,80_hunt,pɤjʃurɑnɯ,p.ɤ.j.ʃ.u.r.ɑ.n.ɯ,p ɤ j ʃ u r ɑ n ɯ,,Syrjaenen2013,,False,^ p . ɤ . j . ʃ . u . r . ɑ . n . ɯ $,default,p o y S u r o n u,S n o p r u y
+558,udmurt-80_hunt-2,,udmurt,80_hunt,ɲuleskɑnɯ,ɲ.u.l.e.s.k.ɑ.n.ɯ,ɲ u l e s k ɑ n ɯ,,Syrjaenen2013,,False,^ ɲ . u . l . e . s . k . ɑ . n . ɯ $,default,5 u l e s k o n u,5 e k l n o s u
+559,komipermyak-81_husband-1,,komipermyak,81_husband,muʒik,m.u.ʒ.i.k,m u ʒ i k,,Syrjaenen2013,,False,^ m . u . ʒ . i . k $,default,m u Z i k,Z i k m u
+560,komipermyak-81_husband-2,,komipermyak,81_husband,ɑjkɑ,ɑ.j.k.ɑ,ɑ j k ɑ,,Syrjaenen2013,,False,^ ɑ . j . k . ɑ $,default,o y k o,k o y
+561,komipermyak-81_husband-3,,komipermyak,81_husband,ʒɤnik,ʒ.ɤ.n.i.k,ʒ ɤ n i k,,Syrjaenen2013,,False,^ ʒ . ɤ . n . i . k $,default,Z o n i k,Z i k n o
+562,komizyrian-81_husband-1,,komizyrian,81_husband,verɤs,v.e.r.ɤ.s,v e r ɤ s,,Syrjaenen2013,,False,^ v . e . r . ɤ . s $,default,v e r o s,e o r s v
+563,nganasan-81_husband-1,,nganasan,81_husband,bəbə_ʧərə,b.ə.b.ə._.tʃ.ə.r.ə,b ə b ə + tʃ ə r ə,,Syrjaenen2013,,False,^ b . ə . b . ə . _ . tʃ . ə . r . ə $,default,b 3 b 3  tS 3 r 3, 3 b r tS
+564,nganasan-81_husband-2,,nganasan,81_husband,kuədʲumu,k.u.ə.dʲ.u.m.u,k u ə dʲ u m u,,Syrjaenen2013,,False,^ k . u . ə . dʲ . u . m . u $,default,k u 3 dy~ u m u,3 dy~ k m u
+565,selkup-81_husband-1,,selkup,81_husband,tipi,t.i.p.i,t i p i,,Syrjaenen2013,,False,^ t . i . p . i $,default,t i p i,i p t
+566,udmurt-81_husband-1,,udmurt,81_husband,kɑrt,k.ɑ.r.t,k ɑ r t,,Syrjaenen2013,,False,^ k . ɑ . r . t $,default,k o r t,k o r t
+567,ingrian-81_husband-1,,ingrian,81_husband,meːz,m.eː.z,m eː z,,Syrjaenen2013,,False,^ m . eː . z $,default,m e z,e m z
+568,erzya-81_husband-1,,erzya,81_husband,mirʲdʲe,m.i.rʲ.dʲ.e,m i rʲ dʲ e,,Syrjaenen2013,,False,^ m . i . rʲ . dʲ . e $,default,m i ry~ dy~ e,dy~ e i m ry~
+569,erzya-83_ice-1,,erzya,83_ice,ej,e.j,e j,,Syrjaenen2013,,False,^ e . j $,default,e y,e y
+570,ingrian-83_ice-1,,ingrian,83_ice,jæː,j.æː,j æː,,Syrjaenen2013,,False,^ j . æː $,default,y E,E y
+571,komipermyak-83_ice-1,,komipermyak,83_ice,jɯ,j.ɯ,j ɯ,,Syrjaenen2013,,False,^ j . ɯ $,default,y u,u y
+572,komizyrian-83_ice-1,,komizyrian,83_ice,jɯ,j.ɯ,j ɯ,,Syrjaenen2013,,False,^ j . ɯ $,default,y u,u y
+573,nganasan-83_ice-1,,nganasan,83_ice,sɯr,s.ɯ.r,s ɯ r,,Syrjaenen2013,,False,^ s . ɯ . r $,default,s u r,r s u
+574,selkup-83_ice-1,,selkup,83_ice,uːlqo,uː.l.q.o,uː l q o,,Syrjaenen2013,,False,^ uː . l . q . o $,default,u l q o,l o q u
+575,udmurt-83_ice-1,,udmurt,83_ice,jɤ,j.ɤ,j ɤ,,Syrjaenen2013,,False,^ j . ɤ $,default,y o,o y
+576,erzya-84_if-1,,erzya,84_if,butʲi,b.u.tʲ.i,b u tʲ i,,Syrjaenen2013,,False,^ b . u . tʲ . i $,default,b u ty~ i,b i ty~ u
+577,ingrian-84_if-1,,ingrian,84_if,joz,j.o.z,j o z,,Syrjaenen2013,,False,^ j . o . z $,default,y o z,o y z
+578,komipermyak-84_if-1,,komipermyak,84_if,kɤ,k.ɤ,k ɤ,,Syrjaenen2013,,False,^ k . ɤ $,default,k o,k o
+579,komizyrian-84_if-1,,komizyrian,84_if,kɤ,k.ɤ,k ɤ,,Syrjaenen2013,,False,^ k . ɤ $,default,k o,k o
+580,udmurt-84_if-1,,udmurt,84_if,ke,k.e,k e,,Syrjaenen2013,,False,^ k . e $,default,k e,e k
+581,selkup-84_if-1,,selkup,84_if,qɑtɑ,q.ɑ.t.ɑ,q ɑ t ɑ,,Syrjaenen2013,,False,^ q . ɑ . t . ɑ $,default,q o t o,o q t
+582,erzya-86_kill-1,,erzya,86_kill,mɑʃtoms,m.ɑ.ʃ.t.o.m.s,m ɑ ʃ t o m s,,Syrjaenen2013,,False,^ m . ɑ . ʃ . t . o . m . s $,default,m o S t o m s,S m o s t
+583,erzya-86_kill-2,,erzya,86_kill,ʧɑvoms,tʃ.ɑ.v.o.m.s,tʃ ɑ v o m s,,Syrjaenen2013,,False,^ tʃ . ɑ . v . o . m . s $,default,tS o v o m s,m o s tS v
+584,ingrian-86_kill-1,,ingrian,86_kill,surmɑd̥ɑ,s.u.r.m.ɑ.d̥.ɑ,s u r m ɑ d̥ ɑ,,Syrjaenen2013,,False,^ s . u . r . m . ɑ . d̥ . ɑ $,default,s u r m o d o,d m o r s u
+585,nganasan-86_kill-1,,nganasan,86_kill,kotudʲɑ,k.o.t.u.dʲ.ɑ,k o t u dʲ ɑ,,Syrjaenen2013,,False,^ k . o . t . u . dʲ . ɑ $,default,k o t u dy~ o,dy~ k o t u
+586,selkup-86_kill-1,,selkup,86_kill,quə̠t,q.u.ə̠.t,q u ə̠ t,,Syrjaenen2013,,False,^ q . u . ə̠ . t $,default,q u 3 t,3 q t u
+587,udmurt-86_kill-1,,udmurt,86_kill,viɯnɯ,v.i.ɯ.n.ɯ,v i ɯ n ɯ,,Syrjaenen2013,,False,^ v . i . ɯ . n . ɯ $,default,v i u n u,i n u v
+588,komipermyak-86_kill-1,,komipermyak,86_kill,vijnɯ,v.i.j.n.ɯ,v i j n ɯ,,Syrjaenen2013,,False,^ v . i . j . n . ɯ $,default,v i y n u,i n u v y
+589,komizyrian-86_kill-1,,komizyrian,86_kill,kulɤdnɯ,k.u.l.ɤ.d.n.ɯ,k u l ɤ d n ɯ,,Syrjaenen2013,,False,^ k . u . l . ɤ . d . n . ɯ $,default,k u l o d n u,d k l n o u
+590,komizyrian-86_kill-2,,komizyrian,86_kill,vijnɯ,v.i.j.n.ɯ,v i j n ɯ,,Syrjaenen2013,,False,^ v . i . j . n . ɯ $,default,v i y n u,i n u v y
+591,erzya-87_knee-1,,erzya,87_knee,kumɑʒɑ,k.u.m.ɑ.ʒ.ɑ,k u m ɑ ʒ ɑ,,Syrjaenen2013,,False,^ k . u . m . ɑ . ʒ . ɑ $,default,k u m o Z o,Z k m o u
+592,ingrian-87_knee-1,,ingrian,87_knee,polvi,p.o.l.v.i,p o l v i,,Syrjaenen2013,,False,^ p . o . l . v . i $,default,p o l v i,i l o p v
+593,komipermyak-87_knee-1,,komipermyak,87_knee,piʥɤs,p.i.dʑ.ɤ.s,p i dʑ ɤ s,,Syrjaenen2013,,False,^ p . i . dʑ . ɤ . s $,default,p i dZ o s,dZ i o p s
+594,komizyrian-87_knee-1,,komizyrian,87_knee,piʥɤs,p.i.dʑ.ɤ.s,p i dʑ ɤ s,,Syrjaenen2013,,False,^ p . i . dʑ . ɤ . s $,default,p i dZ o s,dZ i o p s
+595,selkup-87_knee-1,,selkup,87_knee,puːlə,p.uː.l.ə,p uː l ə,,Syrjaenen2013,,False,^ p . uː . l . ə $,default,p u l 3,3 l p u
+596,udmurt-87_knee-1,,udmurt,87_knee,pɯdʲes,p.ɯ.dʲ.e.s,p ɯ dʲ e s,,Syrjaenen2013,,False,^ p . ɯ . dʲ . e . s $,default,p u dy~ e s,dy~ e p s u
+597,nganasan-87_knee-1,,nganasan,87_knee,həɑgɑj,h.ə.ɑ.ɡ.ɑ.j,h ə ɑ ɡ ɑ j,,Syrjaenen2013,,False,^ h . ə . ɑ . ɡ . ɑ . j $,default,h 3 o g o y,3 g h o y
+598,erzya-88_know-1,,erzya,88_know,sodɑms,s.o.d.ɑ.m.s,s o d ɑ m s,,Syrjaenen2013,,False,^ s . o . d . ɑ . m . s $,default,s o d o m s,d m o s
+599,ingrian-88_know-1,,ingrian,88_know,tiːtæː,t.iː.t.æː,t iː t æː,,Syrjaenen2013,,False,^ t . iː . t . æː $,default,t i t E,E i t
+600,komipermyak-88_know-1,,komipermyak,88_know,tɤdnɯ,t.ɤ.d.n.ɯ,t ɤ d n ɯ,,Syrjaenen2013,,False,^ t . ɤ . d . n . ɯ $,default,t o d n u,d n o t u
+601,komizyrian-88_know-1,,komizyrian,88_know,tɤdnɯ,t.ɤ.d.n.ɯ,t ɤ d n ɯ,,Syrjaenen2013,,False,^ t . ɤ . d . n . ɯ $,default,t o d n u,d n o t u
+602,komizyrian-88_know-2,,komizyrian,88_know,kuʒnɯ,k.u.ʒ.n.ɯ,k u ʒ n ɯ,,Syrjaenen2013,,False,^ k . u . ʒ . n . ɯ $,default,k u Z n u,Z k n u
+603,nganasan-88_know-1,,nganasan,88_know,ʧənɯdʲi,tʃ.ə.n.ɯ.dʲ.i,tʃ ə n ɯ dʲ i,,Syrjaenen2013,,False,^ tʃ . ə . n . ɯ . dʲ . i $,default,tS 3 n u dy~ i,3 dy~ i n tS u
+604,selkup-88_know-1,,selkup,88_know,tenəmə,t.e.n.ə.m.ə,t e n ə m ə,,Syrjaenen2013,,False,^ t . e . n . ə . m . ə $,default,t e n 3 m 3,3 e m n t
+605,udmurt-88_know-1,,udmurt,88_know,todɯnɯ,t.o.d.ɯ.n.ɯ,t o d ɯ n ɯ,,Syrjaenen2013,,False,^ t . o . d . ɯ . n . ɯ $,default,t o d u n u,d n o t u
+606,erzya-89_lake-1,,erzya,89_lake,erʲke,e.rʲ.k.e,e rʲ k e,,Syrjaenen2013,,False,^ e . rʲ . k . e $,default,e ry~ k e,e k ry~
+607,ingrian-89_lake-1,,ingrian,89_lake,jærvi,j.æ.r.v.i,j æ r v i,,Syrjaenen2013,,False,^ j . æ . r . v . i $,default,y E r v i,E i r v y
+608,komipermyak-89_lake-1,,komipermyak,89_lake,tɯ,t.ɯ,t ɯ,,Syrjaenen2013,,False,^ t . ɯ $,default,t u,t u
+609,komizyrian-89_lake-1,,komizyrian,89_lake,tɯ,t.ɯ,t ɯ,,Syrjaenen2013,,False,^ t . ɯ $,default,t u,t u
+610,nganasan-89_lake-1,,nganasan,89_lake,turku,t.u.r.k.u,t u r k u,,Syrjaenen2013,,False,^ t . u . r . k . u $,default,t u r k u,k r t u
+611,selkup-89_lake-1,,selkup,89_lake,toː,t.oː,t oː,,Syrjaenen2013,,False,^ t . oː $,default,t o,o t
+612,udmurt-89_lake-1,,udmurt,89_lake,tɯ,t.ɯ,t ɯ,,Syrjaenen2013,,False,^ t . ɯ $,default,t u,t u
+613,erzya-90_laugh-1,,erzya,90_laugh,pejdʲems,p.e.j.dʲ.e.m.s,p e j dʲ e m s,,Syrjaenen2013,,False,^ p . e . j . dʲ . e . m . s $,default,p e y dy~ e m s,dy~ e m p s y
+614,erzya-90_laugh-2,,erzya,90_laugh,rɑkɑms,r.ɑ.k.ɑ.m.s,r ɑ k ɑ m s,,Syrjaenen2013,,False,^ r . ɑ . k . ɑ . m . s $,default,r o k o m s,k m o r s
+615,ingrian-90_laugh-1,,ingrian,90_laugh,nɑgrɑː,n.ɑ.ɡ.r.ɑː,n ɑ ɡ r ɑː,,Syrjaenen2013,,False,^ n . ɑ . ɡ . r . ɑː $,default,n o g r o,g n o r
+616,komipermyak-90_laugh-1,,komipermyak,90_laugh,serɑvnɯ,s.e.r.ɑ.v.n.ɯ,s e r ɑ v n ɯ,,Syrjaenen2013,,False,^ s . e . r . ɑ . v . n . ɯ $,default,s e r o v n u,e n o r s u v
+617,komizyrian-90_laugh-1,,komizyrian,90_laugh,ɕerɑvnɯ,ɕ.e.r.ɑ.v.n.ɯ,ɕ e r ɑ v n ɯ,,Syrjaenen2013,,False,^ ɕ . e . r . ɑ . v . n . ɯ $,default,S e r o v n u,S e n o r u v
+618,nganasan-90_laugh-1,,nganasan,90_laugh,hidʲiɕi,h.i.dʲ.i.ɕ.i,h i dʲ i ɕ i,,Syrjaenen2013,,False,^ h . i . dʲ . i . ɕ . i $,default,h i dy~ i S i,S dy~ h i
+619,selkup-90_laugh-1,,selkup,90_laugh,pisəj,p.i.s.ə.j,p i s ə j,,Syrjaenen2013,,False,^ p . i . s . ə . j $,default,p i s 3 y,3 i p s y
+620,udmurt-90_laugh-1,,udmurt,90_laugh,ɕerekjɑnɯ,ɕ.e.r.e.k.j.ɑ.n.ɯ,ɕ e r e k j ɑ n ɯ,,Syrjaenen2013,,False,^ ɕ . e . r . e . k . j . ɑ . n . ɯ $,default,S e r e k y o n u,S e k n o r u y
+621,erzya-91_leaf-1,,erzya,91_leaf,lopɑ,l.o.p.ɑ,l o p ɑ,,Syrjaenen2013,,False,^ l . o . p . ɑ $,default,l o p o,l o p
+622,ingrian-91_leaf-1,,ingrian,91_leaf,lehti,l.e.h.t.i,l e h t i,,Syrjaenen2013,,False,^ l . e . h . t . i $,default,l e h t i,e h i l t
+623,komipermyak-91_leaf-1,,komipermyak,91_leaf,kor,k.o.r,k o r,,Syrjaenen2013,,False,^ k . o . r $,default,k o r,k o r
+624,komizyrian-91_leaf-1,,komizyrian,91_leaf,ʎis,ʎ.i.s,ʎ i s,,Syrjaenen2013,,False,^ ʎ . i . s $,default,L i s,L i s
+625,komizyrian-91_leaf-2,,komizyrian,91_leaf,kor,k.o.r,k o r,,Syrjaenen2013,,False,^ k . o . r $,default,k o r,k o r
+626,nganasan-91_leaf-1,,nganasan,91_leaf,horɑðiɑj,h.o.r.ɑ.ð.i.ɑ.j,h o r ɑ ð i ɑ j,,Syrjaenen2013,,False,^ h . o . r . ɑ . ð . i . ɑ . j $,default,h o r o 8 i o y,8 h i o r y
+627,selkup-91_leaf-1,,selkup,91_leaf,ʨɑːpə,tɕ.ɑː.p.ə,tɕ ɑː p ə,,Syrjaenen2013,,False,^ tɕ . ɑː . p . ə $,default,tS o p 3,3 o p tS
+628,udmurt-91_leaf-1,,udmurt,91_leaf,kuɑr,k.u.ɑ.r,k u ɑ r,,Syrjaenen2013,,False,^ k . u . ɑ . r $,default,k u o r,k o r u
+629,ingrian-93_leg-1,,ingrian,93_leg,jɑlg̊ɑ,j.ɑ.l.ɡ̥.ɑ,j ɑ l ɡ̥ ɑ,,Syrjaenen2013,,False,^ j . ɑ . l . ɡ̥ . ɑ $,default,y o l g o,g l o y
+630,komipermyak-93_leg-1,,komipermyak,93_leg,kok,k.o.k,k o k,,Syrjaenen2013,,False,^ k . o . k $,default,k o k,k o
+631,komizyrian-93_leg-1,,komizyrian,93_leg,kok,k.o.k,k o k,,Syrjaenen2013,,False,^ k . o . k $,default,k o k,k o
+632,nganasan-93_leg-1,,nganasan,93_leg,ŋoj,ŋ.o.j,ŋ o j,,Syrjaenen2013,,False,^ ŋ . o . j $,default,N o y,N o y
+633,selkup-93_leg-1,,selkup,93_leg,topə,t.o.p.ə,t o p ə,,Syrjaenen2013,,False,^ t . o . p . ə $,default,t o p 3,3 o p t
+634,udmurt-93_leg-1,,udmurt,93_leg,kuk,k.u.k,k u k,,Syrjaenen2013,,False,^ k . u . k $,default,k u k,k u
+635,udmurt-93_leg-2,,udmurt,93_leg,pɯd,p.ɯ.d,p ɯ d,,Syrjaenen2013,,False,^ p . ɯ . d $,default,p u d,d p u
+636,erzya-93_leg-1,,erzya,93_leg,piʎge,p.i.ʎ.ɡ.e,p i ʎ ɡ e,,Syrjaenen2013,,False,^ p . i . ʎ . ɡ . e $,default,p i L g e,L e g i p
+637,erzya-94_liedown-1,,erzya,94_liedown,mɑdʲeʑ_ɑʃtʲems,m.ɑ.dʲ.e.ʑ._.ɑ.ʃ.tʲ.e.m.s,m ɑ dʲ e ʑ + ɑ ʃ tʲ e m s,,Syrjaenen2013,,False,^ m . ɑ . dʲ . e . ʑ . _ . ɑ . ʃ . tʲ . e . m . s $,default,m o dy~ e Z  o S ty~ e m s, S Z dy~ e m o s ty~
+638,komipermyak-94_liedown-1,,komipermyak,94_liedown,kujlɯnɯ,k.u.j.l.ɯ.n.ɯ,k u j l ɯ n ɯ,,Syrjaenen2013,,False,^ k . u . j . l . ɯ . n . ɯ $,default,k u y l u n u,k l n u y
+639,komizyrian-94_liedown-1,,komizyrian,94_liedown,kujlɯnɯ,k.u.j.l.ɯ.n.ɯ,k u j l ɯ n ɯ,,Syrjaenen2013,,False,^ k . u . j . l . ɯ . n . ɯ $,default,k u y l u n u,k l n u y
+640,nganasan-94_liedown-1,,nganasan,94_liedown,toɲdʲiɑjʧisɯ,t.o.ɲ.dʲ.i.ɑ.j.tʃ.i.s.ɯ,t o ɲ dʲ i ɑ j tʃ i s ɯ,,Syrjaenen2013,,False,^ t . o . ɲ . dʲ . i . ɑ . j . tʃ . i . s . ɯ $,default,t o 5 dy~ i o y tS i s u,5 dy~ i o s t tS u y
+641,selkup-94_liedown-1,,selkup,94_liedown,ippi,i.p.p.i,i p p i,,Syrjaenen2013,,False,^ i . p . p . i $,default,i p p i,i p
+642,udmurt-94_liedown-1,,udmurt,94_liedown,kɯʎʎɯnɯ,k.ɯ.ʎ.ʎ.ɯ.n.ɯ,k ɯ ʎ ʎ ɯ n ɯ,,Syrjaenen2013,,False,^ k . ɯ . ʎ . ʎ . ɯ . n . ɯ $,default,k u L L u n u,L k n u
+643,erzya-95_live-1,,erzya,95_live,erʲɑms,e.rʲ.ɑ.m.s,e rʲ ɑ m s,,Syrjaenen2013,,False,^ e . rʲ . ɑ . m . s $,default,e ry~ o m s,e m o ry~ s
+644,ingrian-95_live-1,,ingrian,95_live,elˑæː,e.lː.æː,e lː æː,,Syrjaenen2013,,False,^ e . lː . æː $,default,e l E,E e l
+645,komipermyak-95_live-1,,komipermyak,95_live,ovnɯ,o.v.n.ɯ,o v n ɯ,,Syrjaenen2013,,False,^ o . v . n . ɯ $,default,o v n u,n o u v
+646,komizyrian-95_live-1,,komizyrian,95_live,ovnɯ,o.v.n.ɯ,o v n ɯ,,Syrjaenen2013,,False,^ o . v . n . ɯ $,default,o v n u,n o u v
+647,nganasan-95_live-1,,nganasan,95_live,ɲilɯdʲi,ɲ.i.l.ɯ.dʲ.i,ɲ i l ɯ dʲ i,,Syrjaenen2013,,False,^ ɲ . i . l . ɯ . dʲ . i $,default,5 i l u dy~ i,5 dy~ i l u
+648,selkup-95_live-1,,selkup,95_live,ilə,i.l.ə,i l ə,,Syrjaenen2013,,False,^ i . l . ə $,default,i l 3,3 i l
+649,udmurt-95_live-1,,udmurt,95_live,ulɯnɯ,u.l.ɯ.n.ɯ,u l ɯ n ɯ,,Syrjaenen2013,,False,^ u . l . ɯ . n . ɯ $,default,u l u n u,l n u
+650,erzya-96_liver-1,,erzya,96_liver,mɑkso,m.ɑ.k.s.o,m ɑ k s o,,Syrjaenen2013,,False,^ m . ɑ . k . s . o $,default,m o k s o,k m o s
+651,ingrian-96_liver-1,,ingrian,96_liver,mɑksɑ,m.ɑ.k.s.ɑ,m ɑ k s ɑ,,Syrjaenen2013,,False,^ m . ɑ . k . s . ɑ $,default,m o k s o,k m o s
+652,komizyrian-96_liver-1,,komizyrian,96_liver,mus,m.u.s,m u s,,Syrjaenen2013,,False,^ m . u . s $,default,m u s,m s u
+653,nganasan-96_liver-1,,nganasan,96_liver,mitə,m.i.t.ə,m i t ə,,Syrjaenen2013,,False,^ m . i . t . ə $,default,m i t 3,3 i m t
+654,selkup-96_liver-1,,selkup,96_liver,mɯːtə,m.ɯː.t.ə,m ɯː t ə,,Syrjaenen2013,,False,^ m . ɯː . t . ə $,default,m u t 3,3 m t u
+655,udmurt-96_liver-1,,udmurt,96_liver,mus,m.u.s,m u s,,Syrjaenen2013,,False,^ m . u . s $,default,m u s,m s u
+656,komipermyak-96_liver-1,,komipermyak,96_liver,mus,m.u.s,m u s,,Syrjaenen2013,,False,^ m . u . s $,default,m u s,m s u
+657,erzya-97_long-1,,erzya,97_long,kuvɑkɑ,k.u.v.ɑ.k.ɑ,k u v ɑ k ɑ,,Syrjaenen2013,,False,^ k . u . v . ɑ . k . ɑ $,default,k u v o k o,k o u v
+658,ingrian-97_long-1,,ingrian,97_long,pitki,p.i.t.k.i,p i t k i,,Syrjaenen2013,,False,^ p . i . t . k . i $,default,p i t k i,i k p t
+659,komipermyak-97_long-1,,komipermyak,97_long,kuʑ,k.u.ʑ,k u ʑ,,Syrjaenen2013,,False,^ k . u . ʑ $,default,k u Z,Z k u
+660,nganasan-97_long-1,,nganasan,97_long,kuntgu,k.u.n.t.ɡ.u,k u n t ɡ u,,Syrjaenen2013,,False,^ k . u . n . t . ɡ . u $,default,k u n t g u,g k n t u
+661,selkup-97_long-1,,selkup,97_long,ʨumpu,tɕ.u.m.p.u,tɕ u m p u,,Syrjaenen2013,,False,^ tɕ . u . m . p . u $,default,tS u m p u,m p tS u
+662,udmurt-97_long-1,,udmurt,97_long,kuʑ,k.u.ʑ,k u ʑ,,Syrjaenen2013,,False,^ k . u . ʑ $,default,k u Z,Z k u
+663,komizyrian-97_long-1,,komizyrian,97_long,kuʑ,k.u.ʑ,k u ʑ,,Syrjaenen2013,,False,^ k . u . ʑ $,default,k u Z,Z k u
+664,erzya-98_louse-1,,erzya,98_louse,eʎi,e.ʎ.i,e ʎ i,,Syrjaenen2013,,False,^ e . ʎ . i $,default,e L i,L e i
+665,ingrian-98_louse-1,,ingrian,98_louse,tæi,t.æ.i,t æ i,,Syrjaenen2013,,False,^ t . æ . i $,default,t E i,E i t
+666,komipermyak-98_louse-1,,komipermyak,98_louse,toj,t.o.j,t o j,,Syrjaenen2013,,False,^ t . o . j $,default,t o y,o t y
+667,komizyrian-98_louse-1,,komizyrian,98_louse,toj,t.o.j,t o j,,Syrjaenen2013,,False,^ t . o . j $,default,t o y,o t y
+668,udmurt-98_louse-1,,udmurt,98_louse,tej,t.e.j,t e j,,Syrjaenen2013,,False,^ t . e . j $,default,t e y,e t y
+669,selkup-98_louse-1,,selkup,98_louse,unʧu,u.n.tʃ.u,u n tʃ u,,Syrjaenen2013,,False,^ u . n . tʃ . u $,default,u n tS u,n tS u
+670,erzya-100_many-1,,erzya,100_many,lɑmo,l.ɑ.m.o,l ɑ m o,,Syrjaenen2013,,False,^ l . ɑ . m . o $,default,l o m o,l m o
+671,ingrian-100_many-1,,ingrian,100_many,moni,m.o.n.i,m o n i,,Syrjaenen2013,,False,^ m . o . n . i $,default,m o n i,i m n o
+672,komipermyak-100_many-1,,komipermyak,100_many,unɑ,u.n.ɑ,u n ɑ,,Syrjaenen2013,,False,^ u . n . ɑ $,default,u n o,n o u
+673,komizyrian-100_many-1,,komizyrian,100_many,unɑ,u.n.ɑ,u n ɑ,,Syrjaenen2013,,False,^ u . n . ɑ $,default,u n o,n o u
+674,nganasan-100_many-1,,nganasan,100_many,ŋuŋkəgə,ŋ.u.ŋ.k.ə.ɡ.ə,ŋ u ŋ k ə ɡ ə,,Syrjaenen2013,,False,^ ŋ . u . ŋ . k . ə . ɡ . ə $,default,N u N k 3 g 3,3 N g k u
+675,selkup-100_many-1,,selkup,100_many,koʨʨə,k.o.tɕ.tɕ.ə,k o tɕ tɕ ə,,Syrjaenen2013,,False,^ k . o . tɕ . tɕ . ə $,default,k o tS tS 3,3 k o tS
+676,udmurt-100_many-1,,udmurt,100_many,tros,t.r.o.s,t r o s,,Syrjaenen2013,,False,^ t . r . o . s $,default,t r o s,o r s t
+677,erzya-101_meatflesh-1,,erzya,101_meatflesh,siveʎ,s.i.v.e.ʎ,s i v e ʎ,,Syrjaenen2013,,False,^ s . i . v . e . ʎ $,default,s i v e L,L e i s v
+678,ingrian-101_meatflesh-1,,ingrian,101_meatflesh,lihɑ,l.i.h.ɑ,l i h ɑ,,Syrjaenen2013,,False,^ l . i . h . ɑ $,default,l i h o,h i l o
+679,komipermyak-101_meatflesh-1,,komipermyak,101_meatflesh,jɑi,j.ɑ.i,j ɑ i,,Syrjaenen2013,,False,^ j . ɑ . i $,default,y o i,i o y
+680,komizyrian-101_meatflesh-1,,komizyrian,101_meatflesh,jɑi,j.ɑ.i,j ɑ i,,Syrjaenen2013,,False,^ j . ɑ . i $,default,y o i,i o y
+681,nganasan-101_meatflesh-1,,nganasan,101_meatflesh,ɕɑhɯ,ɕ.ɑ.h.ɯ,ɕ ɑ h ɯ,,Syrjaenen2013,,False,^ ɕ . ɑ . h . ɯ $,default,S o h u,S h o u
+682,selkup-101_meatflesh-1,,selkup,101_meatflesh,uə̠ʨə,u.ə̠.tɕ.ə,u ə̠ tɕ ə,,Syrjaenen2013,,False,^ u . ə̠ . tɕ . ə $,default,u 3 tS 3,3 tS u
+683,udmurt-101_meatflesh-1,,udmurt,101_meatflesh,siʎ,s.i.ʎ,s i ʎ,,Syrjaenen2013,,False,^ s . i . ʎ $,default,s i L,L i s
+684,erzya-102_moon-1,,erzya,102_moon,kov,k.o.v,k o v,,Syrjaenen2013,,False,^ k . o . v $,default,k o v,k o v
+685,ingrian-102_moon-1,,ingrian,102_moon,kuː,k.uː,k uː,,Syrjaenen2013,,False,^ k . uː $,default,k u,k u
+686,komipermyak-102_moon-1,,komipermyak,102_moon,tɤliɕ,t.ɤ.l.i.ɕ,t ɤ l i ɕ,,Syrjaenen2013,,False,^ t . ɤ . l . i . ɕ $,default,t o l i S,S i l o t
+687,komizyrian-102_moon-1,,komizyrian,102_moon,tɤlɯɕ,t.ɤ.l.ɯ.ɕ,t ɤ l ɯ ɕ,,Syrjaenen2013,,False,^ t . ɤ . l . ɯ . ɕ $,default,t o l u S,S l o t u
+688,nganasan-102_moon-1,,nganasan,102_moon,kiʧəðəː,k.i.tʃ.ə.ð.əː,k i tʃ ə ð əː,,Syrjaenen2013,,False,^ k . i . tʃ . ə . ð . əː $,default,k i tS 3 8 3,3 8 i k tS
+689,selkup-102_moon-1,,selkup,102_moon,iræ,i.r.æ,i r æ,,Syrjaenen2013,,False,^ i . r . æ $,default,i r E,E i r
+690,udmurt-102_moon-1,,udmurt,102_moon,toleʑ,t.o.l.e.ʑ,t o l e ʑ,,Syrjaenen2013,,False,^ t . o . l . e . ʑ $,default,t o l e Z,Z e l o t
+691,erzya-103_mother-1,,erzya,103_mother,ɑvɑ,ɑ.v.ɑ,ɑ v ɑ,,Syrjaenen2013,,False,^ ɑ . v . ɑ $,default,o v o,o v
+692,ingrian-103_mother-1,,ingrian,103_mother,emæ,e.m.æ,e m æ,,Syrjaenen2013,,False,^ e . m . æ $,default,e m E,E e m
+693,ingrian-103_mother-2,,ingrian,103_mother,mɑːmɑ,m.ɑː.m.ɑ,m ɑː m ɑ,,Syrjaenen2013,,False,^ m . ɑː . m . ɑ $,default,m o m o,m o
+694,komipermyak-103_mother-1,,komipermyak,103_mother,mɑm,m.ɑ.m,m ɑ m,,Syrjaenen2013,,False,^ m . ɑ . m $,default,m o m,m o
+695,komizyrian-103_mother-1,,komizyrian,103_mother,mɑm,m.ɑ.m,m ɑ m,,Syrjaenen2013,,False,^ m . ɑ . m $,default,m o m,m o
+696,nganasan-103_mother-1,,nganasan,103_mother,ɲemɯ,ɲ.e.m.ɯ,ɲ e m ɯ,,Syrjaenen2013,,False,^ ɲ . e . m . ɯ $,default,5 e m u,5 e m u
+697,selkup-103_mother-1,,selkup,103_mother,ɤmə,ɤ.m.ə,ɤ m ə,,Syrjaenen2013,,False,^ ɤ . m . ə $,default,o m 3,3 m o
+698,udmurt-103_mother-1,,udmurt,103_mother,mumɯ,m.u.m.ɯ,m u m ɯ,,Syrjaenen2013,,False,^ m . u . m . ɯ $,default,m u m u,m u
+699,udmurt-103_mother-2,,udmurt,103_mother,ɑnɑi,ɑ.n.ɑ.i,ɑ n ɑ i,,Syrjaenen2013,,False,^ ɑ . n . ɑ . i $,default,o n o i,i n o
+700,komipermyak-104_mountain-1,,komipermyak,104_mountain,kerɤs,k.e.r.ɤ.s,k e r ɤ s,,Syrjaenen2013,,False,^ k . e . r . ɤ . s $,default,k e r o s,e k o r s
+701,komizyrian-104_mountain-1,,komizyrian,104_mountain,ʨoj,tɕ.o.j,tɕ o j,,Syrjaenen2013,,False,^ tɕ . o . j $,default,tS o y,o tS y
+702,nganasan-104_mountain-1,,nganasan,104_mountain,bəru,b.ə.r.u,b ə r u,,Syrjaenen2013,,False,^ b . ə . r . u $,default,b 3 r u,3 b r u
+703,udmurt-104_mountain-1,,udmurt,104_mountain,gureʑ,ɡ.u.r.e.ʑ,ɡ u r e ʑ,,Syrjaenen2013,,False,^ ɡ . u . r . e . ʑ $,default,g u r e Z,Z e g r u
+704,erzya-104_mountain-1,,erzya,104_mountain,pɑndo,p.ɑ.n.d.o,p ɑ n d o,,Syrjaenen2013,,False,^ p . ɑ . n . d . o $,default,p o n d o,d n o p
+705,selkup-104_mountain-1,,selkup,104_mountain,qɤː,q.ɤː,q ɤː,,Syrjaenen2013,,False,^ q . ɤː $,default,q o,o q
+706,erzya-105_mouth-1,,erzya,105_mouth,kurgo,k.u.r.ɡ.o,k u r ɡ o,,Syrjaenen2013,,False,^ k . u . r . ɡ . o $,default,k u r g o,g k o r u
+707,komipermyak-105_mouth-1,,komipermyak,105_mouth,ɤm,ɤ.m,ɤ m,,Syrjaenen2013,,False,^ ɤ . m $,default,o m,m o
+708,komizyrian-105_mouth-1,,komizyrian,105_mouth,vom,v.o.m,v o m,,Syrjaenen2013,,False,^ v . o . m $,default,v o m,m o v
+709,nganasan-105_mouth-1,,nganasan,105_mouth,ŋɑŋ,ŋ.ɑ.ŋ,ŋ ɑ ŋ,,Syrjaenen2013,,False,^ ŋ . ɑ . ŋ $,default,N o N,N o
+710,selkup-105_mouth-1,,selkup,105_mouth,ɑːŋ,ɑː.ŋ,ɑː ŋ,,Syrjaenen2013,,False,^ ɑː . ŋ $,default,o N,N o
+711,udmurt-105_mouth-1,,udmurt,105_mouth,ɯm,ɯ.m,ɯ m,,Syrjaenen2013,,False,^ ɯ . m $,default,u m,m u
+712,ingrian-105_mouth-1,,ingrian,105_mouth,suː,s.uː,s uː,,Syrjaenen2013,,False,^ s . uː $,default,s u,s u
+713,selkup-106_name-1,,selkup,106_name,nim,n.i.m,n i m,,Syrjaenen2013,,False,^ n . i . m $,default,n i m,i m n
+714,erzya-106_name-1,,erzya,106_name,ʎem,ʎ.e.m,ʎ e m,,Syrjaenen2013,,False,^ ʎ . e . m $,default,L e m,L e m
+715,ingrian-106_name-1,,ingrian,106_name,nimi,n.i.m.i,n i m i,,Syrjaenen2013,,False,^ n . i . m . i $,default,n i m i,i m n
+716,komipermyak-106_name-1,,komipermyak,106_name,ɲim,ɲ.i.m,ɲ i m,,Syrjaenen2013,,False,^ ɲ . i . m $,default,5 i m,5 i m
+717,komizyrian-106_name-1,,komizyrian,106_name,ɲim,ɲ.i.m,ɲ i m,,Syrjaenen2013,,False,^ ɲ . i . m $,default,5 i m,5 i m
+718,nganasan-106_name-1,,nganasan,106_name,ɲim,ɲ.i.m,ɲ i m,,Syrjaenen2013,,False,^ ɲ . i . m $,default,5 i m,5 i m
+719,udmurt-106_name-1,,udmurt,106_name,ɲim,ɲ.i.m,ɲ i m,,Syrjaenen2013,,False,^ ɲ . i . m $,default,5 i m,5 i m
+720,erzya-107_narrow-1,,erzya,107_narrow,tʲejiɲe,tʲ.e.j.i.ɲ.e,tʲ e j i ɲ e,,Syrjaenen2013,,False,^ tʲ . e . j . i . ɲ . e $,default,ty~ e y i 5 e,5 e i ty~ y
+721,komipermyak-107_narrow-1,,komipermyak,107_narrow,ʥeskɯt,dʑ.e.s.k.ɯ.t,dʑ e s k ɯ t,,Syrjaenen2013,,False,^ dʑ . e . s . k . ɯ . t $,default,dZ e s k u t,dZ e k s t u
+722,komizyrian-107_narrow-1,,komizyrian,107_narrow,vekɲi,v.e.k.ɲ.i,v e k ɲ i,,Syrjaenen2013,,False,^ v . e . k . ɲ . i $,default,v e k 5 i,5 e i k v
+723,komizyrian-107_narrow-2,,komizyrian,107_narrow,ottɤm,o.t.t.ɤ.m,o t t ɤ m,,Syrjaenen2013,,False,^ o . t . t . ɤ . m $,default,o t t o m,m o t
+724,nganasan-107_narrow-1,,nganasan,107_narrow,ɕikyə,ɕ.i.k.y.ə,ɕ i k y ə,,Syrjaenen2013,,False,^ ɕ . i . k . y . ə $,default,S i k i 3,3 S i k
+725,selkup-107_narrow-1,,selkup,107_narrow,ʨuə̠sə,tɕ.u.ə̠.s.ə,tɕ u ə̠ s ə,,Syrjaenen2013,,False,^ tɕ . u . ə̠ . s . ə $,default,tS u 3 s 3,3 s tS u
+726,udmurt-107_narrow-1,,udmurt,107_narrow,ɕubeg,ɕ.u.b.e.ɡ,ɕ u b e ɡ,,Syrjaenen2013,,False,^ ɕ . u . b . e . ɡ $,default,S u b e g,S b e g u
+727,ingrian-107_narrow-1,,ingrian,107_narrow,kɑid̥ɑ,k.ɑ.i.d̥.ɑ,k ɑ i d̥ ɑ,,Syrjaenen2013,,False,^ k . ɑ . i . d̥ . ɑ $,default,k o i d o,d i k o
+728,nganasan-107_narrow-2,,nganasan,107_narrow,ɲeu,ɲ.e.u,ɲ e u,,Syrjaenen2013,,False,^ ɲ . e . u $,default,5 e u,5 e u
+729,erzya-108_near-1,,erzya,108_near,mɑlɑso,m.ɑ.l.ɑ.s.o,m ɑ l ɑ s o,,Syrjaenen2013,,False,^ m . ɑ . l . ɑ . s . o $,default,m o l o s o,l m o s
+730,ingrian-108_near-1,,ingrian,108_near,lig̊i,l.i.ɡ̥.i,l i ɡ̥ i,,Syrjaenen2013,,False,^ l . i . ɡ̥ . i $,default,l i g i,g i l
+731,komipermyak-108_near-1,,komipermyak,108_near,mɑtɯn,m.ɑ.t.ɯ.n,m ɑ t ɯ n,,Syrjaenen2013,,False,^ m . ɑ . t . ɯ . n $,default,m o t u n,m n o t u
+732,komizyrian-108_near-1,,komizyrian,108_near,mɑtɯn,m.ɑ.t.ɯ.n,m ɑ t ɯ n,,Syrjaenen2013,,False,^ m . ɑ . t . ɯ . n $,default,m o t u n,m n o t u
+733,nganasan-108_near-1,,nganasan,108_near,kɑdʲɑ,k.ɑ.dʲ.ɑ,k ɑ dʲ ɑ,,Syrjaenen2013,,False,^ k . ɑ . dʲ . ɑ $,default,k o dy~ o,dy~ k o
+734,nganasan-108_near-2,,nganasan,108_near,nogɑʔʎuky,n.o.ɡ.ɑ.ʔ.ʎ.u.k.y,n o ɡ ɑ ʔ ʎ u k y,,Syrjaenen2013,,False,^ n . o . ɡ . ɑ . ʔ . ʎ . u . k . y $,default,n o g o 7 L u k i,7 L g i k n o u
+735,selkup-108_near-1,,selkup,108_near,ʧɑʧæ,tʃ.ɑ.tʃ.æ,tʃ ɑ tʃ æ,,Syrjaenen2013,,False,^ tʃ . ɑ . tʃ . æ $,default,tS o tS E,E o tS
+736,udmurt-108_near-1,,udmurt,108_near,mɑtɯn,m.ɑ.t.ɯ.n,m ɑ t ɯ n,,Syrjaenen2013,,False,^ m . ɑ . t . ɯ . n $,default,m o t u n,m n o t u
+737,selkup-109_neck-1,,selkup,109_neck,soːʎ,s.oː.ʎ,s oː ʎ,,Syrjaenen2013,,False,^ s . oː . ʎ $,default,s o L,L o s
+738,erzya-109_neck-1,,erzya,109_neck,kirʲgɑ,k.i.rʲ.ɡ.ɑ,k i rʲ ɡ ɑ,,Syrjaenen2013,,False,^ k . i . rʲ . ɡ . ɑ $,default,k i ry~ g o,g i k o ry~
+739,ingrian-109_neck-1,,ingrian,109_neck,kɑg̊lɑ,k.ɑ.ɡ̥.l.ɑ,k ɑ ɡ̥ l ɑ,,Syrjaenen2013,,False,^ k . ɑ . ɡ̥ . l . ɑ $,default,k o g l o,g k l o
+740,komipermyak-109_neck-1,,komipermyak,109_neck,goʎɑ,ɡ.o.ʎ.ɑ,ɡ o ʎ ɑ,,Syrjaenen2013,,False,^ ɡ . o . ʎ . ɑ $,default,g o L o,L g o
+741,komizyrian-109_neck-1,,komizyrian,109_neck,ɕilɯ,ɕ.i.l.ɯ,ɕ i l ɯ,,Syrjaenen2013,,False,^ ɕ . i . l . ɯ $,default,S i l u,S i l u
+742,komizyrian-109_neck-2,,komizyrian,109_neck,goʎɑ,ɡ.o.ʎ.ɑ,ɡ o ʎ ɑ,,Syrjaenen2013,,False,^ ɡ . o . ʎ . ɑ $,default,g o L o,L g o
+743,nganasan-109_neck-1,,nganasan,109_neck,bɑkəðə,b.ɑ.k.ə.ð.ə,b ɑ k ə ð ə,,Syrjaenen2013,,False,^ b . ɑ . k . ə . ð . ə $,default,b o k 3 8 3,3 8 b k o
+744,udmurt-109_neck-1,,udmurt,109_neck,ʨɯrtɯ,tɕ.ɯ.r.t.ɯ,tɕ ɯ r t ɯ,,Syrjaenen2013,,False,^ tɕ . ɯ . r . t . ɯ $,default,tS u r t u,r t tS u
+745,erzya-110_new-1,,erzya,110_new,od,o.d,o d,,Syrjaenen2013,,False,^ o . d $,default,o d,d o
+746,ingrian-110_new-1,,ingrian,110_new,uːz,uː.z,uː z,,Syrjaenen2013,,False,^ uː . z $,default,u z,u z
+747,komipermyak-110_new-1,,komipermyak,110_new,viʎ,v.i.ʎ,v i ʎ,,Syrjaenen2013,,False,^ v . i . ʎ $,default,v i L,L i v
+748,komizyrian-110_new-1,,komizyrian,110_new,vɯʎ,v.ɯ.ʎ,v ɯ ʎ,,Syrjaenen2013,,False,^ v . ɯ . ʎ $,default,v u L,L u v
+749,nganasan-110_new-1,,nganasan,110_new,meɲdʲɑdʲe,m.e.ɲ.dʲ.ɑ.dʲ.e,m e ɲ dʲ ɑ dʲ e,,Syrjaenen2013,,False,^ m . e . ɲ . dʲ . ɑ . dʲ . e $,default,m e 5 dy~ o dy~ e,5 dy~ e m o
+750,udmurt-110_new-1,,udmurt,110_new,vɯʎ,v.ɯ.ʎ,v ɯ ʎ,,Syrjaenen2013,,False,^ v . ɯ . ʎ $,default,v u L,L u v
+751,selkup-110_new-1,,selkup,110_new,ɕentə,ɕ.e.n.t.ə,ɕ e n t ə,,Syrjaenen2013,,False,^ ɕ . e . n . t . ə $,default,S e n t 3,3 S e n t
+752,erzya-111_night-1,,erzya,111_night,ve,v.e,v e,,Syrjaenen2013,,False,^ v . e $,default,v e,e v
+753,ingrian-111_night-1,,ingrian,111_night,øː,øː,øː,,Syrjaenen2013,,False,^ øː $,default,e,e
+754,komipermyak-111_night-1,,komipermyak,111_night,oj,o.j,o j,,Syrjaenen2013,,False,^ o . j $,default,o y,o y
+755,komizyrian-111_night-1,,komizyrian,111_night,voj,v.o.j,v o j,,Syrjaenen2013,,False,^ v . o . j $,default,v o y,o v y
+756,nganasan-111_night-1,,nganasan,111_night,hiː,h.iː,h iː,,Syrjaenen2013,,False,^ h . iː $,default,h i,h i
+757,selkup-111_night-1,,selkup,111_night,pi,p.i,p i,,Syrjaenen2013,,False,^ p . i $,default,p i,i p
+758,udmurt-111_night-1,,udmurt,111_night,uj,u.j,u j,,Syrjaenen2013,,False,^ u . j $,default,u y,u y
+759,erzya-112_nose-1,,erzya,112_nose,sudo,s.u.d.o,s u d o,,Syrjaenen2013,,False,^ s . u . d . o $,default,s u d o,d o s u
+760,ingrian-112_nose-1,,ingrian,112_nose,nenæ,n.e.n.æ,n e n æ,,Syrjaenen2013,,False,^ n . e . n . æ $,default,n e n E,E e n
+761,nganasan-112_nose-1,,nganasan,112_nose,ŋyŋkə,ŋ.y.ŋ.k.ə,ŋ y ŋ k ə,,Syrjaenen2013,,False,^ ŋ . y . ŋ . k . ə $,default,N i N k 3,3 N i k
+762,selkup-112_nose-1,,selkup,112_nose,puʨə,p.u.tɕ.ə,p u tɕ ə,,Syrjaenen2013,,False,^ p . u . tɕ . ə $,default,p u tS 3,3 p tS u
+763,udmurt-112_nose-1,,udmurt,112_nose,nɯr,n.ɯ.r,n ɯ r,,Syrjaenen2013,,False,^ n . ɯ . r $,default,n u r,n r u
+764,komipermyak-112_nose-1,,komipermyak,112_nose,nɯr,n.ɯ.r,n ɯ r,,Syrjaenen2013,,False,^ n . ɯ . r $,default,n u r,n r u
+765,komizyrian-112_nose-1,,komizyrian,112_nose,nɯr,n.ɯ.r,n ɯ r,,Syrjaenen2013,,False,^ n . ɯ . r $,default,n u r,n r u
+766,erzya-113_not-1,,erzya,113_not,ɑ,ɑ,ɑ,,Syrjaenen2013,,False,^ ɑ $,default,o,o
+767,ingrian-113_not-1,,ingrian,113_not,ei,e.i,e i,,Syrjaenen2013,,False,^ e . i $,default,e i,e i
+768,komipermyak-113_not-1,,komipermyak,113_not,ɑbu,ɑ.b.u,ɑ b u,,Syrjaenen2013,,False,^ ɑ . b . u $,default,o b u,b o u
+769,komizyrian-113_not-1,,komizyrian,113_not,oz,o.z,o z,,Syrjaenen2013,,False,^ o . z $,default,o z,o z
+770,nganasan-113_not-1,,nganasan,113_not,ɲisɯ,ɲ.i.s.ɯ,ɲ i s ɯ,,Syrjaenen2013,,False,^ ɲ . i . s . ɯ $,default,5 i s u,5 i s u
+771,selkup-113_not-1,,selkup,113_not,ɑɕɑ,ɑ.ɕ.ɑ,ɑ ɕ ɑ,,Syrjaenen2013,,False,^ ɑ . ɕ . ɑ $,default,o S o,S o
+772,udmurt-113_not-1,,udmurt,113_not,uz,u.z,u z,,Syrjaenen2013,,False,^ u . z $,default,u z,u z
+773,komipermyak-113_not-2,,komipermyak,113_not,ɲe,ɲ.e,ɲ e,,Syrjaenen2013,,False,^ ɲ . e $,default,5 e,5 e
+774,erzya-115_one-1,,erzya,115_one,vejke,v.e.j.k.e,v e j k e,,Syrjaenen2013,,False,^ v . e . j . k . e $,default,v e y k e,e k v y
+775,ingrian-115_one-1,,ingrian,115_one,yks,y.k.s,y k s,,Syrjaenen2013,,False,^ y . k . s $,default,i k s,i k s
+776,komipermyak-115_one-1,,komipermyak,115_one,ɤtʲik,ɤ.tʲ.i.k,ɤ tʲ i k,,Syrjaenen2013,,False,^ ɤ . tʲ . i . k $,default,o ty~ i k,i k o ty~
+777,komizyrian-115_one-1,,komizyrian,115_one,ɤtʲi,ɤ.tʲ.i,ɤ tʲ i,,Syrjaenen2013,,False,^ ɤ . tʲ . i $,default,o ty~ i,i o ty~
+778,nganasan-115_one-1,,nganasan,115_one,ŋuʔəiʔ,ŋ.u.ʔ.ə.i.ʔ,ŋ u ʔ ə i ʔ,,Syrjaenen2013,,False,^ ŋ . u . ʔ . ə . i . ʔ $,default,N u 7 3 i 7,3 7 N i u
+779,selkup-115_one-1,,selkup,115_one,okkər,o.k.k.ə.r,o k k ə r,,Syrjaenen2013,,False,^ o . k . k . ə . r $,default,o k k 3 r,3 k o r
+780,udmurt-115_one-1,,udmurt,115_one,odig,o.d.i.ɡ,o d i ɡ,,Syrjaenen2013,,False,^ o . d . i . ɡ $,default,o d i g,d g i o
+781,erzya-116_other-1,,erzya,116_other,ombo,o.m.b.o,o m b o,,Syrjaenen2013,,False,^ o . m . b . o $,default,o m b o,b m o
+782,erzya-116_other-2,,erzya,116_other,ʎijɑ,ʎ.i.j.ɑ,ʎ i j ɑ,,Syrjaenen2013,,False,^ ʎ . i . j . ɑ $,default,L i y o,L i o y
+783,ingrian-116_other-1,,ingrian,116_other,toin,t.o.i.n,t o i n,,Syrjaenen2013,,False,^ t . o . i . n $,default,t o i n,i n o t
+784,komipermyak-116_other-1,,komipermyak,116_other,mɤd,m.ɤ.d,m ɤ d,,Syrjaenen2013,,False,^ m . ɤ . d $,default,m o d,d m o
+785,komizyrian-116_other-1,,komizyrian,116_other,mɤd,m.ɤ.d,m ɤ d,,Syrjaenen2013,,False,^ m . ɤ . d $,default,m o d,d m o
+786,nganasan-116_other-1,,nganasan,116_other,hunsəː,h.u.n.s.əː,h u n s əː,,Syrjaenen2013,,False,^ h . u . n . s . əː $,default,h u n s 3,3 h n s u
+787,nganasan-116_other-2,,nganasan,116_other,ŋɑmiɑj,ŋ.ɑ.m.i.ɑ.j,ŋ ɑ m i ɑ j,,Syrjaenen2013,,False,^ ŋ . ɑ . m . i . ɑ . j $,default,N o m i o y,N i m o y
+788,selkup-116_other-1,,selkup,116_other,ɑːmə,ɑː.m.ə,ɑː m ə,,Syrjaenen2013,,False,^ ɑː . m . ə $,default,o m 3,3 m o
+789,udmurt-116_other-1,,udmurt,116_other,muket,m.u.k.e.t,m u k e t,,Syrjaenen2013,,False,^ m . u . k . e . t $,default,m u k e t,e k m t u
+790,erzya-117_person-1,,erzya,117_person,lomɑɲ,l.o.m.ɑ.ɲ,l o m ɑ ɲ,,Syrjaenen2013,,False,^ l . o . m . ɑ . ɲ $,default,l o m o 5,5 l m o
+791,ingrian-117_person-1,,ingrian,117_person,ihmiːn,i.h.m.iː.n,i h m iː n,,Syrjaenen2013,,False,^ i . h . m . iː . n $,default,i h m i n,h i m n
+792,ingrian-117_person-2,,ingrian,117_person,henki,h.e.n.k.i,h e n k i,,Syrjaenen2013,,False,^ h . e . n . k . i $,default,h e n k i,e h i k n
+793,ingrian-117_person-3,,ingrian,117_person,elˑæːjæ,e.lː.æː.j.æ,e lː æː j æ,,Syrjaenen2013,,False,^ e . lː . æː . j . æ $,default,e l E y E,E e l y
+794,komipermyak-117_person-1,,komipermyak,117_person,mort,m.o.r.t,m o r t,,Syrjaenen2013,,False,^ m . o . r . t $,default,m o r t,m o r t
+795,komizyrian-117_person-1,,komizyrian,117_person,mort,m.o.r.t,m o r t,,Syrjaenen2013,,False,^ m . o . r . t $,default,m o r t,m o r t
+796,nganasan-117_person-1,,nganasan,117_person,ŋɑnɑʔsɑ,ŋ.ɑ.n.ɑ.ʔ.s.ɑ,ŋ ɑ n ɑ ʔ s ɑ,,Syrjaenen2013,,False,^ ŋ . ɑ . n . ɑ . ʔ . s . ɑ $,default,N o n o 7 s o,7 N n o s
+797,selkup-117_person-1,,selkup,117_person,qum,q.u.m,q u m,,Syrjaenen2013,,False,^ q . u . m $,default,q u m,m q u
+798,udmurt-117_person-1,,udmurt,117_person,ɑdʲɑmi,ɑ.dʲ.ɑ.m.i,ɑ dʲ ɑ m i,,Syrjaenen2013,,False,^ ɑ . dʲ . ɑ . m . i $,default,o dy~ o m i,dy~ i m o
+799,udmurt-117_person-2,,udmurt,117_person,murt,m.u.r.t,m u r t,,Syrjaenen2013,,False,^ m . u . r . t $,default,m u r t,m r t u
+800,nganasan-118_play-1,,nganasan,118_play,sɑnirɕɑ,s.ɑ.n.i.r.ɕ.ɑ,s ɑ n i r ɕ ɑ,,Syrjaenen2013,,False,^ s . ɑ . n . i . r . ɕ . ɑ $,default,s o n i r S o,S i n o r s
+801,erzya-118_play-1,,erzya,118_play,nɑlkɕems,n.ɑ.l.k.ɕ.e.m.s,n ɑ l k ɕ e m s,,Syrjaenen2013,,False,^ n . ɑ . l . k . ɕ . e . m . s $,default,n o l k S e m s,S e k l m n o s
+802,ingrian-118_play-1,,ingrian,118_play,pelɑd̥ɑ,p.e.l.ɑ.d̥.ɑ,p e l ɑ d̥ ɑ,,Syrjaenen2013,,False,^ p . e . l . ɑ . d̥ . ɑ $,default,p e l o d o,d e l o p
+803,ingrian-118_play-2,,ingrian,118_play,tiukkɑː,t.i.u.k.k.ɑː,t i u k k ɑː,,Syrjaenen2013,,False,^ t . i . u . k . k . ɑː $,default,t i u k k o,i k o t u
+804,komipermyak-118_play-1,,komipermyak,118_play,orsnɯ,o.r.s.n.ɯ,o r s n ɯ,,Syrjaenen2013,,False,^ o . r . s . n . ɯ $,default,o r s n u,n o r s u
+805,komizyrian-118_play-1,,komizyrian,118_play,vorsnɯ,v.o.r.s.n.ɯ,v o r s n ɯ,,Syrjaenen2013,,False,^ v . o . r . s . n . ɯ $,default,v o r s n u,n o r s u v
+806,selkup-118_play-1,,selkup,118_play,sɑːntər,s.ɑː.n.t.ə.r,s ɑː n t ə r,,Syrjaenen2013,,False,^ s . ɑː . n . t . ə . r $,default,s o n t 3 r,3 n o r s t
+807,udmurt-118_play-1,,udmurt,118_play,ʃudɯnɯ,ʃ.u.d.ɯ.n.ɯ,ʃ u d ɯ n ɯ,,Syrjaenen2013,,False,^ ʃ . u . d . ɯ . n . ɯ $,default,S u d u n u,S d n u
+808,ingrian-119_pull-1,,ingrian,119_pull,temmɑd̥ɑ,t.e.m.m.ɑ.d̥.ɑ,t e m m ɑ d̥ ɑ,,Syrjaenen2013,,False,^ t . e . m . m . ɑ . d̥ . ɑ $,default,t e m m o d o,d e m o t
+809,erzya-119_pull-1,,erzya,119_pull,uskoms,u.s.k.o.m.s,u s k o m s,,Syrjaenen2013,,False,^ u . s . k . o . m . s $,default,u s k o m s,k m o s u
+810,ingrian-119_pull-2,,ingrian,119_pull,vetˑæː,v.e.tː.æː,v e tː æː,,Syrjaenen2013,,False,^ v . e . tː . æː $,default,v e t E,E e t v
+811,ingrian-119_pull-3,,ingrian,119_pull,tɑssiɑ,t.ɑ.s.s.i.ɑ,t ɑ s s i ɑ,,Syrjaenen2013,,False,^ t . ɑ . s . s . i . ɑ $,default,t o s s i o,i o s t
+812,komipermyak-119_pull-1,,komipermyak,119_pull,kɯskɯnɯ,k.ɯ.s.k.ɯ.n.ɯ,k ɯ s k ɯ n ɯ,,Syrjaenen2013,,False,^ k . ɯ . s . k . ɯ . n . ɯ $,default,k u s k u n u,k n s u
+813,nganasan-119_pull-1,,nganasan,119_pull,ɲɑgəbtɯsɯ,ɲ.ɑ.ɡ.ə.b.t.ɯ.s.ɯ,ɲ ɑ ɡ ə b t ɯ s ɯ,,Syrjaenen2013,,False,^ ɲ . ɑ . ɡ . ə . b . t . ɯ . s . ɯ $,default,5 o g 3 b t u s u,3 5 b g o s t u
+814,selkup-119_pull-1,,selkup,119_pull,yː,yː,yː,,Syrjaenen2013,,False,^ yː $,default,i,i
+815,udmurt-119_pull-1,,udmurt,119_pull,kɯskɯnɯ,k.ɯ.s.k.ɯ.n.ɯ,k ɯ s k ɯ n ɯ,,Syrjaenen2013,,False,^ k . ɯ . s . k . ɯ . n . ɯ $,default,k u s k u n u,k n s u
+816,komizyrian-119_pull-1,,komizyrian,119_pull,kɯskɯnɯ,k.ɯ.s.k.ɯ.n.ɯ,k ɯ s k ɯ n ɯ,,Syrjaenen2013,,False,^ k . ɯ . s . k . ɯ . n . ɯ $,default,k u s k u n u,k n s u
+817,komipermyak-120_push-1,,komipermyak,120_push,tojlɑvnɯ,t.o.j.l.ɑ.v.n.ɯ,t o j l ɑ v n ɯ,,Syrjaenen2013,,False,^ t . o . j . l . ɑ . v . n . ɯ $,default,t o y l o v n u,l n o t u v y
+818,komizyrian-120_push-1,,komizyrian,120_push,tojnɯ,t.o.j.n.ɯ,t o j n ɯ,,Syrjaenen2013,,False,^ t . o . j . n . ɯ $,default,t o y n u,n o t u y
+819,erzya-120_push-1,,erzya,120_push,tulkɑdʲems,t.u.l.k.ɑ.dʲ.e.m.s,t u l k ɑ dʲ e m s,,Syrjaenen2013,,False,^ t . u . l . k . ɑ . dʲ . e . m . s $,default,t u l k o dy~ e m s,dy~ e k l m o s t u
+820,ingrian-120_push-1,,ingrian,120_push,lyg̊æd̥æ,l.y.ɡ̥.æ.d̥.æ,l y ɡ̥ æ d̥ æ,,Syrjaenen2013,,False,^ l . y . ɡ̥ . æ . d̥ . æ $,default,l i g E d E,E d g i l
+821,ingrian-120_push-2,,ingrian,120_push,toug̊ɑd̥ɑ,t.o.u.ɡ̥.ɑ.d̥.ɑ,t o u ɡ̥ ɑ d̥ ɑ,,Syrjaenen2013,,False,^ t . o . u . ɡ̥ . ɑ . d̥ . ɑ $,default,t o u g o d o,d g o t u
+822,nganasan-120_push-1,,nganasan,120_push,nomədʲɑ,n.o.m.ə.dʲ.ɑ,n o m ə dʲ ɑ,,Syrjaenen2013,,False,^ n . o . m . ə . dʲ . ɑ $,default,n o m 3 dy~ o,3 dy~ m n o
+823,selkup-120_push-1,,selkup,120_push,noqqo,n.o.q.q.o,n o q q o,,Syrjaenen2013,,False,^ n . o . q . q . o $,default,n o q q o,n o q
+824,udmurt-120_push-1,,udmurt,120_push,dongɯnɯ,d.o.n.ɡ.ɯ.n.ɯ,d o n ɡ ɯ n ɯ,,Syrjaenen2013,,False,^ d . o . n . ɡ . ɯ . n . ɯ $,default,d o n g u n u,d g n o u
+825,erzya-121_rain-1,,erzya,121_rain,piʑems,p.i.ʑ.e.m.s,p i ʑ e m s,,Syrjaenen2013,,False,^ p . i . ʑ . e . m . s $,default,p i Z e m s,Z e i m p s
+826,ingrian-121_rain-1,,ingrian,121_rain,sɑe,s.ɑ.e,s ɑ e,,Syrjaenen2013,,False,^ s . ɑ . e $,default,s o e,e o s
+827,ingrian-121_rain-2,,ingrian,121_rain,vihmɑ,v.i.h.m.ɑ,v i h m ɑ,,Syrjaenen2013,,False,^ v . i . h . m . ɑ $,default,v i h m o,h i m o v
+828,komipermyak-121_rain-1,,komipermyak,121_rain,zer,z.e.r,z e r,,Syrjaenen2013,,False,^ z . e . r $,default,z e r,e r z
+829,komizyrian-121_rain-1,,komizyrian,121_rain,zer,z.e.r,z e r,,Syrjaenen2013,,False,^ z . e . r $,default,z e r,e r z
+830,nganasan-121_rain-1,,nganasan,121_rain,soruɑ,s.o.r.u.ɑ,s o r u ɑ,,Syrjaenen2013,,False,^ s . o . r . u . ɑ $,default,s o r u o,o r s u
+831,selkup-121_rain-1,,selkup,121_rain,sorənʧæ,s.o.r.ə.n.tʃ.æ,s o r ə n tʃ æ,,Syrjaenen2013,,False,^ s . o . r . ə . n . tʃ . æ $,default,s o r 3 n tS E,3 E n o r s tS
+832,udmurt-121_rain-1,,udmurt,121_rain,zor,z.o.r,z o r,,Syrjaenen2013,,False,^ z . o . r $,default,z o r,o r z
+833,erzya-122_red-1,,erzya,122_red,jɑkstʲerʲe,j.ɑ.k.s.tʲ.e.rʲ.e,j ɑ k s tʲ e rʲ e,,Syrjaenen2013,,False,^ j . ɑ . k . s . tʲ . e . rʲ . e $,default,y o k s ty~ e ry~ e,e k o ry~ s ty~ y
+834,ingrian-122_red-1,,ingrian,122_red,punˑɑin,p.u.nː.ɑ.i.n,p u nː ɑ i n,,Syrjaenen2013,,False,^ p . u . nː . ɑ . i . n $,default,p u n o i n,i n o p u
+835,komizyrian-122_red-1,,komizyrian,122_red,gɤrd,ɡ.ɤ.r.d,ɡ ɤ r d,,Syrjaenen2013,,False,^ ɡ . ɤ . r . d $,default,g o r d,d g o r
+836,nganasan-122_red-1,,nganasan,122_red,dʲɑbɑkuo,dʲ.ɑ.b.ɑ.k.u.o,dʲ ɑ b ɑ k u o,,Syrjaenen2013,,False,^ dʲ . ɑ . b . ɑ . k . u . o $,default,dy~ o b o k u o,b dy~ k o u
+837,selkup-122_red-1,,selkup,122_red,ɲɑːrqə,ɲ.ɑː.r.q.ə,ɲ ɑː r q ə,,Syrjaenen2013,,False,^ ɲ . ɑː . r . q . ə $,default,5 o r q 3,3 5 o q r
+838,udmurt-122_red-1,,udmurt,122_red,gord,ɡ.o.r.d,ɡ o r d,,Syrjaenen2013,,False,^ ɡ . o . r . d $,default,g o r d,d g o r
+839,komipermyak-122_red-1,,komipermyak,122_red,gɤrd,ɡ.ɤ.r.d,ɡ ɤ r d,,Syrjaenen2013,,False,^ ɡ . ɤ . r . d $,default,g o r d,d g o r
+840,erzya-125_river-1,,erzya,125_river,ʎej,ʎ.e.j,ʎ e j,,Syrjaenen2013,,False,^ ʎ . e . j $,default,L e y,L e y
+841,ingrian-125_river-1,,ingrian,125_river,jog̊i,j.o.ɡ̥.i,j o ɡ̥ i,,Syrjaenen2013,,False,^ j . o . ɡ̥ . i $,default,y o g i,g i o y
+842,komipermyak-125_river-1,,komipermyak,125_river,ju,j.u,j u,,Syrjaenen2013,,False,^ j . u $,default,y u,u y
+843,komizyrian-125_river-1,,komizyrian,125_river,ju,j.u,j u,,Syrjaenen2013,,False,^ j . u $,default,y u,u y
+844,nganasan-125_river-1,,nganasan,125_river,ɲemɯʔɯɑ,ɲ.e.m.ɯ.ʔ.ɯ.ɑ,ɲ e m ɯ ʔ ɯ ɑ,,Syrjaenen2013,,False,^ ɲ . e . m . ɯ . ʔ . ɯ . ɑ $,default,5 e m u 7 u o,5 7 e m o u
+845,nganasan-125_river-2,,nganasan,125_river,bigɑj,b.i.ɡ.ɑ.j,b i ɡ ɑ j,,Syrjaenen2013,,False,^ b . i . ɡ . ɑ . j $,default,b i g o y,b g i o y
+846,selkup-125_river-1,,selkup,125_river,kɯ,k.ɯ,k ɯ,,Syrjaenen2013,,False,^ k . ɯ $,default,k u,k u
+847,selkup-125_river-2,,selkup,125_river,qoləttu,q.o.l.ə.t.t.u,q o l ə t t u,,Syrjaenen2013,,False,^ q . o . l . ə . t . t . u $,default,q o l 3 t t u,3 l o q t u
+848,udmurt-125_river-1,,udmurt,125_river,ʃur,ʃ.u.r,ʃ u r,,Syrjaenen2013,,False,^ ʃ . u . r $,default,S u r,S r u
+849,erzya-126_road-1,,erzya,126_road,ki,k.i,k i,,Syrjaenen2013,,False,^ k . i $,default,k i,i k
+850,ingrian-126_road-1,,ingrian,126_road,teː,t.eː,t eː,,Syrjaenen2013,,False,^ t . eː $,default,t e,e t
+851,komipermyak-126_road-1,,komipermyak,126_road,tuj,t.u.j,t u j,,Syrjaenen2013,,False,^ t . u . j $,default,t u y,t u y
+852,komizyrian-126_road-1,,komizyrian,126_road,tuj,t.u.j,t u j,,Syrjaenen2013,,False,^ t . u . j $,default,t u y,t u y
+853,nganasan-126_road-1,,nganasan,126_road,ŋutɑ,ŋ.u.t.ɑ,ŋ u t ɑ,,Syrjaenen2013,,False,^ ŋ . u . t . ɑ $,default,N u t o,N o t u
+854,nganasan-126_road-2,,nganasan,126_road,sərəː,s.ə.r.əː,s ə r əː,,Syrjaenen2013,,False,^ s . ə . r . əː $,default,s 3 r 3,3 r s
+855,selkup-126_road-1,,selkup,126_road,uə̠ttə,u.ə̠.t.t.ə,u ə̠ t t ə,,Syrjaenen2013,,False,^ u . ə̠ . t . t . ə $,default,u 3 t t 3,3 t u
+856,udmurt-126_road-1,,udmurt,126_road,ɕures,ɕ.u.r.e.s,ɕ u r e s,,Syrjaenen2013,,False,^ ɕ . u . r . e . s $,default,S u r e s,S e r s u
+857,erzya-127_root-1,,erzya,127_root,jur,j.u.r,j u r,,Syrjaenen2013,,False,^ j . u . r $,default,y u r,r u y
+858,ingrian-127_root-1,,ingrian,127_root,juːri,j.uː.r.i,j uː r i,,Syrjaenen2013,,False,^ j . uː . r . i $,default,y u r i,i r u y
+859,komipermyak-127_root-1,,komipermyak,127_root,vuʒ,v.u.ʒ,v u ʒ,,Syrjaenen2013,,False,^ v . u . ʒ $,default,v u Z,Z u v
+860,komizyrian-127_root-1,,komizyrian,127_root,vuʒ,v.u.ʒ,v u ʒ,,Syrjaenen2013,,False,^ v . u . ʒ $,default,v u Z,Z u v
+861,nganasan-127_root-1,,nganasan,127_root,bəntu,b.ə.n.t.u,b ə n t u,,Syrjaenen2013,,False,^ b . ə . n . t . u $,default,b 3 n t u,3 b n t u
+862,selkup-127_root-1,,selkup,127_root,konʧə,k.o.n.tʃ.ə,k o n tʃ ə,,Syrjaenen2013,,False,^ k . o . n . tʃ . ə $,default,k o n tS 3,3 k n o tS
+863,udmurt-127_root-1,,udmurt,127_root,vɯʒɯ,v.ɯ.ʒ.ɯ,v ɯ ʒ ɯ,,Syrjaenen2013,,False,^ v . ɯ . ʒ . ɯ $,default,v u Z u,Z u v
+864,erzya-127_root-2,,erzya,127_root,undoks,u.n.d.o.k.s,u n d o k s,,Syrjaenen2013,,False,^ u . n . d . o . k . s $,default,u n d o k s,d k n o s u
+865,erzya-127_root-3,,erzya,127_root,korʲon,k.o.rʲ.o.n,k o rʲ o n,,Syrjaenen2013,,False,^ k . o . rʲ . o . n $,default,k o ry~ o n,k n o ry~
+866,ingrian-128_rope-1,,ingrian,128_rope,køyz,k.ø.y.z,k ø y z,,Syrjaenen2013,,False,^ k . ø . y . z $,default,k e i z,e i k z
+867,komipermyak-128_rope-1,,komipermyak,128_rope,gez,ɡ.e.z,ɡ e z,,Syrjaenen2013,,False,^ ɡ . e . z $,default,g e z,e g z
+868,komizyrian-128_rope-1,,komizyrian,128_rope,gez,ɡ.e.z,ɡ e z,,Syrjaenen2013,,False,^ ɡ . e . z $,default,g e z,e g z
+869,nganasan-128_rope-1,,nganasan,128_rope,bɯnɯ,b.ɯ.n.ɯ,b ɯ n ɯ,,Syrjaenen2013,,False,^ b . ɯ . n . ɯ $,default,b u n u,b n u
+870,selkup-128_rope-1,,selkup,128_rope,ʧeːmʧə,tʃ.eː.m.tʃ.ə,tʃ eː m tʃ ə,,Syrjaenen2013,,False,^ tʃ . eː . m . tʃ . ə $,default,tS e m tS 3,3 e m tS
+871,erzya-128_rope-1,,erzya,128_rope,piks,p.i.k.s,p i k s,,Syrjaenen2013,,False,^ p . i . k . s $,default,p i k s,i k p s
+872,udmurt-128_rope-1,,udmurt,128_rope,gozɯ,ɡ.o.z.ɯ,ɡ o z ɯ,,Syrjaenen2013,,False,^ ɡ . o . z . ɯ $,default,g o z u,g o u z
+873,erzya-130_round-1,,erzya,130_round,krugloj,k.r.u.ɡ.l.o.j,k r u ɡ l o j,,Syrjaenen2013,,False,^ k . r . u . ɡ . l . o . j $,default,k r u g l o y,g k l o r u y
+874,erzya-130_round-2,,erzya,130_round,keverʲ,k.e.v.e.rʲ,k e v e rʲ,,Syrjaenen2013,,False,^ k . e . v . e . rʲ $,default,k e v e ry~,e k ry~ v
+875,ingrian-130_round-1,,ingrian,130_round,ymb̥ærg̊æin,y.m.b̥.æ.r.ɡ̥.æ.i.n,y m b̥ æ r ɡ̥ æ i n,,Syrjaenen2013,,False,^ y . m . b̥ . æ . r . ɡ̥ . æ . i . n $,default,i m b E r g E i n,E b g i m n r
+876,komipermyak-130_round-1,,komipermyak,130_round,gɤgrɤsɑ,ɡ.ɤ.ɡ.r.ɤ.s.ɑ,ɡ ɤ ɡ r ɤ s ɑ,,Syrjaenen2013,,False,^ ɡ . ɤ . ɡ . r . ɤ . s . ɑ $,default,g o g r o s o,g o r s
+877,komizyrian-130_round-1,,komizyrian,130_round,gɤgrɤs,ɡ.ɤ.ɡ.r.ɤ.s,ɡ ɤ ɡ r ɤ s,,Syrjaenen2013,,False,^ ɡ . ɤ . ɡ . r . ɤ . s $,default,g o g r o s,g o r s
+878,nganasan-130_round-1,,nganasan,130_round,lɑlujkuə,l.ɑ.l.u.j.k.u.ə,l ɑ l u j k u ə,,Syrjaenen2013,,False,^ l . ɑ . l . u . j . k . u . ə $,default,l o l u y k u 3,3 k l o u y
+879,nganasan-130_round-2,,nganasan,130_round,mɑndɑjku,m.ɑ.n.d.ɑ.j.k.u,m ɑ n d ɑ j k u,,Syrjaenen2013,,False,^ m . ɑ . n . d . ɑ . j . k . u $,default,m o n d o y k u,d k m n o u y
+880,selkup-130_round-1,,selkup,130_round,pyrəʎ,p.y.r.ə.ʎ,p y r ə ʎ,,Syrjaenen2013,,False,^ p . y . r . ə . ʎ $,default,p i r 3 L,3 L i p r
+881,selkup-130_round-2,,selkup,130_round,koʎɑʎ,k.o.ʎ.ɑ.ʎ,k o ʎ ɑ ʎ,,Syrjaenen2013,,False,^ k . o . ʎ . ɑ . ʎ $,default,k o L o L,L k o
+882,udmurt-130_round-1,,udmurt,130_round,kotɯres,k.o.t.ɯ.r.e.s,k o t ɯ r e s,,Syrjaenen2013,,False,^ k . o . t . ɯ . r . e . s $,default,k o t u r e s,e k o r s t u
+883,udmurt-130_round-2,,udmurt,130_round,pitɯres,p.i.t.ɯ.r.e.s,p i t ɯ r e s,,Syrjaenen2013,,False,^ p . i . t . ɯ . r . e . s $,default,p i t u r e s,e i p r s t u
+884,ingrian-130_round-2,,ingrian,130_round,pøːriæ,p.øː.r.i.æ,p øː r i æ,,Syrjaenen2013,,False,^ p . øː . r . i . æ $,default,p e r i E,E e i p r
+885,erzya-131_rub-1,,erzya,131_rub,ʧovɑms,tʃ.o.v.ɑ.m.s,tʃ o v ɑ m s,,Syrjaenen2013,,False,^ tʃ . o . v . ɑ . m . s $,default,tS o v o m s,m o s tS v
+886,erzya-131_rub-2,,erzya,131_rub,jozɑms,j.o.z.ɑ.m.s,j o z ɑ m s,,Syrjaenen2013,,False,^ j . o . z . ɑ . m . s $,default,y o z o m s,m o s y z
+887,ingrian-131_rub-1,,ingrian,131_rub,ihmɑd̥ɑ,i.h.m.ɑ.d̥.ɑ,i h m ɑ d̥ ɑ,,Syrjaenen2013,,False,^ i . h . m . ɑ . d̥ . ɑ $,default,i h m o d o,d h i m o
+888,komipermyak-131_rub-1,,komipermyak,131_rub,zɯrtnɯ,z.ɯ.r.t.n.ɯ,z ɯ r t n ɯ,,Syrjaenen2013,,False,^ z . ɯ . r . t . n . ɯ $,default,z u r t n u,n r t u z
+889,komipermyak-131_rub-2,,komipermyak,131_rub,tʲoritnɯ,tʲ.o.r.i.t.n.ɯ,tʲ o r i t n ɯ,,Syrjaenen2013,,False,^ tʲ . o . r . i . t . n . ɯ $,default,ty~ o r i t n u,i n o r t ty~ u
+890,komizyrian-131_rub-1,,komizyrian,131_rub,zɯrɑvnɯ,z.ɯ.r.ɑ.v.n.ɯ,z ɯ r ɑ v n ɯ,,Syrjaenen2013,,False,^ z . ɯ . r . ɑ . v . n . ɯ $,default,z u r o v n u,n o r u v z
+891,komizyrian-131_rub-2,,komizyrian,131_rub,ɲirɑvnɯ,ɲ.i.r.ɑ.v.n.ɯ,ɲ i r ɑ v n ɯ,,Syrjaenen2013,,False,^ ɲ . i . r . ɑ . v . n . ɯ $,default,5 i r o v n u,5 i n o r u v
+892,nganasan-131_rub-1,,nganasan,131_rub,ɲɑkidʲɑ,ɲ.ɑ.k.i.dʲ.ɑ,ɲ ɑ k i dʲ ɑ,,Syrjaenen2013,,False,^ ɲ . ɑ . k . i . dʲ . ɑ $,default,5 o k i dy~ o,5 dy~ i k o
+893,selkup-131_rub-1,,selkup,131_rub,pyːqəlʧəkku,p.yː.q.ə.l.tʃ.ə.k.k.u,p yː q ə l tʃ ə k k u,,Syrjaenen2013,,False,^ p . yː . q . ə . l . tʃ . ə . k . k . u $,default,p i q 3 l tS 3 k k u,3 i k l p q tS u
+894,udmurt-131_rub-1,,udmurt,131_rub,zɯrɑnɯ,z.ɯ.r.ɑ.n.ɯ,z ɯ r ɑ n ɯ,,Syrjaenen2013,,False,^ z . ɯ . r . ɑ . n . ɯ $,default,z u r o n u,n o r u z
+895,udmurt-131_rub-2,,udmurt,131_rub,posɯnɯ,p.o.s.ɯ.n.ɯ,p o s ɯ n ɯ,,Syrjaenen2013,,False,^ p . o . s . ɯ . n . ɯ $,default,p o s u n u,n o p s u
+896,ingrian-131_rub-2,,ingrian,131_rub,heːrojɑ,h.eː.r.o.j.ɑ,h eː r o j ɑ,,Syrjaenen2013,,False,^ h . eː . r . o . j . ɑ $,default,h e r o y o,e h o r y
+897,komipermyak-131_rub-3,,komipermyak,131_rub,ɲirtnɯ,ɲ.i.r.t.n.ɯ,ɲ i r t n ɯ,,Syrjaenen2013,,False,^ ɲ . i . r . t . n . ɯ $,default,5 i r t n u,5 i n r t u
+898,erzya-132_salt-1,,erzya,132_salt,sɑl,s.ɑ.l,s ɑ l,,Syrjaenen2013,,False,^ s . ɑ . l $,default,s o l,l o s
+899,ingrian-132_salt-1,,ingrian,132_salt,soːlɑ,s.oː.l.ɑ,s oː l ɑ,,Syrjaenen2013,,False,^ s . oː . l . ɑ $,default,s o l o,l o s
+900,komipermyak-132_salt-1,,komipermyak,132_salt,sov,s.o.v,s o v,,Syrjaenen2013,,False,^ s . o . v $,default,s o v,o s v
+901,komizyrian-132_salt-1,,komizyrian,132_salt,sov,s.o.v,s o v,,Syrjaenen2013,,False,^ s . o . v $,default,s o v,o s v
+902,nganasan-132_salt-1,,nganasan,132_salt,sɯr,s.ɯ.r,s ɯ r,,Syrjaenen2013,,False,^ s . ɯ . r $,default,s u r,r s u
+903,selkup-132_salt-1,,selkup,132_salt,ɕɑːq,ɕ.ɑː.q,ɕ ɑː q,,Syrjaenen2013,,False,^ ɕ . ɑː . q $,default,S o q,S o q
+904,udmurt-132_salt-1,,udmurt,132_salt,sɯlɑl,s.ɯ.l.ɑ.l,s ɯ l ɑ l,,Syrjaenen2013,,False,^ s . ɯ . l . ɑ . l $,default,s u l o l,l o s u
+905,komizyrian-133_sand-1,,komizyrian,133_sand,lɯɑ,l.ɯ.ɑ,l ɯ ɑ,,Syrjaenen2013,,False,^ l . ɯ . ɑ $,default,l u o,l o u
+906,erzya-133_sand-1,,erzya,133_sand,pesok,p.e.s.o.k,p e s o k,,Syrjaenen2013,,False,^ p . e . s . o . k $,default,p e s o k,e k o p s
+907,ingrian-133_sand-1,,ingrian,133_sand,liːvɑ,l.iː.v.ɑ,l iː v ɑ,,Syrjaenen2013,,False,^ l . iː . v . ɑ $,default,l i v o,i l o v
+908,komipermyak-133_sand-1,,komipermyak,133_sand,pesɤk,p.e.s.ɤ.k,p e s ɤ k,,Syrjaenen2013,,False,^ p . e . s . ɤ . k $,default,p e s o k,e k o p s
+909,nganasan-133_sand-1,,nganasan,133_sand,dʲuː,dʲ.uː,dʲ uː,,Syrjaenen2013,,False,^ dʲ . uː $,default,dy~ u,dy~ u
+910,selkup-133_sand-1,,selkup,133_sand,koːrɑ,k.oː.r.ɑ,k oː r ɑ,,Syrjaenen2013,,False,^ k . oː . r . ɑ $,default,k o r o,k o r
+911,udmurt-133_sand-1,,udmurt,133_sand,luo,l.u.o,l u o,,Syrjaenen2013,,False,^ l . u . o $,default,l u o,l o u
+912,erzya-134_say-1,,erzya,134_say,jovtɑms,j.o.v.t.ɑ.m.s,j o v t ɑ m s,,Syrjaenen2013,,False,^ j . o . v . t . ɑ . m . s $,default,y o v t o m s,m o s t v y
+913,erzya-134_say-2,,erzya,134_say,merʲems,m.e.rʲ.e.m.s,m e rʲ e m s,,Syrjaenen2013,,False,^ m . e . rʲ . e . m . s $,default,m e ry~ e m s,e m ry~ s
+914,ingrian-134_say-1,,ingrian,134_say,sɑnˑoːɑ,s.ɑ.nː.oː.ɑ,s ɑ nː oː ɑ,,Syrjaenen2013,,False,^ s . ɑ . nː . oː . ɑ $,default,s o n o o,n o s
+915,ingrian-134_say-2,,ingrian,134_say,verkkɑː,v.e.r.k.k.ɑː,v e r k k ɑː,,Syrjaenen2013,,False,^ v . e . r . k . k . ɑː $,default,v e r k k o,e k o r v
+916,komipermyak-134_say-1,,komipermyak,134_say,viɕtɑvnɯ,v.i.ɕ.t.ɑ.v.n.ɯ,v i ɕ t ɑ v n ɯ,,Syrjaenen2013,,False,^ v . i . ɕ . t . ɑ . v . n . ɯ $,default,v i S t o v n u,S i n o t u v
+917,komipermyak-134_say-2,,komipermyak,134_say,ʃunɯ,ʃ.u.n.ɯ,ʃ u n ɯ,,Syrjaenen2013,,False,^ ʃ . u . n . ɯ $,default,S u n u,S n u
+918,komizyrian-134_say-1,,komizyrian,134_say,viɕtɑvnɯ,v.i.ɕ.t.ɑ.v.n.ɯ,v i ɕ t ɑ v n ɯ,,Syrjaenen2013,,False,^ v . i . ɕ . t . ɑ . v . n . ɯ $,default,v i S t o v n u,S i n o t u v
+919,komizyrian-134_say-2,,komizyrian,134_say,ʃunɯ,ʃ.u.n.ɯ,ʃ u n ɯ,,Syrjaenen2013,,False,^ ʃ . u . n . ɯ $,default,S u n u,S n u
+920,nganasan-134_say-1,,nganasan,134_say,munsɑ,m.u.n.s.ɑ,m u n s ɑ,,Syrjaenen2013,,False,^ m . u . n . s . ɑ $,default,m u n s o,m n o s u
+921,selkup-134_say-1,,selkup,134_say,kɤt,k.ɤ.t,k ɤ t,,Syrjaenen2013,,False,^ k . ɤ . t $,default,k o t,k o t
+922,udmurt-134_say-1,,udmurt,134_say,ʃuɯnɯ,ʃ.u.ɯ.n.ɯ,ʃ u ɯ n ɯ,,Syrjaenen2013,,False,^ ʃ . u . ɯ . n . ɯ $,default,S u u n u,S n u
+923,udmurt-134_say-2,,udmurt,134_say,verɑnɯ,v.e.r.ɑ.n.ɯ,v e r ɑ n ɯ,,Syrjaenen2013,,False,^ v . e . r . ɑ . n . ɯ $,default,v e r o n u,e n o r u v
+924,erzya-137_see-1,,erzya,137_see,ɲejems,ɲ.e.j.e.m.s,ɲ e j e m s,,Syrjaenen2013,,False,^ ɲ . e . j . e . m . s $,default,5 e y e m s,5 e m s y
+925,ingrian-137_see-1,,ingrian,137_see,næhhæ,n.æ.h.h.æ,n æ h h æ,,Syrjaenen2013,,False,^ n . æ . h . h . æ $,default,n E h h E,E h n
+926,komipermyak-137_see-1,,komipermyak,137_see,ɑʥʥɯnɯ,ɑ.dʑ.dʑ.ɯ.n.ɯ,ɑ dʑ dʑ ɯ n ɯ,,Syrjaenen2013,,False,^ ɑ . dʑ . dʑ . ɯ . n . ɯ $,default,o dZ dZ u n u,dZ n o u
+927,komipermyak-137_see-2,,komipermyak,137_see,viʥɤtnɯ,v.i.dʑ.ɤ.t.n.ɯ,v i dʑ ɤ t n ɯ,,Syrjaenen2013,,False,^ v . i . dʑ . ɤ . t . n . ɯ $,default,v i dZ o t n u,dZ i n o t u v
+928,komizyrian-137_see-1,,komizyrian,137_see,ɑʥʥɯnɯ,ɑ.dʑ.dʑ.ɯ.n.ɯ,ɑ dʑ dʑ ɯ n ɯ,,Syrjaenen2013,,False,^ ɑ . dʑ . dʑ . ɯ . n . ɯ $,default,o dZ dZ u n u,dZ n o u
+929,nganasan-137_see-1,,nganasan,137_see,ŋəðyɕɑ,ŋ.ə.ð.y.ɕ.ɑ,ŋ ə ð y ɕ ɑ,,Syrjaenen2013,,False,^ ŋ . ə . ð . y . ɕ . ɑ $,default,N 3 8 i S o,3 8 N S i o
+930,nganasan-137_see-2,,nganasan,137_see,ɕejmɯʔsɯ,ɕ.e.j.m.ɯ.ʔ.s.ɯ,ɕ e j m ɯ ʔ s ɯ,,Syrjaenen2013,,False,^ ɕ . e . j . m . ɯ . ʔ . s . ɯ $,default,S e y m u 7 s u,7 S e m s u y
+931,selkup-137_see-1,,selkup,137_see,mɑnʧə,m.ɑ.n.tʃ.ə,m ɑ n tʃ ə,,Syrjaenen2013,,False,^ m . ɑ . n . tʃ . ə $,default,m o n tS 3,3 m n o tS
+932,udmurt-137_see-1,,udmurt,137_see,ɑʥʥɯnɯ,ɑ.dʑ.dʑ.ɯ.n.ɯ,ɑ dʑ dʑ ɯ n ɯ,,Syrjaenen2013,,False,^ ɑ . dʑ . dʑ . ɯ . n . ɯ $,default,o dZ dZ u n u,dZ n o u
+933,erzya-138_seed-1,,erzya,138_seed,vidʲme,v.i.dʲ.m.e,v i dʲ m e,,Syrjaenen2013,,False,^ v . i . dʲ . m . e $,default,v i dy~ m e,dy~ e i m v
+934,ingrian-138_seed-1,,ingrian,138_seed,seːmen,s.eː.m.e.n,s eː m e n,,Syrjaenen2013,,False,^ s . eː . m . e . n $,default,s e m e n,e m n s
+935,komipermyak-138_seed-1,,komipermyak,138_seed,tuɕ,t.u.ɕ,t u ɕ,,Syrjaenen2013,,False,^ t . u . ɕ $,default,t u S,S t u
+936,komipermyak-138_seed-2,,komipermyak,138_seed,kɤʥɯs,k.ɤ.dʑ.ɯ.s,k ɤ dʑ ɯ s,,Syrjaenen2013,,False,^ k . ɤ . dʑ . ɯ . s $,default,k o dZ u s,dZ k o s u
+937,komizyrian-138_seed-1,,komizyrian,138_seed,tuɕ,t.u.ɕ,t u ɕ,,Syrjaenen2013,,False,^ t . u . ɕ $,default,t u S,S t u
+938,komizyrian-138_seed-2,,komizyrian,138_seed,kɤidɯs,k.ɤ.i.d.ɯ.s,k ɤ i d ɯ s,,Syrjaenen2013,,False,^ k . ɤ . i . d . ɯ . s $,default,k o i d u s,d i k o s u
+939,selkup-138_seed-1,,selkup,138_seed,mummol,m.u.m.m.o.l,m u m m o l,,Syrjaenen2013,,False,^ m . u . m . m . o . l $,default,m u m m o l,l m o u
+940,udmurt-138_seed-1,,udmurt,138_seed,tɯɕ,t.ɯ.ɕ,t ɯ ɕ,,Syrjaenen2013,,False,^ t . ɯ . ɕ $,default,t u S,S t u
+941,udmurt-138_seed-2,,udmurt,138_seed,kidɯs,k.i.d.ɯ.s,k i d ɯ s,,Syrjaenen2013,,False,^ k . i . d . ɯ . s $,default,k i d u s,d i k s u
+942,erzya-139_sew-1,,erzya,139_sew,stɑms,s.t.ɑ.m.s,s t ɑ m s,,Syrjaenen2013,,False,^ s . t . ɑ . m . s $,default,s t o m s,m o s t
+943,ingrian-139_sew-1,,ingrian,139_sew,ommellɑ,o.m.m.e.l.l.ɑ,o m m e l l ɑ,,Syrjaenen2013,,False,^ o . m . m . e . l . l . ɑ $,default,o m m e l l o,e l m o
+944,komipermyak-139_sew-1,,komipermyak,139_sew,vurnɯ,v.u.r.n.ɯ,v u r n ɯ,,Syrjaenen2013,,False,^ v . u . r . n . ɯ $,default,v u r n u,n r u v
+945,komizyrian-139_sew-1,,komizyrian,139_sew,vurnɯ,v.u.r.n.ɯ,v u r n ɯ,,Syrjaenen2013,,False,^ v . u . r . n . ɯ $,default,v u r n u,n r u v
+946,nganasan-139_sew-1,,nganasan,139_sew,soʧədʲɑ,s.o.tʃ.ə.dʲ.ɑ,s o tʃ ə dʲ ɑ,,Syrjaenen2013,,False,^ s . o . tʃ . ə . dʲ . ɑ $,default,s o tS 3 dy~ o,3 dy~ o s tS
+947,nganasan-139_sew-2,,nganasan,139_sew,sonsɯdʲi,s.o.n.s.ɯ.dʲ.i,s o n s ɯ dʲ i,,Syrjaenen2013,,False,^ s . o . n . s . ɯ . dʲ . i $,default,s o n s u dy~ i,dy~ i n o s u
+948,selkup-139_sew-1,,selkup,139_sew,ɕyːttə,ɕ.yː.t.t.ə,ɕ yː t t ə,,Syrjaenen2013,,False,^ ɕ . yː . t . t . ə $,default,S i t t 3,3 S i t
+949,udmurt-139_sew-1,,udmurt,139_sew,vurɯnɯ,v.u.r.ɯ.n.ɯ,v u r ɯ n ɯ,,Syrjaenen2013,,False,^ v . u . r . ɯ . n . ɯ $,default,v u r u n u,n r u v
+950,erzya-141_short-1,,erzya,141_short,nurʲkɑ,n.u.rʲ.k.ɑ,n u rʲ k ɑ,,Syrjaenen2013,,False,^ n . u . rʲ . k . ɑ $,default,n u ry~ k o,k n o ry~ u
+951,ingrian-141_short-1,,ingrian,141_short,lyhyd̥,l.y.h.y.d̥,l y h y d̥,,Syrjaenen2013,,False,^ l . y . h . y . d̥ $,default,l i h i d,d h i l
+952,ingrian-141_short-2,,ingrian,141_short,mɑd̥ɑlɑin,m.ɑ.d̥.ɑ.l.ɑ.i.n,m ɑ d̥ ɑ l ɑ i n,,Syrjaenen2013,,False,^ m . ɑ . d̥ . ɑ . l . ɑ . i . n $,default,m o d o l o i n,d i l m n o
+953,komipermyak-141_short-1,,komipermyak,141_short,ʤeɲɯt,dʒ.e.ɲ.ɯ.t,dʒ e ɲ ɯ t,,Syrjaenen2013,,False,^ dʒ . e . ɲ . ɯ . t $,default,dZ e 5 u t,5 dZ e t u
+954,komizyrian-141_short-1,,komizyrian,141_short,ʤeɲɯd,dʒ.e.ɲ.ɯ.d,dʒ e ɲ ɯ d,,Syrjaenen2013,,False,^ dʒ . e . ɲ . ɯ . d $,default,dZ e 5 u d,5 d dZ e u
+955,nganasan-141_short-1,,nganasan,141_short,kəːʎuky,k.əː.ʎ.u.k.y,k əː ʎ u k y,,Syrjaenen2013,,False,^ k . əː . ʎ . u . k . y $,default,k 3 L u k i,3 L i k u
+956,selkup-141_short-1,,selkup,141_short,qɑːmə,q.ɑː.m.ə,q ɑː m ə,,Syrjaenen2013,,False,^ q . ɑː . m . ə $,default,q o m 3,3 m o q
+957,udmurt-141_short-1,,udmurt,141_short,vɑkʨi,v.ɑ.k.tɕ.i,v ɑ k tɕ i,,Syrjaenen2013,,False,^ v . ɑ . k . tɕ . i $,default,v o k tS i,i k o tS v
+958,erzya-142_sing-1,,erzya,142_sing,morɑms,m.o.r.ɑ.m.s,m o r ɑ m s,,Syrjaenen2013,,False,^ m . o . r . ɑ . m . s $,default,m o r o m s,m o r s
+959,ingrian-142_sing-1,,ingrian,142_sing,lɑulɑː,l.ɑ.u.l.ɑː,l ɑ u l ɑː,,Syrjaenen2013,,False,^ l . ɑ . u . l . ɑː $,default,l o u l o,l o u
+960,komipermyak-142_sing-1,,komipermyak,142_sing,ɕɯvnɯ,ɕ.ɯ.v.n.ɯ,ɕ ɯ v n ɯ,,Syrjaenen2013,,False,^ ɕ . ɯ . v . n . ɯ $,default,S u v n u,S n u v
+961,komizyrian-142_sing-1,,komizyrian,142_sing,ɕɯvnɯ,ɕ.ɯ.v.n.ɯ,ɕ ɯ v n ɯ,,Syrjaenen2013,,False,^ ɕ . ɯ . v . n . ɯ $,default,S u v n u,S n u v
+962,nganasan-142_sing-1,,nganasan,142_sing,kəjŋiʔɕɑ,k.ə.j.ŋ.i.ʔ.ɕ.ɑ,k ə j ŋ i ʔ ɕ ɑ,,Syrjaenen2013,,False,^ k . ə . j . ŋ . i . ʔ . ɕ . ɑ $,default,k 3 y N i 7 S o,3 7 N S i k o y
+963,selkup-142_sing-1,,selkup,142_sing,koʎməʧʧə,k.o.ʎ.m.ə.tʃ.tʃ.ə,k o ʎ m ə tʃ tʃ ə,,Syrjaenen2013,,False,^ k . o . ʎ . m . ə . tʃ . tʃ . ə $,default,k o L m 3 tS tS 3,3 L k m o tS
+964,udmurt-142_sing-1,,udmurt,142_sing,kɯrʥɑnɯ,k.ɯ.r.dʑ.ɑ.n.ɯ,k ɯ r dʑ ɑ n ɯ,,Syrjaenen2013,,False,^ k . ɯ . r . dʑ . ɑ . n . ɯ $,default,k u r dZ o n u,dZ k n o r u
+965,erzya-143_sit-1,,erzya,143_sit,ɑʃtʲems_ozɑdo,ɑ.ʃ.tʲ.e.m.s._.o.z.ɑ.d.o,ɑ ʃ tʲ e m s + o z ɑ d o,,Syrjaenen2013,,False,^ ɑ . ʃ . tʲ . e . m . s . _ . o . z . ɑ . d . o $,default,o S ty~ e m s  o z o d o, S d e m o s ty~ z
+966,ingrian-143_sit-1,,ingrian,143_sit,istuɑ,i.s.t.u.ɑ,i s t u ɑ,,Syrjaenen2013,,False,^ i . s . t . u . ɑ $,default,i s t u o,i o s t u
+967,komipermyak-143_sit-1,,komipermyak,143_sit,pukɑvnɯ,p.u.k.ɑ.v.n.ɯ,p u k ɑ v n ɯ,,Syrjaenen2013,,False,^ p . u . k . ɑ . v . n . ɯ $,default,p u k o v n u,k n o p u v
+968,komizyrian-143_sit-1,,komizyrian,143_sit,pukɑvnɯ,p.u.k.ɑ.v.n.ɯ,p u k ɑ v n ɯ,,Syrjaenen2013,,False,^ p . u . k . ɑ . v . n . ɯ $,default,p u k o v n u,k n o p u v
+969,nganasan-143_sit-1,,nganasan,143_sit,ŋomtyɕɑ,ŋ.o.m.t.y.ɕ.ɑ,ŋ o m t y ɕ ɑ,,Syrjaenen2013,,False,^ ŋ . o . m . t . y . ɕ . ɑ $,default,N o m t i S o,N S i m o t
+970,selkup-143_sit-1,,selkup,143_sit,ɑːmti,ɑː.m.t.i,ɑː m t i,,Syrjaenen2013,,False,^ ɑː . m . t . i $,default,o m t i,i m o t
+971,udmurt-143_sit-1,,udmurt,143_sit,pukɯnɯ,p.u.k.ɯ.n.ɯ,p u k ɯ n ɯ,,Syrjaenen2013,,False,^ p . u . k . ɯ . n . ɯ $,default,p u k u n u,k n p u
+972,erzya-144_skin-1,,erzya,144_skin,kiɕke,k.i.ɕ.k.e,k i ɕ k e,,Syrjaenen2013,,False,^ k . i . ɕ . k . e $,default,k i S k e,S e i k
+973,ingrian-144_skin-1,,ingrian,144_skin,iho,i.h.o,i h o,,Syrjaenen2013,,False,^ i . h . o $,default,i h o,h i o
+974,ingrian-144_skin-2,,ingrian,144_skin,hibjæ,h.i.b.j.æ,h i b j æ,,Syrjaenen2013,,False,^ h . i . b . j . æ $,default,h i b y E,E b h i y
+975,ingrian-144_skin-3,,ingrian,144_skin,teːlɑ,t.eː.l.ɑ,t eː l ɑ,,Syrjaenen2013,,False,^ t . eː . l . ɑ $,default,t e l o,e l o t
+976,komizyrian-144_skin-1,,komizyrian,144_skin,ku,k.u,k u,,Syrjaenen2013,,False,^ k . u $,default,k u,k u
+977,nganasan-144_skin-1,,nganasan,144_skin,kuhuo,k.u.h.u.o,k u h u o,,Syrjaenen2013,,False,^ k . u . h . u . o $,default,k u h u o,h k o u
+978,selkup-144_skin-1,,selkup,144_skin,qopə,q.o.p.ə,q o p ə,,Syrjaenen2013,,False,^ q . o . p . ə $,default,q o p 3,3 o p q
+979,udmurt-144_skin-1,,udmurt,144_skin,ku,k.u,k u,,Syrjaenen2013,,False,^ k . u $,default,k u,k u
+980,erzya-144_skin-2,,erzya,144_skin,kedʲ,k.e.dʲ,k e dʲ,,Syrjaenen2013,,False,^ k . e . dʲ $,default,k e dy~,dy~ e k
+981,komipermyak-144_skin-1,,komipermyak,144_skin,kuʨik,k.u.tɕ.i.k,k u tɕ i k,,Syrjaenen2013,,False,^ k . u . tɕ . i . k $,default,k u tS i k,i k tS u
+982,erzya-145_sky-1,,erzya,145_sky,meɲeʎ,m.e.ɲ.e.ʎ,m e ɲ e ʎ,,Syrjaenen2013,,False,^ m . e . ɲ . e . ʎ $,default,m e 5 e L,5 L e m
+983,ingrian-145_sky-1,,ingrian,145_sky,tɑivɑz,t.ɑ.i.v.ɑ.z,t ɑ i v ɑ z,,Syrjaenen2013,,False,^ t . ɑ . i . v . ɑ . z $,default,t o i v o z,i o t v z
+984,komipermyak-145_sky-1,,komipermyak,145_sky,jenɤʒ,j.e.n.ɤ.ʒ,j e n ɤ ʒ,,Syrjaenen2013,,False,^ j . e . n . ɤ . ʒ $,default,y e n o Z,Z e n o y
+985,komizyrian-145_sky-1,,komizyrian,145_sky,jeneʒ,j.e.n.e.ʒ,j e n e ʒ,,Syrjaenen2013,,False,^ j . e . n . e . ʒ $,default,y e n e Z,Z e n y
+986,nganasan-145_sky-1,,nganasan,145_sky,ŋuə,ŋ.u.ə,ŋ u ə,,Syrjaenen2013,,False,^ ŋ . u . ə $,default,N u 3,3 N u
+987,selkup-145_sky-1,,selkup,145_sky,nom,n.o.m,n o m,,Syrjaenen2013,,False,^ n . o . m $,default,n o m,m n o
+988,udmurt-145_sky-1,,udmurt,145_sky,in,i.n,i n,,Syrjaenen2013,,False,^ i . n $,default,i n,i n
+989,ingrian-146_sleep-1,,ingrian,146_sleep,nukkuɑ,n.u.k.k.u.ɑ,n u k k u ɑ,,Syrjaenen2013,,False,^ n . u . k . k . u . ɑ $,default,n u k k u o,k n o u
+990,ingrian-146_sleep-2,,ingrian,146_sleep,mɑmmɑd̥ɑ,m.ɑ.m.m.ɑ.d̥.ɑ,m ɑ m m ɑ d̥ ɑ,,Syrjaenen2013,,False,^ m . ɑ . m . m . ɑ . d̥ . ɑ $,default,m o m m o d o,d m o
+991,erzya-146_sleep-1,,erzya,146_sleep,udoms,u.d.o.m.s,u d o m s,,Syrjaenen2013,,False,^ u . d . o . m . s $,default,u d o m s,d m o s u
+992,komipermyak-146_sleep-1,,komipermyak,146_sleep,uʑnɯ,u.ʑ.n.ɯ,u ʑ n ɯ,,Syrjaenen2013,,False,^ u . ʑ . n . ɯ $,default,u Z n u,Z n u
+993,komizyrian-146_sleep-1,,komizyrian,146_sleep,uʑnɯ,u.ʑ.n.ɯ,u ʑ n ɯ,,Syrjaenen2013,,False,^ u . ʑ . n . ɯ $,default,u Z n u,Z n u
+994,nganasan-146_sleep-1,,nganasan,146_sleep,kunduɑsɑ,k.u.n.d.u.ɑ.s.ɑ,k u n d u ɑ s ɑ,,Syrjaenen2013,,False,^ k . u . n . d . u . ɑ . s . ɑ $,default,k u n d u o s o,d k n o s u
+995,selkup-146_sleep-1,,selkup,146_sleep,qonti,q.o.n.t.i,q o n t i,,Syrjaenen2013,,False,^ q . o . n . t . i $,default,q o n t i,i n o q t
+996,udmurt-146_sleep-1,,udmurt,146_sleep,iʑɯnɯ,i.ʑ.ɯ.n.ɯ,i ʑ ɯ n ɯ,,Syrjaenen2013,,False,^ i . ʑ . ɯ . n . ɯ $,default,i Z u n u,Z i n u
+997,erzya-147_small-1,,erzya,147_small,viʃkɑ,v.i.ʃ.k.ɑ,v i ʃ k ɑ,,Syrjaenen2013,,False,^ v . i . ʃ . k . ɑ $,default,v i S k o,S i k o v
+998,ingrian-147_small-1,,ingrian,147_small,peːn,p.eː.n,p eː n,,Syrjaenen2013,,False,^ p . eː . n $,default,p e n,e n p
+999,komipermyak-147_small-1,,komipermyak,147_small,uʨɤt,u.tɕ.ɤ.t,u tɕ ɤ t,,Syrjaenen2013,,False,^ u . tɕ . ɤ . t $,default,u tS o t,o t tS u
+1000,komizyrian-147_small-1,,komizyrian,147_small,iʨɤt,i.tɕ.ɤ.t,i tɕ ɤ t,,Syrjaenen2013,,False,^ i . tɕ . ɤ . t $,default,i tS o t,i o t tS
+1001,komizyrian-147_small-2,,komizyrian,147_small,posɲɯd,p.o.s.ɲ.ɯ.d,p o s ɲ ɯ d,,Syrjaenen2013,,False,^ p . o . s . ɲ . ɯ . d $,default,p o s 5 u d,5 d o p s u
+1002,nganasan-147_small-1,,nganasan,147_small,hiɲiə,h.i.ɲ.i.ə,h i ɲ i ə,,Syrjaenen2013,,False,^ h . i . ɲ . i . ə $,default,h i 5 i 3,3 5 h i
+1003,nganasan-147_small-2,,nganasan,147_small,ɕiəʔlɑku,ɕ.i.ə.ʔ.l.ɑ.k.u,ɕ i ə ʔ l ɑ k u,,Syrjaenen2013,,False,^ ɕ . i . ə . ʔ . l . ɑ . k . u $,default,S i 3 7 l o k u,3 7 S i k l o u
+1004,selkup-147_small-1,,selkup,147_small,kɯpɑ,k.ɯ.p.ɑ,k ɯ p ɑ,,Syrjaenen2013,,False,^ k . ɯ . p . ɑ $,default,k u p o,k o p u
+1005,udmurt-147_small-1,,udmurt,147_small,piʨi,p.i.tɕ.i,p i tɕ i,,Syrjaenen2013,,False,^ p . i . tɕ . i $,default,p i tS i,i p tS
+1006,erzya-148_smell-1,,erzya,148_smell,ɲikɕems,ɲ.i.k.ɕ.e.m.s,ɲ i k ɕ e m s,,Syrjaenen2013,,False,^ ɲ . i . k . ɕ . e . m . s $,default,5 i k S e m s,5 S e i k m s
+1007,komipermyak-148_smell-1,,komipermyak,148_smell,zɯnɑvni,z.ɯ.n.ɑ.v.n.i,z ɯ n ɑ v n i,,Syrjaenen2013,,False,^ z . ɯ . n . ɑ . v . n . i $,default,z u n o v n i,i n o u v z
+1008,komizyrian-148_smell-1,,komizyrian,148_smell,isɑvnɯ,i.s.ɑ.v.n.ɯ,i s ɑ v n ɯ,,Syrjaenen2013,,False,^ i . s . ɑ . v . n . ɯ $,default,i s o v n u,i n o s u v
+1009,nganasan-148_smell-1,,nganasan,148_smell,ʧinydʲɑ,tʃ.i.n.y.dʲ.ɑ,tʃ i n y dʲ ɑ,,Syrjaenen2013,,False,^ tʃ . i . n . y . dʲ . ɑ $,default,tS i n i dy~ o,dy~ i n o tS
+1010,selkup-148_smell-1,,selkup,148_smell,ɑptæptə,ɑ.p.t.æ.p.t.ə,ɑ p t æ p t ə,,Syrjaenen2013,,False,^ ɑ . p . t . æ . p . t . ə $,default,o p t E p t 3,3 E o p t
+1011,udmurt-148_smell-1,,udmurt,148_smell,zɯnjɑnɯ,z.ɯ.n.j.ɑ.n.ɯ,z ɯ n j ɑ n ɯ,,Syrjaenen2013,,False,^ z . ɯ . n . j . ɑ . n . ɯ $,default,z u n y o n u,n o u y z
+1012,erzya-149_smoke-1,,erzya,149_smoke,kɑʧɑmo,k.ɑ.tʃ.ɑ.m.o,k ɑ tʃ ɑ m o,,Syrjaenen2013,,False,^ k . ɑ . tʃ . ɑ . m . o $,default,k o tS o m o,k m o tS
+1013,ingrian-149_smoke-1,,ingrian,149_smoke,sɑvvu,s.ɑ.v.v.u,s ɑ v v u,,Syrjaenen2013,,False,^ s . ɑ . v . v . u $,default,s o v v u,o s u v
+1014,komipermyak-149_smoke-1,,komipermyak,149_smoke,ʧɯn,tʃ.ɯ.n,tʃ ɯ n,,Syrjaenen2013,,False,^ tʃ . ɯ . n $,default,tS u n,n tS u
+1015,komizyrian-149_smoke-1,,komizyrian,149_smoke,ʧɯn,tʃ.ɯ.n,tʃ ɯ n,,Syrjaenen2013,,False,^ tʃ . ɯ . n $,default,tS u n,n tS u
+1016,udmurt-149_smoke-1,,udmurt,149_smoke,ʧɯn,tʃ.ɯ.n,tʃ ɯ n,,Syrjaenen2013,,False,^ tʃ . ɯ . n $,default,tS u n,n tS u
+1017,nganasan-149_smoke-1,,nganasan,149_smoke,dʲɑkɑgə,dʲ.ɑ.k.ɑ.ɡ.ə,dʲ ɑ k ɑ ɡ ə,,Syrjaenen2013,,False,^ dʲ . ɑ . k . ɑ . ɡ . ə $,default,dy~ o k o g 3,3 dy~ g k o
+1018,selkup-149_smoke-1,,selkup,149_smoke,purqə,p.u.r.q.ə,p u r q ə,,Syrjaenen2013,,False,^ p . u . r . q . ə $,default,p u r q 3,3 p q r u
+1019,ingrian-150_smooth-1,,ingrian,150_smooth,lɑkˑiɑ,l.ɑ.kː.i.ɑ,l ɑ kː i ɑ,,Syrjaenen2013,,False,^ l . ɑ . kː . i . ɑ $,default,l o k i o,i k l o
+1020,komizyrian-150_smooth-1,,komizyrian,150_smooth,voʎɯd,v.o.ʎ.ɯ.d,v o ʎ ɯ d,,Syrjaenen2013,,False,^ v . o . ʎ . ɯ . d $,default,v o L u d,L d o u v
+1021,erzya-150_smooth-1,,erzya,150_smooth,vɑlɑɲɑ,v.ɑ.l.ɑ.ɲ.ɑ,v ɑ l ɑ ɲ ɑ,,Syrjaenen2013,,False,^ v . ɑ . l . ɑ . ɲ . ɑ $,default,v o l o 5 o,5 l o v
+1022,ingrian-150_smooth-2,,ingrian,150_smooth,silˑiːæ,s.i.lː.iː.æ,s i lː iː æ,,Syrjaenen2013,,False,^ s . i . lː . iː . æ $,default,s i l i E,E i l s
+1023,komipermyak-150_smooth-1,,komipermyak,150_smooth,voʎkɯt,v.o.ʎ.k.ɯ.t,v o ʎ k ɯ t,,Syrjaenen2013,,False,^ v . o . ʎ . k . ɯ . t $,default,v o L k u t,L k o t u v
+1024,komizyrian-150_smooth-2,,komizyrian,150_smooth,ʃɯʎɯd,ʃ.ɯ.ʎ.ɯ.d,ʃ ɯ ʎ ɯ d,,Syrjaenen2013,,False,^ ʃ . ɯ . ʎ . ɯ . d $,default,S u L u d,L S d u
+1025,selkup-150_smooth-1,,selkup,150_smooth,lepɑ,l.e.p.ɑ,l e p ɑ,,Syrjaenen2013,,False,^ l . e . p . ɑ $,default,l e p o,e l o p
+1026,udmurt-150_smooth-1,,udmurt,150_smooth,voʎɯt,v.o.ʎ.ɯ.t,v o ʎ ɯ t,,Syrjaenen2013,,False,^ v . o . ʎ . ɯ . t $,default,v o L u t,L o t u v
+1027,selkup-151_snake-1,,selkup,151_snake,ɕyː,ɕ.yː,ɕ yː,,Syrjaenen2013,,False,^ ɕ . yː $,default,S i,S i
+1028,erzya-151_snake-1,,erzya,151_snake,guj,ɡ.u.j,ɡ u j,,Syrjaenen2013,,False,^ ɡ . u . j $,default,g u y,g u y
+1029,erzya-151_snake-2,,erzya,151_snake,jozne,j.o.z.n.e,j o z n e,,Syrjaenen2013,,False,^ j . o . z . n . e $,default,y o z n e,e n o y z
+1030,ingrian-151_snake-1,,ingrian,151_snake,mɑd̥o,m.ɑ.d̥.o,m ɑ d̥ o,,Syrjaenen2013,,False,^ m . ɑ . d̥ . o $,default,m o d o,d m o
+1031,ingrian-151_snake-2,,ingrian,151_snake,mɑːhiːn,m.ɑː.h.iː.n,m ɑː h iː n,,Syrjaenen2013,,False,^ m . ɑː . h . iː . n $,default,m o h i n,h i m n o
+1032,komipermyak-151_snake-1,,komipermyak,151_snake,zmej,z.m.e.j,z m e j,,Syrjaenen2013,,False,^ z . m . e . j $,default,z m e y,e m y z
+1033,komizyrian-151_snake-1,,komizyrian,151_snake,kɯj,k.ɯ.j,k ɯ j,,Syrjaenen2013,,False,^ k . ɯ . j $,default,k u y,k u y
+1034,udmurt-151_snake-1,,udmurt,151_snake,kɯj,k.ɯ.j,k ɯ j,,Syrjaenen2013,,False,^ k . ɯ . j $,default,k u y,k u y
+1035,erzya-152_snow-1,,erzya,152_snow,lov,l.o.v,l o v,,Syrjaenen2013,,False,^ l . o . v $,default,l o v,l o v
+1036,ingrian-152_snow-1,,ingrian,152_snow,lumi,l.u.m.i,l u m i,,Syrjaenen2013,,False,^ l . u . m . i $,default,l u m i,i l m u
+1037,komipermyak-152_snow-1,,komipermyak,152_snow,lɯm,l.ɯ.m,l ɯ m,,Syrjaenen2013,,False,^ l . ɯ . m $,default,l u m,l m u
+1038,komizyrian-152_snow-1,,komizyrian,152_snow,lɯm,l.ɯ.m,l ɯ m,,Syrjaenen2013,,False,^ l . ɯ . m $,default,l u m,l m u
+1039,nganasan-152_snow-1,,nganasan,152_snow,dʲum,dʲ.u.m,dʲ u m,,Syrjaenen2013,,False,^ dʲ . u . m $,default,dy~ u m,dy~ m u
+1040,nganasan-152_snow-2,,nganasan,152_snow,ɕiry,ɕ.i.r.y,ɕ i r y,,Syrjaenen2013,,False,^ ɕ . i . r . y $,default,S i r i,S i r
+1041,selkup-152_snow-1,,selkup,152_snow,sɯrə,s.ɯ.r.ə,s ɯ r ə,,Syrjaenen2013,,False,^ s . ɯ . r . ə $,default,s u r 3,3 r s u
+1042,udmurt-152_snow-1,,udmurt,152_snow,lɯmɯ,l.ɯ.m.ɯ,l ɯ m ɯ,,Syrjaenen2013,,False,^ l . ɯ . m . ɯ $,default,l u m u,l m u
+1043,selkup-153_some-1,,selkup,153_some,qɑj_kos,q.ɑ.j._.k.o.s,q ɑ j + k o s,,Syrjaenen2013,,False,^ q . ɑ . j . _ . k . o . s $,default,q o y  k o s, k o q s y
+1044,erzya-153_some-1,,erzya,153_some,konɑ#butʲi,k.o.n.ɑ._.b.u.tʲ.i,k o n ɑ + b u tʲ i,,Syrjaenen2013,,False,^ k . o . n . ɑ . _ . b . u . tʲ . i $,default,k o n o  b u ty~ i, b i k n o ty~ u
+1045,erzya-153_some-2,,erzya,153_some,meʑe#butʲi,m.e.ʑ.e._.b.u.tʲ.i,m e ʑ e + b u tʲ i,,Syrjaenen2013,,False,^ m . e . ʑ . e . _ . b . u . tʲ . i $,default,m e Z e  b u ty~ i, Z b e i m ty~ u
+1046,erzya-153_some-3,,erzya,153_some,tɑ#kodɑmo,t.ɑ._.k.o.d.ɑ.m.o,t ɑ + k o d ɑ m o,,Syrjaenen2013,,False,^ t . ɑ . _ . k . o . d . ɑ . m . o $,default,t o  k o d o m o, d k m o t
+1047,ingrian-153_some-1,,ingrian,153_some,mig̊æ,m.i.ɡ̥.æ,m i ɡ̥ æ,,Syrjaenen2013,,False,^ m . i . ɡ̥ . æ $,default,m i g E,E g i m
+1048,ingrian-153_some-2,,ingrian,153_some,jog̊u,j.o.ɡ̥.u,j o ɡ̥ u,,Syrjaenen2013,,False,^ j . o . ɡ̥ . u $,default,y o g u,g o u y
+1049,komipermyak-153_some-1,,komipermyak,153_some,kinkɤ,k.i.n.k.ɤ,k i n k ɤ,,Syrjaenen2013,,False,^ k . i . n . k . ɤ $,default,k i n k o,i k n o
+1050,komizyrian-153_some-1,,komizyrian,153_some,kuʧɤm#kɤ,k.u.tʃ.ɤ.m._.k.ɤ,k u tʃ ɤ m + k ɤ,,Syrjaenen2013,,False,^ k . u . tʃ . ɤ . m . _ . k . ɤ $,default,k u tS o m  k o, k m o tS u
+1051,nganasan-153_some-1,,nganasan,153_some,kurədʲikyə,k.u.r.ə.dʲ.i.k.y.ə,k u r ə dʲ i k y ə,,Syrjaenen2013,,False,^ k . u . r . ə . dʲ . i . k . y . ə $,default,k u r 3 dy~ i k i 3,3 dy~ i k r u
+1052,nganasan-153_some-2,,nganasan,153_some,mɑːgyə,m.ɑː.ɡ.y.ə,m ɑː ɡ y ə,,Syrjaenen2013,,False,^ m . ɑː . ɡ . y . ə $,default,m o g i 3,3 g i m o
+1053,udmurt-153_some-1,,udmurt,153_some,kudiz_ke,k.u.d.i.z._.k.e,k u d i z + k e,,Syrjaenen2013,,False,^ k . u . d . i . z . _ . k . e $,default,k u d i z  k e, d e i k u z
+1054,udmurt-153_some-2,,udmurt,153_some,kin_ke,k.i.n._.k.e,k i n + k e,,Syrjaenen2013,,False,^ k . i . n . _ . k . e $,default,k i n  k e, e i k n
+1055,erzya-154_spit-1,,erzya,154_spit,ɕeʎgems,ɕ.e.ʎ.ɡ.e.m.s,ɕ e ʎ ɡ e m s,,Syrjaenen2013,,False,^ ɕ . e . ʎ . ɡ . e . m . s $,default,S e L g e m s,L S e g m s
+1056,ingrian-154_spit-1,,ingrian,154_spit,sylkiæ,s.y.l.k.i.æ,s y l k i æ,,Syrjaenen2013,,False,^ s . y . l . k . i . æ $,default,s i l k i E,E i k l s
+1057,komipermyak-154_spit-1,,komipermyak,154_spit,ɕɤlɑvnɯ,ɕ.ɤ.l.ɑ.v.n.ɯ,ɕ ɤ l ɑ v n ɯ,,Syrjaenen2013,,False,^ ɕ . ɤ . l . ɑ . v . n . ɯ $,default,S o l o v n u,S l n o u v
+1058,komizyrian-154_spit-1,,komizyrian,154_spit,ɕɤlɑvnɯ,ɕ.ɤ.l.ɑ.v.n.ɯ,ɕ ɤ l ɑ v n ɯ,,Syrjaenen2013,,False,^ ɕ . ɤ . l . ɑ . v . n . ɯ $,default,S o l o v n u,S l n o u v
+1059,nganasan-154_spit-1,,nganasan,154_spit,ɕebɕidʲi,ɕ.e.b.ɕ.i.dʲ.i,ɕ e b ɕ i dʲ i,,Syrjaenen2013,,False,^ ɕ . e . b . ɕ . i . dʲ . i $,default,S e b S i dy~ i,S b dy~ e i
+1060,selkup-154_spit-1,,selkup,154_spit,syəsə,s.y.ə.s.ə,s y ə s ə,,Syrjaenen2013,,False,^ s . y . ə . s . ə $,default,s i 3 s 3,3 i s
+1061,udmurt-154_spit-1,,udmurt,154_spit,ɕɑlɑnɯ,ɕ.ɑ.l.ɑ.n.ɯ,ɕ ɑ l ɑ n ɯ,,Syrjaenen2013,,False,^ ɕ . ɑ . l . ɑ . n . ɯ $,default,S o l o n u,S l n o u
+1062,komipermyak-155_split-1,,komipermyak,155_split,vundɯʃtnɯ,v.u.n.d.ɯ.ʃ.t.n.ɯ,v u n d ɯ ʃ t n ɯ,,Syrjaenen2013,,False,^ v . u . n . d . ɯ . ʃ . t . n . ɯ $,default,v u n d u S t n u,S d n t u v
+1063,ingrian-155_split-1,,ingrian,155_split,hɑlɑissɑ,h.ɑ.l.ɑ.i.s.s.ɑ,h ɑ l ɑ i s s ɑ,,Syrjaenen2013,,False,^ h . ɑ . l . ɑ . i . s . s . ɑ $,default,h o l o i s s o,h i l o s
+1064,erzya-155_split-1,,erzya,155_split,lɑzoms,l.ɑ.z.o.m.s,l ɑ z o m s,,Syrjaenen2013,,False,^ l . ɑ . z . o . m . s $,default,l o z o m s,l m o s z
+1065,komizyrian-155_split-1,,komizyrian,155_split,ʨɑʃkɤdnɯ,tɕ.ɑ.ʃ.k.ɤ.d.n.ɯ,tɕ ɑ ʃ k ɤ d n ɯ,,Syrjaenen2013,,False,^ tɕ . ɑ . ʃ . k . ɤ . d . n . ɯ $,default,tS o S k o d n u,S d k n o tS u
+1066,komizyrian-155_split-2,,komizyrian,155_split,potkɤdnɯ,p.o.t.k.ɤ.d.n.ɯ,p o t k ɤ d n ɯ,,Syrjaenen2013,,False,^ p . o . t . k . ɤ . d . n . ɯ $,default,p o t k o d n u,d k n o p t u
+1067,nganasan-155_split-1,,nganasan,155_split,kɯrkɑʔsɑ,k.ɯ.r.k.ɑ.ʔ.s.ɑ,k ɯ r k ɑ ʔ s ɑ,,Syrjaenen2013,,False,^ k . ɯ . r . k . ɑ . ʔ . s . ɑ $,default,k u r k o 7 s o,7 k o r s u
+1068,nganasan-155_split-2,,nganasan,155_split,ʧəirɕi,tʃ.ə.i.r.ɕ.i,tʃ ə i r ɕ i,,Syrjaenen2013,,False,^ tʃ . ə . i . r . ɕ . i $,default,tS 3 i r S i,3 S i r tS
+1069,selkup-155_split-1,,selkup,155_split,pɑʨɑl,p.ɑ.tɕ.ɑ.l,p ɑ tɕ ɑ l,,Syrjaenen2013,,False,^ p . ɑ . tɕ . ɑ . l $,default,p o tS o l,l o p tS
+1070,udmurt-155_split-1,,udmurt,155_split,piʎɯnɯ,p.i.ʎ.ɯ.n.ɯ,p i ʎ ɯ n ɯ,,Syrjaenen2013,,False,^ p . i . ʎ . ɯ . n . ɯ $,default,p i L u n u,L i n p u
+1071,ingrian-156_squeeze-1,,ingrian,156_squeeze,ɑhistɑː,ɑ.h.i.s.t.ɑː,ɑ h i s t ɑː,,Syrjaenen2013,,False,^ ɑ . h . i . s . t . ɑː $,default,o h i s t o,h i o s t
+1072,komipermyak-156_squeeze-1,,komipermyak,156_squeeze,ʒmitnɯ,ʒ.m.i.t.n.ɯ,ʒ m i t n ɯ,,Syrjaenen2013,,False,^ ʒ . m . i . t . n . ɯ $,default,Z m i t n u,Z i m n t u
+1073,komizyrian-156_squeeze-1,,komizyrian,156_squeeze,nɯrnɯ,n.ɯ.r.n.ɯ,n ɯ r n ɯ,,Syrjaenen2013,,False,^ n . ɯ . r . n . ɯ $,default,n u r n u,n r u
+1074,komizyrian-156_squeeze-2,,komizyrian,156_squeeze,ʎiʨkɯnɯ,ʎ.i.tɕ.k.ɯ.n.ɯ,ʎ i tɕ k ɯ n ɯ,,Syrjaenen2013,,False,^ ʎ . i . tɕ . k . ɯ . n . ɯ $,default,L i tS k u n u,L i k n tS u
+1075,nganasan-156_squeeze-1,,nganasan,156_squeeze,mebkiɕi,m.e.b.k.i.ɕ.i,m e b k i ɕ i,,Syrjaenen2013,,False,^ m . e . b . k . i . ɕ . i $,default,m e b k i S i,S b e i k m
+1076,selkup-156_squeeze-1,,selkup,156_squeeze,ɯp,ɯ.p,ɯ p,,Syrjaenen2013,,False,^ ɯ . p $,default,u p,p u
+1077,udmurt-156_squeeze-1,,udmurt,156_squeeze,ɲurɑnɯ,ɲ.u.r.ɑ.n.ɯ,ɲ u r ɑ n ɯ,,Syrjaenen2013,,False,^ ɲ . u . r . ɑ . n . ɯ $,default,5 u r o n u,5 n o r u
+1078,udmurt-156_squeeze-2,,udmurt,156_squeeze,pɑʨkɑtɯnɯ,p.ɑ.tɕ.k.ɑ.t.ɯ.n.ɯ,p ɑ tɕ k ɑ t ɯ n ɯ,,Syrjaenen2013,,False,^ p . ɑ . tɕ . k . ɑ . t . ɯ . n . ɯ $,default,p o tS k o t u n u,k n o p t tS u
+1079,erzya-156_squeeze-1,,erzya,156_squeeze,ʎepʃtʲɑms,ʎ.e.p.ʃ.tʲ.ɑ.m.s,ʎ e p ʃ tʲ ɑ m s,,Syrjaenen2013,,False,^ ʎ . e . p . ʃ . tʲ . ɑ . m . s $,default,L e p S ty~ o m s,L S e m o p s ty~
+1080,erzya-156_squeeze-2,,erzya,156_squeeze,ʧemerʲdʲems,tʃ.e.m.e.rʲ.dʲ.e.m.s,tʃ e m e rʲ dʲ e m s,,Syrjaenen2013,,False,^ tʃ . e . m . e . rʲ . dʲ . e . m . s $,default,tS e m e ry~ dy~ e m s,dy~ e m ry~ s tS
+1081,erzya-156_squeeze-3,,erzya,156_squeeze,ɕuvordɑms,ɕ.u.v.o.r.d.ɑ.m.s,ɕ u v o r d ɑ m s,,Syrjaenen2013,,False,^ ɕ . u . v . o . r . d . ɑ . m . s $,default,S u v o r d o m s,S d m o r s u v
+1082,ingrian-156_squeeze-2,,ingrian,156_squeeze,puristɑː,p.u.r.i.s.t.ɑː,p u r i s t ɑː,,Syrjaenen2013,,False,^ p . u . r . i . s . t . ɑː $,default,p u r i s t o,i o p r s t u
+1083,ingrian-156_squeeze-3,,ingrian,156_squeeze,pig̊istæː,p.i.ɡ̥.i.s.t.æː,p i ɡ̥ i s t æː,,Syrjaenen2013,,False,^ p . i . ɡ̥ . i . s . t . æː $,default,p i g i s t E,E g i p s t
+1084,erzya-157_stab-1,,erzya,157_stab,ɕɑlgoms,ɕ.ɑ.l.ɡ.o.m.s,ɕ ɑ l ɡ o m s,,Syrjaenen2013,,False,^ ɕ . ɑ . l . ɡ . o . m . s $,default,S o l g o m s,S g l m o s
+1085,ingrian-157_stab-1,,ingrian,157_stab,tørg̊æd̥æ,t.ø.r.ɡ̥.æ.d̥.æ,t ø r ɡ̥ æ d̥ æ,,Syrjaenen2013,,False,^ t . ø . r . ɡ̥ . æ . d̥ . æ $,default,t e r g E d E,E d e g r t
+1086,komipermyak-157_stab-1,,komipermyak,157_stab,tɑʧkɑvnɯ,t.ɑ.tʃ.k.ɑ.v.n.ɯ,t ɑ tʃ k ɑ v n ɯ,,Syrjaenen2013,,False,^ t . ɑ . tʃ . k . ɑ . v . n . ɯ $,default,t o tS k o v n u,k n o t tS u v
+1087,komipermyak-157_stab-2,,komipermyak,157_stab,tʲukɲitnɯ,tʲ.u.k.ɲ.i.t.n.ɯ,tʲ u k ɲ i t n ɯ,,Syrjaenen2013,,False,^ tʲ . u . k . ɲ . i . t . n . ɯ $,default,ty~ u k 5 i t n u,5 i k n t ty~ u
+1088,komizyrian-157_stab-1,,komizyrian,157_stab,suʧkɯnɯ,s.u.tʃ.k.ɯ.n.ɯ,s u tʃ k ɯ n ɯ,,Syrjaenen2013,,False,^ s . u . tʃ . k . ɯ . n . ɯ $,default,s u tS k u n u,k n s tS u
+1089,komizyrian-157_stab-2,,komizyrian,157_stab,bɯʧkɯnɯ,b.ɯ.tʃ.k.ɯ.n.ɯ,b ɯ tʃ k ɯ n ɯ,,Syrjaenen2013,,False,^ b . ɯ . tʃ . k . ɯ . n . ɯ $,default,b u tS k u n u,b k n tS u
+1090,nganasan-157_stab-1,,nganasan,157_stab,nərudʲi,n.ə.r.u.dʲ.i,n ə r u dʲ i,,Syrjaenen2013,,False,^ n . ə . r . u . dʲ . i $,default,n 3 r u dy~ i,3 dy~ i n r u
+1091,udmurt-157_stab-1,,udmurt,157_stab,bɯʃkɑltɯnɯ,b.ɯ.ʃ.k.ɑ.l.t.ɯ.n.ɯ,b ɯ ʃ k ɑ l t ɯ n ɯ,,Syrjaenen2013,,False,^ b . ɯ . ʃ . k . ɑ . l . t . ɯ . n . ɯ $,default,b u S k o l t u n u,S b k l n o t u
+1092,erzya-157_stab-2,,erzya,157_stab,pupɑms,p.u.p.ɑ.m.s,p u p ɑ m s,,Syrjaenen2013,,False,^ p . u . p . ɑ . m . s $,default,p u p o m s,m o p s u
+1093,selkup-157_stab-1,,selkup,157_stab,suə̠ŋkə,s.u.ə̠.ŋ.k.ə,s u ə̠ ŋ k ə,,Syrjaenen2013,,False,^ s . u . ə̠ . ŋ . k . ə $,default,s u 3 N k 3,3 N k s u
+1094,erzya-158_stand-1,,erzya,158_stand,ɑʃtʲems_ɕtʲɑdo,ɑ.ʃ.tʲ.e.m.s._.ɕ.tʲ.ɑ.d.o,ɑ ʃ tʲ e m s + ɕ tʲ ɑ d o,,Syrjaenen2013,,False,^ ɑ . ʃ . tʲ . e . m . s . _ . ɕ . tʲ . ɑ . d . o $,default,o S ty~ e m s  S ty~ o d o, S d e m o s ty~
+1095,komipermyak-158_stand-1,,komipermyak,158_stand,sulɑvnɯ,s.u.l.ɑ.v.n.ɯ,s u l ɑ v n ɯ,,Syrjaenen2013,,False,^ s . u . l . ɑ . v . n . ɯ $,default,s u l o v n u,l n o s u v
+1096,komizyrian-158_stand-1,,komizyrian,158_stand,sulɑvnɯ,s.u.l.ɑ.v.n.ɯ,s u l ɑ v n ɯ,,Syrjaenen2013,,False,^ s . u . l . ɑ . v . n . ɯ $,default,s u l o v n u,l n o s u v
+1097,nganasan-158_stand-1,,nganasan,158_stand,nənsɯdʲi,n.ə.n.s.ɯ.dʲ.i,n ə n s ɯ dʲ i,,Syrjaenen2013,,False,^ n . ə . n . s . ɯ . dʲ . i $,default,n 3 n s u dy~ i,3 dy~ i n s u
+1098,selkup-158_stand-1,,selkup,158_stand,nɯŋki,n.ɯ.ŋ.k.i,n ɯ ŋ k i,,Syrjaenen2013,,False,^ n . ɯ . ŋ . k . i $,default,n u N k i,N i k n u
+1099,udmurt-158_stand-1,,udmurt,158_stand,sɯlɯnɯ,s.ɯ.l.ɯ.n.ɯ,s ɯ l ɯ n ɯ,,Syrjaenen2013,,False,^ s . ɯ . l . ɯ . n . ɯ $,default,s u l u n u,l n s u
+1100,ingrian-158_stand-1,,ingrian,158_stand,seissæ,s.e.i.s.s.æ,s e i s s æ,,Syrjaenen2013,,False,^ s . e . i . s . s . æ $,default,s e i s s E,E e i s
+1101,ingrian-159_star-1,,ingrian,159_star,tæhti,t.æ.h.t.i,t æ h t i,,Syrjaenen2013,,False,^ t . æ . h . t . i $,default,t E h t i,E h i t
+1102,komipermyak-159_star-1,,komipermyak,159_star,kɤʥɯv,k.ɤ.dʑ.ɯ.v,k ɤ dʑ ɯ v,,Syrjaenen2013,,False,^ k . ɤ . dʑ . ɯ . v $,default,k o dZ u v,dZ k o u v
+1103,komizyrian-159_star-1,,komizyrian,159_star,koʥuv,k.o.dʑ.u.v,k o dʑ u v,,Syrjaenen2013,,False,^ k . o . dʑ . u . v $,default,k o dZ u v,dZ k o u v
+1104,nganasan-159_star-1,,nganasan,159_star,hotədʲiə,h.o.t.ə.dʲ.i.ə,h o t ə dʲ i ə,,Syrjaenen2013,,False,^ h . o . t . ə . dʲ . i . ə $,default,h o t 3 dy~ i 3,3 dy~ h i o t
+1105,selkup-159_star-1,,selkup,159_star,qɯɕəŋqɑ,q.ɯ.ɕ.ə.ŋ.q.ɑ,q ɯ ɕ ə ŋ q ɑ,,Syrjaenen2013,,False,^ q . ɯ . ɕ . ə . ŋ . q . ɑ $,default,q u S 3 N q o,3 N S o q u
+1106,erzya-159_star-1,,erzya,159_star,tʲeʃtʲe,tʲ.e.ʃ.tʲ.e,tʲ e ʃ tʲ e,,Syrjaenen2013,,False,^ tʲ . e . ʃ . tʲ . e $,default,ty~ e S ty~ e,S e ty~
+1107,udmurt-159_star-1,,udmurt,159_star,kiʑiʎi,k.i.ʑ.i.ʎ.i,k i ʑ i ʎ i,,Syrjaenen2013,,False,^ k . i . ʑ . i . ʎ . i $,default,k i Z i L i,L Z i k
+1108,erzya-161_stone-1,,erzya,161_stone,cev,c.e.v,c e v,,Syrjaenen2013,,False,^ c . e . v $,default,T e v,T e v
+1109,ingrian-161_stone-1,,ingrian,161_stone,kivi,k.i.v.i,k i v i,,Syrjaenen2013,,False,^ k . i . v . i $,default,k i v i,i k v
+1110,komipermyak-161_stone-1,,komipermyak,161_stone,iz,i.z,i z,,Syrjaenen2013,,False,^ i . z $,default,i z,i z
+1111,komizyrian-161_stone-1,,komizyrian,161_stone,iz,i.z,i z,,Syrjaenen2013,,False,^ i . z $,default,i z,i z
+1112,nganasan-161_stone-1,,nganasan,161_stone,huɑlə,h.u.ɑ.l.ə,h u ɑ l ə,,Syrjaenen2013,,False,^ h . u . ɑ . l . ə $,default,h u o l 3,3 h l o u
+1113,selkup-161_stone-1,,selkup,161_stone,pyː,p.yː,p yː,,Syrjaenen2013,,False,^ p . yː $,default,p i,i p
+1114,udmurt-161_stone-1,,udmurt,161_stone,iz,i.z,i z,,Syrjaenen2013,,False,^ i . z $,default,i z,i z
+1115,ingrian-162_straight-1,,ingrian,162_straight,soːrɑ,s.oː.r.ɑ,s oː r ɑ,,Syrjaenen2013,,False,^ s . oː . r . ɑ $,default,s o r o,o r s
+1116,ingrian-162_straight-2,,ingrian,162_straight,oikiɑ,o.i.k.i.ɑ,o i k i ɑ,,Syrjaenen2013,,False,^ o . i . k . i . ɑ $,default,o i k i o,i k o
+1117,komipermyak-162_straight-1,,komipermyak,162_straight,veɕkɯd,v.e.ɕ.k.ɯ.d,v e ɕ k ɯ d,,Syrjaenen2013,,False,^ v . e . ɕ . k . ɯ . d $,default,v e S k u d,S d e k u v
+1118,komizyrian-162_straight-1,,komizyrian,162_straight,veɕkɯd,v.e.ɕ.k.ɯ.d,v e ɕ k ɯ d,,Syrjaenen2013,,False,^ v . e . ɕ . k . ɯ . d $,default,v e S k u d,S d e k u v
+1119,nganasan-162_straight-1,,nganasan,162_straight,nəməgəː,n.ə.m.ə.ɡ.əː,n ə m ə ɡ əː,,Syrjaenen2013,,False,^ n . ə . m . ə . ɡ . əː $,default,n 3 m 3 g 3,3 g m n
+1120,selkup-162_straight-1,,selkup,162_straight,tɑːt,t.ɑː.t,t ɑː t,,Syrjaenen2013,,False,^ t . ɑː . t $,default,t o t,o t
+1121,udmurt-162_straight-1,,udmurt,162_straight,ʃoɲer,ʃ.o.ɲ.e.r,ʃ o ɲ e r,,Syrjaenen2013,,False,^ ʃ . o . ɲ . e . r $,default,S o 5 e r,5 S e o r
+1122,erzya-162_straight-1,,erzya,162_straight,vidʲe,v.i.dʲ.e,v i dʲ e,,Syrjaenen2013,,False,^ v . i . dʲ . e $,default,v i dy~ e,dy~ e i v
+1123,erzya-163_suck-1,,erzya,163_suck,potʲɑms,p.o.tʲ.ɑ.m.s,p o tʲ ɑ m s,,Syrjaenen2013,,False,^ p . o . tʲ . ɑ . m . s $,default,p o ty~ o m s,m o p s ty~
+1124,ingrian-163_suck-1,,ingrian,163_suck,imˑiːæ,i.mː.iː.æ,i mː iː æ,,Syrjaenen2013,,False,^ i . mː . iː . æ $,default,i m i E,E i m
+1125,selkup-163_suck-1,,selkup,163_suck,ɲim,ɲ.i.m,ɲ i m,,Syrjaenen2013,,False,^ ɲ . i . m $,default,5 i m,5 i m
+1126,udmurt-163_suck-1,,udmurt,163_suck,nonɯnɯ,n.o.n.ɯ.n.ɯ,n o n ɯ n ɯ,,Syrjaenen2013,,False,^ n . o . n . ɯ . n . ɯ $,default,n o n u n u,n o u
+1127,komipermyak-163_suck-1,,komipermyak,163_suck,ɲimɑvnɯ,ɲ.i.m.ɑ.v.n.ɯ,ɲ i m ɑ v n ɯ,,Syrjaenen2013,,False,^ ɲ . i . m . ɑ . v . n . ɯ $,default,5 i m o v n u,5 i m n o u v
+1128,komizyrian-163_suck-1,,komizyrian,163_suck,ɲoɲɑvnɯ,ɲ.o.ɲ.ɑ.v.n.ɯ,ɲ o ɲ ɑ v n ɯ,,Syrjaenen2013,,False,^ ɲ . o . ɲ . ɑ . v . n . ɯ $,default,5 o 5 o v n u,5 n o u v
+1129,erzya-164_sun-1,,erzya,164_sun,ʧi,tʃ.i,tʃ i,,Syrjaenen2013,,False,^ tʃ . i $,default,tS i,i tS
+1130,ingrian-164_sun-1,,ingrian,164_sun,pæivyd̥,p.æ.i.v.y.d̥,p æ i v y d̥,,Syrjaenen2013,,False,^ p . æ . i . v . y . d̥ $,default,p E i v i d,E d i p v
+1131,komizyrian-164_sun-1,,komizyrian,164_sun,ʃondi,ʃ.o.n.d.i,ʃ o n d i,,Syrjaenen2013,,False,^ ʃ . o . n . d . i $,default,S o n d i,S d i n o
+1132,nganasan-164_sun-1,,nganasan,164_sun,kou,k.o.u,k o u,,Syrjaenen2013,,False,^ k . o . u $,default,k o u,k o u
+1133,selkup-164_sun-1,,selkup,164_sun,ʨeːlə,tɕ.eː.l.ə,tɕ eː l ə,,Syrjaenen2013,,False,^ tɕ . eː . l . ə $,default,tS e l 3,3 e l tS
+1134,udmurt-164_sun-1,,udmurt,164_sun,ʃundɯ,ʃ.u.n.d.ɯ,ʃ u n d ɯ,,Syrjaenen2013,,False,^ ʃ . u . n . d . ɯ $,default,S u n d u,S d n u
+1135,komipermyak-164_sun-1,,komipermyak,164_sun,ʃondi,ʃ.o.n.d.i,ʃ o n d i,,Syrjaenen2013,,False,^ ʃ . o . n . d . i $,default,S o n d i,S d i n o
+1136,erzya-165_swell-1,,erzya,165_swell,tɑrgoʑems,t.ɑ.r.ɡ.o.ʑ.e.m.s,t ɑ r ɡ o ʑ e m s,,Syrjaenen2013,,False,^ t . ɑ . r . ɡ . o . ʑ . e . m . s $,default,t o r g o Z e m s,Z e g m o r s t
+1137,ingrian-165_swell-1,,ingrian,165_swell,pɑisuɑ,p.ɑ.i.s.u.ɑ,p ɑ i s u ɑ,,Syrjaenen2013,,False,^ p . ɑ . i . s . u . ɑ $,default,p o i s u o,i o p s u
+1138,komipermyak-165_swell-1,,komipermyak,165_swell,poʎdɯnɯ,p.o.ʎ.d.ɯ.n.ɯ,p o ʎ d ɯ n ɯ,,Syrjaenen2013,,False,^ p . o . ʎ . d . ɯ . n . ɯ $,default,p o L d u n u,L d n o p u
+1139,komizyrian-165_swell-1,,komizyrian,165_swell,pɯktɯnɯ,p.ɯ.k.t.ɯ.n.ɯ,p ɯ k t ɯ n ɯ,,Syrjaenen2013,,False,^ p . ɯ . k . t . ɯ . n . ɯ $,default,p u k t u n u,k n p t u
+1140,komizyrian-165_swell-2,,komizyrian,165_swell,dundɯnɯ,d.u.n.d.ɯ.n.ɯ,d u n d ɯ n ɯ,,Syrjaenen2013,,False,^ d . u . n . d . ɯ . n . ɯ $,default,d u n d u n u,d n u
+1141,nganasan-165_swell-1,,nganasan,165_swell,hoɲydʲi,h.o.ɲ.y.dʲ.i,h o ɲ y dʲ i,,Syrjaenen2013,,False,^ h . o . ɲ . y . dʲ . i $,default,h o 5 i dy~ i,5 dy~ h i o
+1142,selkup-165_swell-1,,selkup,165_swell,ʧɑŋku,tʃ.ɑ.ŋ.k.u,tʃ ɑ ŋ k u,,Syrjaenen2013,,False,^ tʃ . ɑ . ŋ . k . u $,default,tS o N k u,N k o tS u
+1143,udmurt-165_swell-1,,udmurt,165_swell,pɯktɯnɯ,p.ɯ.k.t.ɯ.n.ɯ,p ɯ k t ɯ n ɯ,,Syrjaenen2013,,False,^ p . ɯ . k . t . ɯ . n . ɯ $,default,p u k t u n u,k n p t u
+1144,udmurt-165_swell-2,,udmurt,165_swell,tɤrnɑnɯ,t.ɤ.r.n.ɑ.n.ɯ,t ɤ r n ɑ n ɯ,,Syrjaenen2013,,False,^ t . ɤ . r . n . ɑ . n . ɯ $,default,t o r n o n u,n o r t u
+1145,ingrian-166_swim-1,,ingrian,166_swim,ujˑuːɑ,u.jː.uː.ɑ,u jː uː ɑ,,Syrjaenen2013,,False,^ u . jː . uː . ɑ $,default,u y u o,o u y
+1146,komipermyak-166_swim-1,,komipermyak,166_swim,ujɑvnɯ,u.j.ɑ.v.n.ɯ,u j ɑ v n ɯ,,Syrjaenen2013,,False,^ u . j . ɑ . v . n . ɯ $,default,u y o v n u,n o u v y
+1147,komizyrian-166_swim-1,,komizyrian,166_swim,ujɑvnɯ,u.j.ɑ.v.n.ɯ,u j ɑ v n ɯ,,Syrjaenen2013,,False,^ u . j . ɑ . v . n . ɯ $,default,u y o v n u,n o u v y
+1148,komizyrian-166_swim-2,,komizyrian,166_swim,vɑrtʲʨɯnɯ,v.ɑ.r.tʲ.tɕ.ɯ.n.ɯ,v ɑ r tʲ tɕ ɯ n ɯ,,Syrjaenen2013,,False,^ v . ɑ . r . tʲ . tɕ . ɯ . n . ɯ $,default,v o r ty~ tS u n u,n o r tS ty~ u v
+1149,selkup-166_swim-1,,selkup,166_swim,uː,uː,uː,,Syrjaenen2013,,False,^ uː $,default,u,u
+1150,udmurt-166_swim-1,,udmurt,166_swim,ujɑnɯ,u.j.ɑ.n.ɯ,u j ɑ n ɯ,,Syrjaenen2013,,False,^ u . j . ɑ . n . ɯ $,default,u y o n u,n o u y
+1151,erzya-166_swim-1,,erzya,166_swim,ujems,u.j.e.m.s,u j e m s,,Syrjaenen2013,,False,^ u . j . e . m . s $,default,u y e m s,e m s u y
+1152,nganasan-166_swim-1,,nganasan,166_swim,hoðɯrsɯ,h.o.ð.ɯ.r.s.ɯ,h o ð ɯ r s ɯ,,Syrjaenen2013,,False,^ h . o . ð . ɯ . r . s . ɯ $,default,h o 8 u r s u,8 h o r s u
+1153,komipermyak-167_tail-1,,komipermyak,167_tail,bɤʒ,b.ɤ.ʒ,b ɤ ʒ,,Syrjaenen2013,,False,^ b . ɤ . ʒ $,default,b o Z,Z b o
+1154,komizyrian-167_tail-1,,komizyrian,167_tail,bɤʒ,b.ɤ.ʒ,b ɤ ʒ,,Syrjaenen2013,,False,^ b . ɤ . ʒ $,default,b o Z,Z b o
+1155,nganasan-167_tail-1,,nganasan,167_tail,təjbu,t.ə.j.b.u,t ə j b u,,Syrjaenen2013,,False,^ t . ə . j . b . u $,default,t 3 y b u,3 b t u y
+1156,udmurt-167_tail-1,,udmurt,167_tail,bɯʒ,b.ɯ.ʒ,b ɯ ʒ,,Syrjaenen2013,,False,^ b . ɯ . ʒ $,default,b u Z,Z b u
+1157,erzya-167_tail-1,,erzya,167_tail,pulo,p.u.l.o,p u l o,,Syrjaenen2013,,False,^ p . u . l . o $,default,p u l o,l o p u
+1158,ingrian-167_tail-1,,ingrian,167_tail,hænd̥æ,h.æ.n.d̥.æ,h æ n d̥ æ,,Syrjaenen2013,,False,^ h . æ . n . d̥ . æ $,default,h E n d E,E d h n
+1159,selkup-167_tail-1,,selkup,167_tail,tɑlʨu,t.ɑ.l.tɕ.u,t ɑ l tɕ u,,Syrjaenen2013,,False,^ t . ɑ . l . tɕ . u $,default,t o l tS u,l o t tS u
+1160,selkup-167_tail-2,,selkup,167_tail,meʨɑ,m.e.tɕ.ɑ,m e tɕ ɑ,,Syrjaenen2013,,False,^ m . e . tɕ . ɑ $,default,m e tS o,e m o tS
+1161,komipermyak-168_that-1,,komipermyak,168_that,sijɑ,s.i.j.ɑ,s i j ɑ,,Syrjaenen2013,,False,^ s . i . j . ɑ $,default,s i y o,i o s y
+1162,erzya-168_that-1,,erzya,168_that,tonɑ,t.o.n.ɑ,t o n ɑ,,Syrjaenen2013,,False,^ t . o . n . ɑ $,default,t o n o,n o t
+1163,erzya-168_that-2,,erzya,168_that,ɕe,ɕ.e,ɕ e,,Syrjaenen2013,,False,^ ɕ . e $,default,S e,S e
+1164,ingrian-168_that-1,,ingrian,168_that,toː,t.oː,t oː,,Syrjaenen2013,,False,^ t . oː $,default,t o,o t
+1165,komizyrian-168_that-1,,komizyrian,168_that,tɯ,t.ɯ,t ɯ,,Syrjaenen2013,,False,^ t . ɯ $,default,t u,t u
+1166,komizyrian-168_that-2,,komizyrian,168_that,sijɤ,s.i.j.ɤ,s i j ɤ,,Syrjaenen2013,,False,^ s . i . j . ɤ $,default,s i y o,i o s y
+1167,nganasan-168_that-1,,nganasan,168_that,təti,t.ə.t.i,t ə t i,,Syrjaenen2013,,False,^ t . ə . t . i $,default,t 3 t i,3 i t
+1168,nganasan-168_that-2,,nganasan,168_that,tɑːniə,t.ɑː.n.i.ə,t ɑː n i ə,,Syrjaenen2013,,False,^ t . ɑː . n . i . ə $,default,t o n i 3,3 i n o t
+1169,nganasan-168_that-3,,nganasan,168_that,tɑkəː,t.ɑ.k.əː,t ɑ k əː,,Syrjaenen2013,,False,^ t . ɑ . k . əː $,default,t o k 3,3 k o t
+1170,selkup-168_that-1,,selkup,168_that,toː,t.oː,t oː,,Syrjaenen2013,,False,^ t . oː $,default,t o,o t
+1171,udmurt-168_that-1,,udmurt,168_that,so,s.o,s o,,Syrjaenen2013,,False,^ s . o $,default,s o,o s
+1172,nganasan-169_there-1,,nganasan,169_there,əməɲi,ə.m.ə.ɲ.i,ə m ə ɲ i,,Syrjaenen2013,,False,^ ə . m . ə . ɲ . i $,default,3 m 3 5 i,3 5 i m
+1173,nganasan-169_there-2,,nganasan,169_there,təni,t.ə.n.i,t ə n i,,Syrjaenen2013,,False,^ t . ə . n . i $,default,t 3 n i,3 i n t
+1174,erzya-169_there-1,,erzya,169_there,toso,t.o.s.o,t o s o,,Syrjaenen2013,,False,^ t . o . s . o $,default,t o s o,o s t
+1175,erzya-169_there-2,,erzya,169_there,ɕese,ɕ.e.s.e,ɕ e s e,,Syrjaenen2013,,False,^ ɕ . e . s . e $,default,S e s e,S e s
+1176,ingrian-169_there-1,,ingrian,169_there,toːɑl,t.oː.ɑ.l,t oː ɑ l,,Syrjaenen2013,,False,^ t . oː . ɑ . l $,default,t o o l,l o t
+1177,komipermyak-169_there-1,,komipermyak,169_there,setɤn,s.e.t.ɤ.n,s e t ɤ n,,Syrjaenen2013,,False,^ s . e . t . ɤ . n $,default,s e t o n,e n o s t
+1178,komizyrian-169_there-1,,komizyrian,169_there,sen,s.e.n,s e n,,Syrjaenen2013,,False,^ s . e . n $,default,s e n,e n s
+1179,komizyrian-169_there-2,,komizyrian,169_there,estɤn,e.s.t.ɤ.n,e s t ɤ n,,Syrjaenen2013,,False,^ e . s . t . ɤ . n $,default,e s t o n,e n o s t
+1180,selkup-169_there-1,,selkup,169_there,toːntə,t.oː.n.t.ə,t oː n t ə,,Syrjaenen2013,,False,^ t . oː . n . t . ə $,default,t o n t 3,3 n o t
+1181,udmurt-169_there-1,,udmurt,169_there,otɯn,o.t.ɯ.n,o t ɯ n,,Syrjaenen2013,,False,^ o . t . ɯ . n $,default,o t u n,n o t u
+1182,erzya-170_they-1,,erzya,170_they,siɲ,s.i.ɲ,s i ɲ,,Syrjaenen2013,,False,^ s . i . ɲ $,default,s i 5,5 i s
+1183,ingrian-170_they-1,,ingrian,170_they,høː,h.øː,h øː,,Syrjaenen2013,,False,^ h . øː $,default,h e,e h
+1184,komipermyak-170_they-1,,komipermyak,170_they,nijɑ,n.i.j.ɑ,n i j ɑ,,Syrjaenen2013,,False,^ n . i . j . ɑ $,default,n i y o,i n o y
+1185,komizyrian-170_they-1,,komizyrian,170_they,nɑjɤ,n.ɑ.j.ɤ,n ɑ j ɤ,,Syrjaenen2013,,False,^ n . ɑ . j . ɤ $,default,n o y o,n o y
+1186,selkup-170_they-1,,selkup,170_they,tepət,t.e.p.ə.t,t e p ə t,,Syrjaenen2013,,False,^ t . e . p . ə . t $,default,t e p 3 t,3 e p t
+1187,udmurt-170_they-1,,udmurt,170_they,soos,s.o.o.s,s o o s,,Syrjaenen2013,,False,^ s . o . o . s $,default,s o o s,o s
+1188,nganasan-170_they-1,,nganasan,170_they,sɯtɯŋ,s.ɯ.t.ɯ.ŋ,s ɯ t ɯ ŋ,,Syrjaenen2013,,False,^ s . ɯ . t . ɯ . ŋ $,default,s u t u N,N s t u
+1189,komipermyak-171_thick-1,,komipermyak,171_thick,kɯz,k.ɯ.z,k ɯ z,,Syrjaenen2013,,False,^ k . ɯ . z $,default,k u z,k u z
+1190,komizyrian-171_thick-1,,komizyrian,171_thick,kɯz,k.ɯ.z,k ɯ z,,Syrjaenen2013,,False,^ k . ɯ . z $,default,k u z,k u z
+1191,selkup-171_thick-1,,selkup,171_thick,ɲɑŋtu,ɲ.ɑ.ŋ.t.u,ɲ ɑ ŋ t u,,Syrjaenen2013,,False,^ ɲ . ɑ . ŋ . t . u $,default,5 o N t u,5 N o t u
+1192,udmurt-171_thick-1,,udmurt,171_thick,zɤk,z.ɤ.k,z ɤ k,,Syrjaenen2013,,False,^ z . ɤ . k $,default,z o k,k o z
+1193,erzya-171_thick-1,,erzya,171_thick,eʧke,e.tʃ.k.e,e tʃ k e,,Syrjaenen2013,,False,^ e . tʃ . k . e $,default,e tS k e,e k tS
+1194,ingrian-171_thick-1,,ingrian,171_thick,pɑksu,p.ɑ.k.s.u,p ɑ k s u,,Syrjaenen2013,,False,^ p . ɑ . k . s . u $,default,p o k s u,k o p s u
+1195,erzya-172_thin-1,,erzya,172_thin,ʧovɑ,tʃ.o.v.ɑ,tʃ o v ɑ,,Syrjaenen2013,,False,^ tʃ . o . v . ɑ $,default,tS o v o,o tS v
+1196,ingrian-172_thin-1,,ingrian,172_thin,hoikkɑ,h.o.i.k.k.ɑ,h o i k k ɑ,,Syrjaenen2013,,False,^ h . o . i . k . k . ɑ $,default,h o i k k o,h i k o
+1197,ingrian-172_thin-2,,ingrian,172_thin,heːno,h.eː.n.o,h eː n o,,Syrjaenen2013,,False,^ h . eː . n . o $,default,h e n o,e h n o
+1198,komipermyak-172_thin-1,,komipermyak,172_thin,vɤsɲid,v.ɤ.s.ɲ.i.d,v ɤ s ɲ i d,,Syrjaenen2013,,False,^ v . ɤ . s . ɲ . i . d $,default,v o s 5 i d,5 d i o s v
+1199,nganasan-172_thin-1,,nganasan,172_thin,ɲeu,ɲ.e.u,ɲ e u,,Syrjaenen2013,,False,^ ɲ . e . u $,default,5 e u,5 e u
+1200,selkup-172_thin-1,,selkup,172_thin,ʨoːptə,tɕ.oː.p.t.ə,tɕ oː p t ə,,Syrjaenen2013,,False,^ tɕ . oː . p . t . ə $,default,tS o p t 3,3 o p t tS
+1201,komizyrian-172_thin-1,,komizyrian,172_thin,vesɲɯd,v.e.s.ɲ.ɯ.d,v e s ɲ ɯ d,,Syrjaenen2013,,False,^ v . e . s . ɲ . ɯ . d $,default,v e s 5 u d,5 d e s u v
+1202,nganasan-172_thin-2,,nganasan,172_thin,dʲobtəgəː,dʲ.o.b.t.ə.ɡ.əː,dʲ o b t ə ɡ əː,,Syrjaenen2013,,False,^ dʲ . o . b . t . ə . ɡ . əː $,default,dy~ o b t 3 g 3,3 b dy~ g o t
+1203,udmurt-172_thin-1,,udmurt,172_thin,vekʨi,v.e.k.tɕ.i,v e k tɕ i,,Syrjaenen2013,,False,^ v . e . k . tɕ . i $,default,v e k tS i,e i k tS v
+1204,erzya-173_think-1,,erzya,173_think,dumɑms,d.u.m.ɑ.m.s,d u m ɑ m s,,Syrjaenen2013,,False,^ d . u . m . ɑ . m . s $,default,d u m o m s,d m o s u
+1205,komipermyak-173_think-1,,komipermyak,173_think,dumɑjtnɯ,d.u.m.ɑ.j.t.n.ɯ,d u m ɑ j t n ɯ,,Syrjaenen2013,,False,^ d . u . m . ɑ . j . t . n . ɯ $,default,d u m o y t n u,d m n o t u y
+1206,komizyrian-173_think-1,,komizyrian,173_think,mɤvnɑvnɯ,m.ɤ.v.n.ɑ.v.n.ɯ,m ɤ v n ɑ v n ɯ,,Syrjaenen2013,,False,^ m . ɤ . v . n . ɑ . v . n . ɯ $,default,m o v n o v n u,m n o u v
+1207,nganasan-173_think-1,,nganasan,173_think,sɯɲəruədʲi,s.ɯ.ɲ.ə.r.u.ə.dʲ.i,s ɯ ɲ ə r u ə dʲ i,,Syrjaenen2013,,False,^ s . ɯ . ɲ . ə . r . u . ə . dʲ . i $,default,s u 5 3 r u 3 dy~ i,3 5 dy~ i r s u
+1208,selkup-173_think-1,,selkup,173_think,tenirpi,t.e.n.i.r.p.i,t e n i r p i,,Syrjaenen2013,,False,^ t . e . n . i . r . p . i $,default,t e n i r p i,e i n p r t
+1209,udmurt-173_think-1,,udmurt,173_think,mɑlpɑnɯ,m.ɑ.l.p.ɑ.n.ɯ,m ɑ l p ɑ n ɯ,,Syrjaenen2013,,False,^ m . ɑ . l . p . ɑ . n . ɯ $,default,m o l p o n u,l m n o p u
+1210,erzya-173_think-2,,erzya,173_think,ɑrʲɕems,ɑ.rʲ.ɕ.e.m.s,ɑ rʲ ɕ e m s,,Syrjaenen2013,,False,^ ɑ . rʲ . ɕ . e . m . s $,default,o ry~ S e m s,S e m o ry~ s
+1211,ingrian-173_think-1,,ingrian,173_think,meinɑd̥ɑ,m.e.i.n.ɑ.d̥.ɑ,m e i n ɑ d̥ ɑ,,Syrjaenen2013,,False,^ m . e . i . n . ɑ . d̥ . ɑ $,default,m e i n o d o,d e i m n o
+1212,komizyrian-173_think-2,,komizyrian,173_think,dumɑjtnɯ,d.u.m.ɑ.j.t.n.ɯ,d u m ɑ j t n ɯ,,Syrjaenen2013,,False,^ d . u . m . ɑ . j . t . n . ɯ $,default,d u m o y t n u,d m n o t u y
+1213,erzya-174_this-1,,erzya,174_this,tʲe,tʲ.e,tʲ e,,Syrjaenen2013,,False,^ tʲ . e $,default,ty~ e,e ty~
+1214,ingrian-174_this-1,,ingrian,174_this,tæmæ,t.æ.m.æ,t æ m æ,,Syrjaenen2013,,False,^ t . æ . m . æ $,default,t E m E,E m t
+1215,komipermyak-174_this-1,,komipermyak,174_this,etɑ,e.t.ɑ,e t ɑ,,Syrjaenen2013,,False,^ e . t . ɑ $,default,e t o,e o t
+1216,komizyrian-174_this-1,,komizyrian,174_this,tɑ,t.ɑ,t ɑ,,Syrjaenen2013,,False,^ t . ɑ $,default,t o,o t
+1217,nganasan-174_this-1,,nganasan,174_this,əmə,ə.m.ə,ə m ə,,Syrjaenen2013,,False,^ ə . m . ə $,default,3 m 3,3 m
+1218,selkup-174_this-1,,selkup,174_this,tɑm,t.ɑ.m,t ɑ m,,Syrjaenen2013,,False,^ t . ɑ . m $,default,t o m,m o t
+1219,udmurt-174_this-1,,udmurt,174_this,tɑ,t.ɑ,t ɑ,,Syrjaenen2013,,False,^ t . ɑ $,default,t o,o t
+1220,komizyrian-174_this-2,,komizyrian,174_this,etɑjɤ,e.t.ɑ.j.ɤ,e t ɑ j ɤ,,Syrjaenen2013,,False,^ e . t . ɑ . j . ɤ $,default,e t o y o,e o t y
+1221,erzya-175_three-1,,erzya,175_three,kolmo,k.o.l.m.o,k o l m o,,Syrjaenen2013,,False,^ k . o . l . m . o $,default,k o l m o,k l m o
+1222,ingrian-175_three-1,,ingrian,175_three,kold̥,k.o.l.d̥,k o l d̥,,Syrjaenen2013,,False,^ k . o . l . d̥ $,default,k o l d,d k l o
+1223,komipermyak-175_three-1,,komipermyak,175_three,kujim,k.u.j.i.m,k u j i m,,Syrjaenen2013,,False,^ k . u . j . i . m $,default,k u y i m,i k m u y
+1224,nganasan-175_three-1,,nganasan,175_three,nɑgyr,n.ɑ.ɡ.y.r,n ɑ ɡ y r,,Syrjaenen2013,,False,^ n . ɑ . ɡ . y . r $,default,n o g i r,g i n o r
+1225,selkup-175_three-1,,selkup,175_three,nɑːkur,n.ɑː.k.u.r,n ɑː k u r,,Syrjaenen2013,,False,^ n . ɑː . k . u . r $,default,n o k u r,k n o r u
+1226,udmurt-175_three-1,,udmurt,175_three,kuiɲ,k.ui.ɲ,k ui ɲ,,Syrjaenen2013,,False,^ k . ui . ɲ $,default,k ui 5,5 k ui
+1227,komizyrian-175_three-1,,komizyrian,175_three,kujim,k.u.j.i.m,k u j i m,,Syrjaenen2013,,False,^ k . u . j . i . m $,default,k u y i m,i k m u y
+1228,erzya-176_throw-1,,erzya,176_throw,jortoms,j.o.r.t.o.m.s,j o r t o m s,,Syrjaenen2013,,False,^ j . o . r . t . o . m . s $,default,y o r t o m s,m o r s t y
+1229,erzya-176_throw-2,,erzya,176_throw,kɑjɑms,k.ɑ.j.ɑ.m.s,k ɑ j ɑ m s,,Syrjaenen2013,,False,^ k . ɑ . j . ɑ . m . s $,default,k o y o m s,k m o s y
+1230,ingrian-176_throw-1,,ingrian,176_throw,heittæː,h.e.i.t.t.æː,h e i t t æː,,Syrjaenen2013,,False,^ h . e . i . t . t . æː $,default,h e i t t E,E e h i t
+1231,komipermyak-176_throw-1,,komipermyak,176_throw,ʨɑpkɑvnɯ,tɕ.ɑ.p.k.ɑ.v.n.ɯ,tɕ ɑ p k ɑ v n ɯ,,Syrjaenen2013,,False,^ tɕ . ɑ . p . k . ɑ . v . n . ɯ $,default,tS o p k o v n u,k n o p tS u v
+1232,komipermyak-176_throw-2,,komipermyak,176_throw,ʃupkɑvnɯ,ʃ.u.p.k.ɑ.v.n.ɯ,ʃ u p k ɑ v n ɯ,,Syrjaenen2013,,False,^ ʃ . u . p . k . ɑ . v . n . ɯ $,default,S u p k o v n u,S k n o p u v
+1233,komizyrian-176_throw-1,,komizyrian,176_throw,kojnɯ,k.o.j.n.ɯ,k o j n ɯ,,Syrjaenen2013,,False,^ k . o . j . n . ɯ $,default,k o y n u,k n o u y
+1234,nganasan-176_throw-1,,nganasan,176_throw,bɑjbudʲɑ,b.ɑ.j.b.u.dʲ.ɑ,b ɑ j b u dʲ ɑ,,Syrjaenen2013,,False,^ b . ɑ . j . b . u . dʲ . ɑ $,default,b o y b u dy~ o,b dy~ o u y
+1235,nganasan-176_throw-2,,nganasan,176_throw,sətəməsɑ,s.ə.t.ə.m.ə.s.ɑ,s ə t ə m ə s ɑ,,Syrjaenen2013,,False,^ s . ə . t . ə . m . ə . s . ɑ $,default,s 3 t 3 m 3 s o,3 m o s t
+1236,selkup-176_throw-1,,selkup,176_throw,ʨɑʧʧə,tɕ.ɑ.tʃ.tʃ.ə,tɕ ɑ tʃ tʃ ə,,Syrjaenen2013,,False,^ tɕ . ɑ . tʃ . tʃ . ə $,default,tS o tS tS 3,3 o tS
+1237,udmurt-176_throw-1,,udmurt,176_throw,kujɑnɯ,k.u.j.ɑ.n.ɯ,k u j ɑ n ɯ,,Syrjaenen2013,,False,^ k . u . j . ɑ . n . ɯ $,default,k u y o n u,k n o u y
+1238,udmurt-176_throw-2,,udmurt,176_throw,serpɑʎʎɑnɯ,s.e.r.p.ɑ.ʎ.ʎ.ɑ.n.ɯ,s e r p ɑ ʎ ʎ ɑ n ɯ,,Syrjaenen2013,,False,^ s . e . r . p . ɑ . ʎ . ʎ . ɑ . n . ɯ $,default,s e r p o L L o n u,L e n o p r s u
+1239,komizyrian-176_throw-2,,komizyrian,176_throw,ʨɤvtnɯ,tɕ.ɤ.v.t.n.ɯ,tɕ ɤ v t n ɯ,,Syrjaenen2013,,False,^ tɕ . ɤ . v . t . n . ɯ $,default,tS o v t n u,n o t tS u v
+1240,erzya-177_tie-1,,erzya,177_tie,sodoms,s.o.d.o.m.s,s o d o m s,,Syrjaenen2013,,False,^ s . o . d . o . m . s $,default,s o d o m s,d m o s
+1241,ingrian-177_tie-1,,ingrian,177_tie,sitˑoːɑ,s.i.tː.oː.ɑ,s i tː oː ɑ,,Syrjaenen2013,,False,^ s . i . tː . oː . ɑ $,default,s i t o o,i o s t
+1242,komipermyak-177_tie-1,,komipermyak,177_tie,kɤrtɑvnɯ,k.ɤ.r.t.ɑ.v.n.ɯ,k ɤ r t ɑ v n ɯ,,Syrjaenen2013,,False,^ k . ɤ . r . t . ɑ . v . n . ɯ $,default,k o r t o v n u,k n o r t u v
+1243,nganasan-177_tie-1,,nganasan,177_tie,sɑrədʲɑ,s.ɑ.r.ə.dʲ.ɑ,s ɑ r ə dʲ ɑ,,Syrjaenen2013,,False,^ s . ɑ . r . ə . dʲ . ɑ $,default,s o r 3 dy~ o,3 dy~ o r s
+1244,selkup-177_tie-1,,selkup,177_tie,sɑːrə,s.ɑː.r.ə,s ɑː r ə,,Syrjaenen2013,,False,^ s . ɑː . r . ə $,default,s o r 3,3 o r s
+1245,komizyrian-177_tie-1,,komizyrian,177_tie,kɤrtɑvnɯ,k.ɤ.r.t.ɑ.v.n.ɯ,k ɤ r t ɑ v n ɯ,,Syrjaenen2013,,False,^ k . ɤ . r . t . ɑ . v . n . ɯ $,default,k o r t o v n u,k n o r t u v
+1246,udmurt-177_tie-1,,udmurt,177_tie,dumɯnɯ,d.u.m.ɯ.n.ɯ,d u m ɯ n ɯ,,Syrjaenen2013,,False,^ d . u . m . ɯ . n . ɯ $,default,d u m u n u,d m n u
+1247,udmurt-177_tie-2,,udmurt,177_tie,kerttɯnɯ,k.e.r.t.t.ɯ.n.ɯ,k e r t t ɯ n ɯ,,Syrjaenen2013,,False,^ k . e . r . t . t . ɯ . n . ɯ $,default,k e r t t u n u,e k n r t u
+1248,selkup-178_tongue-1,,selkup,178_tongue,ɕeː,ɕ.eː,ɕ eː,,Syrjaenen2013,,False,^ ɕ . eː $,default,S e,S e
+1249,erzya-178_tongue-1,,erzya,178_tongue,keʎ,k.e.ʎ,k e ʎ,,Syrjaenen2013,,False,^ k . e . ʎ $,default,k e L,L e k
+1250,ingrian-178_tongue-1,,ingrian,178_tongue,keːli,k.eː.l.i,k eː l i,,Syrjaenen2013,,False,^ k . eː . l . i $,default,k e l i,e i k l
+1251,komizyrian-178_tongue-1,,komizyrian,178_tongue,kɯv,k.ɯ.v,k ɯ v,,Syrjaenen2013,,False,^ k . ɯ . v $,default,k u v,k u v
+1252,nganasan-178_tongue-1,,nganasan,178_tongue,ɕiədʲə,ɕ.i.ə.dʲ.ə,ɕ i ə dʲ ə,,Syrjaenen2013,,False,^ ɕ . i . ə . dʲ . ə $,default,S i 3 dy~ 3,3 S dy~ i
+1253,udmurt-178_tongue-1,,udmurt,178_tongue,kɯl,k.ɯ.l,k ɯ l,,Syrjaenen2013,,False,^ k . ɯ . l $,default,k u l,k l u
+1254,komipermyak-178_tongue-1,,komipermyak,178_tongue,kɯv,k.ɯ.v,k ɯ v,,Syrjaenen2013,,False,^ k . ɯ . v $,default,k u v,k u v
+1255,ingrian-179_tooth-1,,ingrian,179_tooth,hɑmmɑz,h.ɑ.m.m.ɑ.z,h ɑ m m ɑ z,,Syrjaenen2013,,False,^ h . ɑ . m . m . ɑ . z $,default,h o m m o z,h m o z
+1256,komipermyak-179_tooth-1,,komipermyak,179_tooth,piɲ,p.i.ɲ,p i ɲ,,Syrjaenen2013,,False,^ p . i . ɲ $,default,p i 5,5 i p
+1257,komizyrian-179_tooth-1,,komizyrian,179_tooth,piɲ,p.i.ɲ,p i ɲ,,Syrjaenen2013,,False,^ p . i . ɲ $,default,p i 5,5 i p
+1258,nganasan-179_tooth-1,,nganasan,179_tooth,ʧimi,tʃ.i.m.i,tʃ i m i,,Syrjaenen2013,,False,^ tʃ . i . m . i $,default,tS i m i,i m tS
+1259,selkup-179_tooth-1,,selkup,179_tooth,timə,t.i.m.ə,t i m ə,,Syrjaenen2013,,False,^ t . i . m . ə $,default,t i m 3,3 i m t
+1260,udmurt-179_tooth-1,,udmurt,179_tooth,piɲ,p.i.ɲ,p i ɲ,,Syrjaenen2013,,False,^ p . i . ɲ $,default,p i 5,5 i p
+1261,erzya-179_tooth-1,,erzya,179_tooth,pej,p.e.j,p e j,,Syrjaenen2013,,False,^ p . e . j $,default,p e y,e p y
+1262,erzya-180_tree-1,,erzya,180_tree,ʧuvto,tʃ.u.v.t.o,tʃ u v t o,,Syrjaenen2013,,False,^ tʃ . u . v . t . o $,default,tS u v t o,o t tS u v
+1263,ingrian-180_tree-1,,ingrian,180_tree,puː,p.uː,p uː,,Syrjaenen2013,,False,^ p . uː $,default,p u,p u
+1264,komipermyak-180_tree-1,,komipermyak,180_tree,pu,p.u,p u,,Syrjaenen2013,,False,^ p . u $,default,p u,p u
+1265,nganasan-180_tree-1,,nganasan,180_tree,huɑɑ,h.u.ɑ.ɑ,h u ɑ ɑ,,Syrjaenen2013,,False,^ h . u . ɑ . ɑ $,default,h u o o,h o u
+1266,selkup-180_tree-1,,selkup,180_tree,poː,p.oː,p oː,,Syrjaenen2013,,False,^ p . oː $,default,p o,o p
+1267,udmurt-180_tree-1,,udmurt,180_tree,pis#pu,p.i.s._.p.u,p i s + p u,,Syrjaenen2013,,False,^ p . i . s . _ . p . u $,default,p i s  p u, i p s u
+1268,komizyrian-180_tree-1,,komizyrian,180_tree,pu,p.u,p u,,Syrjaenen2013,,False,^ p . u $,default,p u,p u
+1269,komipermyak-181_turn-1,,komipermyak,181_turn,bergɤtʨɯnɯ,b.e.r.ɡ.ɤ.t.tɕ.ɯ.n.ɯ,b e r ɡ ɤ t tɕ ɯ n ɯ,,Syrjaenen2013,,False,^ b . e . r . ɡ . ɤ . t . tɕ . ɯ . n . ɯ $,default,b e r g o t tS u n u,b e g n o r t tS u
+1270,selkup-181_turn-1,,selkup,181_turn,piːkəl,p.iː.k.ə.l,p iː k ə l,,Syrjaenen2013,,False,^ p . iː . k . ə . l $,default,p i k 3 l,3 i k l p
+1271,erzya-181_turn-1,,erzya,181_turn,purdɑms,p.u.r.d.ɑ.m.s,p u r d ɑ m s,,Syrjaenen2013,,False,^ p . u . r . d . ɑ . m . s $,default,p u r d o m s,d m o p r s u
+1272,erzya-181_turn-2,,erzya,181_turn,veʎɑvtoms,v.e.ʎ.ɑ.v.t.o.m.s,v e ʎ ɑ v t o m s,,Syrjaenen2013,,False,^ v . e . ʎ . ɑ . v . t . o . m . s $,default,v e L o v t o m s,L e m o s t v
+1273,ingrian-181_turn-1,,ingrian,181_turn,kæːntyæ,k.æː.n.t.y.æ,k æː n t y æ,,Syrjaenen2013,,False,^ k . æː . n . t . y . æ $,default,k E n t i E,E i k n t
+1274,komizyrian-181_turn-1,,komizyrian,181_turn,bergɑvnɯ,b.e.r.ɡ.ɑ.v.n.ɯ,b e r ɡ ɑ v n ɯ,,Syrjaenen2013,,False,^ b . e . r . ɡ . ɑ . v . n . ɯ $,default,b e r g o v n u,b e g n o r u v
+1275,komizyrian-181_turn-2,,komizyrian,181_turn,keʒnɯ,k.e.ʒ.n.ɯ,k e ʒ n ɯ,,Syrjaenen2013,,False,^ k . e . ʒ . n . ɯ $,default,k e Z n u,Z e k n u
+1276,nganasan-181_turn-1,,nganasan,181_turn,bəbtuɑʔtəsɑ,b.ə.b.t.u.ɑ.ʔ.t.ə.s.ɑ,b ə b t u ɑ ʔ t ə s ɑ,,Syrjaenen2013,,False,^ b . ə . b . t . u . ɑ . ʔ . t . ə . s . ɑ $,default,b 3 b t u o 7 t 3 s o,3 7 b o s t u
+1277,udmurt-181_turn-1,,udmurt,181_turn,berɯktiɕkɯnɯ,b.e.r.ɯ.k.t.i.ɕ.k.ɯ.n.ɯ,b e r ɯ k t i ɕ k ɯ n ɯ,,Syrjaenen2013,,False,^ b . e . r . ɯ . k . t . i . ɕ . k . ɯ . n . ɯ $,default,b e r u k t i S k u n u,S b e i k n r t u
+1278,erzya-182_two-1,,erzya,182_two,kɑvto,k.ɑ.v.t.o,k ɑ v t o,,Syrjaenen2013,,False,^ k . ɑ . v . t . o $,default,k o v t o,k o t v
+1279,ingrian-182_two-1,,ingrian,182_two,kɑks,k.ɑ.k.s,k ɑ k s,,Syrjaenen2013,,False,^ k . ɑ . k . s $,default,k o k s,k o s
+1280,komipermyak-182_two-1,,komipermyak,182_two,kɯk,k.ɯ.k,k ɯ k,,Syrjaenen2013,,False,^ k . ɯ . k $,default,k u k,k u
+1281,komizyrian-182_two-1,,komizyrian,182_two,kɯk,k.ɯ.k,k ɯ k,,Syrjaenen2013,,False,^ k . ɯ . k $,default,k u k,k u
+1282,nganasan-182_two-1,,nganasan,182_two,ɕiti,ɕ.i.t.i,ɕ i t i,,Syrjaenen2013,,False,^ ɕ . i . t . i $,default,S i t i,S i t
+1283,udmurt-182_two-1,,udmurt,182_two,kɯk,k.ɯ.k,k ɯ k,,Syrjaenen2013,,False,^ k . ɯ . k $,default,k u k,k u
+1284,selkup-182_two-1,,selkup,182_two,ɕitə,ɕ.i.t.ə,ɕ i t ə,,Syrjaenen2013,,False,^ ɕ . i . t . ə $,default,S i t 3,3 S i t
+1285,erzya-183_vomit-1,,erzya,183_vomit,uksnoms,u.k.s.n.o.m.s,u k s n o m s,,Syrjaenen2013,,False,^ u . k . s . n . o . m . s $,default,u k s n o m s,k m n o s u
+1286,ingrian-183_vomit-1,,ingrian,183_vomit,oksend̥ɑissɑ,o.k.s.e.n.d̥.ɑ.i.s.s.ɑ,o k s e n d̥ ɑ i s s ɑ,,Syrjaenen2013,,False,^ o . k . s . e . n . d̥ . ɑ . i . s . s . ɑ $,default,o k s e n d o i s s o,d e i k n o s
+1287,komipermyak-183_vomit-1,,komipermyak,183_vomit,ɤsɤtnɯ,ɤ.s.ɤ.t.n.ɯ,ɤ s ɤ t n ɯ,,Syrjaenen2013,,False,^ ɤ . s . ɤ . t . n . ɯ $,default,o s o t n u,n o s t u
+1288,komizyrian-183_vomit-1,,komizyrian,183_vomit,vosnɯ,v.o.s.n.ɯ,v o s n ɯ,,Syrjaenen2013,,False,^ v . o . s . n . ɯ $,default,v o s n u,n o s u v
+1289,komizyrian-183_vomit-2,,komizyrian,183_vomit,gorʥɯnɯ,ɡ.o.r.dʑ.ɯ.n.ɯ,ɡ o r dʑ ɯ n ɯ,,Syrjaenen2013,,False,^ ɡ . o . r . dʑ . ɯ . n . ɯ $,default,g o r dZ u n u,dZ g n o r u
+1290,selkup-183_vomit-1,,selkup,183_vomit,ttə,tː.ə,tː ə,,Syrjaenen2013,,False,^ tː . ə $,default,t 3,3 t
+1291,udmurt-183_vomit-1,,udmurt,183_vomit,ɤskɯnɯ,ɤ.s.k.ɯ.n.ɯ,ɤ s k ɯ n ɯ,,Syrjaenen2013,,False,^ ɤ . s . k . ɯ . n . ɯ $,default,o s k u n u,k n o s u
+1292,erzya-184_walk-1,,erzya,184_walk,jɑkɑms,j.ɑ.k.ɑ.m.s,j ɑ k ɑ m s,,Syrjaenen2013,,False,^ j . ɑ . k . ɑ . m . s $,default,y o k o m s,k m o s y
+1293,ingrian-184_walk-1,,ingrian,184_walk,kævellæ,k.æ.v.e.l.l.æ,k æ v e l l æ,,Syrjaenen2013,,False,^ k . æ . v . e . l . l . æ $,default,k E v e l l E,E e k l v
+1294,komipermyak-184_walk-1,,komipermyak,184_walk,vetlɤtlɯnɯ,v.e.t.l.ɤ.t.l.ɯ.n.ɯ,v e t l ɤ t l ɯ n ɯ,,Syrjaenen2013,,False,^ v . e . t . l . ɤ . t . l . ɯ . n . ɯ $,default,v e t l o t l u n u,e l n o t u v
+1295,komizyrian-184_walk-1,,komizyrian,184_walk,vetlɯnɯ,v.e.t.l.ɯ.n.ɯ,v e t l ɯ n ɯ,,Syrjaenen2013,,False,^ v . e . t . l . ɯ . n . ɯ $,default,v e t l u n u,e l n t u v
+1296,nganasan-184_walk-1,,nganasan,184_walk,dʲoðyrɕɑ,dʲ.o.ð.y.r.ɕ.ɑ,dʲ o ð y r ɕ ɑ,,Syrjaenen2013,,False,^ dʲ . o . ð . y . r . ɕ . ɑ $,default,dy~ o 8 i r S o,8 S dy~ i o r
+1297,selkup-184_walk-1,,selkup,184_walk,qyəl,q.y.ə.l,q y ə l,,Syrjaenen2013,,False,^ q . y . ə . l $,default,q i 3 l,3 i l q
+1298,udmurt-184_walk-1,,udmurt,184_walk,wɑmɯʃtɯnɯ,w.ɑ.m.ɯ.ʃ.t.ɯ.n.ɯ,w ɑ m ɯ ʃ t ɯ n ɯ,,Syrjaenen2013,,False,^ w . ɑ . m . ɯ . ʃ . t . ɯ . n . ɯ $,default,w o m u S t u n u,S m n o t u w
+1299,udmurt-184_walk-2,,udmurt,184_walk,vetlɯnɯ,v.e.t.l.ɯ.n.ɯ,v e t l ɯ n ɯ,,Syrjaenen2013,,False,^ v . e . t . l . ɯ . n . ɯ $,default,v e t l u n u,e l n t u v
+1300,ingrian-185_warm-1,,ingrian,185_warm,vɑri,v.ɑ.r.i,v ɑ r i,,Syrjaenen2013,,False,^ v . ɑ . r . i $,default,v o r i,i o r v
+1301,erzya-185_warm-1,,erzya,185_warm,ʎembe,ʎ.e.m.b.e,ʎ e m b e,,Syrjaenen2013,,False,^ ʎ . e . m . b . e $,default,L e m b e,L b e m
+1302,ingrian-185_warm-2,,ingrian,185_warm,soːjɑ,s.oː.j.ɑ,s oː j ɑ,,Syrjaenen2013,,False,^ s . oː . j . ɑ $,default,s o y o,o s y
+1303,komipermyak-185_warm-1,,komipermyak,185_warm,ʃonɯt,ʃ.o.n.ɯ.t,ʃ o n ɯ t,,Syrjaenen2013,,False,^ ʃ . o . n . ɯ . t $,default,S o n u t,S n o t u
+1304,komizyrian-185_warm-1,,komizyrian,185_warm,ʃonɯd,ʃ.o.n.ɯ.d,ʃ o n ɯ d,,Syrjaenen2013,,False,^ ʃ . o . n . ɯ . d $,default,S o n u d,S d n o u
+1305,nganasan-185_warm-1,,nganasan,185_warm,ɲyɲɑ,ɲ.y.ɲ.ɑ,ɲ y ɲ ɑ,,Syrjaenen2013,,False,^ ɲ . y . ɲ . ɑ $,default,5 i 5 o,5 i o
+1306,nganasan-185_warm-2,,nganasan,185_warm,hekusɯ,h.e.k.u.s.ɯ,h e k u s ɯ,,Syrjaenen2013,,False,^ h . e . k . u . s . ɯ $,default,h e k u s u,e h k s u
+1307,selkup-185_warm-1,,selkup,185_warm,pyː,p.yː,p yː,,Syrjaenen2013,,False,^ p . yː $,default,p i,i p
+1308,udmurt-185_warm-1,,udmurt,185_warm,ʃunɯt,ʃ.u.n.ɯ.t,ʃ u n ɯ t,,Syrjaenen2013,,False,^ ʃ . u . n . ɯ . t $,default,S u n u t,S n t u
+1309,ingrian-185_warm-3,,ingrian,185_warm,læmmæː,l.æ.m.m.æː,l æ m m æː,,Syrjaenen2013,,False,^ l . æ . m . m . æː $,default,l E m m E,E l m
+1310,erzya-186_wash-1,,erzya,186_wash,ʃʎɑms,ʃ.ʎ.ɑ.m.s,ʃ ʎ ɑ m s,,Syrjaenen2013,,False,^ ʃ . ʎ . ɑ . m . s $,default,S L o m s,L S m o s
+1311,komipermyak-186_wash-1,,komipermyak,186_wash,miɕɕɯnɯ,m.i.ɕ.ɕ.ɯ.n.ɯ,m i ɕ ɕ ɯ n ɯ,,Syrjaenen2013,,False,^ m . i . ɕ . ɕ . ɯ . n . ɯ $,default,m i S S u n u,S i m n u
+1312,komizyrian-186_wash-1,,komizyrian,186_wash,mɯɕkɯnɯ,m.ɯ.ɕ.k.ɯ.n.ɯ,m ɯ ɕ k ɯ n ɯ,,Syrjaenen2013,,False,^ m . ɯ . ɕ . k . ɯ . n . ɯ $,default,m u S k u n u,S k m n u
+1313,nganasan-186_wash-1,,nganasan,186_wash,kələ,k.ə.l.ə,k ə l ə,,Syrjaenen2013,,False,^ k . ə . l . ə $,default,k 3 l 3,3 k l
+1314,nganasan-186_wash-2,,nganasan,186_wash,ɲobusɑ,ɲ.o.b.u.s.ɑ,ɲ o b u s ɑ,,Syrjaenen2013,,False,^ ɲ . o . b . u . s . ɑ $,default,5 o b u s o,5 b o s u
+1315,selkup-186_wash-1,,selkup,186_wash,muːsəlʧə,m.uː.s.ə.l.tʃ.ə,m uː s ə l tʃ ə,,Syrjaenen2013,,False,^ m . uː . s . ə . l . tʃ . ə $,default,m u s 3 l tS 3,3 l m s tS u
+1316,ingrian-186_wash-1,,ingrian,186_wash,pessæ,p.e.s.s.æ,p e s s æ,,Syrjaenen2013,,False,^ p . e . s . s . æ $,default,p e s s E,E e p s
+1317,udmurt-186_wash-1,,udmurt,186_wash,miɕkɯnɯ,m.i.ɕ.k.ɯ.n.ɯ,m i ɕ k ɯ n ɯ,,Syrjaenen2013,,False,^ m . i . ɕ . k . ɯ . n . ɯ $,default,m i S k u n u,S i k m n u
+1318,erzya-187_water-1,,erzya,187_water,vedʲ,v.e.dʲ,v e dʲ,,Syrjaenen2013,,False,^ v . e . dʲ $,default,v e dy~,dy~ e v
+1319,ingrian-187_water-1,,ingrian,187_water,vezi,v.e.z.i,v e z i,,Syrjaenen2013,,False,^ v . e . z . i $,default,v e z i,e i v z
+1320,komizyrian-187_water-1,,komizyrian,187_water,vɑ,v.ɑ,v ɑ,,Syrjaenen2013,,False,^ v . ɑ $,default,v o,o v
+1321,nganasan-187_water-1,,nganasan,187_water,bɯʔ,b.ɯ.ʔ,b ɯ ʔ,,Syrjaenen2013,,False,^ b . ɯ . ʔ $,default,b u 7,7 b u
+1322,selkup-187_water-1,,selkup,187_water,yt,y.t,y t,,Syrjaenen2013,,False,^ y . t $,default,i t,i t
+1323,udmurt-187_water-1,,udmurt,187_water,vu,v.u,v u,,Syrjaenen2013,,False,^ v . u $,default,v u,u v
+1324,komipermyak-187_water-1,,komipermyak,187_water,vɑ,v.ɑ,v ɑ,,Syrjaenen2013,,False,^ v . ɑ $,default,v o,o v
+1325,erzya-188_we-1,,erzya,188_we,miɲ,m.i.ɲ,m i ɲ,,Syrjaenen2013,,False,^ m . i . ɲ $,default,m i 5,5 i m
+1326,komipermyak-188_we-1,,komipermyak,188_we,mi,m.i,m i,,Syrjaenen2013,,False,^ m . i $,default,m i,i m
+1327,nganasan-188_we-1,,nganasan,188_we,mɯŋ,m.ɯ.ŋ,m ɯ ŋ,,Syrjaenen2013,,False,^ m . ɯ . ŋ $,default,m u N,N m u
+1328,ingrian-188_we-1,,ingrian,188_we,møː,m.øː,m øː,,Syrjaenen2013,,False,^ m . øː $,default,m e,e m
+1329,komizyrian-188_we-1,,komizyrian,188_we,mi,m.i,m i,,Syrjaenen2013,,False,^ m . i $,default,m i,i m
+1330,selkup-188_we-1,,selkup,188_we,meː,m.eː,m eː,,Syrjaenen2013,,False,^ m . eː $,default,m e,e m
+1331,udmurt-188_we-1,,udmurt,188_we,mi,m.i,m i,,Syrjaenen2013,,False,^ m . i $,default,m i,i m
+1332,ingrian-193_white-1,,ingrian,193_white,vɑlkiɑ,v.ɑ.l.k.i.ɑ,v ɑ l k i ɑ,,Syrjaenen2013,,False,^ v . ɑ . l . k . i . ɑ $,default,v o l k i o,i k l o v
+1333,komipermyak-193_white-1,,komipermyak,193_white,ʨoʨkom,tɕ.o.tɕ.k.o.m,tɕ o tɕ k o m,,Syrjaenen2013,,False,^ tɕ . o . tɕ . k . o . m $,default,tS o tS k o m,k m o tS
+1334,komizyrian-193_white-1,,komizyrian,193_white,jeʤɯd,j.e.dʒ.ɯ.d,j e dʒ ɯ d,,Syrjaenen2013,,False,^ j . e . dʒ . ɯ . d $,default,y e dZ u d,d dZ e u y
+1335,nganasan-193_white-1,,nganasan,193_white,sɯr,s.ɯ.r,s ɯ r,,Syrjaenen2013,,False,^ s . ɯ . r $,default,s u r,r s u
+1336,udmurt-193_white-1,,udmurt,193_white,tɤdʲɯ,t.ɤ.dʲ.ɯ,t ɤ dʲ ɯ,,Syrjaenen2013,,False,^ t . ɤ . dʲ . ɯ $,default,t o dy~ u,dy~ o t u
+1337,selkup-193_white-1,,selkup,193_white,sɤrə,s.ɤ.r.ə,s ɤ r ə,,Syrjaenen2013,,False,^ s . ɤ . r . ə $,default,s o r 3,3 o r s
+1338,erzya-193_white-1,,erzya,193_white,ɑʃo,ɑ.ʃ.o,ɑ ʃ o,,Syrjaenen2013,,False,^ ɑ . ʃ . o $,default,o S o,S o
+1339,erzya-195_wide-1,,erzya,195_wide,keʎej,k.e.ʎ.e.j,k e ʎ e j,,Syrjaenen2013,,False,^ k . e . ʎ . e . j $,default,k e L e y,L e k y
+1340,ingrian-195_wide-1,,ingrian,195_wide,levˑiːæ,l.e.vː.iː.æ,l e vː iː æ,,Syrjaenen2013,,False,^ l . e . vː . iː . æ $,default,l e v i E,E e i l v
+1341,komipermyak-195_wide-1,,komipermyak,195_wide,pɑɕkɯt,p.ɑ.ɕ.k.ɯ.t,p ɑ ɕ k ɯ t,,Syrjaenen2013,,False,^ p . ɑ . ɕ . k . ɯ . t $,default,p o S k u t,S k o p t u
+1342,komizyrian-195_wide-1,,komizyrian,195_wide,pɑɕkɯd,p.ɑ.ɕ.k.ɯ.d,p ɑ ɕ k ɯ d,,Syrjaenen2013,,False,^ p . ɑ . ɕ . k . ɯ . d $,default,p o S k u d,S d k o p u
+1343,komizyrian-195_wide-2,,komizyrian,195_wide,otɑ,o.t.ɑ,o t ɑ,,Syrjaenen2013,,False,^ o . t . ɑ $,default,o t o,o t
+1344,nganasan-195_wide-1,,nganasan,195_wide,tɑntəgəː,t.ɑ.n.t.ə.ɡ.əː,t ɑ n t ə ɡ əː,,Syrjaenen2013,,False,^ t . ɑ . n . t . ə . ɡ . əː $,default,t o n t 3 g 3,3 g n o t
+1345,selkup-195_wide-1,,selkup,195_wide,ʧɑːnʧə,tʃ.ɑː.n.tʃ.ə,tʃ ɑː n tʃ ə,,Syrjaenen2013,,False,^ tʃ . ɑː . n . tʃ . ə $,default,tS o n tS 3,3 n o tS
+1346,udmurt-195_wide-1,,udmurt,195_wide,pɑɕkɯt,p.ɑ.ɕ.k.ɯ.t,p ɑ ɕ k ɯ t,,Syrjaenen2013,,False,^ p . ɑ . ɕ . k . ɯ . t $,default,p o S k u t,S k o p t u
+1347,erzya-196_wife-1,,erzya,196_wife,ɲi,ɲ.i,ɲ i,,Syrjaenen2013,,False,^ ɲ . i $,default,5 i,5 i
+1348,erzya-196_wife-2,,erzya,196_wife,koʑɑjkɑ,k.o.ʑ.ɑ.j.k.ɑ,k o ʑ ɑ j k ɑ,,Syrjaenen2013,,False,^ k . o . ʑ . ɑ . j . k . ɑ $,default,k o Z o y k o,Z k o y
+1349,erzya-196_wife-3,,erzya,196_wife,vɑstɑ,v.ɑ.s.t.ɑ,v ɑ s t ɑ,,Syrjaenen2013,,False,^ v . ɑ . s . t . ɑ $,default,v o s t o,o s t v
+1350,komipermyak-196_wife-1,,komipermyak,196_wife,iɲ,i.ɲ,i ɲ,,Syrjaenen2013,,False,^ i . ɲ $,default,i 5,5 i
+1351,komizyrian-196_wife-1,,komizyrian,196_wife,gɤtɯr,ɡ.ɤ.t.ɯ.r,ɡ ɤ t ɯ r,,Syrjaenen2013,,False,^ ɡ . ɤ . t . ɯ . r $,default,g o t u r,g o r t u
+1352,nganasan-196_wife-1,,nganasan,196_wife,bəbə_ʧərə_nɯ,b.ə.b.ə._.tʃ.ə.r.ə._.n.ɯ,b ə b ə + tʃ ə r ə + n ɯ,,Syrjaenen2013,,False,^ b . ə . b . ə . _ . tʃ . ə . r . ə . _ . n . ɯ $,default,b 3 b 3  tS 3 r 3  n u, 3 b n r tS u
+1353,nganasan-196_wife-2,,nganasan,196_wife,ɲemɯbtɯʔɯɑ,ɲ.e.m.ɯ.b.t.ɯ.ʔ.ɯ.ɑ,ɲ e m ɯ b t ɯ ʔ ɯ ɑ,,Syrjaenen2013,,False,^ ɲ . e . m . ɯ . b . t . ɯ . ʔ . ɯ . ɑ $,default,5 e m u b t u 7 u o,5 7 b e m o t u
+1354,selkup-196_wife-1,,selkup,196_wife,immɑ,i.m.m.ɑ,i m m ɑ,,Syrjaenen2013,,False,^ i . m . m . ɑ $,default,i m m o,i m o
+1355,udmurt-196_wife-1,,udmurt,196_wife,kɯʃno,k.ɯ.ʃ.n.o,k ɯ ʃ n o,,Syrjaenen2013,,False,^ k . ɯ . ʃ . n . o $,default,k u S n o,S k n o u
+1356,ingrian-196_wife-1,,ingrian,196_wife,nɑin,n.ɑ.i.n,n ɑ i n,,Syrjaenen2013,,False,^ n . ɑ . i . n $,default,n o i n,i n o
+1357,selkup-198_wing-1,,selkup,198_wing,kuːtə,k.uː.t.ə,k uː t ə,,Syrjaenen2013,,False,^ k . uː . t . ə $,default,k u t 3,3 k t u
+1358,erzya-198_wing-1,,erzya,198_wing,ɕolmo,ɕ.o.l.m.o,ɕ o l m o,,Syrjaenen2013,,False,^ ɕ . o . l . m . o $,default,S o l m o,S l m o
+1359,ingrian-198_wing-1,,ingrian,198_wing,siːb̥i,s.iː.b̥.i,s iː b̥ i,,Syrjaenen2013,,False,^ s . iː . b̥ . i $,default,s i b i,b i s
+1360,komipermyak-198_wing-1,,komipermyak,198_wing,bord,b.o.r.d,b o r d,,Syrjaenen2013,,False,^ b . o . r . d $,default,b o r d,b d o r
+1361,komizyrian-198_wing-1,,komizyrian,198_wing,bord,b.o.r.d,b o r d,,Syrjaenen2013,,False,^ b . o . r . d $,default,b o r d,b d o r
+1362,nganasan-198_wing-1,,nganasan,198_wing,ʧuo,tʃ.u.o,tʃ u o,,Syrjaenen2013,,False,^ tʃ . u . o $,default,tS u o,o tS u
+1363,udmurt-198_wing-1,,udmurt,198_wing,burd,b.u.r.d,b u r d,,Syrjaenen2013,,False,^ b . u . r . d $,default,b u r d,b d r u
+1364,erzya-199_wipe-1,,erzya,199_wipe,nɑrdɑms,n.ɑ.r.d.ɑ.m.s,n ɑ r d ɑ m s,,Syrjaenen2013,,False,^ n . ɑ . r . d . ɑ . m . s $,default,n o r d o m s,d m n o r s
+1365,ingrian-199_wipe-1,,ingrian,199_wipe,pyːhkiæ,p.yː.h.k.i.æ,p yː h k i æ,,Syrjaenen2013,,False,^ p . yː . h . k . i . æ $,default,p i h k i E,E h i k p
+1366,komipermyak-199_wipe-1,,komipermyak,199_wipe,ʨɯʃkɯnɯ,tɕ.ɯ.ʃ.k.ɯ.n.ɯ,tɕ ɯ ʃ k ɯ n ɯ,,Syrjaenen2013,,False,^ tɕ . ɯ . ʃ . k . ɯ . n . ɯ $,default,tS u S k u n u,S k n tS u
+1367,komizyrian-199_wipe-1,,komizyrian,199_wipe,ʨɯʃkɯnɯ,tɕ.ɯ.ʃ.k.ɯ.n.ɯ,tɕ ɯ ʃ k ɯ n ɯ,,Syrjaenen2013,,False,^ tɕ . ɯ . ʃ . k . ɯ . n . ɯ $,default,tS u S k u n u,S k n tS u
+1368,nganasan-199_wipe-1,,nganasan,199_wipe,ɲɑkidʲɑ,ɲ.ɑ.k.i.dʲ.ɑ,ɲ ɑ k i dʲ ɑ,,Syrjaenen2013,,False,^ ɲ . ɑ . k . i . dʲ . ɑ $,default,5 o k i dy~ o,5 dy~ i k o
+1369,selkup-199_wipe-1,,selkup,199_wipe,muːsə,m.uː.s.ə,m uː s ə,,Syrjaenen2013,,False,^ m . uː . s . ə $,default,m u s 3,3 m s u
+1370,udmurt-199_wipe-1,,udmurt,199_wipe,ʧuʃɯnɯ,tʃ.u.ʃ.ɯ.n.ɯ,tʃ u ʃ ɯ n ɯ,,Syrjaenen2013,,False,^ tʃ . u . ʃ . ɯ . n . ɯ $,default,tS u S u n u,S n tS u
+1371,selkup-202_woods-1,,selkup,202_woods,mɑʨə,m.ɑ.tɕ.ə,m ɑ tɕ ə,,Syrjaenen2013,,False,^ m . ɑ . tɕ . ə $,default,m o tS 3,3 m o tS
+1372,udmurt-202_woods-1,,udmurt,202_woods,ɲules,ɲ.u.l.e.s,ɲ u l e s,,Syrjaenen2013,,False,^ ɲ . u . l . e . s $,default,5 u l e s,5 e l s u
+1373,erzya-202_woods-1,,erzya,202_woods,virʲ,v.i.rʲ,v i rʲ,,Syrjaenen2013,,False,^ v . i . rʲ $,default,v i ry~,i ry~ v
+1374,ingrian-202_woods-1,,ingrian,202_woods,metˑsæ,m.e.tː.s.æ,m e tː s æ,,Syrjaenen2013,,False,^ m . e . tː . s . æ $,default,m e t s E,E e m s t
+1375,komipermyak-202_woods-1,,komipermyak,202_woods,vɤr,v.ɤ.r,v ɤ r,,Syrjaenen2013,,False,^ v . ɤ . r $,default,v o r,o r v
+1376,komizyrian-202_woods-1,,komizyrian,202_woods,vɤr,v.ɤ.r,v ɤ r,,Syrjaenen2013,,False,^ v . ɤ . r $,default,v o r,o r v
+1377,nganasan-202_woods-1,,nganasan,202_woods,muŋku,m.u.ŋ.k.u,m u ŋ k u,,Syrjaenen2013,,False,^ m . u . ŋ . k . u $,default,m u N k u,N k m u
+1378,udmurt-202_woods-2,,udmurt,202_woods,ɕik,ɕ.i.k,ɕ i k,,Syrjaenen2013,,False,^ ɕ . i . k $,default,S i k,S i k
+1379,erzya-203_worm-1,,erzya,203_worm,suks,s.u.k.s,s u k s,,Syrjaenen2013,,False,^ s . u . k . s $,default,s u k s,k s u
+1380,ingrian-203_worm-1,,ingrian,203_worm,mɑd̥o,m.ɑ.d̥.o,m ɑ d̥ o,,Syrjaenen2013,,False,^ m . ɑ . d̥ . o $,default,m o d o,d m o
+1381,komipermyak-203_worm-1,,komipermyak,203_worm,gɑg,ɡ.ɑ.ɡ,ɡ ɑ ɡ,,Syrjaenen2013,,False,^ ɡ . ɑ . ɡ $,default,g o g,g o
+1382,komizyrian-203_worm-1,,komizyrian,203_worm,nomɯr,n.o.m.ɯ.r,n o m ɯ r,,Syrjaenen2013,,False,^ n . o . m . ɯ . r $,default,n o m u r,m n o r u
+1383,nganasan-203_worm-1,,nganasan,203_worm,kəʎɕyʔə,k.ə.ʎ.ɕ.y.ʔ.ə,k ə ʎ ɕ y ʔ ə,,Syrjaenen2013,,False,^ k . ə . ʎ . ɕ . y . ʔ . ə $,default,k 3 L S i 7 3,3 7 L S i k
+1384,selkup-203_worm-1,,selkup,203_worm,ʧuk,tʃ.u.k,tʃ u k,,Syrjaenen2013,,False,^ tʃ . u . k $,default,tS u k,k tS u
+1385,udmurt-203_worm-1,,udmurt,203_worm,numɯr,n.u.m.ɯ.r,n u m ɯ r,,Syrjaenen2013,,False,^ n . u . m . ɯ . r $,default,n u m u r,m n r u
+1386,erzya-204_year-1,,erzya,204_year,ije,i.j.e,i j e,,Syrjaenen2013,,False,^ i . j . e $,default,i y e,e i y
+1387,ingrian-204_year-1,,ingrian,204_year,voːz,v.oː.z,v oː z,,Syrjaenen2013,,False,^ v . oː . z $,default,v o z,o v z
+1388,komipermyak-204_year-1,,komipermyak,204_year,vo,v.o,v o,,Syrjaenen2013,,False,^ v . o $,default,v o,o v
+1389,komipermyak-204_year-2,,komipermyak,204_year,god,ɡ.o.d,ɡ o d,,Syrjaenen2013,,False,^ ɡ . o . d $,default,g o d,d g o
+1390,komizyrian-204_year-1,,komizyrian,204_year,vo,v.o,v o,,Syrjaenen2013,,False,^ v . o $,default,v o,o v
+1391,nganasan-204_year-1,,nganasan,204_year,hyə,h.y.ə,h y ə,,Syrjaenen2013,,False,^ h . y . ə $,default,h i 3,3 h i
+1392,selkup-204_year-1,,selkup,204_year,po,p.o,p o,,Syrjaenen2013,,False,^ p . o $,default,p o,o p
+1393,udmurt-204_year-1,,udmurt,204_year,ɑr,ɑ.r,ɑ r,,Syrjaenen2013,,False,^ ɑ . r $,default,o r,o r
+1394,erzya-205_yellow-1,,erzya,205_yellow,oʒo,o.ʒ.o,o ʒ o,,Syrjaenen2013,,False,^ o . ʒ . o $,default,o Z o,Z o
+1395,komipermyak-205_yellow-1,,komipermyak,205_yellow,veʒ,v.e.ʒ,v e ʒ,,Syrjaenen2013,,False,^ v . e . ʒ $,default,v e Z,Z e v
+1396,komizyrian-205_yellow-1,,komizyrian,205_yellow,viʒ,v.i.ʒ,v i ʒ,,Syrjaenen2013,,False,^ v . i . ʒ $,default,v i Z,Z i v
+1397,selkup-205_yellow-1,,selkup,205_yellow,pɑtəʎ,p.ɑ.t.ə.ʎ,p ɑ t ə ʎ,,Syrjaenen2013,,False,^ p . ɑ . t . ə . ʎ $,default,p o t 3 L,3 L o p t
+1398,udmurt-205_yellow-1,,udmurt,205_yellow,ʧuʒ,tʃ.u.ʒ,tʃ u ʒ,,Syrjaenen2013,,False,^ tʃ . u . ʒ $,default,tS u Z,Z tS u
+1399,ingrian-205_yellow-1,,ingrian,205_yellow,keltɑin,k.e.l.t.ɑ.i.n,k e l t ɑ i n,,Syrjaenen2013,,False,^ k . e . l . t . ɑ . i . n $,default,k e l t o i n,e i k l n o t
+1400,nganasan-205_yellow-1,,nganasan,205_yellow,todʲɑkuə,t.o.dʲ.ɑ.k.u.ə,t o dʲ ɑ k u ə,,Syrjaenen2013,,False,^ t . o . dʲ . ɑ . k . u . ə $,default,t o dy~ o k u 3,3 dy~ k o t u
